@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi!
-======
 I’m a Researcher in the MobS Lab at the Center for Information and Communication Technology of the Fondazione Bruno Kessler in Trento (IT).
 
 I work with the RSDE and DCL labs to develop Machine Learning solutions and algorithms for the exploitation of different data sources and modeling techniques within the “City Sensing” project.
