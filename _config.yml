@@ -83,7 +83,7 @@ author:
   name             : "Gabriele Santin"
   avatar           : "photo.jpg"
   bio              : "Researcher on machine learning and computational sciences"
-  location         : "Trento, IT"
+  location         : "FBK, Trento, IT"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.it/citations?user=WG9oe0wAAAAJ&hl=en"
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  cv               : "aaa"
 
 # Reading Files
 include:
