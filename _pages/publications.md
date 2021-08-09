@@ -8,7 +8,7 @@ author_profile: true
 
 ## Published
 
-<details style="margin-left:10%;">
+<p><details style="margin-left:10%;">
 
 <summary>T. Wenzel, G. Santin, B. Haasdonk, 
 <i> A novel class of stabilized greedy kernel approximation algorithms: Convergence, stability and uniform point distribution</i>, 
@@ -37,7 +37,9 @@ Kernel based methods provide a way to reconstruct potentially high-dimensional f
 
 </details>
 
+</p>
 
+<p>
 <details style="margin-left:10%;">
 
 <summary>T. Wenzel, G. Santin, B. Haasdonk, 
@@ -64,4 +66,7 @@ J. of Approx. Theory, (2021). <a href='https://arxiv.org/abs/1911.04352'> [prepr
 </small>
 
 </details>
+
+</p>
+
 
