@@ -9,7 +9,7 @@ Up to date information on my publications can be found on my <a href='https://sc
 
 
 ## Submitted
-<p><details style="margin-left:5%;">
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>T. Wenzel, G. Santin, B. Haasdonk, 
 <i>Analysis of target data-dependent greedy kernel algorithms: Convergence rates for f-, f P- and  f/P-greedy</i> (2021). <a href='https://arxiv.org/abs/2105.07411'> <i class="fa fa-file-pdf"></i> Preprint </a>
@@ -39,7 +39,7 @@ Data-dependent greedy algorithms in kernel spaces are known to provide fast conv
 
 
 
-<p><details style="margin-left:5%;">
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>T. Wenzel, G. Santin, B. Haasdonk, 
 <i>Universality and optimality of structured deep kernel  networks</i> (2021). <a href='https://arxiv.org/abs/2105.07228'> <i class="fa fa-file-pdf"></i> Preprint </a>
@@ -69,7 +69,7 @@ Kernel based methods yield approximation models that are flexible, efficient and
 
 
 
-<p><details style="margin-left:5%;">
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>E. Leoni, G. Cencetti, G. Santin, T. Istomin, D. Molteni, G. P. Picco, E. Farella, B. Lepri, A. M. Murphy, 
 <i>Measuring close proximity  interactions in summer camps during the COVID-19 pandemic</i> (2021). <a href='https://arxiv.org/abs/2106.14750'> <i class="fa fa-file-pdf"></i> Preprint </a>
@@ -99,7 +99,7 @@ Policy makers have implemented multiple non-pharmaceutical strate-gies to mitiga
 
 
 
-<p><details style="margin-left:5%;">
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>A. Alla, H. Oliveira, G. Santin, 
 <i>HJB-RBF based approach for the control of PDEs</i> (2021). <a href='https://arxiv.org/abs/2108.02987'> <i class="fa fa-file-pdf"></i> Preprint </a>
@@ -129,7 +129,7 @@ Semi-lagrangian schemes for discretization of the dynamic programming principle 
 
 
 
-<p><details style="margin-left:5%;">
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>F. Marchetti, G. Santin, 
 <i>Convergence results in image interpolation with the continuous SSIM</i> (2021). <a href=''> <i class="fa fa-file-pdf"></i> Preprint </a>
@@ -152,7 +152,7 @@ Assessing the similarity of two images is a complex task that has attracted sign
 
 
 
-<p><details style="margin-left:5%;">
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>S. Cuomo, W. Erb, G. Santin, 
 <i>Kernel-Based Models for Influence Maximization on Graphs based on Gaussian Process Variance  Minimization</i> (2021). <a href='https://arxiv.org/abs/2103.01575'> <i class="fa fa-file-pdf"></i> Preprint </a>
