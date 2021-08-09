@@ -22,7 +22,7 @@ Data-dependent greedy algorithms in kernel spaces are known to provide fast conv
 </blockquote>
 
 ```bibtex:
-_BIBTEX
+
 ```
 </small>
 
@@ -45,7 +45,7 @@ Kernel based methods yield approximation models that are flexible, efficient and
 </blockquote>
 
 ```bibtex:
-_BIBTEX
+
 ```
 </small>
 
@@ -68,7 +68,7 @@ Policy makers have implemented multiple non-pharmaceutical strate-gies to mitiga
 </blockquote>
 
 ```bibtex:
-_BIBTEX
+
 ```
 </small>
 
@@ -91,7 +91,7 @@ Semi-lagrangian schemes for discretization of the dynamic programming principle 
 </blockquote>
 
 ```bibtex:
-_BIBTEX
+
 ```
 </small>
 
@@ -114,7 +114,7 @@ Assessing the similarity of two images is a complex task that has attracted sign
 </blockquote>
 
 ```bibtex:
-_BIBTEX
+
 ```
 </small>
 
@@ -137,7 +137,7 @@ The inference of novel knowledge, the discovery of hidden patterns, and the unco
 </blockquote>
 
 ```bibtex:
-_BIBTEX
+
 ```
 </small>
 
@@ -162,7 +162,7 @@ This chapter deals with kernel methods as a special class of techniques for surr
 </blockquote>
 
 ```bibtex:
-_BIBTEX
+
 ```
 </small>
 
@@ -186,7 +186,7 @@ Standard kernel methods for machine learning usually struggle when dealing with 
 </blockquote>
 
 ```bibtex:
-_BIBTEX
+
 ```
 </small>
 
@@ -210,7 +210,7 @@ For dynamical systems with a non hyperbolic equilibrium, it is possible to signi
 </blockquote>
 
 ```bibtex:
-_BIBTEX
+
 ```
 </small>
 
@@ -235,7 +235,20 @@ Greedy kernel approximation algorithms are successful techniques for sparse and 
 </blockquote>
 
 ```bibtex:
-_BIBTEX
+@InProceedings{Haasdonk2021,
+  author                   = {Haasdonk, Bernard and Wenzel, Tizian and Santin, Gabriele and Schmitt, Syn},
+  title                    = {Biomechanical Surrogate Modelling Using Stabilized Vectorial Greedy Kernel Methods},
+  booktitle                = {Numerical Mathematics and Advanced Applications ENUMATH 2019},
+  year                     = {2021},
+  editor                   = {Vermolen, Fred J. and Vuik, Cornelis},
+  publisher                = {Springer International Publishing},
+  isbn                     = {978-3-030-55874-1},
+  pages                    = {499--508},
+  doi      		   = {https://doi.org/10.1007/978-3-030-55874-1_49},
+  address                  = {Cham},
+}
+
+
 ```
 </small>
 
@@ -259,7 +272,19 @@ In this paper we analyze a greedy procedure to approximate a linear functional d
 </blockquote>
 
 ```bibtex:
-_BIBTEX
+@Article{Santin2021,
+  author    = {Santin, Gabriele and Karvonen, Toni and Haasdonk, Bernard},
+  title     = {Sampling based approximation of linear functionals in reproducing kernel Hilbert spaces},
+  journal   = {BIT Numerical Mathematics},
+  year      = {2021},
+  month     = {Apr},
+  issn      = {1572-9125},
+  doi       = {10.1007/s10543-021-00870-3},
+  url       = {https://doi.org/10.1007/s10543-021-00870-3},
+  day       = {13},
+}
+
+
 ```
 </small>
 
@@ -283,7 +308,22 @@ Digital contact tracing is a relevant tool to control infectious disease outbrea
 </blockquote>
 
 ```bibtex:
-_BIBTEX
+@Article{Cencetti2021,
+  author		   = {Cencetti, G. and Santin, G. and Longa, A. and Pigani, E. and Barrat, A. and Cattuto, C. and Lehmann, S. and Salath{\'e}, M. and Lepri, B.},
+  title  		   = {Digital proximity tracing on empirical contact networks for pandemic control},
+  journal  		   = {Nature Communications},
+  year     		   = {2021},
+  volume   		   = {12},
+  number   		   = {1},
+  month     		   = {Mar},
+  pages    		   = {1655},
+  issn     		   = {2041-1723},
+  doi      		   = {10.1038/s41467-021-21809-w},
+  url      		   = {https://doi.org/10.1038/s41467-021-21809-w},
+  day      		   = {12},
+}
+
+
 ```
 </small>
 
@@ -307,7 +347,19 @@ Kernel based methods provide a way to reconstruct potentially high-dimensional f
 </blockquote>
 
 ```bibtex:
-_BIBTEX
+@Article{Wenzel2021a,
+  author                   = {Tizian Wenzel and Gabriele Santin and Bernard Haasdonk},
+  title   		   = {A novel class of stabilized greedy kernel approximation algorithms: Convergence, stability and uniform point distribution},
+  journal  		   = {Journal of Approximation Theory},
+  year    		   = {2021},
+  volume 		   = {262},
+  pages   		   = {105508},
+  issn   		   = {0021-9045},
+  doi     		   = {https://doi.org/10.1016/j.jat.2020.105508},
+  url   		   = {http://www.sciencedirect.com/science/article/pii/S0021904520301441},
+}
+
+
 ```
 </small>
 
@@ -331,7 +383,22 @@ For certain dynamical systems it is possible to significantly simplify the study
 </blockquote>
 
 ```bibtex:
-_BIBTEX
+@InProceedings{Haasdonk2020,
+  author                   = {Haasdonk, Bernard and Hamzi, Boumediene and Santin, Gabriele and Wittwar, Dominik},
+  title                    = {Greedy Kernel Methods for Center Manifold Approximation},
+  booktitle                = {Spectral and High Order Methods for Partial Differential Equations ICOSAHOM 2018},
+  year                     = {2020},
+  editor                   = {Sherwin, Spencer J. and Moxey, David and Peir{\'o}, Joaquim and Vincent, Peter E. and Schwab, Christoph},
+  publisher                = {Springer International Publishing},
+  isbn                     = {978-3-030-39647-3},
+  pages                    = {95--106},
+  doi                      = {10.1007/978-3-030-39647-3_6},
+  url                      = {http://doi.org/10.1007/978-3-030-39647-3_6},
+  address                  = {Cham},
+
+}
+
+
 ```
 </small>
 
@@ -355,7 +422,20 @@ We present a novel acceleration method for the solution of parametric ODEs by si
 </blockquote>
 
 ```bibtex:
-_BIBTEX
+@InProceedings{Bruennette2019,
+  Title                    = {Greedy Kernel Methods for Accelerating Implicit Integrators for Parametric {ODE}s},
+  Author                   = {Br{\"u}nnette, Tim and Santin, Gabriele and Haasdonk, Bernard},
+  Booktitle                = {Numerical Mathematics and Advanced Applications - ENUMATH 2017},
+  Year                     = {2019},
+
+  Address                  = {Cham},
+  Editor                   = {Radu, Florin Adrian and Kumar, Kundan and Berre, Inga and Nordbotten, Jan Martin and Pop, Iuliu Sorin},
+  Pages                    = {889--896},
+  Publisher                = {Springer International Publishing},
+  ISBN                     = {978-3-319-96415-7},
+}
+
+
 ```
 </small>
 
@@ -379,7 +459,23 @@ We propose a novel kernel-based method for image reconstruction from scattered R
 </blockquote>
 
 ```bibtex:
-_BIBTEX
+@Article{DeMarchi2018,
+  Title                    = {Image reconstruction from scattered Radon data by weighted positive definite kernel functions},
+  Author                   = {De Marchi, S. and Iske, A. and Santin, G.},
+  Journal                  = {Calcolo},
+  Year                     = {2018},
+  Month                    = {Feb},
+  Number                   = {1},
+  Pages                    = {2},
+  Volume                   = {55},
+  Day                      = {02},
+  Doi                      = {10.1007/s10092-018-0247-6},
+  ISSN                     = {1126-5434},
+  Url                      = {https://doi.org/10.1007/s10092-018-0247-6}
+}
+
+
+﻿
 ```
 </small>
 
@@ -403,7 +499,22 @@ In this work, we consider 2 kinds of model reduction techniques to simulate bloo
 </blockquote>
 
 ```bibtex:
-_BIBTEX
+@Article{Koeppl2018,
+  Title                    = {Numerical modelling of a peripheral arterial stenosis using dimensionally reduced models and kernel methods},
+  Author                   = {K{\"o}ppl, Tobias and Santin, Gabriele and Haasdonk, Bernard and Helmig, Rainer},
+  Journal                  = {International Journal for Numerical Methods in Biomedical Engineering},
+  Year                     = {2018},
+  Note                     = {e3095 cnm.3095},
+  Number                   = {8},
+  Pages                    = {e3095},
+  Volume                   = {34},
+  Doi                      = {10.1002/cnm.3095},
+  Eprint                   = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/cnm.3095},
+  Keywords                 = {blood flow simulations, peripheral stenosis, dimensionally reduced models, mixed‐dimension models, kernel methods, surrogate models, real‐time simulations},
+  Url                      = {https://onlinelibrary.wiley.com/doi/abs/10.1002/cnm.3095}
+}
+
+
 ```
 </small>
 
@@ -427,7 +538,21 @@ Modern simulation scenarios frequently require multi-query or real-time response
 </blockquote>
 
 ```bibtex:
-_BIBTEX
+@InCollection{Haasdonk2018,
+  Title                    = {Greedy Kernel Approximation for Sparse Surrogate Modeling},
+  Author                   = {Haasdonk, Bernard and Santin, Gabriele},
+  Booktitle                = {Reduced-Order Modeling (ROM) for Simulation and Optimization: Powerful Algorithms as Key Enablers for Scientific Computing},
+  Publisher                = {Springer International Publishing},
+  Year                     = {2018},
+  Address                  = {Cham},
+  Editor                   = {Keiper, Winfried and Milde, Anja and Volkwein, Stefan},
+  Pages                    = {21--45},
+  Doi                      = {10.1007/978-3-319-75319-5_2},
+  ISBN                     = {978-3-319-75319-5},
+  Url                      = {https://doi.org/10.1007/978-3-319-75319-5_2}
+}
+
+
 ```
 </small>
 
@@ -451,7 +576,20 @@ In this paper we consider the problem of approximating vector-valued functions o
 </blockquote>
 
 ```bibtex:
-_BIBTEX
+@Article{Wittwar2018,
+  Title                    = {Interpolation with uncoupled separable matrix-valued kernels},
+  Author                   = {Wittwar, Dominik and Santin, Gabriele and Haasdonk, Bernard},
+  Journal                  = {Dolomites Res. Notes Approx.},
+  Year                     = {2018},
+  Pages                    = {23--29},
+  Volume                   = {11},
+  Doi                      = {10.14658/pupj-drna-2018-3-4},
+  Fjournal                 = {Dolomites Research Notes on Approximation},
+  Sjournal                 = {Dolomites Res.\ Notes Approx.},
+  Url                      = {https://drna.padovauniversitypress.it/2018/3/4}
+}
+
+
 ```
 </small>
 
@@ -475,7 +613,21 @@ A variety of methods is available to quantify uncertainties arising within the m
 </blockquote>
 
 ```bibtex:
-_BIBTEX
+@Article{Koeppel2019,
+  Title                    = {Comparison of data-driven uncertainty quantification methods for a carbon dioxide storage benchmark scenario},
+  Author                   = {K{\"o}ppel, Markus and Franzelin, Fabian and Kr{\"o}ker, Ilja and Oladyshkin, Sergey and Santin, Gabriele and Wittwar, Dominik and Barth, Andrea and Haasdonk, Bernard and Nowak, Wolfgang and Pfl{\"u}ger, Dirk and Rohde, Christian},
+  Journal                  = {Computational Geosciences},
+  Year                     = {2019},
+  Month                    = {Apr},
+  Number                   = {2},
+  Pages                    = {339--354},
+  Volume                   = {23},
+  Day                      = {01},
+  Doi                      = {10.1007/s10596-018-9785-x},
+  Url                      = {https://doi.org/10.1007/s10596-018-9785-x}
+}
+
+
 ```
 </small>
 
@@ -499,7 +651,21 @@ In the recent paper [1], a new method to compute stable kernel-based interpolant
 </blockquote>
 
 ```bibtex:
-_BIBTEX
+@InBook{DeMarchi2017,
+  Title                    = {A Rescaled Method for RBF Approximation},
+  Author                   = {De Marchi, Stefano and Idda, Andrea and Santin, Gabriele},
+  Editor                   = {Fasshauer, Gregory E. and Schumaker, Larry L.},
+  Pages                    = {39--59},
+  Publisher                = {Springer International Publishing},
+  Year                     = {2017},
+  Address                  = {Cham},
+  Booktitle                = {Approximation Theory XV: San Antonio 2016},
+  Doi                      = {10.1007/978-3-319-59912-0_3},
+  ISBN                     = {978-3-319-59912-0},
+  Url                      = {https://doi.org/10.1007/978-3-319-59912-0_3}
+}
+
+
 ```
 </small>
 
@@ -523,7 +689,19 @@ Kernel-based methods provide flexible and accurate algorithms for the reconstruc
 </blockquote>
 
 ```bibtex:
-_BIBTEX
+@Article{Santin2016b,
+  Title                    = {Convergence rate of the data-independent {P}-greedy algorithm in kernel-based approximation},
+  Author                   = {G. Santin and B. Haasdonk},
+  Journal                  = {Dolomites Res. Notes Approx.},
+  Year                     = {2017},
+  Pages                    = {68--78},
+  Volume                   = {10},
+  Fjournal                 = {Dolomites Research Notes on Approximation},
+  Sjournal                 = {Dolomites Res.\ Notes Approx.},
+  Url                      = {www.emis.de/journals/DRNA/9-2.html}
+}
+
+
 ```
 </small>
 
@@ -547,7 +725,16 @@ In this paper we propose a new stable and accurate approximation technique which
 </blockquote>
 
 ```bibtex:
-_BIBTEX
+@Article{Cavoretto2016b,
+  Title                    = {Partition of unity interpolation using stable kernel-based techniques},
+  Author                   = {Cavoretto, Roberto and De Marchi, Stefano and De Rossi, Alessandra and Perracchione, Emma and Santin, Gabriele},
+  Journal                  = {Applied Numerical Mathematics},
+  Year                     = {2016},
+  Doi                      = {10.1016/j.apnum.2016.07.005},
+  Url                      = {http://dx.doi.org/10.1016/j.apnum.2016.07.005}
+}
+
+
 ```
 </small>
 
@@ -571,7 +758,21 @@ Kernel-based methods in Numerical Analysis have the advantage of yielding optima
 </blockquote>
 
 ```bibtex:
-_BIBTEX
+@Article{Santin2016a,
+  author    = {Santin, Gabriele and Schaback, Robert},
+  title     = {Approximation of eigenfunctions in kernel-based spaces},
+  journal   = {Adv. Comput. Math.},
+  year      = {2016},
+  volume    = {42},
+  number    = {4},
+  pages     = {973--993},
+  issn      = {1572-9044},
+  doi       = {10.1007/s10444-015-9449-5},
+  url       = {http://dx.doi.org/10.1007/s10444-015-9449-5},
+  fjournal  = {Advances in Computational Mathematics},
+}
+
+
 ```
 </small>
 
@@ -595,7 +796,16 @@ In applied sciences it is often required to model and supervise temporal evoluti
 </blockquote>
 
 ```bibtex:
-_BIBTEX
+@InProceedings{Cavoretto2016a,
+  Title                    = {Approximating basins of attraction for dynamical systems via stable radial bases},
+  Author                   = {Cavoretto, Roberto and De Marchi, Stefano and De Rossi, Alessandra and Perracchione, Emma and Santin, Gabriele},
+  Booktitle                = {AIP Conf. Proc.},
+  Year                     = {2016},
+  Doi                      = {10.1063/1.4952177},
+  Url                      = {http://dx.doi.org/10.1063/1.4952177}
+}
+
+
 ```
 </small>
 
@@ -619,7 +829,18 @@ We present an algorithm to approximate large datasets by Radial Basis Function(R
 </blockquote>
 
 ```bibtex:
-_BIBTEX
+@InProceedings{Cavoretto2015,
+  Title                    = {RBF approximation of large datasets by partition of unity and local stabilization},
+  Author                   = {Cavoretto, Roberto and De Marchi, Stefano and De Rossi, Alessandra and Perracchione, Emma and Santin, Gabriele},
+  Booktitle                = {CMMSE 2015 : Proceedings of the 15th International Conference on Mathematical Methods in Science and Engineering},
+  Year                     = {2015},
+  Editor                   = {Vigo-Aguiar, J.},
+  Pages                    = {317--326},
+  ISBN                     = {978-84-617-2230-3},
+  ISSN                     = {2312-0177},
+}
+
+
 ```
 </small>
 
@@ -643,7 +864,21 @@ In recent years, in the setting of radial basis function, the study of approxima
 </blockquote>
 
 ```bibtex:
-_BIBTEX
+@Article{DeMarchi2015a,
+  Title                    = {Fast computation of orthonormal basis for RBF spaces through Krylov space methods},
+  Author                   = {De Marchi, Stefano and Santin, Gabriele},
+  Journal                  = {BIT Numerical Mathematics},
+  Year                     = {2015},
+  Number                   = {4},
+  Pages                    = {949--966},
+  Volume                   = {55},
+  Doi                      = {10.1007/s10543-014-0537-6},
+  ISSN                     = {0006-3835},
+  Publisher                = {Springer Netherlands},
+  Url                      = {http://dx.doi.org/10.1007/s10543-014-0537-6}
+}
+
+
 ```
 </small>
 
@@ -667,7 +902,19 @@ It is well-known that radial basis function interpolants suffer of bad condition
 </blockquote>
 
 ```bibtex:
-_BIBTEX
+@Article{DeMarchi2013,
+  Title                    = {A new stable basis for radial basis function interpolation},
+  Author                   = {De Marchi, Stefano and Santin, Gabriele},
+  Journal                  = {J. Comput. Appl. Math.},
+  Year                     = {2013},
+  Pages                    = {1--13},
+  Volume                   = {253},
+  Doi                      = {10.1016/j.cam.2013.03.048},
+  Fjournal                 = {Journal of Computational and Applied Mathematics},
+  ISSN                     = {0377--0427},
+  Url                      = {http://dx.doi.org/10.1016/j.cam.2013.03.048}
+}
+
 ```
 </small>
 
@@ -691,7 +938,23 @@ We implement in Matlab a Gauss-like cubature formula on bivariate domains whose 
 </blockquote>
 
 ```bibtex:
-_BIBTEX
+@Article{Santin2011,
+  Title                    = {An algebraic cubature formula on curvilinear polygons},
+  Author                   = {Santin, Gabriele and Sommariva, Alvise and Vianello, Marco},
+  Journal                  = {Applied Mathematics and Computation},
+  Year                     = {2011},
+  Number                   = {24},
+  Pages                    = {10003--10015},
+  Volume                   = {217},
+  Doi                      = {10.1016/j.amc.2011.04.071},
+  Fjournal                 = {Appl. Math. Comput.},
+  ISSN                     = {0096-3003},
+  Mrclass                  = {65D30 (65D32)},
+  Mrnumber                 = {2806387},
+  Url                      = {http://dx.doi.org/10.1016/j.amc.2011.04.071}
+}
+
+
 ```
 </small>
 
