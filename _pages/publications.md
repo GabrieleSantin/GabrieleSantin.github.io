@@ -231,11 +231,11 @@ For dynamical systems with a non hyperbolic equilibrium, it is possible to signi
 <small>
 
 <blockquote>
-Greedy kernel approximation algorithms are successful techniques for sparse and accurate data-based modelling and function approximation. Based on a recent idea of stabilization (Wenzel et al., A novel class of stabilized greedy kernel approximation algorithms: convergence, stability & uniform point distribution. e-prints. arXiv:1911.04352, 2019) of such algorithms in the scalar output case, we here consider the vectorial extension built on VKOGA (Wirtz and Haasdonk, Dolomites Res Notes Approx 6:83–100, 2013. We introduce the so called γ-restricted VKOGA, comment on analytical properties and present numerical evaluation on data from a clinically relevant application, the modelling of the human spine. The experiments show that the new stabilized algorithms result in improved accuracy and stability over the non-stabilized algorithms.	
+Greedy kernel approximation algorithms are successful techniques for sparse and accurate data-based modelling and function approximation. Based on a recent idea of stabilization (Wenzel et al., A novel class of stabilized greedy kernel approximation algorithms: convergence, stability & uniform point distribution. e-prints. arXiv:1911.04352, 2019) of such algorithms in the scalar output case, we here consider the vectorial extension built on VKOGA (Wirtz and Haasdonk, Dolomites Res Notes Approx 6:83–100, 2013. We introduce the so called $\gamma$-restricted VKOGA, comment on analytical properties and present numerical evaluation on data from a clinically relevant application, the modelling of the human spine. The experiments show that the new stabilized algorithms result in improved accuracy and stability over the non-stabilized algorithms.	
 </blockquote>
 
 ```bibtex:
-
+@InProceedings{Haasdonk2021,   author                   = {Haasdonk, Bernard and Wenzel, Tizian and Santin, Gabriele and Schmitt, Syn},   title                    = {Biomechanical Surrogate Modelling Using Stabilized Vectorial Greedy Kernel Methods},   booktitle                = {Numerical Mathematics and Advanced Applications ENUMATH 2019},   year                     = {2021},   editor                   = {Vermolen, Fred J. and Vuik, Cornelis},   publisher                = {Springer International Publishing},   isbn                     = {978-3-030-55874-1},   pages                    = {499--508},   doi           = {https://doi.org/10.1007/978-3-030-55874-1_49},   address                  = {Cham}, }
 ```
 </small>
 
@@ -691,7 +691,7 @@ We implement in Matlab a Gauss-like cubature formula on bivariate domains whose 
 </blockquote>
 
 ```bibtex:
-
+@Article{Santin2011,   Title                    = {An algebraic cubature formula on curvilinear polygons},   Author                   = {Santin, Gabriele and Sommariva, Alvise and Vianello, Marco},   Journal                  = {Applied Mathematics and Computation},   Year                     = {2011},   Number                   = {24},   Pages                    = {10003--10015},   Volume                   = {217},   Doi                      = {10.1016/j.amc.2011.04.071},   Fjournal                 = {Appl. Math. Comput.},   ISSN                     = {0096-3003},   Mrclass                  = {65D30 (65D32)},   Mrnumber                 = {2806387},   Url                      = {http://dx.doi.org/10.1016/j.amc.2011.04.071} }
 ```
 </small>
 
