@@ -247,8 +247,6 @@ Greedy kernel approximation algorithms are successful techniques for sparse and 
   doi      		   = {https://doi.org/10.1007/978-3-030-55874-1_49},
   address                  = {Cham},
 }
-
-
 ```
 </small>
 
@@ -283,8 +281,6 @@ In this paper we analyze a greedy procedure to approximate a linear functional d
   url       = {https://doi.org/10.1007/s10543-021-00870-3},
   day       = {13},
 }
-
-
 ```
 </small>
 
@@ -322,8 +318,6 @@ Digital contact tracing is a relevant tool to control infectious disease outbrea
   url      		   = {https://doi.org/10.1038/s41467-021-21809-w},
   day      		   = {12},
 }
-
-
 ```
 </small>
 
@@ -358,8 +352,6 @@ Kernel based methods provide a way to reconstruct potentially high-dimensional f
   doi     		   = {https://doi.org/10.1016/j.jat.2020.105508},
   url   		   = {http://www.sciencedirect.com/science/article/pii/S0021904520301441},
 }
-
-
 ```
 </small>
 
@@ -397,8 +389,6 @@ For certain dynamical systems it is possible to significantly simplify the study
   address                  = {Cham},
 
 }
-
-
 ```
 </small>
 
@@ -434,8 +424,6 @@ We present a novel acceleration method for the solution of parametric ODEs by si
   Publisher                = {Springer International Publishing},
   ISBN                     = {978-3-319-96415-7},
 }
-
-
 ```
 </small>
 
@@ -513,8 +501,6 @@ In this work, we consider 2 kinds of model reduction techniques to simulate bloo
   Keywords                 = {blood flow simulations, peripheral stenosis, dimensionally reduced models, mixed‐dimension models, kernel methods, surrogate models, real‐time simulations},
   Url                      = {https://onlinelibrary.wiley.com/doi/abs/10.1002/cnm.3095}
 }
-
-
 ```
 </small>
 
@@ -551,8 +537,6 @@ Modern simulation scenarios frequently require multi-query or real-time response
   ISBN                     = {978-3-319-75319-5},
   Url                      = {https://doi.org/10.1007/978-3-319-75319-5_2}
 }
-
-
 ```
 </small>
 
@@ -588,8 +572,6 @@ In this paper we consider the problem of approximating vector-valued functions o
   Sjournal                 = {Dolomites Res.\ Notes Approx.},
   Url                      = {https://drna.padovauniversitypress.it/2018/3/4}
 }
-
-
 ```
 </small>
 
@@ -626,8 +608,6 @@ A variety of methods is available to quantify uncertainties arising within the m
   Doi                      = {10.1007/s10596-018-9785-x},
   Url                      = {https://doi.org/10.1007/s10596-018-9785-x}
 }
-
-
 ```
 </small>
 
@@ -664,8 +644,6 @@ In the recent paper [1], a new method to compute stable kernel-based interpolant
   ISBN                     = {978-3-319-59912-0},
   Url                      = {https://doi.org/10.1007/978-3-319-59912-0_3}
 }
-
-
 ```
 </small>
 
@@ -700,8 +678,6 @@ Kernel-based methods provide flexible and accurate algorithms for the reconstruc
   Sjournal                 = {Dolomites Res.\ Notes Approx.},
   Url                      = {www.emis.de/journals/DRNA/9-2.html}
 }
-
-
 ```
 </small>
 
@@ -733,8 +709,6 @@ In this paper we propose a new stable and accurate approximation technique which
   Doi                      = {10.1016/j.apnum.2016.07.005},
   Url                      = {http://dx.doi.org/10.1016/j.apnum.2016.07.005}
 }
-
-
 ```
 </small>
 
@@ -771,8 +745,6 @@ Kernel-based methods in Numerical Analysis have the advantage of yielding optima
   url       = {http://dx.doi.org/10.1007/s10444-015-9449-5},
   fjournal  = {Advances in Computational Mathematics},
 }
-
-
 ```
 </small>
 
@@ -804,8 +776,6 @@ In applied sciences it is often required to model and supervise temporal evoluti
   Doi                      = {10.1063/1.4952177},
   Url                      = {http://dx.doi.org/10.1063/1.4952177}
 }
-
-
 ```
 </small>
 
@@ -839,8 +809,6 @@ We present an algorithm to approximate large datasets by Radial Basis Function(R
   ISBN                     = {978-84-617-2230-3},
   ISSN                     = {2312-0177},
 }
-
-
 ```
 </small>
 
@@ -877,8 +845,6 @@ In recent years, in the setting of radial basis function, the study of approxima
   Publisher                = {Springer Netherlands},
   Url                      = {http://dx.doi.org/10.1007/s10543-014-0537-6}
 }
-
-
 ```
 </small>
 
@@ -914,7 +880,6 @@ It is well-known that radial basis function interpolants suffer of bad condition
   ISSN                     = {0377--0427},
   Url                      = {http://dx.doi.org/10.1016/j.cam.2013.03.048}
 }
-
 ```
 </small>
 
@@ -953,8 +918,6 @@ We implement in Matlab a Gauss-like cubature formula on bivariate domains whose 
   Mrnumber                 = {2806387},
   Url                      = {http://dx.doi.org/10.1016/j.amc.2011.04.071}
 }
-
-
 ```
 </small>
 
