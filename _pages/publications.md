@@ -292,7 +292,7 @@ In this paper we analyze a greedy procedure to approximate a linear functional d
 
 <p><details style="margin-left:5%;">
 
-<summary> G. Cencetti, G. Santin, A. Longa, E. Pigani, A. Barrat, C. Cattuto, S. Lehmann, M. Salath{\'e}, B. Lepri, 
+<summary> G. Cencetti, G. Santin, A. Longa, E. Pigani, A. Barrat, C. Cattuto, S. Lehmann, M. Salath&eacute;, B. Lepri, 
 <i>Digital proximity tracing on empirical contact networks for pandemic control</i>, 
  Nature Commun. (2021). <a href=' https://doi.org/10.1038/s41467-021-21809-w'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
 </summary>
@@ -365,7 +365,7 @@ Kernel based methods provide a way to reconstruct potentially high-dimensional f
 
 <summary> B. Haasdonk, B. Hamzi, G. Santin, D. Wittwar, 
 <i>Greedy kernel methods for center manifold approximation</i>, 
- Spectral and High Order Methods for Partial Differential Equations ICOSAHOM 2018, S. Sherwin, D. Moxey, J. Peir{\'o}, P. E. Vincent, and C. Schwab Eds. (2020). <a href=' https://doi.org/10.1007/978-3-030-39647-3_6'> <i class="ai ai-doi"> </i>DOI</a> <a href='https://arxiv.org/abs/1810.11329'> <i class="ai ai-arxiv"></i>ArXiv </a>
+ Spectral and High Order Methods for Partial Differential Equations ICOSAHOM 2018, S. Sherwin, D. Moxey, J. Peir&oacute;, P. E. Vincent, and C. Schwab Eds. (2020). <a href=' https://doi.org/10.1007/978-3-030-39647-3_6'> <i class="ai ai-doi"> </i>DOI</a> <a href='https://arxiv.org/abs/1810.11329'> <i class="ai ai-arxiv"></i>ArXiv </a>
 </summary>
 
 <small>
