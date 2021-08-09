@@ -294,7 +294,7 @@ In this paper we analyze a greedy procedure to approximate a linear functional d
 
 <summary> G. Cencetti, G. Santin, A. Longa, E. Pigani, A. Barrat, C. Cattuto, S. Lehmann, M. Salath&eacute;, B. Lepri, 
 <i>Digital proximity tracing on empirical contact networks for pandemic control</i>, 
- Nature Commun. (2021). <a href=' https://doi.org/10.1038/s41467-021-21809-w'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="fa fa-file-pdf"></i>Preprint </a>
+ Nature Commun. (2021). <a href=' https://doi.org/10.1038/s41467-021-21809-w'> <i class="ai ai-doi"> </i>DOI</a> <a href=' https://doi.org/10.1038/s41467-021-21809-w'> <i class="fa fa-file-pdf"></i>Preprint </a>
 </summary>
 
 <small>
@@ -437,7 +437,7 @@ We present a novel acceleration method for the solution of parametric ODEs by si
 
 <summary> S. De Marchi, A. Iske, G. Santin, 
 <i>Image reconstruction from scattered Radon data by weighted positive definite kernel functions</i>, 
- Calcolo (2018). <a href=' https://doi.org/10.1007/s10092-018-0247-6'> <i class="ai ai-doi"> </i>DOI</a> <a href=' '> <i class="fa fa-file-pdf"></i>Preprint </a>
+ Calcolo (2018). <a href=' https://doi.org/10.1007/s10092-018-0247-6'> <i class="ai ai-doi"> </i>DOI</a> <a href='https://www.math.uni-hamburg.de/home/iske/papers/rbfradon_final.pdf'> <i class="fa fa-file-pdf"></i>Preprint </a>
 </summary>
 
 <small>
@@ -758,7 +758,7 @@ Kernel-based methods in Numerical Analysis have the advantage of yielding optima
 
 <summary> R. Cavoretto, S. De Marchi, A. De Rossi, E. Perracchione, G. Santin, 
 <i>Approximating basins of attraction for dynamical systems via stable radial bases</i>, 
- AIP Conf. Proc. (2016). <a href=' https://doi.org/10.1063/1.4952177'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="fa fa-file-pdf"></i>Preprint </a>
+ AIP Conf. Proc. (2016). <a href=' https://doi.org/10.1063/1.4952177'> <i class="ai ai-doi"> </i>DOI</a> <a href='https://www.math.unipd.it/~demarchi/papers/ICNAAM15.pdf'> <i class="fa fa-file-pdf"></i>Preprint </a>
 </summary>
 
 <small>
@@ -789,7 +789,7 @@ In applied sciences it is often required to model and supervise temporal evoluti
 
 <summary> R. Cavoretto, S. De Marchi, A. De Rossi, E. Perracchione, G. Santin, 
 <i>RBF approximation of large datasets by partition of unity and local stabilization</i>, 
- CMMSE 2015: Proceedings of the 15th International Conference on  Mathematical Methods in Science and Engineering (2015). <a href=' https://iris.unito.it/retrieve/handle/2318/1526172/55702/CMMSE_2015.pdf'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="fa fa-file-pdf"></i>Preprint </a>
+ CMMSE 2015: Proceedings of the 15th International Conference on  Mathematical Methods in Science and Engineering (2015). <a href=' https://iris.unito.it/retrieve/handle/2318/1526172/55702/CMMSE_2015.pdf'> <i class="ai ai-doi"> </i>DOI</a> <a href='https://www.math.unipd.it/~demarchi/papers/Latex_template_cmmse.pdf'> <i class="fa fa-file-pdf"></i>Preprint </a>
 </summary>
 
 <small>
@@ -822,7 +822,7 @@ We present an algorithm to approximate large datasets by Radial Basis Function(R
 
 <summary> S. De Marchi, G. Santin, 
 <i>Fast computation of orthonormal basis for RBF spaces through Krylov space methods</i>, 
- BIT (2015). <a href=' https://doi.org/10.1007/s10543-014-0537-6'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="fa fa-file-pdf"></i>Preprint </a>
+ BIT (2015). <a href=' https://doi.org/10.1007/s10543-014-0537-6'> <i class="ai ai-doi"> </i>DOI</a> <a href='http://www.math.unipd.it/~demarchi/papers/FCoOB.pdf'> <i class="fa fa-file-pdf"></i>Preprint </a>
 </summary>
 
 <small>
@@ -893,7 +893,7 @@ It is well-known that radial basis function interpolants suffer of bad condition
 
 <summary> G. Santin, A. Sommariva, M. Vianello, 
 <i>An algebraic cubature formula on curvilinear polygons</i>, 
- Appl. Math. Comput. (2011). <a href=' https://doi.org/10.1016/j.amc.2011.04.071'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="fa fa-file-pdf"></i>Preprint </a>
+ Appl. Math. Comput. (2011). <a href=' https://doi.org/10.1016/j.amc.2011.04.071'> <i class="ai ai-doi"> </i>DOI</a> <a href='https://www.math.unipd.it/~alvise/PAPERS/AnAlgebraicCubatureFormulaOnCurvilinearPolygons.pdf'> <i class="fa fa-file-pdf"></i>Preprint </a>
 </summary>
 
 <small>
