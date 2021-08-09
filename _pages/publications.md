@@ -231,7 +231,7 @@ For dynamical systems with a non hyperbolic equilibrium, it is possible to signi
 <small>
 
 <blockquote>
-	
+Greedy kernel approximation algorithms are successful techniques for sparse and accurate data-based modelling and function approximation. Based on a recent idea of stabilization (Wenzel et al., A novel class of stabilized greedy kernel approximation algorithms: convergence, stability & uniform point distribution. e-prints. arXiv:1911.04352, 2019) of such algorithms in the scalar output case, we here consider the vectorial extension built on VKOGA (Wirtz and Haasdonk, Dolomites Res Notes Approx 6:83–100, 2013. We introduce the so called γ-restricted VKOGA, comment on analytical properties and present numerical evaluation on data from a clinically relevant application, the modelling of the human spine. The experiments show that the new stabilized algorithms result in improved accuracy and stability over the non-stabilized algorithms.	
 </blockquote>
 
 ```bibtex:
@@ -327,7 +327,7 @@ Kernel based methods provide a way to reconstruct potentially high-dimensional f
 <small>
 
 <blockquote>
-	
+For certain dynamical systems it is possible to significantly simplify the study of stability by means of the center manifold theory. This theory allows to isolate the complicated asymptotic behavior of the system close to a non-hyperbolic equilibrium point, and to obtain meaningful predictions of its behavior by analyzing a reduced dimensional problem. Since the manifold is usually not known, approximation methods are of great interest to obtain qualitative estimates. In this work, we use a data-based greedy kernel method to construct a suitable approximation of the manifold close to the equilibrium. The data are collected by repeated numerical simulation of the full system by means of a high-accuracy solver, which generates sets of discrete trajectories that are then used to construct a surrogate model of the manifold. The method is tested on different examples which show promising performance and good accuracy.	
 </blockquote>
 
 ```bibtex:
@@ -351,7 +351,7 @@ Kernel based methods provide a way to reconstruct potentially high-dimensional f
 <small>
 
 <blockquote>
-	
+We present a novel acceleration method for the solution of parametric ODEs by single-step implicit solvers by means of greedy kernel-based surrogate models. In an offline phase, a set of trajectories is precomputed with a high-accuracy ODE solver for a selected set of parameter samples, and used to train a kernel model which predicts the next point in the trajectory as a function of the last one. This model is cheap to evaluate, and it is used in an online phase for new parameter samples to provide a good initialization point for the nonlinear solver of the implicit integrator. The accuracy of the surrogate reflects into a reduction of the number of iterations until convergence of the solver, thus providing an overall speedup of the full simulation. Interestingly, in addition to providing an acceleration, the accuracy of the solution is maintained, since the ODE solver is still used to guarantee the required precision. Although the method can be applied to a large variety of solvers and different ODEs, we will present in details its use with the Implicit Euler method for the solution of the Burgers equation, which results to be a meaningful test case to demonstrate the method’s features.	
 </blockquote>
 
 ```bibtex:
@@ -423,7 +423,7 @@ In this work, we consider 2 kinds of model reduction techniques to simulate bloo
 <small>
 
 <blockquote>
-	
+Modern simulation scenarios frequently require multi-query or real-time responses of simulation models for statistical analysis, optimization, or process control. However, the underlying simulation models may be very time-consuming rendering the simulation task difficult or infeasible. This motivates the need for rapidly computable surrogate models. We address the case of surrogate modeling of functions from vectorial input to vectorial output spaces. These appear, for instance, in simulation of coupled models or in the case of approximating general input–output maps. We review some recent methods and theoretical results in the field of greedy kernel approximation schemes. In particular, we recall the vectorial kernel orthogonal greedy algorithm (VKOGA) for approximating vector-valued functions. We collect some recent convergence statements that provide sound foundation for these algorithms, in particular quasi-optimal convergence rates in case of kernels inducing Sobolev spaces. We provide some initial experiments that can be obtained with non-symmetric greedy kernel approximation schemes. The results indicate better stability and overall more accurate models in situations where the input data locations are not equally distributed.	
 </blockquote>
 
 ```bibtex:
@@ -471,7 +471,7 @@ In this paper we consider the problem of approximating vector-valued functions o
 <small>
 
 <blockquote>
-	
+A variety of methods is available to quantify uncertainties arising within the modeling of flow and transport in carbon dioxide storage, but there is a lack of thorough comparisons. Usually, raw data from such storage sites can hardly be described by theoretical statistical distributions since only very limited data is available. Hence, exact information on distribution shapes for all uncertain parameters is very rare in realistic applications. We discuss and compare four different methods tested for data-driven uncertainty quantification based on a benchmark scenario of carbon dioxide storage. In the benchmark, for which we provide data and code, carbon dioxide is injected into a saline aquifer modeled by the nonlinear capillarity-free fractional flow formulation for two incompressible fluid phases, namely carbon dioxide and brine. To cover different aspects of uncertainty quantification, we incorporate various sources of uncertainty such as uncertainty of boundary conditions, of parameters in constitutive relations, and of material properties. We consider recent versions of the following non-intrusive and intrusive uncertainty quantification methods: arbitrary polynomial chaos, spatially adaptive sparse grids, kernel-based greedy interpolation, and hybrid stochastic Galerkin. The performance of each approach is demonstrated assessing expectation value and standard deviation of the carbon dioxide saturation against a reference statistic based on Monte Carlo sampling. We compare the convergence of all methods reporting on accuracy with respect to the number of model runs and resolution. Finally, we offer suggestions about the methods’ advantages and disadvantages that can guide the modeler for uncertainty quantification in carbon dioxide storage and beyond.	
 </blockquote>
 
 ```bibtex:
@@ -495,7 +495,7 @@ In this paper we consider the problem of approximating vector-valued functions o
 <small>
 
 <blockquote>
-	
+In the recent paper [1], a new method to compute stable kernel-based interpolants has been presented. This rescaled interpolation method combines the standard kernel interpolation with a properly defined rescaling operation, which smooths the oscillations of the interpolant. Although promising, this procedure lacks a systematic theoretical investigation. Through our analysis, this novel method can be understood as standard kernel interpolation by means of a properly rescaled kernel. This point of view allows us to consider its error and stability properties.	
 </blockquote>
 
 ```bibtex:
@@ -567,7 +567,7 @@ In this paper we propose a new stable and accurate approximation technique which
 <small>
 
 <blockquote>
-	
+Kernel-based methods in Numerical Analysis have the advantage of yielding optimal recovery processes in the “native” Hilbert space $\mathcal H$ in which they are reproducing. Continuous kernels on compact domains have an expansion into eigenfunctions that are both $L_2$-orthonormal and orthogonal in $\mathcal H$ (Mercer expansion). This paper examines the corresponding eigenspaces and proves that they have optimality properties among all other subspaces of $\mathcal H$. These results have strong connections to $n$-widths in Approximation Theory, and they establish that errors of optimal approximations are closely related to the decay of the eigenvalues. Though the eigenspaces and eigenvalues are not readily available, they can be well approximated using the standard $n$-dimensional subspaces spanned by translates of the kernel with respect to $n$ nodes or centers. We give error bounds for the numerical approximation of the eigensystem via such subspaces. A series of examples shows that our numerical technique via a greedy point selection strategy allows to calculate the eigensystems with good accuracy.	
 </blockquote>
 
 ```bibtex:
@@ -615,7 +615,7 @@ In applied sciences it is often required to model and supervise temporal evoluti
 <small>
 
 <blockquote>
-	
+We present an algorithm to approximate large datasets by Radial Basis Function(RBF) techniques. The method couples a fast domain decomposition procedure with alocalized stabilization method. The resulting algorithm can efficiently deal with largeproblems and it is robust with respect to the typical instability of kernel methods.	
 </blockquote>
 
 ```bibtex:
@@ -663,7 +663,7 @@ In recent years, in the setting of radial basis function, the study of approxima
 <small>
 
 <blockquote>
-It is well-known that radial basis function interpolants suffer of bad conditioning if the basis of translates is used. In the recent work  \cite{SchPa}, the authors gave a quite general way to build stable and orthonormal bases for the native space ${\mathcal{N}_{\Phi}(\Omega)}$ associated to a  kernel $\Phi$ on a domain  $\Omega \subset \mathbb{R}^s$. The method is simply based on the factorization of the corresponding kernel matrix.  \\Starting from that setting we describe a particular basis which turns out to be orthonormal in ${\mathcal{N}_{\Phi}(\Omega)}$  and in $\lw$, where $X$ is a set of data sites of the domain $\Omega$. The basis arises from a weighted singular value decomposition of the kernel matrix. This  basis is also related to a discretization of the compact operator $T_{\Phi}: {\mathcal{N}_{\Phi}(\Omega)}\rightarrow{\mathcal{N}_{\Phi}(\Omega)}$,  $$T_{\Phi}[f](x) = \int_{\Omega} \Phi(x,y) f(y) dy\quad \forall x\in\Omega$$ and provides a connection with the continuous basis that arises from an  eigen-decomposition of $T_{\Phi}$.  Finally, using the eigenvalues of this operator,  we provide convergence estimates and stability bounds for interpolation and discrete least-squares approximation.	
+It is well-known that radial basis function interpolants suffer of bad conditioning if the basis of translates is used. In the recent work [5], the authors gave a quite general way to build stable and orthonormal bases for the native space ${\mathcal{N}_{\Phi}(\Omega)}$ associated to a  kernel $\Phi$ on a domain  $\Omega \subset \mathbb{R}^s$. The method is simply based on the factorization of the corresponding kernel matrix.  \\Starting from that setting we describe a particular basis which turns out to be orthonormal in ${\mathcal{N}_{\Phi}(\Omega)}$  and in $\ell_{2,w}(X)$, where $X$ is a set of data sites of the domain $\Omega$. The basis arises from a weighted singular value decomposition of the kernel matrix. This  basis is also related to a discretization of the compact operator $T_{\Phi}: {\mathcal{N}_{\Phi}(\Omega)}\rightarrow{\mathcal{N}_{\Phi}(\Omega)}$,  $$T_{\Phi}[f](x) = \int_{\Omega} \Phi(x,y) f(y) dy\quad \forall x\in\Omega$$ and provides a connection with the continuous basis that arises from an  eigen-decomposition of $T_{\Phi}$.  Finally, using the eigenvalues of this operator,  we provide convergence estimates and stability bounds for interpolation and discrete least-squares approximation.	
 </blockquote>
 
 ```bibtex:
@@ -687,7 +687,7 @@ It is well-known that radial basis function interpolants suffer of bad condition
 <small>
 
 <blockquote>
-	
+We implement in Matlab a Gauss-like cubature formula on bivariate domains whose boundary is a piecewise smooth Jordan curve (curvilinear polygons). The key tools are Green’s integral formula, together with the recent software package Chebfun to approximate the boundary curve close to machine precision by piecewise Chebyshev interpolation. Several tests are presented, including some comparisons of this new routine ChebfunGauss with the recent SplineGauss that approximates the boundary by splines.	
 </blockquote>
 
 ```bibtex:
