@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I’m a Researcher in the MobS Lab at the Digital Society Center of the Bruno Kessler Fondazione in Trento (IT). I work on Machine Learning, Approximation Theory, ... [a](https://www.gmail.com)
+I’m a Researcher in the MobS Lab at the [Digital Society Center](https://www.fbk.eu/it/digital-society/) of FBK in Trento, Italy. 
 
-I’m also a junior participating researcher in the Cluster of Excellence Data-integrated Simulation Science, where I’m a member of the Project Network Machine Learning for Simulation.
+I work on Machine Learning and Approximation Theory, and on their combination for the solution of problems in simulation- and social-sciences. Recently, I'm gaining an increasing interest in their application to network data. 
 
-Previously, I’ve been for four years in the group of Bernard Haasdonk at the University of Stuttgart, working on kernel based algorithms and their application to the surrogate modelling of complex simulations.
+I’m also an Associated Member in the [Cluster of Excellence Data-integrated Simulation Science](https://www.simtech.uni-stuttgart.de/), where I’m a member of the project network [Machine Learning for Simulation](https://www.simtech.uni-stuttgart.de/exc/research/pn/pn6/).
+
+Previously, I’ve been for four years in the group of Bernard Haasdonk at the University of Stuttgart, working on kernel based algorithms and their application to the surrogate modelling of complex simulations. 
 
 I obtained my MSc and PhD at the Department of Mathematics of the University of Padova under the supervision of Stefano De Marchi in the CAA group, where I wrote my theses on algorithmic and theoretical aspects of kernel based interpolation.
 
