@@ -399,7 +399,7 @@ Kernel based methods provide a way to reconstruct potentially high-dimensional f
 <small>
 
 <blockquote>
-	
+In this work, we consider 2 kinds of model reduction techniques to simulate blood flow through the largest systemic arteries, where a stenosis is located in a peripheral artery, i.e., in an artery that is located far away from the heart. For our simulations, we place the stenosis in one of the tibial arteries belonging to the right lower leg (right posterior tibial artery). The model reduction techniques that are used are on the one hand dimensionally reduced models (1-D and 0-D models, the so-called mixed-dimension model) and on the other hand surrogate models produced by kernel methods. Both methods are combined in such a way that the mixed-dimension models yield training data for the surrogate model, where the surrogate model is parametrised by the degree of narrowing of the peripheral stenosis. By means of a well-trained surrogate model, we show that simulation data can be reproduced with a satisfactory accuracy and that parameter optimisation or state estimation problems can be solved in a very efficient way. Furthermore, it is demonstrated that a surrogate model enables us to present after a very short simulation time the impact of a varying degree of stenosis on blood flow, obtaining a speedup of several orders over the full model.	
 </blockquote>
 
 ```bibtex:
@@ -447,7 +447,7 @@ Kernel based methods provide a way to reconstruct potentially high-dimensional f
 <small>
 
 <blockquote>
-	
+In this paper we consider the problem of approximating vector-valued functions over a domain $$\Omega$$. For this purpose, we use matrix-valued reproducing kernels, which can be related to Reproducing kernel Hilbert spaces of vectorial functions and which can be viewed as an extension of the scalar-valued case. These spaces seem promising, when modelling correlations between the target function components, as the components are not learned independently of each other. We focus on the interpolation with such matrix-valued kernels. We derive error bounds for the interpolation error in terms of a generalized power-function and we introduce a subclass of matrix-valued kernels whose power-functions can be traced back to the power-function of scalar-valued reproducing kernels. Finally, we apply these kind of kernels to some artificial data to illustrate the benefit of interpolation with matrix-valued kernels in comparison to a componentwise approach. 	
 </blockquote>
 
 ```bibtex:
@@ -519,7 +519,7 @@ Kernel based methods provide a way to reconstruct potentially high-dimensional f
 <small>
 
 <blockquote>
-	
+Kernel-based methods provide flexible and accurate algorithms for the reconstruction of functions frommeshless samples. A major question in the use of such methods is the influence of the samples’ locationson the behavior of the approximation, and feasible optimal strategies are not known for general problems.Nevertheless, efficient and greedy point-selection strategies are known. This paper gives a proof of theconvergence rate of the data-independentP-greedyalgorithm, based on the application of the convergencetheory for greedy algorithms in reduced basis methods. The resulting rate of convergence is shown to bequasi-optimal in the case of kernels generating Sobolev spaces.As a consequence, this convergence rate proves that, for kernels of Sobolev spaces, the points selected bythe algorithm are asymptotically uniformly distributed, as conjectured in the paper where the algorithmhas been introduced.	
 </blockquote>
 
 ```bibtex:
@@ -543,7 +543,7 @@ Kernel based methods provide a way to reconstruct potentially high-dimensional f
 <small>
 
 <blockquote>
-	
+In this paper we propose a new stable and accurate approximation technique which is extremely effective for interpolating large scattered data sets. The Partition of Unity (PU) method is performed considering Radial Basis Functions (RBFs) as local approximants and using locally supported weights. In particular, the approach consists in computing, for each PU subdomain, a stable basis. Such technique, taking advantage of the local scheme, leads to a significant benefit in terms of stability, especially for flat kernels. Furthermore, an optimized searching procedure is applied to build the local stable bases, thus rendering the method more efficient.	
 </blockquote>
 
 ```bibtex:
@@ -591,7 +591,7 @@ Kernel based methods provide a way to reconstruct potentially high-dimensional f
 <small>
 
 <blockquote>
-	
+In applied sciences it is often required to model and supervise temporal evolution of populations via dynamical systems. In this paper, we focus on the problem of approximating the basins of attraction of such models for each stable equilibrium point. We propose to reconstruct the basins via an implicit interpolant using stable radial bases, obtaining the surfaces by partitioning the phase space into disjoint regions. An application to a competition model presenting jointly three stable equilibria is considered. 	
 </blockquote>
 
 ```bibtex:
