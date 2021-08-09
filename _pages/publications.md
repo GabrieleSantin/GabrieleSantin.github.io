@@ -151,7 +151,8 @@ aggiungere link scholar e arxiv
 <p><details style="margin-left:5%;">
 
 <summary>B. Haasdonk, B. Hamzi, G. Santin, D. Wittwar, 
-<i>Kernel methods for center manifold approximation and a data-based version  of the Center Manifold Theorem</i>, (2021). <a href='https://arxiv.org/abs/2012.00338'> <i class="ai ai-arxiv"></i>ArXiv </a>
+<i>Kernel methods for center manifold approximation and a data-based version  of the Center Manifold Theorem</i>, 
+Accepted for publication in Physica D: Nonlinear Phenomena, (2021). <a href='https://arxiv.org/abs/2012.00338'> <i class="ai ai-arxiv"></i>ArXiv </a>
 </summary>
 
 <small>
@@ -174,7 +175,8 @@ aggiungere link scholar e arxiv
 <p><details style="margin-left:5%;">
 
 <summary>T. Wenzel, M. Kurz, A. Beck, G. Santin, B. Haasdonk, 
-<i>Structured Deep Kernel Networks for Data-Driven Closure Terms of  Turbulent Flows</i>, (2021). <a href='https://arxiv.org/abs/2103.13655'> <i class="ai ai-arxiv"></i>ArXiv </a>
+<i>Structured Deep Kernel Networks for Data-Driven Closure Terms of  Turbulent Flows</i>, 
+Accepted for publication in Proceedings of the 13th International Conference on Large Scale Scientific Computations, (2021). <a href='https://arxiv.org/abs/2103.13655'> <i class="ai ai-arxiv"></i>ArXiv </a>
 </summary>
 
 <small>
@@ -197,7 +199,8 @@ aggiungere link scholar e arxiv
 <p><details style="margin-left:5%;">
 
 <summary>G. Santin, B. Haasdonk, 
-<i>Kernel Methods for Surrogate  Modeling</i>, (2021). <a href='https://arxiv.org/abs/1907.10556'> <i class="ai ai-arxiv"></i>ArXiv </a>
+<i>Kernel Methods for Surrogate  Modeling</i>, 
+Accepted for publication in Model Order Reduction, Volume 1: System- and Data-Driven Methods and Algorithms, P. Benner, W. Schilders, S. Grivet-Talocia, A. Quarteroni, G. Rozza, L.  M. Silveira  Eds., (2021). <a href='https://arxiv.org/abs/1907.10556'> <i class="ai ai-arxiv"></i>ArXiv </a>
 </summary>
 
 <small>
