@@ -183,7 +183,7 @@ The inference of novel knowledge, the discovery of hidden patterns, and the unco
 
 
 ## Accepted
-<p style="margin:0;"><details style="margin-left:5%;">
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>G. Santin, B. Haasdonk, 
 <i>Kernel Methods for Surrogate  Modeling</i>, 
@@ -214,7 +214,7 @@ This chapter deals with kernel methods as a special class of techniques for surr
 
 
 
-<p style="margin:0;"><details style="margin-left:5%;">
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>T. Wenzel, M. Kurz, A. Beck, G. Santin, B. Haasdonk, 
 <i>Structured Deep Kernel Networks for Data-Driven Closure Terms of  Turbulent Flows</i>, 
@@ -245,7 +245,7 @@ Standard kernel methods for machine learning usually struggle when dealing with 
 
 
 
-<p style="margin:0;"><details style="margin-left:5%;">
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>B. Haasdonk, B. Hamzi, G. Santin, D. Wittwar, 
 <i>Kernel methods for center manifold approximation and a data-based version  of the Center Manifold Theorem</i>, 
@@ -278,7 +278,7 @@ For dynamical systems with a non hyperbolic equilibrium, it is possible to signi
 
 
 ## Published
-<p style="margin:0;"><details style="margin-left:5%;">
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> B. Haasdonk, T. Wenzel, G. Santin, S. Schmitt, 
 <i>Biomechanical surrogate modelling using stabilized vectorial greedy kernel methods</i>, 
@@ -313,7 +313,7 @@ Greedy kernel approximation algorithms are successful techniques for sparse and 
 
 
 
-<p style="margin:0;"><details style="margin-left:5%;">
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> G. Santin, T. Karvonen, B. Haasdonk, 
 <i>Sampling based approximation of linear functionals in Reproducing Kernel Hilbert Spaces</i>, 
@@ -347,7 +347,7 @@ In this paper we analyze a greedy procedure to approximate a linear functional d
 
 
 
-<p style="margin:0;"><details style="margin-left:5%;">
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> G. Cencetti, G. Santin, A. Longa, E. Pigani, A. Barrat, C. Cattuto, S. Lehmann, M. Salath&eacute;, B. Lepri, 
 <i>Digital proximity tracing on empirical contact networks for pandemic control</i>, 
@@ -384,7 +384,7 @@ Digital contact tracing is a relevant tool to control infectious disease outbrea
 
 
 
-<p style="margin:0;"><details style="margin-left:5%;">
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> T. Wenzel, G. Santin, B. Haasdonk, 
 <i>A novel class of stabilized greedy kernel approximation algorithms: Convergence, stability and uniform point distribution</i>, 
@@ -418,7 +418,7 @@ Kernel based methods provide a way to reconstruct potentially high-dimensional f
 
 
 
-<p style="margin:0;"><details style="margin-left:5%;">
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> B. Haasdonk, B. Hamzi, G. Santin, D. Wittwar, 
 <i>Greedy kernel methods for center manifold approximation</i>, 
@@ -455,7 +455,7 @@ For certain dynamical systems it is possible to significantly simplify the study
 
 
 
-<p style="margin:0;"><details style="margin-left:5%;">
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> T. Br&uuml;nnette, G. Santin, and B. Haasdonk, 
 <i>Greedy kernel methods for accelerating implicit integrators for parametric ODEs</i>, 
@@ -490,7 +490,7 @@ We present a novel acceleration method for the solution of parametric ODEs by si
 
 
 
-<p style="margin:0;"><details style="margin-left:5%;">
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> S. De Marchi, A. Iske, G. Santin, 
 <i>Image reconstruction from scattered Radon data by weighted positive definite kernel functions</i>, 
@@ -530,7 +530,7 @@ We propose a novel kernel-based method for image reconstruction from scattered R
 
 
 
-<p style="margin:0;"><details style="margin-left:5%;">
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> T. K&ouml;ppl, G. Santin, B. Haasdonk, R. Helmig, 
 <i>Numerical modelling of a peripheral arterial stenosis using dimensionally  reduced models and kernel methods</i>, 
@@ -567,7 +567,7 @@ In this work, we consider 2 kinds of model reduction techniques to simulate bloo
 
 
 
-<p style="margin:0;"><details style="margin-left:5%;">
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> G. Santin, B. Haasdonk, 
 <i>Greedy kernel approximation for sparse surrogate modelling</i>, 
@@ -603,7 +603,7 @@ Modern simulation scenarios frequently require multi-query or real-time response
 
 
 
-<p style="margin:0;"><details style="margin-left:5%;">
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> D. Wittwar, G. Santin, B. Haasdonk, 
 <i>Interpolation with uncoupled separable matrix-valued kernels</i>, 
@@ -638,7 +638,7 @@ In this paper we consider the problem of approximating vector-valued functions o
 
 
 
-<p style="margin:0;"><details style="margin-left:5%;">
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>M. K&ouml;ppel, F. Franzelin, I. Kr&ouml;ker, G. Santin, D. Wittwar, S. Oladyshkin, A. Barth, B. Haasdonk, W. Nowak, D. Pfl&uuml;ger, C. Rohde, 
 <i>Comparison of data-driven uncertainty quantification methods for a carbon dioxide storage benchmark scenario</i>, 
@@ -674,7 +674,7 @@ A variety of methods is available to quantify uncertainties arising within the m
 
 
 
-<p style="margin:0;"><details style="margin-left:5%;">
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> S. De Marchi, A. Idda, G. Santin, 
 <i>A rescaled method for RBF approximation</i>, 
@@ -710,7 +710,7 @@ In the recent paper [1], a new method to compute stable kernel-based interpolant
 
 
 
-<p style="margin:0;"><details style="margin-left:5%;">
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> G. Santin, B. Haasdonk, 
 <i>Convergence rate of the data-independent P-greedy algorithm in kernel-based spaces</i>, 
@@ -744,7 +744,7 @@ Kernel-based methods provide flexible and accurate algorithms for the reconstruc
 
 
 
-<p style="margin:0;"><details style="margin-left:5%;">
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> R. Cavoretto, S. De Marchi, A. De Rossi, E. Perracchione, G. Santin, 
 <i>Partition of unity interpolation using stable kernel-based techniques</i>, 
@@ -775,7 +775,7 @@ In this paper we propose a new stable and accurate approximation technique which
 
 
 
-<p style="margin:0;"><details style="margin-left:5%;">
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> G. Santin, R. Schaback, 
 <i>Approximation of eigenfunctions in kernel-based spaces</i>, 
@@ -811,7 +811,7 @@ Kernel-based methods in Numerical Analysis have the advantage of yielding optima
 
 
 
-<p style="margin:0;"><details style="margin-left:5%;">
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> R. Cavoretto, S. De Marchi, A. De Rossi, E. Perracchione, G. Santin, 
 <i>Approximating basins of attraction for dynamical systems via stable radial bases</i>, 
@@ -842,7 +842,7 @@ In applied sciences it is often required to model and supervise temporal evoluti
 
 
 
-<p style="margin:0;"><details style="margin-left:5%;">
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> R. Cavoretto, S. De Marchi, A. De Rossi, E. Perracchione, G. Santin, 
 <i>RBF approximation of large datasets by partition of unity and local stabilization</i>, 
@@ -875,7 +875,7 @@ We present an algorithm to approximate large datasets by Radial Basis Function(R
 
 
 
-<p style="margin:0;"><details style="margin-left:5%;">
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> S. De Marchi, G. Santin, 
 <i>Fast computation of orthonormal basis for RBF spaces through Krylov space methods</i>, 
@@ -911,7 +911,7 @@ In recent years, in the setting of radial basis function, the study of approxima
 
 
 
-<p style="margin:0;"><details style="margin-left:5%;">
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> S. De Marchi, G. Santin, 
 <i>A new stable basis for radial basis function interpolation</i>, 
@@ -946,7 +946,7 @@ It is well-known that radial basis function interpolants suffer of bad condition
 
 
 
-<p style="margin:0;"><details style="margin-left:5%;">
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> G. Santin, A. Sommariva, M. Vianello, 
 <i>An algebraic cubature formula on curvilinear polygons</i>, 
