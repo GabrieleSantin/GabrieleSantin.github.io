@@ -29,4 +29,18 @@ presented that support the theoretical findings and show improvements of the sta
 terms of accuracy due to improved stability.	
 </details>
 
+<details>
+<summary>BibTex</summary>
+
+@Article{Wenzel2021a,
+  author    = {Tizian Wenzel and Gabriele Santin and Bernard Haasdonk},
+  title     = {A novel class of stabilized greedy kernel approximation algorithms: Convergence, stability and uniform point distribution},
+  journal   = {Journal of Approximation Theory},
+  year      = {2021},
+  volume    = {262},
+  pages     = {105508},
+  issn      = {0021-9045},
+  doi       = {https://doi.org/10.1016/j.jat.2020.105508},
+}	
+</details>
 
