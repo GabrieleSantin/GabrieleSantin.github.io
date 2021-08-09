@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-aggiungere link scholar e arxiv 
+Up to date information on my publications can be found on my <a href='https://scholar.google.it/citations?user=WG9oe0wAAAAJ&hl=en'> <i class="ai ai-google-scholar"></i>Google Scholar</a> and <a href='https://arxiv.org/a/santin_g_1.html'> <i class="ai ai-arxiv"></i>ArXiv</a> profiles.
 
 
 ## Submitted
