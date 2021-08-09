@@ -279,7 +279,7 @@ In recent years, in the setting of radial basis function, the study of approx- i
 <small>
 
 <blockquote>
-	
+Digital contact tracing is a relevant tool to control infectious disease outbreaks, including the COVID-19 epidemic. Early work evaluating digital contact tracing omitted important features and heterogeneities of real-world contact patterns influencing contagion dynamics. We fill this gap with a modeling framework informed by empirical high-resolution contact data to analyze the impact of digital contact tracing in the COVID-19 pandemic. We investigate how well contact tracing apps, coupled with the quarantine of identified contacts, can mitigate the spread in real environments. We find that restrictive policies are more effective in containing the epidemic but come at the cost of unnecessary large-scale quarantines. Policy evaluation through their efficiency and cost results in optimized solutions which only consider contacts longer than 15–20 minutes and closer than 2–3 meters to be at risk. Our results show that isolation and tracing can help control re-emerging outbreaks when some conditions are met: (i) a reduction of the reproductive number through masks and physical distance; (ii) a low-delay isolation of infected individuals; (iii) a high compliance. Finally, we observe the inefficacy of a less privacy-preserving tracing involving second order contacts. Our results may inform digital contact tracing efforts currently being implemented across several countries worldwide.	
 </blockquote>
 
 ```bibtex:
@@ -303,7 +303,7 @@ In recent years, in the setting of radial basis function, the study of approx- i
 <small>
 
 <blockquote>
-	
+Kernel based methods provide a way to reconstruct potentially high-dimensional functions from meshfree samples, i.e., sampling points and corresponding target values. A crucial ingredient for this to be successful is the distribution of the sampling points. Since the computation of an optimal selection of sampling points may be an infeasible task, one promising option is to use greedy methods.  Although these methods may be very effective, depending on the specific greedy criterion the chosen points might quickly lead to instabilities in the computation. To circumvent this problem, we introduce and investigate a new class of stabilized greedy kernel algorithms, which can be used to create a scale of new selection strategies.  We analyze these algorithms, and in particular we prove convergence results and quantify in a precise way the distribution of the selected points. These results allow to prove, in the case of certain Sobolev kernels, that the algorithms have optimal stability and optimal convergence rates, including for functions outside the native space of the kernel. The results also apply to the case of the usual $P$-greedy algorithm, significantly improving state-of-the-art results available in the literature. Illustrative experiments are presented that support the theoretical findings and show improvements of the stabilized algorithms in terms of accuracy due to improved stability.  	
 </blockquote>
 
 ```bibtex:
