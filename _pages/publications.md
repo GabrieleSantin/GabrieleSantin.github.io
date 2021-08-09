@@ -8,7 +8,7 @@ author_profile: true
 
 ## Published
 
-<details style="margin-left:10%;">
+<br><details style="margin-left:10%;">
 
 <summary>T. Wenzel, G. Santin, B. Haasdonk, 
 <a href='https://doi.org/10.1016/j.jat.2020.105508'> A novel class of stabilized greedy kernel approximation algorithms: Convergence, stability and uniform point distribution</a>, 
@@ -36,7 +36,7 @@ J. of Approx. Theory, (2021). <a href='https://arxiv.org/abs/1911.04352'> <i cla
 </details>
 
 
-<details style="margin-left:10%;">
+<br><details style="margin-left:10%;">
 
 <summary>T. Wenzel, G. Santin, B. Haasdonk, 
 <a href='https://doi.org/10.1016/j.jat.2020.105508'> A novel class of stabilized greedy kernel approximation algorithms: Convergence, stability and uniform point distribution</a>, 
