@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a Researcher in the MobS Lab at the Digital Society Center of the Bruno Kessler Fondazione in Trento (IT). I work on Machine Learning, Approximation Theory, ... [a](www.gmail.com)
+I’m a Researcher in the MobS Lab at the Digital Society Center of the Bruno Kessler Fondazione in Trento (IT). I work on Machine Learning, Approximation Theory, ... [a](https://www.gmail.com)
 
 I’m also a junior participating researcher in the Cluster of Excellence Data-integrated Simulation Science, where I’m a member of the Project Network Machine Learning for Simulation.
 
