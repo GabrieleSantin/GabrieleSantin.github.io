@@ -231,7 +231,7 @@ For dynamical systems with a non hyperbolic equilibrium, it is possible to signi
 <small>
 
 <blockquote>
-In recent years, in the setting of radial basis function, the study of approx- imation algorithms has particularly focused on the construction of (stable) bases for the associated Hilbert spaces. One of the ways of describing such spaces and their properties is the study of a particular integral operator and its spectrum. We proposed in a recent work the so-called WSVD basis, which is strictly connected to the eigen-decomposition of this operator and allows to overcome some problems related to the stability of the computation of the approximant for a wide class of radial kernels. Although effective, this basis is computationally expensive to compute. In this paper we discuss a method to improve and compute in a fast way the basis using methods related to Krylov subspaces. After reviewing the connections between the two bases, we concentrate on the properties of the new one, describing its behavior by numerical tests.	
+	
 </blockquote>
 
 ```bibtex:
@@ -255,7 +255,7 @@ In recent years, in the setting of radial basis function, the study of approx- i
 <small>
 
 <blockquote>
-	
+In this paper we analyze a greedy procedure to approximate a linear functional defined in a reproducing kernel Hilbert space by nodal values. This procedure computes a quadrature rule which can be applied to general functionals. For a large class of functionals, that includes integration functionals and other interesting cases, but does not include differentiation, we prove convergence results for the approximation by means of quasi-uniform and greedy points which generalize in various ways several known results. A perturbation analysis of the weights and node computation is also discussed. Beyond the theoretical investigations, we demonstrate numerically that our algorithm is effective in treating various integration densities, and that it is even very competitive when compared to existing methods for Uncertainty Quantification.	
 </blockquote>
 
 ```bibtex:
@@ -375,7 +375,7 @@ Kernel based methods provide a way to reconstruct potentially high-dimensional f
 <small>
 
 <blockquote>
-	
+We propose a novel kernel-based method for image reconstruction from scattered Radon data. To this end, we employ generalized Hermite–Birkhoff interpola- tion by positive definite kernel functions. For radial kernels, however, a straightforward application of the generalized Hermite–Birkhoff interpolation method fails to work, as we prove in this paper. To obtain a well-posed reconstruction scheme for scattered Radon data, we introduce a new class of weighted positive definite kernels, which are symmetric but not radially symmetric. By our construction, the resulting weighted ker- nels are combinations of radial positive definite kernels and positive weight functions. This yields very flexible image reconstruction methods, which work for arbitrary dis- tributions of Radon lines. We develop suitable representations for the weighted basis functions and the symmetric positive definite kernel matrices that are resulting from the proposed reconstruction scheme. For the relevant special case, where Gaussian radial kernels are combined with Gaussian weights, explicit formulae for the weighted Gaus- sian basis functions and the kernel matrices are given. Supporting numerical examples are finally presented.	
 </blockquote>
 
 ```bibtex:
@@ -639,7 +639,7 @@ In applied sciences it is often required to model and supervise temporal evoluti
 <small>
 
 <blockquote>
-	
+In recent years, in the setting of radial basis function, the study of approximation algorithms has particularly focused on the construction of (stable) bases for the associated Hilbert spaces. One of the ways of describing such spaces and their properties is the study of a particular integral operator and its spectrum. We proposed in a recent work the so-called WSVD basis, which is strictly connected to the eigen-decomposition of this operator and allows to overcome some problems related to the stability of the computation of the approximant for a wide class of radial kernels. Although effective, this basis is computationally expensive to compute. In this paper we discuss a method to improve and compute in a fast way the basis using methods related to Krylov subspaces. After reviewing the connections between the two bases, we concentrate on the properties of the new one, describing its behavior by numerical tests.	
 </blockquote>
 
 ```bibtex:
@@ -663,7 +663,7 @@ In applied sciences it is often required to model and supervise temporal evoluti
 <small>
 
 <blockquote>
-	
+It is well-known that radial basis function interpolants suffer of bad conditioning if the basis of translates is used. In the recent work  \cite{SchPa}, the authors gave a quite general way to build stable and orthonormal bases for the native space ${\mathcal{N}_{\Phi}(\Omega)}$ associated to a  kernel $\Phi$ on a domain  $\Omega \subset \mathbb{R}^s$. The method is simply based on the factorization of the corresponding kernel matrix.  \\Starting from that setting we describe a particular basis which turns out to be orthonormal in ${\mathcal{N}_{\Phi}(\Omega)}$  and in $\lw$, where $X$ is a set of data sites of the domain $\Omega$. The basis arises from a weighted singular value decomposition of the kernel matrix. This  basis is also related to a discretization of the compact operator $T_{\Phi}: {\mathcal{N}_{\Phi}(\Omega)}\rightarrow{\mathcal{N}_{\Phi}(\Omega)}$,  $$T_{\Phi}[f](x) = \int_{\Omega} \Phi(x,y) f(y) dy\quad \forall x\in\Omega$$ and provides a connection with the continuous basis that arises from an  eigen-decomposition of $T_{\Phi}$.  Finally, using the eigenvalues of this operator,  we provide convergence estimates and stability bounds for interpolation and discrete least-squares approximation.	
 </blockquote>
 
 ```bibtex:
