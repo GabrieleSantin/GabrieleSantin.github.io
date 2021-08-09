@@ -11,14 +11,14 @@ aggiungere link scholar e arxiv
 ## Submitted
 <p><details style="margin-left:5%;">
 
-<summary>F. Marchetti, G. Santin, 
-<i>Convergence results in image interpolation with the continuous SSIM</i>, (2021). <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
+<summary>T. Wenzel, G. Santin, B. Haasdonk, 
+<i>Analysis of target data-dependent greedy kernel algorithms: Convergence rates for f-, f P- and  f/P-greedy</i> (2021). <a href='https://arxiv.org/abs/2105.07411'> <i class="ai ai-arxiv"></i>ArXiv </a>
 </summary>
 
 <small>
 
 <blockquote>
-	
+Data-dependent greedy algorithms in kernel spaces are known to provide fast converging interpolants, while being extremely easy to implement and efficient to run. Despite this experimental evidence, no detailed theory has yet been presented. This situation is unsatisfactory especially when compared to the case of the data-independent P-greedy algorithm, for which optimal convergence rates are available, despite its performances being usually inferior to the ones of target data-dependent algorithms. In this work we fill this gap by first defining a new scale of greedy algorithms for interpolation that comprises all the existing ones in a unique analysis, where the degree of dependency of the selection criterion on the functional data is quantified by a real parameter. We then prove new convergence rates where this degree is taken into account and we show that, possibly up to a logarithmic factor, target data-dependent selection strategies provide faster convergence. In particular, for the first time we obtain convergence rates for target data adaptive interpolation that are faster than the ones given by uniform points, without the need of any special assumption on the target function. The rates are confirmed by a number of examples. These results are made possible by a new analysis of greedy algorithms in general Hilbert spaces.	
 </blockquote>
 
 ```bibtex:
@@ -34,14 +34,14 @@ aggiungere link scholar e arxiv
 
 <p><details style="margin-left:5%;">
 
-<summary>A. Alla, H. Oliveira, G. Santin, 
-<i>HJB-RBF based approach for the control of PDEs</i>, (2021). <a href='https://arxiv.org/abs/2108.02987'> <i class="ai ai-arxiv"></i>ArXiv </a>
+<summary>T. Wenzel, G. Santin, B. Haasdonk, 
+<i>Universality and optimality of structured deep kernel  networks</i> (2021). <a href='https://arxiv.org/abs/2105.07228'> <i class="ai ai-arxiv"></i>ArXiv </a>
 </summary>
 
 <small>
 
 <blockquote>
-	
+Kernel based methods yield approximation models that are flexible, efficient and powerful. In particular, they utilize fixed feature maps of the data, being often associated to strong analytical results that prove their accuracy. On the other hand, the recent success of machine learning methods has been driven by deep neural networks (NNs). They achieve a significant accuracy on very high-dimensional data, in that they are able to learn also efficient data representations or data-based feature maps. In this paper, we leverage a recent deep kernel representer theorem to connect the two approaches and understand their interplay. In particular, we show that the use of special types of kernels yield models reminiscent of neural networks that are founded in the same theoretical framework of classical kernel methods, while enjoying many computational properties of deep neural networks. Especially the introduced Structured Deep Kernel Networks (SDKNs) can be viewed as neural networks with optimizable activation functions obeying a representer theorem. Analytic properties show their universal approximation properties in different asymptotic regimes of unbounded number of centers, width and depth. Especially in the case of unbounded depth, the constructions is asymptotically better than corresponding constructions for ReLU neural networks, which is made possible by the flexibility of kernel approximation.	
 </blockquote>
 
 ```bibtex:
@@ -58,13 +58,13 @@ aggiungere link scholar e arxiv
 <p><details style="margin-left:5%;">
 
 <summary>E. Leoni, G. Cencetti, G. Santin, T. Istomin, D. Molteni, G. P. Picco, E. Farella, B. Lepri, A. M. Murphy, 
-<i>Measuring close proximity  interactions in summer camps during the COVID-19 pandemic</i>, (2021). <a href='https://arxiv.org/abs/2106.14750'> <i class="ai ai-arxiv"></i>ArXiv </a>
+<i>Measuring close proximity  interactions in summer camps during the COVID-19 pandemic</i> (2021). <a href='https://arxiv.org/abs/2106.14750'> <i class="ai ai-arxiv"></i>ArXiv </a>
 </summary>
 
 <small>
 
 <blockquote>
-	
+Policy makers have implemented multiple non-pharmaceutical strate-gies to mitigate the COVID-19 worldwide crisis.  Interventions had theaim of reducing close proximity interactions, which drive the spread ofthe disease.  A deeper knowledge of human physical interactions hasrevealed necessary, especially in all settings involving children, whoseeducation and gathering activities should be preserved.  Despite theirrelevance,  almost  no  data  are  available  on  close  proximity  contactsamong  children  in  schools  or  other  educational  settings  during  thepandemic.Contact data are usually gathered via Bluetooth, which nonethe-less  offers  a  low  temporal  and  spatial  resolution.   Recently,  ultra-wideband (UWB) radios emerged as a more accurate alternative thatnonetheless  exhibits  a  significantly  higher  energy  consumption,  lim-iting  in-field  studies.   In  this  paper,  we  leverage  a  novel  approach,embodied by the Janus system that combines these radios by exploit-ing their complementary benefits.  The very accurate proximity data gathered in-field by Janus, once augmented with several metadata, un-locks unprecedented levels of information, enabling the developmentof novel multi-level risk analyses.By means of this technology, we have collected real contact data ofchildren and educators in three summer camps during summer 2020in the province of Trento, Italy.  The wide variety of performed dailyactivities induced multiple individual behaviors, allowing a rich inves-tigation  of  social  environments  from  the  contagion  risk  perspective.We  consider  risk  based  on  duration  and  proximity  of  contacts  andclassify  interactions  according  to  different  risk  levels.   We  can  thenevaluate the summer camps’ organization,  observe the effect of par-tition in small groups,  or social bubbles,  and identify the organizedactivities that mitigate the riskier behaviors.Overall, we offer an insight into the educator-child and child-childsocial  interactions  during  the  pandemic,  thus  providing  a  valuabletool  for  schools,  summer  camps,  and  policy  makers  to  (re)structureeducational activities safely.	
 </blockquote>
 
 ```bibtex:
@@ -80,14 +80,14 @@ aggiungere link scholar e arxiv
 
 <p><details style="margin-left:5%;">
 
-<summary>T. Wenzel, G. Santin, B. Haasdonk, 
-<i>Universality and optimality of structured deep kernel  networks</i>, (2021). <a href='https://arxiv.org/abs/2105.07228'> <i class="ai ai-arxiv"></i>ArXiv </a>
+<summary>A. Alla, H. Oliveira, G. Santin, 
+<i>HJB-RBF based approach for the control of PDEs</i> (2021). <a href='https://arxiv.org/abs/2108.02987'> <i class="ai ai-arxiv"></i>ArXiv </a>
 </summary>
 
 <small>
 
 <blockquote>
-	
+Semi-lagrangian schemes for discretization of the dynamic programming principle are based on a time discretization projected on a state-space grid. The use of a structured grid makes this approach not feasible for high-dimensional problems due to the curse of dimensionality. Here, we present a new approach for infinite horizon optimal control problems where the value function is computed using Radial Basis Functions (RBF) by the Shepard's moving least squares approximation method on scattered grids. We propose a new method to generate a scattered mesh driven by the dynamics and the selection of the shape parameter in the RBF using an optimization routine. This mesh will help to localize the problem and approximate the dynamic programming principle in high dimension. Error estimates for the value function are also provided. Numerical tests for high dimensional problems will show the effectiveness of the proposed method.	
 </blockquote>
 
 ```bibtex:
@@ -103,14 +103,14 @@ aggiungere link scholar e arxiv
 
 <p><details style="margin-left:5%;">
 
-<summary>T. Wenzel, G. Santin, B. Haasdonk, 
-<i>Analysis of target data-dependent greedy kernel algorithms: Convergence rates for f-, f P- and  f/P-greedy</i>, (2021). <a href='https://arxiv.org/abs/2105.07411'> <i class="ai ai-arxiv"></i>ArXiv </a>
+<summary>F. Marchetti, G. Santin, 
+<i>Convergence results in image interpolation with the continuous SSIM</i> (2021). <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
 </summary>
 
 <small>
 
 <blockquote>
-	
+Assessing the similarity of two images is a complex task that has attracted significant efforts in the image processing community. The widely used Structural Similarity Index Measure (SSIM) addresses this problem by quantifying a perceptual structural similarity.  In this paper we consider a recently introduced continuous SSIM (cSSIM), which allows one to analyze sequences of images of increasingly fine resolutions. We prove that this index includes the classical SSIM as a special case, and we provide a precise connection between image similarity measured by the cSSIM and by the $L_2$ norm.  Using this connection, we derive bounds on the cSSIM by means of bounds on the $L_2$ error, and we even prove that the two error measures are equivalent in certain circumstances. We exploit these results to obtain precise rates of convergence with respect to the cSSIM for several concrete image interpolation methods, and we further validate these findings by many numerical experiments.  This newly established connection paves the way to obtain novel insights into the features and limitations of the SSIM.	
 </blockquote>
 
 ```bibtex:
@@ -127,13 +127,13 @@ aggiungere link scholar e arxiv
 <p><details style="margin-left:5%;">
 
 <summary>S. Cuomo, W. Erb, G. Santin, 
-<i>Kernel-Based Models for Influence Maximization on Graphs based on Gaussian Process Variance  Minimization</i>, (2021). <a href='https://arxiv.org/abs/2103.01575'> <i class="ai ai-arxiv"></i>ArXiv </a>
+<i>Kernel-Based Models for Influence Maximization on Graphs based on Gaussian Process Variance  Minimization</i> (2021). <a href='https://arxiv.org/abs/2103.01575'> <i class="ai ai-arxiv"></i>ArXiv </a>
 </summary>
 
 <small>
 
 <blockquote>
-	
+The inference of novel knowledge, the discovery of hidden patterns, and the uncovering of insights from large amounts of data from a multitude of sources make Data Science (DS) to an art rather than just a mere scientific discipline. The study and design of mathematical models able to analyze information represents a central research topic in DS. In this work, we introduce and investigate a novel model for influence maximization (IM) on graphs using ideas from kernel-based approximation, Gaussian process regression, and the minimization of a corresponding variance term. Data-driven approaches can be applied to determine proper kernels for this IM model and machine learning methodologies are adopted to tune the model parameters. Compared to stochastic models in this field that rely on costly Monte-Carlo simulations, our model allows for a simple and cost-efficient update strategy to compute optimal influencing nodes on a graph. In several numerical experiments, we show the properties and benefits of this new model. 	
 </blockquote>
 
 ```bibtex:
@@ -150,15 +150,15 @@ aggiungere link scholar e arxiv
 ## Accepted
 <p><details style="margin-left:5%;">
 
-<summary>B. Haasdonk, B. Hamzi, G. Santin, D. Wittwar, 
-<i>Kernel methods for center manifold approximation and a data-based version  of the Center Manifold Theorem</i>, 
-Accepted for publication in Physica D: Nonlinear Phenomena, (2021). <a href='https://arxiv.org/abs/2012.00338'> <i class="ai ai-arxiv"></i>ArXiv </a>
+<summary>G. Santin, B. Haasdonk, 
+<i>Kernel Methods for Surrogate  Modeling</i>, 
+Accepted for publication in Model Order Reduction, Volume 1: System- and Data-Driven Methods and Algorithms, P. Benner, W. Schilders, S. Grivet-Talocia, A. Quarteroni, G. Rozza, L.  M. Silveira  Eds. (2021). <a href='https://arxiv.org/abs/1907.10556'> <i class="ai ai-arxiv"></i>ArXiv </a>
 </summary>
 
 <small>
 
 <blockquote>
-	
+This chapter deals with kernel methods as a special class of techniques for surrogate modeling. Kernel methods have proven to be efficient in machine learning, pattern recognition and signal analysis due to their flexibility, excellent experimental performance and elegant functional analytic background. These data-based techniques provide so called kernel expansions, i.e., linear combinations of kernel functions which are generated from given input-output point samples that may be arbitrarily scattered. In particular, these techniques are meshless, do not require or depend on a grid, hence are less prone to the curse of dimensionality, even for high-dimensional problems. In contrast to projection-based model reduction, we do not necessarily assume a high-dimensional model, but a general function that models input-output behavior within some simulation context. This could be some micro-model in a multiscale-simulation, some submodel in a coupled system, some initialization function for solvers, coefficient function in PDEs, etc. First, kernel surrogates can be useful if the input-output function is expensive to evaluate, e.g. is a result of a finite element simulation. Here, acceleration can be obtained by sparse kernel expansions. Second, if a function is available only via measurements or a few function evaluation samples, kernel approximation techniques can provide function surrogates that allow global evaluation. We present some important kernel approximation techniques, which are kernel interpolation, greedy kernel approximation and support vector regression. Pseudo-code is provided for ease of reproducibility. In order to illustrate the main features, commonalities and differences, we compare these techniques on a real-world application. The experiments clearly indicate the enormous acceleration potential	
 </blockquote>
 
 ```bibtex:
@@ -176,13 +176,13 @@ Accepted for publication in Physica D: Nonlinear Phenomena, (2021). <a href='htt
 
 <summary>T. Wenzel, M. Kurz, A. Beck, G. Santin, B. Haasdonk, 
 <i>Structured Deep Kernel Networks for Data-Driven Closure Terms of  Turbulent Flows</i>, 
-Accepted for publication in Proceedings of the 13th International Conference on Large Scale Scientific Computations, (2021). <a href='https://arxiv.org/abs/2103.13655'> <i class="ai ai-arxiv"></i>ArXiv </a>
+Accepted for publication in Proceedings of the 13th International Conference on Large Scale Scientific Computations (2021). <a href='https://arxiv.org/abs/2103.13655'> <i class="ai ai-arxiv"></i>ArXiv </a>
 </summary>
 
 <small>
 
 <blockquote>
-	
+Standard kernel methods for machine learning usually struggle when dealing with large datasets. We review a recently introduced Structured Deep Kernel Network (SDKN) approach that is capable of dealing with high-dimensional and huge datasets - and enjoys typical standard machine learning approximation properties. We extend the SDKN to combine it with standard machine learning modules and compare it with Neural Networks on the scientific challenge of data-driven prediction of closure terms of turbulent flows. We show experimentally that the SDKNs are capable of dealing with large datasets and achieve near-perfect accuracy on the given application.	
 </blockquote>
 
 ```bibtex:
@@ -198,15 +198,15 @@ Accepted for publication in Proceedings of the 13th International Conference on 
 
 <p><details style="margin-left:5%;">
 
-<summary>G. Santin, B. Haasdonk, 
-<i>Kernel Methods for Surrogate  Modeling</i>, 
-Accepted for publication in Model Order Reduction, Volume 1: System- and Data-Driven Methods and Algorithms, P. Benner, W. Schilders, S. Grivet-Talocia, A. Quarteroni, G. Rozza, L.  M. Silveira  Eds., (2021). <a href='https://arxiv.org/abs/1907.10556'> <i class="ai ai-arxiv"></i>ArXiv </a>
+<summary>B. Haasdonk, B. Hamzi, G. Santin, D. Wittwar, 
+<i>Kernel methods for center manifold approximation and a data-based version  of the Center Manifold Theorem</i>, 
+Accepted for publication in Physica D: Nonlinear Phenomena (2021). <a href='https://arxiv.org/abs/2012.00338'> <i class="ai ai-arxiv"></i>ArXiv </a>
 </summary>
 
 <small>
 
 <blockquote>
-	
+For dynamical systems with a non hyperbolic equilibrium, it is possible to significantly simplify the study of stability by means of the center manifold theory. This theory allows to isolate the complicated asymptotic behavior of the system close to the equilibrium point and to obtain meaningful predictions of its behavior by analyzing a reduced order system on the so-called center manifold. Since the center manifold is usually not known, good approximation methods are important as the center manifold theorem states that the stability properties of the origin of the reduced order system are the same as those of the origin of the full order system. In this work, we establish a data-based version of the center manifold theorem that works by considering an approximation in place of an exact manifold. Also the error between the approximated and the original reduced dynamics are quantified. We then use an apposite data-based kernel method to construct a suitable approximation of the manifold close to the equilibrium, which is compatible with our general error theory. The data are collected by repeated numerical simulation of the full system by means of a high-accuracy solver, which generates sets of discrete trajectories that are then used as a training set. The method is tested on different examples which show promising performance and good accuracy.	
 </blockquote>
 
 ```bibtex:
@@ -224,8 +224,8 @@ Accepted for publication in Model Order Reduction, Volume 1: System- and Data-Dr
 <p><details style="margin-left:5%;">
 
 <summary> B. Haasdonk, T. Wenzel, G. Santin, S. Schmitt, 
-<i> Biomechanical surrogate modelling using stabilized vectorial greedy kernel methods</i>, 
- Numerical Mathematics and Advanced Applications ENUMATH 2019, F. J. Vermolen, C. Vuik, Eds, (2021). <a href=' https://doi.org/10.1007/978-3-030-55874-1_49'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
+<i>Biomechanical surrogate modelling using stabilized vectorial greedy kernel methods</i>, 
+ Numerical Mathematics and Advanced Applications ENUMATH 2019, F. J. Vermolen, C. Vuik, Eds (2021). <a href=' https://doi.org/10.1007/978-3-030-55874-1_49'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
 </summary>
 
 <small>
@@ -248,8 +248,8 @@ In recent years, in the setting of radial basis function, the study of approx- i
 <p><details style="margin-left:5%;">
 
 <summary> G. Santin, T. Karvonen, B. Haasdonk, 
-<i> Sampling based approximation of linear functionals in Reproducing Kernel Hilbert Spaces</i>, 
- BIT, (2021). <a href=' https://doi.org/10.1007/s10543-021-00870-3'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
+<i>Sampling based approximation of linear functionals in Reproducing Kernel Hilbert Spaces</i>, 
+ BIT (2021). <a href=' https://doi.org/10.1007/s10543-021-00870-3'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
 </summary>
 
 <small>
@@ -272,8 +272,8 @@ In recent years, in the setting of radial basis function, the study of approx- i
 <p><details style="margin-left:5%;">
 
 <summary> G. Cencetti, G. Santin, A. Longa, E. Pigani, A. Barrat, C. Cattuto, S. Lehmann, M. Salath{\'e}, B. Lepri, 
-<i> Digital proximity tracing on empirical contact networks for pandemic control</i>, 
- Nature Commun., (2021). <a href=' https://doi.org/10.1038/s41467-021-21809-w'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
+<i>Digital proximity tracing on empirical contact networks for pandemic control</i>, 
+ Nature Commun. (2021). <a href=' https://doi.org/10.1038/s41467-021-21809-w'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
 </summary>
 
 <small>
@@ -296,8 +296,8 @@ In recent years, in the setting of radial basis function, the study of approx- i
 <p><details style="margin-left:5%;">
 
 <summary> T. Wenzel, G. Santin, B. Haasdonk, 
-<i> A novel class of stabilized greedy kernel approximation algorithms: Convergence, stability and uniform point distribution</i>, 
- J. of Approx. Theory, (2021). <a href=' https://doi.org/10.1016/j.jat.2020.105508'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
+<i>A novel class of stabilized greedy kernel approximation algorithms: Convergence, stability and uniform point distribution</i>, 
+ J. of Approx. Theory (2021). <a href=' https://doi.org/10.1016/j.jat.2020.105508'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
 </summary>
 
 <small>
@@ -320,8 +320,8 @@ In recent years, in the setting of radial basis function, the study of approx- i
 <p><details style="margin-left:5%;">
 
 <summary> B. Haasdonk, B. Hamzi, G. Santin, D. Wittwar, 
-<i> Greedy kernel methods for center manifold approximation</i>, 
- Spectral and High Order Methods for Partial Differential Equations ICOSAHOM 2018, S. Sherwin, D. Moxey, J. Peir{\'o}, P. E. Vincent, and C. Schwab Eds., (2020). <a href=' https://doi.org/10.1007/978-3-030-39647-3_6'> <i class="ai ai-doi"> </i>DOI</a> <a href=' '> <i class="ai ai-arxiv"></i>ArXiv </a>
+<i>Greedy kernel methods for center manifold approximation</i>, 
+ Spectral and High Order Methods for Partial Differential Equations ICOSAHOM 2018, S. Sherwin, D. Moxey, J. Peir{\'o}, P. E. Vincent, and C. Schwab Eds. (2020). <a href=' https://doi.org/10.1007/978-3-030-39647-3_6'> <i class="ai ai-doi"> </i>DOI</a> <a href=' '> <i class="ai ai-arxiv"></i>ArXiv </a>
 </summary>
 
 <small>
@@ -344,80 +344,8 @@ In recent years, in the setting of radial basis function, the study of approx- i
 <p><details style="margin-left:5%;">
 
 <summary> T. Br&uuml;nnette, G. Santin, and B. Haasdonk, 
-<i> Greedy kernel methods for accelerating implicit integrators for parametric ODEs</i>, 
- Numerical Mathematics and Advanced Applications ENUMATH 2017, F.A. Radu, K. Kumar, I. Berre, J.M. Nordbotten, I.S. Pop, (2019). <a href=' https://doi.org/10.1007/978-3-319-96415-7_84'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
-</summary>
-
-<small>
-
-<blockquote>
-	
-</blockquote>
-
-```bibtex:
-
-```
-</small>
-
-</details>
-
-</p>
-
-
-
-<p><details style="margin-left:5%;">
-
-<summary> D. Wittwar, G. Santin, B. Haasdonk, 
-<i> Interpolation with uncoupled separable matrix-valued kernels</i>, 
- Dolomites Res. Notes Approx., (2018). <a href=' http://dx.doi.org/10.14658/pupj-drna-2018-3-4'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
-</summary>
-
-<small>
-
-<blockquote>
-	
-</blockquote>
-
-```bibtex:
-
-```
-</small>
-
-</details>
-
-</p>
-
-
-
-<p><details style="margin-left:5%;">
-
-<summary> K&ouml;ppel, F. Franzelin, I. Kr&ouml;ker, G. Santin, D. Wittwar, S. Oladyshkin, A. Barth, B. Haasdonk, W. Nowak, D. Pfl&uuml;ger, C. Rohde, 
-<i> Comparison of data-driven uncertainty quantification methods for a carbon dioxide storage benchmark scenario</i>, 
- Comput. Geosci, (2018). <a href=' https://doi.org/10.1007/s10596-018-9785-x'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
-</summary>
-
-<small>
-
-<blockquote>
-	
-</blockquote>
-
-```bibtex:
-
-```
-</small>
-
-</details>
-
-</p>
-
-
-
-<p><details style="margin-left:5%;">
-
-<summary> T. K&ouml;ppl, G. Santin, B. Haasdonk, R. Helmig, 
-<i> Numerical modelling of a peripheral arterial stenosis using dimensionally  reduced models and kernel methods</i>, 
- Int. J. Numer. Meth. Biomed. Engng., (2018). <a href=' https://doi.org/10.1002/cnm.3095'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
+<i>Greedy kernel methods for accelerating implicit integrators for parametric ODEs</i>, 
+ Numerical Mathematics and Advanced Applications ENUMATH 2017, F.A. Radu, K. Kumar, I. Berre, J.M. Nordbotten, I.S. Pop (2019). <a href=' https://doi.org/10.1007/978-3-319-96415-7_84'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
 </summary>
 
 <small>
@@ -440,8 +368,32 @@ In recent years, in the setting of radial basis function, the study of approx- i
 <p><details style="margin-left:5%;">
 
 <summary> S. De Marchi, A. Iske, G. Santin, 
-<i> Image reconstruction from scattered Radon data by weighted positive definite kernel functions</i>, 
- Calcolo, (2018). <a href=' https://doi.org/10.1007/s10092-018-0247-6'> <i class="ai ai-doi"> </i>DOI</a> <a href=' '> <i class="ai ai-arxiv"></i>ArXiv </a>
+<i>Image reconstruction from scattered Radon data by weighted positive definite kernel functions</i>, 
+ Calcolo (2018). <a href=' https://doi.org/10.1007/s10092-018-0247-6'> <i class="ai ai-doi"> </i>DOI</a> <a href=' '> <i class="ai ai-arxiv"></i>ArXiv </a>
+</summary>
+
+<small>
+
+<blockquote>
+	
+</blockquote>
+
+```bibtex:
+
+```
+</small>
+
+</details>
+
+</p>
+
+
+
+<p><details style="margin-left:5%;">
+
+<summary> T. K&ouml;ppl, G. Santin, B. Haasdonk, R. Helmig, 
+<i>Numerical modelling of a peripheral arterial stenosis using dimensionally  reduced models and kernel methods</i>, 
+ Int. J. Numer. Meth. Biomed. Engng. (2018). <a href=' https://doi.org/10.1002/cnm.3095'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
 </summary>
 
 <small>
@@ -464,8 +416,56 @@ In recent years, in the setting of radial basis function, the study of approx- i
 <p><details style="margin-left:5%;">
 
 <summary> G. Santin, B. Haasdonk, 
-<i> Greedy kernel approximation for sparse surrogate modelling</i>, 
- Reduced-Order Modeling (ROM) for Simulation and Optimization: Powerful Algorithms as Key Enablers for Scientific Computing, W. Keiper, A. Milde, and S. Volkwein, Eds, (2018). <a href=' https://doi.org/10.1007/978-3-319-75319-5_2'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
+<i>Greedy kernel approximation for sparse surrogate modelling</i>, 
+ Reduced-Order Modeling (ROM) for Simulation and Optimization: Powerful Algorithms as Key Enablers for Scientific Computing, W. Keiper, A. Milde, and S. Volkwein, Eds (2018). <a href=' https://doi.org/10.1007/978-3-319-75319-5_2'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
+</summary>
+
+<small>
+
+<blockquote>
+	
+</blockquote>
+
+```bibtex:
+
+```
+</small>
+
+</details>
+
+</p>
+
+
+
+<p><details style="margin-left:5%;">
+
+<summary> D. Wittwar, G. Santin, B. Haasdonk, 
+<i>Interpolation with uncoupled separable matrix-valued kernels</i>, 
+ Dolomites Res. Notes Approx. (2018). <a href=' http://dx.doi.org/10.14658/pupj-drna-2018-3-4'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
+</summary>
+
+<small>
+
+<blockquote>
+	
+</blockquote>
+
+```bibtex:
+
+```
+</small>
+
+</details>
+
+</p>
+
+
+
+<p><details style="margin-left:5%;">
+
+<summary> K&ouml;ppel, F. Franzelin, I. Kr&ouml;ker, G. Santin, D. Wittwar, S. Oladyshkin, A. Barth, B. Haasdonk, W. Nowak, D. Pfl&uuml;ger, C. Rohde, 
+<i>Comparison of data-driven uncertainty quantification methods for a carbon dioxide storage benchmark scenario</i>, 
+ Comput. Geosci (2018). <a href=' https://doi.org/10.1007/s10596-018-9785-x'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
 </summary>
 
 <small>
@@ -488,8 +488,8 @@ In recent years, in the setting of radial basis function, the study of approx- i
 <p><details style="margin-left:5%;">
 
 <summary> S. De Marchi, A. Idda, G. Santin, 
-<i> A rescaled method for RBF approximation</i>, 
- Proceedings of ``Approximation Theory 15'', San Antonio (Texas), Springer Proceedings on Mathematics and Statistics, (2017). <a href=' https://doi.org/10.1007/978-3-319-59912-0_3'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
+<i>A rescaled method for RBF approximation</i>, 
+ Proceedings of ``Approximation Theory 15'', San Antonio (Texas), Springer Proceedings on Mathematics and Statistics (2017). <a href=' https://doi.org/10.1007/978-3-319-59912-0_3'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
 </summary>
 
 <small>
@@ -512,8 +512,8 @@ In recent years, in the setting of radial basis function, the study of approx- i
 <p><details style="margin-left:5%;">
 
 <summary> G. Santin, B. Haasdonk, 
-<i> Convergence rate of the data-independent P-greedy algorithm in kernel-based spaces</i>, 
- Dolomites Res. Notes Approx., (2017). <a href=' http://dx.doi.org/10.14658/pupj-drna-2017-Special_Issue-9'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
+<i>Convergence rate of the data-independent P-greedy algorithm in kernel-based spaces</i>, 
+ Dolomites Res. Notes Approx. (2017). <a href=' http://dx.doi.org/10.14658/pupj-drna-2017-Special_Issue-9'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
 </summary>
 
 <small>
@@ -536,32 +536,8 @@ In recent years, in the setting of radial basis function, the study of approx- i
 <p><details style="margin-left:5%;">
 
 <summary> R. Cavoretto, S. De Marchi, A. De Rossi, E. Perracchione, G. Santin, 
-<i> Partition of unity interpolation using stable kernel-based techniques</i>, 
- Appl. Numer. Math., (2017). <a href=' https://doi.org/10.1016/j.apnum.2016.07.005'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
-</summary>
-
-<small>
-
-<blockquote>
-	
-</blockquote>
-
-```bibtex:
-
-```
-</small>
-
-</details>
-
-</p>
-
-
-
-<p><details style="margin-left:5%;">
-
-<summary> R. Cavoretto, S. De Marchi, A. De Rossi, E. Perracchione, G. Santin, 
-<i> Approximating basins of attraction for dynamical systems via stable radial bases</i>, 
- AIP Conf. Proc., (2016). <a href=' https://doi.org/10.1063/1.4952177'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
+<i>Partition of unity interpolation using stable kernel-based techniques</i>, 
+ Appl. Numer. Math. (2017). <a href=' https://doi.org/10.1016/j.apnum.2016.07.005'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
 </summary>
 
 <small>
@@ -584,32 +560,8 @@ In recent years, in the setting of radial basis function, the study of approx- i
 <p><details style="margin-left:5%;">
 
 <summary> G. Santin, R. Schaback, 
-<i> Approximation of eigenfunctions in kernel-based spaces</i>, 
- Adv. Comput. Math., (2016). <a href=' https://doi.org/10.1007/s10444-015-9449-5'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
-</summary>
-
-<small>
-
-<blockquote>
-	
-</blockquote>
-
-```bibtex:
-
-```
-</small>
-
-</details>
-
-</p>
-
-
-
-<p><details style="margin-left:5%;">
-
-<summary> S. De Marchi, G. Santin, 
-<i> Fast computation of orthonormal basis for RBF spaces through Krylov space methods</i>, 
- BIT, (2015). <a href=' https://doi.org/10.1007/s10543-014-0537-6'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
+<i>Approximation of eigenfunctions in kernel-based spaces</i>, 
+ Adv. Comput. Math. (2016). <a href=' https://doi.org/10.1007/s10444-015-9449-5'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
 </summary>
 
 <small>
@@ -632,8 +584,32 @@ In recent years, in the setting of radial basis function, the study of approx- i
 <p><details style="margin-left:5%;">
 
 <summary> R. Cavoretto, S. De Marchi, A. De Rossi, E. Perracchione, G. Santin, 
-<i> RBF approximation of large datasets by partition of unity and local stabilization</i>, 
- CMMSE 2015: Proceedings of the 15th International Conference on  Mathematical Methods in Science and Engineering, (2015). <a href=' https://iris.unito.it/retrieve/handle/2318/1526172/55702/CMMSE_2015.pdf'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
+<i>Approximating basins of attraction for dynamical systems via stable radial bases</i>, 
+ AIP Conf. Proc. (2016). <a href=' https://doi.org/10.1063/1.4952177'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
+</summary>
+
+<small>
+
+<blockquote>
+	
+</blockquote>
+
+```bibtex:
+
+```
+</small>
+
+</details>
+
+</p>
+
+
+
+<p><details style="margin-left:5%;">
+
+<summary> R. Cavoretto, S. De Marchi, A. De Rossi, E. Perracchione, G. Santin, 
+<i>RBF approximation of large datasets by partition of unity and local stabilization</i>, 
+ CMMSE 2015: Proceedings of the 15th International Conference on  Mathematical Methods in Science and Engineering (2015). <a href=' https://iris.unito.it/retrieve/handle/2318/1526172/55702/CMMSE_2015.pdf'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
 </summary>
 
 <small>
@@ -656,8 +632,32 @@ In recent years, in the setting of radial basis function, the study of approx- i
 <p><details style="margin-left:5%;">
 
 <summary> S. De Marchi, G. Santin, 
-<i> A new stable basis for radial basis function interpolation</i>, 
- J. Comput. Appl., (2013). <a href=' https://doi.org/10.1016/j.cam.2013.03.048'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
+<i>Fast computation of orthonormal basis for RBF spaces through Krylov space methods</i>, 
+ BIT (2015). <a href=' https://doi.org/10.1007/s10543-014-0537-6'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
+</summary>
+
+<small>
+
+<blockquote>
+	
+</blockquote>
+
+```bibtex:
+
+```
+</small>
+
+</details>
+
+</p>
+
+
+
+<p><details style="margin-left:5%;">
+
+<summary> S. De Marchi, G. Santin, 
+<i>A new stable basis for radial basis function interpolation</i>, 
+ J. Comput. Appl. (2013). <a href=' https://doi.org/10.1016/j.cam.2013.03.048'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
 </summary>
 
 <small>
@@ -680,8 +680,8 @@ In recent years, in the setting of radial basis function, the study of approx- i
 <p><details style="margin-left:5%;">
 
 <summary> G. Santin, A. Sommariva, M. Vianello, 
-<i> An algebraic cubature formula on curvilinear polygons</i>, 
- Appl. Math. Comput., (2011). <a href=' https://doi.org/10.1016/j.amc.2011.04.071'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
+<i>An algebraic cubature formula on curvilinear polygons</i>, 
+ Appl. Math. Comput. (2011). <a href=' https://doi.org/10.1016/j.amc.2011.04.071'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
 </summary>
 
 <small>
