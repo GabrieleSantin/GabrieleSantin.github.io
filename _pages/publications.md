@@ -5,33 +5,25 @@ permalink: /publications/
 author_profile: true
 ---
 
+aggiungere link scholar e arxiv 
 
-## Published
 
+## Submitted
 <p><details style="margin-left:10%;">
 
-<summary>T. Wenzel, G. Santin, B. Haasdonk, 
-<i> A novel class of stabilized greedy kernel approximation algorithms: Convergence, stability and uniform point distribution</i>, 
-J. of Approx. Theory, (2021). <a href='https://doi.org/10.1016/j.jat.2020.105508'> <i class="ai ai-doi"> </i>DOI</a> <a href='https://arxiv.org/abs/1911.04352'> <i class="ai ai-arxiv"></i>ArXiv </a>
+<summary>F. Marchetti, G. Santin, 
+<i>Convergence results in image interpolation with the continuous SSIM</i>, 
+, (2021). <a href=''> <i class="ai ai-doi"> </i></a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
 </summary>
 
 <small>
 
-<blockquote class='no-italics'>
-Kernel based methods provide a way to reconstruct potentially high-dimensional functions from meshfree samples, i.e., sampling points and corresponding target values. A crucial ingredient for this to be successful is the distribution of the sampling points. Since the computation of an optimal selection of sampling points may be an infeasible task, one promising option is to use greedy methods. Although these methods may be very effective, depending on the specific greedy criterion the chosen points might quickly lead to instabilities in the computation. To circumvent this problem, we introduce and investigate a new class of stabilized greedy kernel algorithms, which can be used to create a scale of new selection strategies. We analyze these algorithms, and in particular we prove convergence results and quantify in a precise way the distribution of the selected points. These results allow to prove, in the case of certain Sobolev kernels, that the algorithms have optimal stability and optimal convergence rates, including for functions outside the native space of the kernel. The results also apply to the case of the usual P-greedy algorithm, significantly improving state-of-the-art results available in the literature. Illustrative experiments are presented that support the theoretical findings and show improvements of the stabilized algorithms in terms of accuracy due to improved stability.	
+<blockquote>
+	
 </blockquote>
 
 ```bibtex:
-@Article{Wenzel2021a,
-  author    = {Tizian Wenzel and Gabriele Santin and Bernard Haasdonk},
-  title     = {A novel class of stabilized greedy kernel approximation algorithms: Convergence, stability and uniform point distribution},
-  journal   = {Journal of Approximation Theory},
-  year      = {2021},
-  volume    = {262},
-  pages     = {105508},
-  issn      = {0021-9045},
-  doi       = {https://doi.org/10.1016/j.jat.2020.105508},
-}	
+
 ```
 </small>
 
@@ -39,29 +31,119 @@ Kernel based methods provide a way to reconstruct potentially high-dimensional f
 
 </p>
 
-<p>
-<details style="margin-left:10%;">
 
-<summary>T. Wenzel, G. Santin, B. Haasdonk, 
-<a href='https://doi.org/10.1016/j.jat.2020.105508'> A novel class of stabilized greedy kernel approximation algorithms: Convergence, stability and uniform point distribution</a>, 
-J. of Approx. Theory, (2021). <a href='https://arxiv.org/abs/1911.04352'> [preprint] </a>
+
+<p><details style="margin-left:10%;">
+
+<summary>A. Alla, H. Oliveira, G. Santin, 
+<i>HJB-RBF based approach for the control of PDEs</i>, 
+, (2021). <a href=''> <i class="ai ai-doi"> </i></a> <a href='https://arxiv.org/abs/2108.02987'> <i class="ai ai-arxiv"></i>ArXiv </a>
 </summary>
 
 <small>
 
-> Kernel based methods provide a way to reconstruct potentially high-dimensional functions from meshfree samples, i.e., sampling points and corresponding target values. A crucial ingredient for this to be successful is the distribution of the sampling points. Since the computation of an optimal selection of sampling points may be an infeasible task, one promising option is to use greedy methods. Although these methods may be very effective, depending on the specific greedy criterion the chosen points might quickly lead to instabilities in the computation. To circumvent this problem, we introduce and investigate a new class of stabilized greedy kernel algorithms, which can be used to create a scale of new selection strategies. We analyze these algorithms, and in particular we prove convergence results and quantify in a precise way the distribution of the selected points. These results allow to prove, in the case of certain Sobolev kernels, that the algorithms have optimal stability and optimal convergence rates, including for functions outside the native space of the kernel. The results also apply to the case of the usual P-greedy algorithm, significantly improving state-of-the-art results available in the literature. Illustrative experiments are presented that support the theoretical findings and show improvements of the stabilized algorithms in terms of accuracy due to improved stability.	
+<blockquote>
+	
+</blockquote>
 
 ```bibtex:
-@Article{Wenzel2021a,
-  author    = {Tizian Wenzel and Gabriele Santin and Bernard Haasdonk},
-  title     = {A novel class of stabilized greedy kernel approximation algorithms: Convergence, stability and uniform point distribution},
-  journal   = {Journal of Approximation Theory},
-  year      = {2021},
-  volume    = {262},
-  pages     = {105508},
-  issn      = {0021-9045},
-  doi       = {https://doi.org/10.1016/j.jat.2020.105508},
-}	
+
+```
+</small>
+
+</details>
+
+</p>
+
+
+
+<p><details style="margin-left:10%;">
+
+<summary>E. Leoni, G. Cencetti, G. Santin, T. Istomin, D. Molteni, G. P. Picco, E. Farella, B. Lepri, A. M. Murphy, 
+<i>Measuring close proximity  interactions in summer camps during the COVID-19 pandemic</i>, 
+, (2021). <a href=''> <i class="ai ai-doi"> </i></a> <a href='https://arxiv.org/abs/2106.14750'> <i class="ai ai-arxiv"></i>ArXiv </a>
+</summary>
+
+<small>
+
+<blockquote>
+	
+</blockquote>
+
+```bibtex:
+
+```
+</small>
+
+</details>
+
+</p>
+
+
+
+<p><details style="margin-left:10%;">
+
+<summary>T. Wenzel, G. Santin, B. Haasdonk, 
+<i>Universality and optimality of structured deep kernel  networks</i>, 
+, (2021). <a href=''> <i class="ai ai-doi"> </i></a> <a href='https://arxiv.org/abs/2105.07228'> <i class="ai ai-arxiv"></i>ArXiv </a>
+</summary>
+
+<small>
+
+<blockquote>
+	
+</blockquote>
+
+```bibtex:
+
+```
+</small>
+
+</details>
+
+</p>
+
+
+
+<p><details style="margin-left:10%;">
+
+<summary>T. Wenzel, G. Santin, B. Haasdonk, 
+<i>Analysis of target data-dependent greedy kernel algorithms: Convergence rates for f-, f P- and  f/P-greedy</i>, 
+, (2021). <a href=''> <i class="ai ai-doi"> </i></a> <a href='https://arxiv.org/abs/2105.07411'> <i class="ai ai-arxiv"></i>ArXiv </a>
+</summary>
+
+<small>
+
+<blockquote>
+	
+</blockquote>
+
+```bibtex:
+
+```
+</small>
+
+</details>
+
+</p>
+
+
+
+<p><details style="margin-left:10%;">
+
+<summary>S. Cuomo, W. Erb, G. Santin, 
+<i>Kernel-Based Models for Influence Maximization on Graphs based on Gaussian Process Variance  Minimization</i>, 
+, (2021). <a href=''> <i class="ai ai-doi"> </i></a> <a href='https://arxiv.org/abs/2103.01575'> <i class="ai ai-arxiv"></i>ArXiv </a>
+</summary>
+
+<small>
+
+<blockquote>
+	
+</blockquote>
+
+```bibtex:
+
 ```
 </small>
 
