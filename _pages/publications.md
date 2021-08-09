@@ -8,218 +8,6 @@ author_profile: true
 aggiungere link scholar e arxiv 
 
 
-## Submitted
-<p><details style="margin-left:5%;">
-
-<summary>F. Marchetti, G. Santin, 
-<i>Convergence results in image interpolation with the continuous SSIM</i>, (2021). <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
-</summary>
-
-<small>
-
-<blockquote>
-	
-</blockquote>
-
-```bibtex:
-
-```
-</small>
-
-</details>
-
-</p>
-
-
-
-<p><details style="margin-left:5%;">
-
-<summary>A. Alla, H. Oliveira, G. Santin, 
-<i>HJB-RBF based approach for the control of PDEs</i>, (2021). <a href='https://arxiv.org/abs/2108.02987'> <i class="ai ai-arxiv"></i>ArXiv </a>
-</summary>
-
-<small>
-
-<blockquote>
-	
-</blockquote>
-
-```bibtex:
-
-```
-</small>
-
-</details>
-
-</p>
-
-
-
-<p><details style="margin-left:5%;">
-
-<summary>E. Leoni, G. Cencetti, G. Santin, T. Istomin, D. Molteni, G. P. Picco, E. Farella, B. Lepri, A. M. Murphy, 
-<i>Measuring close proximity  interactions in summer camps during the COVID-19 pandemic</i>, (2021). <a href='https://arxiv.org/abs/2106.14750'> <i class="ai ai-arxiv"></i>ArXiv </a>
-</summary>
-
-<small>
-
-<blockquote>
-	
-</blockquote>
-
-```bibtex:
-
-```
-</small>
-
-</details>
-
-</p>
-
-
-
-<p><details style="margin-left:5%;">
-
-<summary>T. Wenzel, G. Santin, B. Haasdonk, 
-<i>Universality and optimality of structured deep kernel  networks</i>, (2021). <a href='https://arxiv.org/abs/2105.07228'> <i class="ai ai-arxiv"></i>ArXiv </a>
-</summary>
-
-<small>
-
-<blockquote>
-	
-</blockquote>
-
-```bibtex:
-
-```
-</small>
-
-</details>
-
-</p>
-
-
-
-<p><details style="margin-left:5%;">
-
-<summary>T. Wenzel, G. Santin, B. Haasdonk, 
-<i>Analysis of target data-dependent greedy kernel algorithms: Convergence rates for f-, f P- and  f/P-greedy</i>, (2021). <a href='https://arxiv.org/abs/2105.07411'> <i class="ai ai-arxiv"></i>ArXiv </a>
-</summary>
-
-<small>
-
-<blockquote>
-	
-</blockquote>
-
-```bibtex:
-
-```
-</small>
-
-</details>
-
-</p>
-
-
-
-<p><details style="margin-left:5%;">
-
-<summary>S. Cuomo, W. Erb, G. Santin, 
-<i>Kernel-Based Models for Influence Maximization on Graphs based on Gaussian Process Variance  Minimization</i>, (2021). <a href='https://arxiv.org/abs/2103.01575'> <i class="ai ai-arxiv"></i>ArXiv </a>
-</summary>
-
-<small>
-
-<blockquote>
-	
-</blockquote>
-
-```bibtex:
-
-```
-</small>
-
-</details>
-
-</p>
-
-
-
-## Accepted
-<p><details style="margin-left:5%;">
-
-<summary>B. Haasdonk, B. Hamzi, G. Santin, D. Wittwar, 
-<i>Kernel methods for center manifold approximation and a data-based version  of the Center Manifold Theorem</i>, 
-Accepted for publication in Physica D: Nonlinear Phenomena, (2021). <a href=''> <i class="ai ai-doi"> </i>DOI</a> <a href='https://arxiv.org/abs/2012.00338'> <i class="ai ai-arxiv"></i>ArXiv </a>
-</summary>
-
-<small>
-
-<blockquote>
-	
-</blockquote>
-
-```bibtex:
-
-```
-</small>
-
-</details>
-
-</p>
-
-
-
-<p><details style="margin-left:5%;">
-
-<summary>T. Wenzel, M. Kurz, A. Beck, G. Santin, B. Haasdonk, 
-<i>Structured Deep Kernel Networks for Data-Driven Closure Terms of  Turbulent Flows</i>, 
-Accepted for publication in Proceedings of the 13th International Conference on Large Scale Scientific Computations, (2021). <a href=''> <i class="ai ai-doi"> </i>DOI</a> <a href='https://arxiv.org/abs/2103.13655'> <i class="ai ai-arxiv"></i>ArXiv </a>
-</summary>
-
-<small>
-
-<blockquote>
-	
-</blockquote>
-
-```bibtex:
-
-```
-</small>
-
-</details>
-
-</p>
-
-
-
-<p><details style="margin-left:5%;">
-
-<summary>G. Santin, B. Haasdonk, 
-<i>Kernel Methods for Surrogate  Modeling</i>, 
-Accepted for publication in Model Order Reduction, Volume 1: System- and Data-Driven Methods and Algorithms, P. Benner, W. Schilders, S. Grivet-Talocia, A. Quarteroni, G. Rozza, L.  M. Silveira  Eds., (2021). <a href=''> <i class="ai ai-doi"> </i>DOI</a> <a href='https://arxiv.org/abs/1907.10556'> <i class="ai ai-arxiv"></i>ArXiv </a>
-</summary>
-
-<small>
-
-<blockquote>
-	
-</blockquote>
-
-```bibtex:
-
-```
-</small>
-
-</details>
-
-</p>
-
-
-
 ## Published
 <p><details style="margin-left:5%;">
 
@@ -682,6 +470,218 @@ In recent years, in the setting of radial basis function, the study of approx- i
 <summary> G. Santin, A. Sommariva, M. Vianello, 
 <i> An algebraic cubature formula on curvilinear polygons</i>, 
  Appl. Math. Comput., (2011). <a href=' https://doi.org/10.1016/j.amc.2011.04.071'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
+</summary>
+
+<small>
+
+<blockquote>
+	
+</blockquote>
+
+```bibtex:
+
+```
+</small>
+
+</details>
+
+</p>
+
+
+
+## Accepted
+<p><details style="margin-left:5%;">
+
+<summary>B. Haasdonk, B. Hamzi, G. Santin, D. Wittwar, 
+<i>Kernel methods for center manifold approximation and a data-based version  of the Center Manifold Theorem</i>, 
+Physica D: Nonlinear Phenomena, (2021). <a href=''> <i class="ai ai-doi"> </i>DOI</a> <a href='https://arxiv.org/abs/2012.00338'> <i class="ai ai-arxiv"></i>ArXiv </a>
+</summary>
+
+<small>
+
+<blockquote>
+	
+</blockquote>
+
+```bibtex:
+
+```
+</small>
+
+</details>
+
+</p>
+
+
+
+<p><details style="margin-left:5%;">
+
+<summary>T. Wenzel, M. Kurz, A. Beck, G. Santin, B. Haasdonk, 
+<i>Structured Deep Kernel Networks for Data-Driven Closure Terms of  Turbulent Flows</i>, 
+Proceedings of the 13th International Conference on Large Scale Scientific Computations, (2021). <a href=''> <i class="ai ai-doi"> </i>DOI</a> <a href='https://arxiv.org/abs/2103.13655'> <i class="ai ai-arxiv"></i>ArXiv </a>
+</summary>
+
+<small>
+
+<blockquote>
+	
+</blockquote>
+
+```bibtex:
+
+```
+</small>
+
+</details>
+
+</p>
+
+
+
+<p><details style="margin-left:5%;">
+
+<summary>G. Santin, B. Haasdonk, 
+<i>Kernel Methods for Surrogate  Modeling</i>, 
+Model Order Reduction, Volume 1: System- and Data-Driven Methods and Algorithms, P. Benner, W. Schilders, S. Grivet-Talocia, A. Quarteroni, G. Rozza, L.  M. Silveira  Eds., (2021). <a href=''> <i class="ai ai-doi"> </i>DOI</a> <a href='https://arxiv.org/abs/1907.10556'> <i class="ai ai-arxiv"></i>ArXiv </a>
+</summary>
+
+<small>
+
+<blockquote>
+	
+</blockquote>
+
+```bibtex:
+
+```
+</small>
+
+</details>
+
+</p>
+
+
+
+## Submitted
+<p><details style="margin-left:5%;">
+
+<summary>F. Marchetti, G. Santin, 
+<i>Convergence results in image interpolation with the continuous SSIM</i>, (2021). <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
+</summary>
+
+<small>
+
+<blockquote>
+	
+</blockquote>
+
+```bibtex:
+
+```
+</small>
+
+</details>
+
+</p>
+
+
+
+<p><details style="margin-left:5%;">
+
+<summary>A. Alla, H. Oliveira, G. Santin, 
+<i>HJB-RBF based approach for the control of PDEs</i>, (2021). <a href='https://arxiv.org/abs/2108.02987'> <i class="ai ai-arxiv"></i>ArXiv </a>
+</summary>
+
+<small>
+
+<blockquote>
+	
+</blockquote>
+
+```bibtex:
+
+```
+</small>
+
+</details>
+
+</p>
+
+
+
+<p><details style="margin-left:5%;">
+
+<summary>E. Leoni, G. Cencetti, G. Santin, T. Istomin, D. Molteni, G. P. Picco, E. Farella, B. Lepri, A. M. Murphy, 
+<i>Measuring close proximity  interactions in summer camps during the COVID-19 pandemic</i>, (2021). <a href='https://arxiv.org/abs/2106.14750'> <i class="ai ai-arxiv"></i>ArXiv </a>
+</summary>
+
+<small>
+
+<blockquote>
+	
+</blockquote>
+
+```bibtex:
+
+```
+</small>
+
+</details>
+
+</p>
+
+
+
+<p><details style="margin-left:5%;">
+
+<summary>T. Wenzel, G. Santin, B. Haasdonk, 
+<i>Universality and optimality of structured deep kernel  networks</i>, (2021). <a href='https://arxiv.org/abs/2105.07228'> <i class="ai ai-arxiv"></i>ArXiv </a>
+</summary>
+
+<small>
+
+<blockquote>
+	
+</blockquote>
+
+```bibtex:
+
+```
+</small>
+
+</details>
+
+</p>
+
+
+
+<p><details style="margin-left:5%;">
+
+<summary>T. Wenzel, G. Santin, B. Haasdonk, 
+<i>Analysis of target data-dependent greedy kernel algorithms: Convergence rates for f-, f P- and  f/P-greedy</i>, (2021). <a href='https://arxiv.org/abs/2105.07411'> <i class="ai ai-arxiv"></i>ArXiv </a>
+</summary>
+
+<small>
+
+<blockquote>
+	
+</blockquote>
+
+```bibtex:
+
+```
+</small>
+
+</details>
+
+</p>
+
+
+
+<p><details style="margin-left:5%;">
+
+<summary>S. Cuomo, W. Erb, G. Santin, 
+<i>Kernel-Based Models for Influence Maximization on Graphs based on Gaussian Process Variance  Minimization</i>, (2021). <a href='https://arxiv.org/abs/2103.01575'> <i class="ai ai-arxiv"></i>ArXiv </a>
 </summary>
 
 <small>
