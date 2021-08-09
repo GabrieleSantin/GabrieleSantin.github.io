@@ -343,7 +343,7 @@ In recent years, in the setting of radial basis function, the study of approx- i
 
 <p><details style="margin-left:5%;">
 
-<summary> T. Br{\"u}nnette, G. Santin, and B. Haasdonk, 
+<summary> T. Br&uuml;nnette, G. Santin, and B. Haasdonk, 
 <i> Greedy kernel methods for accelerating implicit integrators for parametric ODEs</i>, 
  Numerical Mathematics and Advanced Applications ENUMATH 2017, F.A. Radu, K. Kumar, I. Berre, J.M. Nordbotten, I.S. Pop, (2019). <a href=' https://doi.org/10.1007/978-3-319-96415-7_84'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
 </summary>
@@ -391,7 +391,7 @@ In recent years, in the setting of radial basis function, the study of approx- i
 
 <p><details style="margin-left:5%;">
 
-<summary> K{\"o}ppel, F. Franzelin, I. Kr{\"o}ker, G. Santin, D. Wittwar, S. Oladyshkin, A. Barth, B. Haasdonk, W. Nowak, D. Pfl{\"u}ger, C. Rohde, 
+<summary> K&ouml;ppel, F. Franzelin, I. Kr&ouml;ker, G. Santin, D. Wittwar, S. Oladyshkin, A. Barth, B. Haasdonk, W. Nowak, D. Pfl&uuml;ger, C. Rohde, 
 <i> Comparison of data-driven uncertainty quantification methods for a carbon dioxide storage benchmark scenario</i>, 
  Comput. Geosci, (2018). <a href=' https://doi.org/10.1007/s10596-018-9785-x'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
 </summary>
@@ -415,7 +415,7 @@ In recent years, in the setting of radial basis function, the study of approx- i
 
 <p><details style="margin-left:5%;">
 
-<summary> T. K{\"o}ppl, G. Santin, B. Haasdonk, R. Helmig, 
+<summary> T. K&ouml;ppl, G. Santin, B. Haasdonk, R. Helmig, 
 <i> Numerical modelling of a peripheral arterial stenosis using dimensionally  reduced models and kernel methods</i>, 
  Int. J. Numer. Meth. Biomed. Engng., (2018). <a href=' https://doi.org/10.1002/cnm.3095'> <i class="ai ai-doi"> </i>DOI</a> <a href=''> <i class="ai ai-arxiv"></i>ArXiv </a>
 </summary>
