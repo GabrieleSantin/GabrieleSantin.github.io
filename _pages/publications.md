@@ -32,6 +32,7 @@ terms of accuracy due to improved stability.
 <details>
 <summary>BibTex</summary>
 
+```bibtex:
 @Article{Wenzel2021a,
   author    = {Tizian Wenzel and Gabriele Santin and Bernard Haasdonk},
   title     = {A novel class of stabilized greedy kernel approximation algorithms: Convergence, stability and uniform point distribution},
@@ -42,5 +43,7 @@ terms of accuracy due to improved stability.
   issn      = {0021-9045},
   doi       = {https://doi.org/10.1016/j.jat.2020.105508},
 }	
+```
+
 </details>
 
