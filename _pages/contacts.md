@@ -9,8 +9,6 @@ You can contact me through this form.
 
 
 
-
-
 <font size="5">
 <table style="border:none;">
 
