@@ -9,8 +9,7 @@ This page contains some material that was prepared for various lectures or tutor
 
 
 
-<font size="5">
-<table rules=none>
+<table class="no-border">
 
 ### Introduction to Digital Contact Tracing
 
@@ -34,8 +33,7 @@ The course gives an introduction to the mathematical principles underlying a dig
 </table>
 </font>
 
-<font size="5">
-<table rules=none>
+<table class="no-border">
 
 ### Approximation with Kernel Methods
 
