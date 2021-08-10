@@ -25,7 +25,7 @@ This page contains some material that was prepared for various lectures or tutor
 <td width="65%" style="border:none;">
 The course gives an introduction to the mathematical principles underlying a digital contact tracing procedure. The main topics are the foundations and principles of the mathematical modeling of the spread of an infectious disease and its containment with an isolation and tracing policy.
 <br> 
-<a href='https://drive.google.com/drive/u/1/folders/1mH7-AlXOZNtJALaw7QKcpbqHxOqUn0-9'> <i class='fa fa-file-powerpoint'></i> Slides</a> 
+<a href='https://drive.google.com/drive/u/1/folders/1mH7-AlXOZNtJALaw7QKcpbqHxOqUn0-9'> <i class='fa fa-file-powerpoint'></i> Slides</a> <br>With <a href='https://twitter.com/_giuliacencetti?lang=en'> <i class='fa fa-user-friends'></i> Giulia Cencetti</a> 
 
 
 </td>
@@ -52,7 +52,7 @@ The course gives an introduction to the mathematical principles underlying a dig
 <td width="65%" style="border:none;">
 
 <br> 
-<a href='https://antoniolonga.github.io/Pytorch_geometric_tutorials/index.html'> <i class='fa fa-link'></i> Webpage</a> <a href='https://github.com/AntonioLonga/PytorchGeometricTutorial'> <i class='fa fa-file-powerpoint'></i> Slides</a> <a href='https://www.youtube.com/user/94longa2112/videos'> <i class='fa fa-video'></i> Video</a> 
+<a href='https://antoniolonga.github.io/Pytorch_geometric_tutorials/index.html'> <i class='fa fa-link'></i> Webpage</a> <a href='https://github.com/AntonioLonga/PytorchGeometricTutorial'> <i class='fa fa-file-powerpoint'></i> Slides</a> <a href='https://www.youtube.com/user/94longa2112/videos'> <i class='fa fa-video'></i> Video</a> <br>With <a href='https://twitter.com/AntonioLonga94'> <i class='fa fa-user-friends'></i> Antonio Longa</a> <a href='https://twitter.com/gianni_pele'> <i class='fa fa-user-friends'></i>  Gianni Pellegrini</a> 
 
 
 </td>
