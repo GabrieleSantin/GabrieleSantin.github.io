@@ -28,6 +28,11 @@ You can contact me through this form.
   </label>
 
   <label>
+    Your name:
+    <input name="name">
+  </label>
+
+  <label>
     Your message:
     <textarea name="message"></textarea>
   </label>
