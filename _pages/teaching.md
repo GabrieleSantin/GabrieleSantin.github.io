@@ -10,7 +10,7 @@ This page contains some material that was prepared for various lectures or tutor
 
 
 <font size="5">
-<table class="no-border">
+<table style="border:none;">
 
 ### Introduction to Digital Contact Tracing
 
@@ -24,8 +24,10 @@ This page contains some material that was prepared for various lectures or tutor
 
 <td width="65%" style="border:none;">
 The course gives an introduction to the mathematical principles underlying a digital contact tracing procedure. The main topics are the foundations and principles of the mathematical modeling of the spread of an infectious disease and its containment with an isolation and tracing policy.
-<br> <a href='https://GabrieleSantin.github.io/files/'> <i class="fa fa-file-pdf"></i> Lecture notes </a>
-<br><b>Link:</b> <br><br>
+<br> 
+
+
+
 </td>
 
 </tr>
@@ -35,7 +37,7 @@ The course gives an introduction to the mathematical principles underlying a dig
 </font>
 
 <font size="5">
-<table class="no-border">
+<table style="border:none;">
 
 ### Approximation with Kernel Methods
 
@@ -49,8 +51,10 @@ The course gives an introduction to the mathematical principles underlying a dig
 
 <td width="65%" style="border:none;">
 The course deals with the theory and implementation of various kernel methods for ap- proximation. The main topics are: Introduction to kernel methods, Connection to the corresponding function spaces and general theory, Approximation of scattered data (Greedy procedures, Regression), Pattern recognition (Classification, Support Vector Machines), Numerical approximation of PDEs by collocation
-<br> <a href='https://GabrieleSantin.github.io/files/approximation_with_kernel_methods.pdf'> <i class="fa fa-file-pdf"></i> Lecture notes </a>
-<br><b>Link:</b> <br><br>
+<br> 
+<a href='https://GabrieleSantin.github.io/files/approximation_with_kernel_methods.pdf'> <i class='fa fa-file-pdf'></i> Lecture notes </a>
+
+
 </td>
 
 </tr>
