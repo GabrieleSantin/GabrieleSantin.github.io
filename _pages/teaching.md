@@ -50,7 +50,7 @@ The course is designed for BSc students with no particular math background, and 
 </td>
 
 <td width="65%" style="border:none;">
-This project is a series of video tutorials to get an introduction to Geometric Deep Learning, especially focusing on the implementation with the Pytorch geometric library. After a first series in Spring 2021, a second part on temporal graphs is scheduled to start in September 2021. In the webpage of the tutorials you can find info to join the weekly sessions. 
+This series of video tutorials gives an introduction to Geometric Deep Learning, especially focusing on the implementation with the Pytorch geometric library. After a first series in Spring 2021, a second part on temporal graphs is scheduled to start in September 2021. In the webpage of the tutorials you can find info to join the weekly sessions. 
 <br> 
 <a href='https://antoniolonga.github.io/Pytorch_geometric_tutorials/index.html'> <i class='fa fa-link'></i> Webpage</a> <a href='https://github.com/AntonioLonga/PytorchGeometricTutorial'> <i class='fa fa-file-powerpoint'></i> Slides</a> <a href='https://www.youtube.com/user/94longa2112/videos'> <i class='fa fa-video'></i> Video</a> <br>With <a href='https://antoniolonga.github.io/'> <i class='fa fa-user'></i> Antonio Longa</a> <a href='https://giannipele.com/'> <i class='fa fa-user'></i>  Gianni Pellegrini</a> 
 
