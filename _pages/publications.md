@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Up to date information on my publications can be found on my <a href='https://scholar.google.it/citations?user=WG9oe0wAAAAJ&hl=en'> <i class="ai ai-google-scholar"></i>Google Scholar</a> and <a href='https://arxiv.org/a/santin_g_1.html'> <i class="ai ai-arxiv"></i>ArXiv</a> profiles.
+Up to date information can be found on my <a href='https://scholar.google.it/citations?user=WG9oe0wAAAAJ&hl=en'> <i class="ai ai-google-scholar"></i>Google Scholar</a> and <a href='https://arxiv.org/a/santin_g_1.html'> <i class="ai ai-arxiv"></i>ArXiv</a> profiles.
 
 
 ## Submitted
@@ -132,7 +132,7 @@ Semi-lagrangian schemes for discretization of the dynamic programming principle 
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>F. Marchetti, G. Santin, 
-<i>Convergence results in image interpolation with the continuous SSIM</i> (2021). <a href=''> <i class="fa fa-file-pdf"></i> Preprint </a>
+<i>Convergence results in image interpolation with the continuous SSIM</i> (2021). <a href='https://arxiv.org/abs/2108.03879'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
 
 <small>
@@ -142,7 +142,14 @@ Assessing the similarity of two images is a complex task that has attracted sign
 </blockquote>
 
 ```bibtex:
-
+@misc{Marchetti2021,
+      title={Convergence analysis for image interpolation in terms of the cSSIM}, 
+      author={Francesco Marchetti and Gabriele Santin},
+      year={2021},
+      eprint={2108.03879},
+      archivePrefix={arXiv},
+      primaryClass={math.NA}
+}
 ```
 </small>
 
