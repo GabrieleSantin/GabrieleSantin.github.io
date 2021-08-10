@@ -23,7 +23,7 @@ This page contains some material that was prepared for various lectures or tutor
 </td>
 
 <td width="65%" style="border:none;">
-The course is designed for BSc students with no particular math background, and it gives an introduction to the mathematical principles underlying a digital contact tracing procedure. The main topics are the foundations and principles of the mathematical modeling of the spread of an infectious disease and its containment with an isolation and tracing policy.
+The course is designed for BSc students with no particular math background, and it gives an introduction to the mathematical principles underlying a digital contact tracing procedure. The main topics are the foundations and principles of the mathematical modeling of the spread of an infectious disease and its containment with an isolation and tracing policy. The slides are in Italian.
 <br> 
 <a href='https://drive.google.com/drive/u/1/folders/1mH7-AlXOZNtJALaw7QKcpbqHxOqUn0-9'> <i class='fa fa-file-powerpoint'></i> Slides</a> <br>With <a href='https://twitter.com/_giuliacencetti?lang=en'> <i class='fa fa-user'></i> Giulia Cencetti</a> 
 
