@@ -16,7 +16,7 @@ This page contains some material that was prepared for various lectures or tutor
 
 <tr style="border:none;">
 
-<td width="25%">
+<td width="25%" style="border:none;">
 
 <img src="https://GabrieleSantin.github.io/images/" style="padding-top: 7px;display: block;margin-right:35px;" width="90">
 
@@ -41,7 +41,7 @@ The course gives an introduction to the mathematical principles underlying a dig
 
 <tr style="border:none;">
 
-<td width="25%">
+<td width="25%" style="border:none;">
 
 <img src="https://GabrieleSantin.github.io/images/approximation_with_kernel_methods.png" style="padding-top: 7px;display: block;margin-right:35px;" width="90">
 
