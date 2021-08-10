@@ -15,11 +15,6 @@ You can contact me through this form.
 
 <tr style="border:none;">
 
-<td width="25%" style="border:none;">
-
-
-</td>
-
 <td width="65%" style="border:none;">
 
 
