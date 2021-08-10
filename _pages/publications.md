@@ -21,7 +21,8 @@ Up to date information can be found on my <a href='https://scholar.google.it/cit
 Data-dependent greedy algorithms in kernel spaces are known to provide fast converging interpolants, while being extremely easy to implement and efficient to run. Despite this experimental evidence, no detailed theory has yet been presented. This situation is unsatisfactory especially when compared to the case of the data-independent P-greedy algorithm, for which optimal convergence rates are available, despite its performances being usually inferior to the ones of target data-dependent algorithms. In this work we fill this gap by first defining a new scale of greedy algorithms for interpolation that comprises all the existing ones in a unique analysis, where the degree of dependency of the selection criterion on the functional data is quantified by a real parameter. We then prove new convergence rates where this degree is taken into account and we show that, possibly up to a logarithmic factor, target data-dependent selection strategies provide faster convergence. In particular, for the first time we obtain convergence rates for target data adaptive interpolation that are faster than the ones given by uniform points, without the need of any special assumption on the target function. The rates are confirmed by a number of examples. These results are made possible by a new analysis of greedy algorithms in general Hilbert spaces.	
 </blockquote>
 
-```bibtex:
+<pre>
+  <code class="bibtex">
 @misc{Wenzel2021b,
       title={Analysis of target data-dependent greedy kernel algorithms: Convergence rates for $f$-, $f \cdot P$- and $f/P$-greedy}, 
       author={Tizian Wenzel and Gabriele Santin and Bernard Haasdonk},
@@ -30,7 +31,8 @@ Data-dependent greedy algorithms in kernel spaces are known to provide fast conv
       archivePrefix={arXiv},
       primaryClass={math.NA}
 }
-```
+  </code>
+</pre>
 </small>
 
 </details>
@@ -51,7 +53,8 @@ Data-dependent greedy algorithms in kernel spaces are known to provide fast conv
 Kernel based methods yield approximation models that are flexible, efficient and powerful. In particular, they utilize fixed feature maps of the data, being often associated to strong analytical results that prove their accuracy. On the other hand, the recent success of machine learning methods has been driven by deep neural networks (NNs). They achieve a significant accuracy on very high-dimensional data, in that they are able to learn also efficient data representations or data-based feature maps. In this paper, we leverage a recent deep kernel representer theorem to connect the two approaches and understand their interplay. In particular, we show that the use of special types of kernels yield models reminiscent of neural networks that are founded in the same theoretical framework of classical kernel methods, while enjoying many computational properties of deep neural networks. Especially the introduced Structured Deep Kernel Networks (SDKNs) can be viewed as neural networks with optimizable activation functions obeying a representer theorem. Analytic properties show their universal approximation properties in different asymptotic regimes of unbounded number of centers, width and depth. Especially in the case of unbounded depth, the constructions is asymptotically better than corresponding constructions for ReLU neural networks, which is made possible by the flexibility of kernel approximation.	
 </blockquote>
 
-```bibtex:
+<pre>
+  <code class="bibtex">
 @misc{Wenzel2021c,
       title={Universality and Optimality of Structured Deep Kernel Networks}, 
       author={Tizian Wenzel and Gabriele Santin and Bernard Haasdonk},
@@ -60,7 +63,8 @@ Kernel based methods yield approximation models that are flexible, efficient and
       archivePrefix={arXiv},
       primaryClass={cs.LG}
 }
-```
+  </code>
+</pre>
 </small>
 
 </details>
@@ -81,7 +85,8 @@ Kernel based methods yield approximation models that are flexible, efficient and
 Policy makers have implemented multiple non-pharmaceutical strate-gies to mitigate the COVID-19 worldwide crisis.  Interventions had theaim of reducing close proximity interactions, which drive the spread ofthe disease.  A deeper knowledge of human physical interactions hasrevealed necessary, especially in all settings involving children, whoseeducation and gathering activities should be preserved.  Despite theirrelevance,  almost  no  data  are  available  on  close  proximity  contactsamong  children  in  schools  or  other  educational  settings  during  thepandemic.Contact data are usually gathered via Bluetooth, which nonethe-less  offers  a  low  temporal  and  spatial  resolution.   Recently,  ultra-wideband (UWB) radios emerged as a more accurate alternative thatnonetheless  exhibits  a  significantly  higher  energy  consumption,  lim-iting  in-field  studies.   In  this  paper,  we  leverage  a  novel  approach,embodied by the Janus system that combines these radios by exploit-ing their complementary benefits.  The very accurate proximity data gathered in-field by Janus, once augmented with several metadata, un-locks unprecedented levels of information, enabling the developmentof novel multi-level risk analyses.By means of this technology, we have collected real contact data ofchildren and educators in three summer camps during summer 2020in the province of Trento, Italy.  The wide variety of performed dailyactivities induced multiple individual behaviors, allowing a rich inves-tigation  of  social  environments  from  the  contagion  risk  perspective.We  consider  risk  based  on  duration  and  proximity  of  contacts  andclassify  interactions  according  to  different  risk  levels.   We  can  thenevaluate the summer camps’ organization,  observe the effect of par-tition in small groups,  or social bubbles,  and identify the organizedactivities that mitigate the riskier behaviors.Overall, we offer an insight into the educator-child and child-childsocial  interactions  during  the  pandemic,  thus  providing  a  valuabletool  for  schools,  summer  camps,  and  policy  makers  to  (re)structureeducational activities safely.	
 </blockquote>
 
-```bibtex:
+<pre>
+  <code class="bibtex">
 @misc{Leoni2021,
       title={Measuring close proximity interactions in summer camps during the COVID-19 pandemic}, 
       author={E. Leoni and G. Cencetti and G. Santin and T. Istomin and D. Molteni and G. P. Picco and E. Farella and B. Lepri and A. M. Murphy},
@@ -90,7 +95,8 @@ Policy makers have implemented multiple non-pharmaceutical strate-gies to mitiga
       archivePrefix={arXiv},
       primaryClass={cs.NI}
 }
-```
+  </code>
+</pre>
 </small>
 
 </details>
@@ -111,7 +117,8 @@ Policy makers have implemented multiple non-pharmaceutical strate-gies to mitiga
 Semi-lagrangian schemes for discretization of the dynamic programming principle are based on a time discretization projected on a state-space grid. The use of a structured grid makes this approach not feasible for high-dimensional problems due to the curse of dimensionality. Here, we present a new approach for infinite horizon optimal control problems where the value function is computed using Radial Basis Functions (RBF) by the Shepard's moving least squares approximation method on scattered grids. We propose a new method to generate a scattered mesh driven by the dynamics and the selection of the shape parameter in the RBF using an optimization routine. This mesh will help to localize the problem and approximate the dynamic programming principle in high dimension. Error estimates for the value function are also provided. Numerical tests for high dimensional problems will show the effectiveness of the proposed method.	
 </blockquote>
 
-```bibtex:
+<pre>
+  <code class="bibtex">
 @misc{Alla2021,
       title={HJB-RBF based approach for the control of PDEs}, 
       author={Alessandro Alla and Hugo Oliveira and Gabriele Santin},
@@ -120,7 +127,8 @@ Semi-lagrangian schemes for discretization of the dynamic programming principle 
       archivePrefix={arXiv},
       primaryClass={math.NA}
 }
-```
+  </code>
+</pre>
 </small>
 
 </details>
@@ -141,7 +149,8 @@ Semi-lagrangian schemes for discretization of the dynamic programming principle 
 Assessing the similarity of two images is a complex task that has attracted significant efforts in the image processing community. The widely used Structural Similarity Index Measure (SSIM) addresses this problem by quantifying a perceptual structural similarity.  In this paper we consider a recently introduced continuous SSIM (cSSIM), which allows one to analyze sequences of images of increasingly fine resolutions. We prove that this index includes the classical SSIM as a special case, and we provide a precise connection between image similarity measured by the cSSIM and by the $L_2$ norm.  Using this connection, we derive bounds on the cSSIM by means of bounds on the $L_2$ error, and we even prove that the two error measures are equivalent in certain circumstances. We exploit these results to obtain precise rates of convergence with respect to the cSSIM for several concrete image interpolation methods, and we further validate these findings by many numerical experiments.  This newly established connection paves the way to obtain novel insights into the features and limitations of the SSIM.	
 </blockquote>
 
-```bibtex:
+<pre>
+  <code class="bibtex">
 @misc{Marchetti2021,
       title={Convergence analysis for image interpolation in terms of the cSSIM}, 
       author={Francesco Marchetti and Gabriele Santin},
@@ -150,7 +159,8 @@ Assessing the similarity of two images is a complex task that has attracted sign
       archivePrefix={arXiv},
       primaryClass={math.NA}
 }
-```
+  </code>
+</pre>
 </small>
 
 </details>
@@ -171,7 +181,8 @@ Assessing the similarity of two images is a complex task that has attracted sign
 The inference of novel knowledge, the discovery of hidden patterns, and the uncovering of insights from large amounts of data from a multitude of sources make Data Science (DS) to an art rather than just a mere scientific discipline. The study and design of mathematical models able to analyze information represents a central research topic in DS. In this work, we introduce and investigate a novel model for influence maximization (IM) on graphs using ideas from kernel-based approximation, Gaussian process regression, and the minimization of a corresponding variance term. Data-driven approaches can be applied to determine proper kernels for this IM model and machine learning methodologies are adopted to tune the model parameters. Compared to stochastic models in this field that rely on costly Monte-Carlo simulations, our model allows for a simple and cost-efficient update strategy to compute optimal influencing nodes on a graph. In several numerical experiments, we show the properties and benefits of this new model. 	
 </blockquote>
 
-```bibtex:
+<pre>
+  <code class="bibtex">
 @misc{Cuomo2021,
       title={Kernel-Based Models for Influence Maximization on Graphs based on Gaussian Process Variance Minimization}, 
       author={Salvatore Cuomo and Wolfgang Erb and Gabriele Santin},
@@ -180,7 +191,8 @@ The inference of novel knowledge, the discovery of hidden patterns, and the unco
       archivePrefix={arXiv},
       primaryClass={cs.LG}
 }
-```
+  </code>
+</pre>
 </small>
 
 </details>
@@ -215,7 +227,6 @@ This chapter deals with kernel methods as a special class of techniques for surr
 }
   </code>
 </pre>
-
 </small>
 
 </details>
@@ -249,7 +260,6 @@ Standard kernel methods for machine learning usually struggle when dealing with 
 }
   </code>
 </pre>
-
 </small>
 
 </details>
@@ -284,7 +294,6 @@ For dynamical systems with a non hyperbolic equilibrium, it is possible to signi
 }
   </code>
 </pre>
-
 </small>
 
 </details>
