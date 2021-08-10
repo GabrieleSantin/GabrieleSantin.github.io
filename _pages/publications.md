@@ -7,6 +7,7 @@ author_profile: true
 
 Up to date information can be found on my <a href='https://scholar.google.it/citations?user=WG9oe0wAAAAJ&hl=en'> <i class="ai ai-google-scholar"></i>Google Scholar</a> and <a href='https://arxiv.org/a/santin_g_1.html'> <i class="ai ai-arxiv"></i>ArXiv</a> profiles.
 
+Click on the publications below to expand them.
 
 ## Submitted
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
