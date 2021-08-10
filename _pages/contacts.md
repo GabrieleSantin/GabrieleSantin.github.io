@@ -5,6 +5,25 @@ permalink: /contacts/
 author_profile: true
 ---
 
+You can contact me through this form.
+
+
+
+
+
+<font size="5">
+<table style="border:none;">
+
+
+<tr style="border:none;">
+
+<td width="25%" style="border:none;">
+
+
+</td>
+
+<td width="65%" style="border:none;">
+
 
 <form
   action="https://formspree.io/f/gsantin@fbk.eu"
@@ -14,12 +33,20 @@ author_profile: true
     Your email:
     <input type="email" name="_replyto">
   </label>
+
   <label>
     Your message:
     <textarea name="message"></textarea>
   </label>
 
-  <!-- your other form fields go here -->
-
   <button type="submit">Send</button>
 </form>
+
+
+</td>
+
+</tr>
+
+
+</table>
+</font>
