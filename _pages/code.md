@@ -25,7 +25,7 @@ This page contains some code project that I've worked on. Up to date information
 </td>
 
 <td width="65%" style="border:none;">
-This code implements interpolation and approximation methods on graphs by Graph Basis Functions, that are a type of positive definite kernels that generalize Radial Basis Functions. This code was used to run and test an influence maximization algorithm based on the greedy minimization of the posterior variance of the Gaussian Process associated to the kernel.
+This code implements interpolation and approximation methods on graphs by Graph Basis Functions, which are a type of positive definite kernels that generalize Radial Basis Functions. This code was used to run and test an influence maximization algorithm based on the greedy minimization of the posterior variance of the Gaussian Process associated to the kernel.
 <br> 
 <a href='https://github.com/GabrieleSantin/GraphBasisFunctions'> <i class='fa fa-github-square'></i> Repository</a>
 <br>With <a href='http://wpage.unina.it/salcuomo/'> <i class='fa fa-user'></i> Salvatore Cuomo</a> <a href='https://www.math.unipd.it/~erb/'> <i class='fa fa-user'></i>  Wolfgang Erb</a> 
