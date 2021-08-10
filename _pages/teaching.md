@@ -18,7 +18,7 @@ This page contains some material that was prepared for various lectures or tutor
 
 <td width="25%" style="border:none;">
 
-<img src="https://GabrieleSantin.github.io/images/" style="padding-top: 7px;display: block;margin-right:35px;" width="90%">
+<img src="https://GabrieleSantin.github.io/images/digital_contact_tracing.png" style="padding-top: 7px;display: block;margin-right:35px;" width="90%">
 
 </td>
 
