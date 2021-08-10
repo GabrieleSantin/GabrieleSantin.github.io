@@ -52,7 +52,7 @@ The course gives an introduction to the mathematical principles underlying a dig
 <td width="65%" style="border:none;">
 
 <br> 
-<a href='https://antoniolonga.github.io/Pytorch_geometric_tutorials/index.html'> <i class='fa fa-link'></i> Webpage</a> <a href='https://github.com/AntonioLonga/PytorchGeometricTutorial'> <i class='fa fa-file-powerpoint'></i> Slides</a> <a href='https://www.youtube.com/user/94longa2112/videos'> <i class='fa fa-youtube-square'></i> Video</a> 
+<a href='https://antoniolonga.github.io/Pytorch_geometric_tutorials/index.html'> <i class='fa fa-link'></i> Webpage</a> <a href='https://github.com/AntonioLonga/PytorchGeometricTutorial'> <i class='fa fa-file-powerpoint'></i> Slides</a> <a href='https://www.youtube.com/user/94longa2112/videos'> <i class='fa fa-video'></i> Video</a> 
 
 
 </td>
