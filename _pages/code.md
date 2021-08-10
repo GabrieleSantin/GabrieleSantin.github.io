@@ -5,7 +5,7 @@ permalink: /code/
 author_profile: true
 ---
 
-This page contains some code project that I've worked on. Up to date information can be found on my <a href='https://github.com/GabrieleSantin'> <i class="ai-github"></i>GitHub</a> profile.
+This page contains some code project that I've worked on. Up to date information can be found on my <a href='https://github.com/GabrieleSantin'> <i class="fa fa-github"></i>GitHub</a> profile.
 
 
 
