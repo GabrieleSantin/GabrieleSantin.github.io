@@ -203,7 +203,8 @@ Accepted for publication in Model Order Reduction, Volume 1: System- and Data-Dr
 This chapter deals with kernel methods as a special class of techniques for surrogate modeling. Kernel methods have proven to be efficient in machine learning, pattern recognition and signal analysis due to their flexibility, excellent experimental performance and elegant functional analytic background. These data-based techniques provide so called kernel expansions, i.e., linear combinations of kernel functions which are generated from given input-output point samples that may be arbitrarily scattered. In particular, these techniques are meshless, do not require or depend on a grid, hence are less prone to the curse of dimensionality, even for high-dimensional problems. In contrast to projection-based model reduction, we do not necessarily assume a high-dimensional model, but a general function that models input-output behavior within some simulation context. This could be some micro-model in a multiscale-simulation, some submodel in a coupled system, some initialization function for solvers, coefficient function in PDEs, etc. First, kernel surrogates can be useful if the input-output function is expensive to evaluate, e.g. is a result of a finite element simulation. Here, acceleration can be obtained by sparse kernel expansions. Second, if a function is available only via measurements or a few function evaluation samples, kernel approximation techniques can provide function surrogates that allow global evaluation. We present some important kernel approximation techniques, which are kernel interpolation, greedy kernel approximation and support vector regression. Pseudo-code is provided for ease of reproducibility. In order to illustrate the main features, commonalities and differences, we compare these techniques on a real-world application. The experiments clearly indicate the enormous acceleration potential	
 </blockquote>
 
-```bibtex:
+<pre>
+  <code class="bibtex">
 @misc{Santin2019,
       title={Kernel Methods for Surrogate Modeling}, 
       author={Gabriele Santin and Bernard Haasdonk},
@@ -212,7 +213,9 @@ This chapter deals with kernel methods as a special class of techniques for surr
       archivePrefix={arXiv},
       primaryClass={math.NA}
 }
-```
+  </code>
+</pre>
+
 </small>
 
 </details>
@@ -234,7 +237,8 @@ Accepted for publication in Proceedings of the 13th International Conference on 
 Standard kernel methods for machine learning usually struggle when dealing with large datasets. We review a recently introduced Structured Deep Kernel Network (SDKN) approach that is capable of dealing with high-dimensional and huge datasets - and enjoys typical standard machine learning approximation properties. We extend the SDKN to combine it with standard machine learning modules and compare it with Neural Networks on the scientific challenge of data-driven prediction of closure terms of turbulent flows. We show experimentally that the SDKNs are capable of dealing with large datasets and achieve near-perfect accuracy on the given application.	
 </blockquote>
 
-```bibtex:
+<pre>
+  <code class="bibtex">
 @misc{Wenzel2021d,
       title={Structured Deep Kernel Networks for Data-Driven Closure Terms of Turbulent Flows}, 
       author={Tizian Wenzel and Marius Kurz and Andrea Beck and Gabriele Santin and Bernard Haasdonk},
@@ -243,7 +247,9 @@ Standard kernel methods for machine learning usually struggle when dealing with 
       archivePrefix={arXiv},
       primaryClass={cs.LG}
 }
-```
+  </code>
+</pre>
+
 </small>
 
 </details>
@@ -265,7 +271,8 @@ Accepted for publication in Physica D: Nonlinear Phenomena (2021). <a href='http
 For dynamical systems with a non hyperbolic equilibrium, it is possible to significantly simplify the study of stability by means of the center manifold theory. This theory allows to isolate the complicated asymptotic behavior of the system close to the equilibrium point and to obtain meaningful predictions of its behavior by analyzing a reduced order system on the so-called center manifold. Since the center manifold is usually not known, good approximation methods are important as the center manifold theorem states that the stability properties of the origin of the reduced order system are the same as those of the origin of the full order system. In this work, we establish a data-based version of the center manifold theorem that works by considering an approximation in place of an exact manifold. Also the error between the approximated and the original reduced dynamics are quantified. We then use an apposite data-based kernel method to construct a suitable approximation of the manifold close to the equilibrium, which is compatible with our general error theory. The data are collected by repeated numerical simulation of the full system by means of a high-accuracy solver, which generates sets of discrete trajectories that are then used as a training set. The method is tested on different examples which show promising performance and good accuracy.	
 </blockquote>
 
-```bibtex:
+<pre>
+  <code class="bibtex">
 @misc{Haasdonk2021b,
       title={Kernel methods for center manifold approximation and a data-based version of the Center Manifold Theorem}, 
       author={Bernard Haasdonk and Boumediene Hamzi and Gabriele Santin and Dominik Wittwar},
@@ -275,7 +282,9 @@ For dynamical systems with a non hyperbolic equilibrium, it is possible to signi
       primaryClass={math.NA},
       note = {Accepted for publication in Physica D: Nonlinear Phenomena}
 }
-```
+  </code>
+</pre>
+
 </small>
 
 </details>
@@ -298,7 +307,8 @@ For dynamical systems with a non hyperbolic equilibrium, it is possible to signi
 Greedy kernel approximation algorithms are successful techniques for sparse and accurate data-based modelling and function approximation. Based on a recent idea of stabilization (Wenzel et al., A novel class of stabilized greedy kernel approximation algorithms: convergence, stability & uniform point distribution. e-prints. arXiv:1911.04352, 2019) of such algorithms in the scalar output case, we here consider the vectorial extension built on VKOGA (Wirtz and Haasdonk, Dolomites Res Notes Approx 6:83–100, 2013. We introduce the so called $\gamma$-restricted VKOGA, comment on analytical properties and present numerical evaluation on data from a clinically relevant application, the modelling of the human spine. The experiments show that the new stabilized algorithms result in improved accuracy and stability over the non-stabilized algorithms.	
 </blockquote>
 
-```bibtex:
+<pre>
+  <code class="bibtex">
 @InProceedings{Haasdonk2021a,
   author                   = {Haasdonk, Bernard and Wenzel, Tizian and Santin, Gabriele and Schmitt, Syn},
   title                    = {Biomechanical Surrogate Modelling Using Stabilized Vectorial Greedy Kernel Methods},
@@ -311,7 +321,8 @@ Greedy kernel approximation algorithms are successful techniques for sparse and 
   doi      		   = {https://doi.org/10.1007/978-3-030-55874-1_49},
   address                  = {Cham},
 }
-```
+  </code>
+</pre>
 </small>
 
 </details>
@@ -333,7 +344,8 @@ Greedy kernel approximation algorithms are successful techniques for sparse and 
 In this paper we analyze a greedy procedure to approximate a linear functional defined in a reproducing kernel Hilbert space by nodal values. This procedure computes a quadrature rule which can be applied to general functionals. For a large class of functionals, that includes integration functionals and other interesting cases, but does not include differentiation, we prove convergence results for the approximation by means of quasi-uniform and greedy points which generalize in various ways several known results. A perturbation analysis of the weights and node computation is also discussed. Beyond the theoretical investigations, we demonstrate numerically that our algorithm is effective in treating various integration densities, and that it is even very competitive when compared to existing methods for Uncertainty Quantification.	
 </blockquote>
 
-```bibtex:
+<pre>
+  <code class="bibtex">
 @Article{Santin2021,
   author    = {Santin, Gabriele and Karvonen, Toni and Haasdonk, Bernard},
   title     = {Sampling based approximation of linear functionals in reproducing kernel Hilbert spaces},
@@ -345,7 +357,8 @@ In this paper we analyze a greedy procedure to approximate a linear functional d
   url       = {https://doi.org/10.1007/s10543-021-00870-3},
   day       = {13},
 }
-```
+  </code>
+</pre>
 </small>
 
 </details>
@@ -367,7 +380,8 @@ In this paper we analyze a greedy procedure to approximate a linear functional d
 Digital contact tracing is a relevant tool to control infectious disease outbreaks, including the COVID-19 epidemic. Early work evaluating digital contact tracing omitted important features and heterogeneities of real-world contact patterns influencing contagion dynamics. We fill this gap with a modeling framework informed by empirical high-resolution contact data to analyze the impact of digital contact tracing in the COVID-19 pandemic. We investigate how well contact tracing apps, coupled with the quarantine of identified contacts, can mitigate the spread in real environments. We find that restrictive policies are more effective in containing the epidemic but come at the cost of unnecessary large-scale quarantines. Policy evaluation through their efficiency and cost results in optimized solutions which only consider contacts longer than 15–20 minutes and closer than 2–3 meters to be at risk. Our results show that isolation and tracing can help control re-emerging outbreaks when some conditions are met: (i) a reduction of the reproductive number through masks and physical distance; (ii) a low-delay isolation of infected individuals; (iii) a high compliance. Finally, we observe the inefficacy of a less privacy-preserving tracing involving second order contacts. Our results may inform digital contact tracing efforts currently being implemented across several countries worldwide.	
 </blockquote>
 
-```bibtex:
+<pre>
+  <code class="bibtex">
 @Article{Cencetti2021,
   author		   = {Cencetti, G. and Santin, G. and Longa, A. and Pigani, E. and Barrat, A. and Cattuto, C. and Lehmann, S. and Salath{\'e}, M. and Lepri, B.},
   title  		   = {Digital proximity tracing on empirical contact networks for pandemic control},
@@ -382,7 +396,8 @@ Digital contact tracing is a relevant tool to control infectious disease outbrea
   url      		   = {https://doi.org/10.1038/s41467-021-21809-w},
   day      		   = {12},
 }
-```
+  </code>
+</pre>
 </small>
 
 </details>
@@ -404,7 +419,8 @@ Digital contact tracing is a relevant tool to control infectious disease outbrea
 Kernel based methods provide a way to reconstruct potentially high-dimensional functions from meshfree samples, i.e., sampling points and corresponding target values. A crucial ingredient for this to be successful is the distribution of the sampling points. Since the computation of an optimal selection of sampling points may be an infeasible task, one promising option is to use greedy methods.  Although these methods may be very effective, depending on the specific greedy criterion the chosen points might quickly lead to instabilities in the computation. To circumvent this problem, we introduce and investigate a new class of stabilized greedy kernel algorithms, which can be used to create a scale of new selection strategies.  We analyze these algorithms, and in particular we prove convergence results and quantify in a precise way the distribution of the selected points. These results allow to prove, in the case of certain Sobolev kernels, that the algorithms have optimal stability and optimal convergence rates, including for functions outside the native space of the kernel. The results also apply to the case of the usual $P$-greedy algorithm, significantly improving state-of-the-art results available in the literature. Illustrative experiments are presented that support the theoretical findings and show improvements of the stabilized algorithms in terms of accuracy due to improved stability.  	
 </blockquote>
 
-```bibtex:
+<pre>
+  <code class="bibtex">
 @Article{Wenzel2021a,
   author                   = {Tizian Wenzel and Gabriele Santin and Bernard Haasdonk},
   title   		   = {A novel class of stabilized greedy kernel approximation algorithms: Convergence, stability and uniform point distribution},
@@ -416,7 +432,8 @@ Kernel based methods provide a way to reconstruct potentially high-dimensional f
   doi     		   = {https://doi.org/10.1016/j.jat.2020.105508},
   url   		   = {http://www.sciencedirect.com/science/article/pii/S0021904520301441},
 }
-```
+  </code>
+</pre>
 </small>
 
 </details>
@@ -438,7 +455,8 @@ Kernel based methods provide a way to reconstruct potentially high-dimensional f
 For certain dynamical systems it is possible to significantly simplify the study of stability by means of the center manifold theory. This theory allows to isolate the complicated asymptotic behavior of the system close to a non-hyperbolic equilibrium point, and to obtain meaningful predictions of its behavior by analyzing a reduced dimensional problem. Since the manifold is usually not known, approximation methods are of great interest to obtain qualitative estimates. In this work, we use a data-based greedy kernel method to construct a suitable approximation of the manifold close to the equilibrium. The data are collected by repeated numerical simulation of the full system by means of a high-accuracy solver, which generates sets of discrete trajectories that are then used to construct a surrogate model of the manifold. The method is tested on different examples which show promising performance and good accuracy.	
 </blockquote>
 
-```bibtex:
+<pre>
+  <code class="bibtex">
 @InProceedings{Haasdonk2020,
   author                   = {Haasdonk, Bernard and Hamzi, Boumediene and Santin, Gabriele and Wittwar, Dominik},
   title                    = {Greedy Kernel Methods for Center Manifold Approximation},
@@ -453,7 +471,8 @@ For certain dynamical systems it is possible to significantly simplify the study
   address                  = {Cham},
 
 }
-```
+  </code>
+</pre>
 </small>
 
 </details>
@@ -475,7 +494,8 @@ For certain dynamical systems it is possible to significantly simplify the study
 We present a novel acceleration method for the solution of parametric ODEs by single-step implicit solvers by means of greedy kernel-based surrogate models. In an offline phase, a set of trajectories is precomputed with a high-accuracy ODE solver for a selected set of parameter samples, and used to train a kernel model which predicts the next point in the trajectory as a function of the last one. This model is cheap to evaluate, and it is used in an online phase for new parameter samples to provide a good initialization point for the nonlinear solver of the implicit integrator. The accuracy of the surrogate reflects into a reduction of the number of iterations until convergence of the solver, thus providing an overall speedup of the full simulation. Interestingly, in addition to providing an acceleration, the accuracy of the solution is maintained, since the ODE solver is still used to guarantee the required precision. Although the method can be applied to a large variety of solvers and different ODEs, we will present in details its use with the Implicit Euler method for the solution of the Burgers equation, which results to be a meaningful test case to demonstrate the method’s features.	
 </blockquote>
 
-```bibtex:
+<pre>
+  <code class="bibtex">
 @InProceedings{Bruennette2019,
   Title                    = {Greedy Kernel Methods for Accelerating Implicit Integrators for Parametric {ODE}s},
   Author                   = {Br{\"u}nnette, Tim and Santin, Gabriele and Haasdonk, Bernard},
@@ -488,7 +508,8 @@ We present a novel acceleration method for the solution of parametric ODEs by si
   Publisher                = {Springer International Publishing},
   ISBN                     = {978-3-319-96415-7},
 }
-```
+  </code>
+</pre>
 </small>
 
 </details>
@@ -510,7 +531,8 @@ We present a novel acceleration method for the solution of parametric ODEs by si
 We propose a novel kernel-based method for image reconstruction from scattered Radon data. To this end, we employ generalized Hermite–Birkhoff interpola- tion by positive definite kernel functions. For radial kernels, however, a straightforward application of the generalized Hermite–Birkhoff interpolation method fails to work, as we prove in this paper. To obtain a well-posed reconstruction scheme for scattered Radon data, we introduce a new class of weighted positive definite kernels, which are symmetric but not radially symmetric. By our construction, the resulting weighted ker- nels are combinations of radial positive definite kernels and positive weight functions. This yields very flexible image reconstruction methods, which work for arbitrary dis- tributions of Radon lines. We develop suitable representations for the weighted basis functions and the symmetric positive definite kernel matrices that are resulting from the proposed reconstruction scheme. For the relevant special case, where Gaussian radial kernels are combined with Gaussian weights, explicit formulae for the weighted Gaus- sian basis functions and the kernel matrices are given. Supporting numerical examples are finally presented.	
 </blockquote>
 
-```bibtex:
+<pre>
+  <code class="bibtex">
 @Article{DeMarchi2018,
   Title                    = {Image reconstruction from scattered Radon data by weighted positive definite kernel functions},
   Author                   = {De Marchi, S. and Iske, A. and Santin, G.},
@@ -528,7 +550,8 @@ We propose a novel kernel-based method for image reconstruction from scattered R
 
 
 ﻿
-```
+  </code>
+</pre>
 </small>
 
 </details>
@@ -550,7 +573,8 @@ We propose a novel kernel-based method for image reconstruction from scattered R
 In this work, we consider 2 kinds of model reduction techniques to simulate blood flow through the largest systemic arteries, where a stenosis is located in a peripheral artery, i.e., in an artery that is located far away from the heart. For our simulations, we place the stenosis in one of the tibial arteries belonging to the right lower leg (right posterior tibial artery). The model reduction techniques that are used are on the one hand dimensionally reduced models (1-D and 0-D models, the so-called mixed-dimension model) and on the other hand surrogate models produced by kernel methods. Both methods are combined in such a way that the mixed-dimension models yield training data for the surrogate model, where the surrogate model is parametrised by the degree of narrowing of the peripheral stenosis. By means of a well-trained surrogate model, we show that simulation data can be reproduced with a satisfactory accuracy and that parameter optimisation or state estimation problems can be solved in a very efficient way. Furthermore, it is demonstrated that a surrogate model enables us to present after a very short simulation time the impact of a varying degree of stenosis on blood flow, obtaining a speedup of several orders over the full model.	
 </blockquote>
 
-```bibtex:
+<pre>
+  <code class="bibtex">
 @Article{Koeppl2018,
   Title                    = {Numerical modelling of a peripheral arterial stenosis using dimensionally reduced models and kernel methods},
   Author                   = {K{\"o}ppl, Tobias and Santin, Gabriele and Haasdonk, Bernard and Helmig, Rainer},
@@ -565,7 +589,8 @@ In this work, we consider 2 kinds of model reduction techniques to simulate bloo
   Keywords                 = {blood flow simulations, peripheral stenosis, dimensionally reduced models, mixed‐dimension models, kernel methods, surrogate models, real‐time simulations},
   Url                      = {https://onlinelibrary.wiley.com/doi/abs/10.1002/cnm.3095}
 }
-```
+  </code>
+</pre>
 </small>
 
 </details>
@@ -587,7 +612,8 @@ In this work, we consider 2 kinds of model reduction techniques to simulate bloo
 Modern simulation scenarios frequently require multi-query or real-time responses of simulation models for statistical analysis, optimization, or process control. However, the underlying simulation models may be very time-consuming rendering the simulation task difficult or infeasible. This motivates the need for rapidly computable surrogate models. We address the case of surrogate modeling of functions from vectorial input to vectorial output spaces. These appear, for instance, in simulation of coupled models or in the case of approximating general input–output maps. We review some recent methods and theoretical results in the field of greedy kernel approximation schemes. In particular, we recall the vectorial kernel orthogonal greedy algorithm (VKOGA) for approximating vector-valued functions. We collect some recent convergence statements that provide sound foundation for these algorithms, in particular quasi-optimal convergence rates in case of kernels inducing Sobolev spaces. We provide some initial experiments that can be obtained with non-symmetric greedy kernel approximation schemes. The results indicate better stability and overall more accurate models in situations where the input data locations are not equally distributed.	
 </blockquote>
 
-```bibtex:
+<pre>
+  <code class="bibtex">
 @InCollection{Haasdonk2018,
   Title                    = {Greedy Kernel Approximation for Sparse Surrogate Modeling},
   Author                   = {Haasdonk, Bernard and Santin, Gabriele},
@@ -601,7 +627,8 @@ Modern simulation scenarios frequently require multi-query or real-time response
   ISBN                     = {978-3-319-75319-5},
   Url                      = {https://doi.org/10.1007/978-3-319-75319-5_2}
 }
-```
+  </code>
+</pre>
 </small>
 
 </details>
@@ -623,7 +650,8 @@ Modern simulation scenarios frequently require multi-query or real-time response
 In this paper we consider the problem of approximating vector-valued functions over a domain $\Omega$. For this purpose, we use matrix-valued reproducing kernels, which can be related to Reproducing kernel Hilbert spaces of vectorial functions and which can be viewed as an extension of the scalar-valued case. These spaces seem promising, when modelling correlations between the target function components, as the components are not learned independently of each other. We focus on the interpolation with such matrix-valued kernels. We derive error bounds for the interpolation error in terms of a generalized power-function and we introduce a subclass of matrix-valued kernels whose power-functions can be traced back to the power-function of scalar-valued reproducing kernels. Finally, we apply these kind of kernels to some artificial data to illustrate the benefit of interpolation with matrix-valued kernels in comparison to a componentwise approach. 	
 </blockquote>
 
-```bibtex:
+<pre>
+  <code class="bibtex">
 @Article{Wittwar2018,
   Title                    = {Interpolation with uncoupled separable matrix-valued kernels},
   Author                   = {Wittwar, Dominik and Santin, Gabriele and Haasdonk, Bernard},
@@ -636,7 +664,8 @@ In this paper we consider the problem of approximating vector-valued functions o
   Sjournal                 = {Dolomites Res.\ Notes Approx.},
   Url                      = {https://drna.padovauniversitypress.it/2018/3/4}
 }
-```
+  </code>
+</pre>
 </small>
 
 </details>
@@ -658,7 +687,8 @@ In this paper we consider the problem of approximating vector-valued functions o
 A variety of methods is available to quantify uncertainties arising within the modeling of flow and transport in carbon dioxide storage, but there is a lack of thorough comparisons. Usually, raw data from such storage sites can hardly be described by theoretical statistical distributions since only very limited data is available. Hence, exact information on distribution shapes for all uncertain parameters is very rare in realistic applications. We discuss and compare four different methods tested for data-driven uncertainty quantification based on a benchmark scenario of carbon dioxide storage. In the benchmark, for which we provide data and code, carbon dioxide is injected into a saline aquifer modeled by the nonlinear capillarity-free fractional flow formulation for two incompressible fluid phases, namely carbon dioxide and brine. To cover different aspects of uncertainty quantification, we incorporate various sources of uncertainty such as uncertainty of boundary conditions, of parameters in constitutive relations, and of material properties. We consider recent versions of the following non-intrusive and intrusive uncertainty quantification methods: arbitrary polynomial chaos, spatially adaptive sparse grids, kernel-based greedy interpolation, and hybrid stochastic Galerkin. The performance of each approach is demonstrated assessing expectation value and standard deviation of the carbon dioxide saturation against a reference statistic based on Monte Carlo sampling. We compare the convergence of all methods reporting on accuracy with respect to the number of model runs and resolution. Finally, we offer suggestions about the methods’ advantages and disadvantages that can guide the modeler for uncertainty quantification in carbon dioxide storage and beyond.	
 </blockquote>
 
-```bibtex:
+<pre>
+  <code class="bibtex">
 @Article{Koeppel2019,
   Title                    = {Comparison of data-driven uncertainty quantification methods for a carbon dioxide storage benchmark scenario},
   Author                   = {K{\"o}ppel, Markus and Franzelin, Fabian and Kr{\"o}ker, Ilja and Oladyshkin, Sergey and Santin, Gabriele and Wittwar, Dominik and Barth, Andrea and Haasdonk, Bernard and Nowak, Wolfgang and Pfl{\"u}ger, Dirk and Rohde, Christian},
@@ -672,7 +702,8 @@ A variety of methods is available to quantify uncertainties arising within the m
   Doi                      = {10.1007/s10596-018-9785-x},
   Url                      = {https://doi.org/10.1007/s10596-018-9785-x}
 }
-```
+  </code>
+</pre>
 </small>
 
 </details>
@@ -694,7 +725,8 @@ A variety of methods is available to quantify uncertainties arising within the m
 In the recent paper [1], a new method to compute stable kernel-based interpolants has been presented. This rescaled interpolation method combines the standard kernel interpolation with a properly defined rescaling operation, which smooths the oscillations of the interpolant. Although promising, this procedure lacks a systematic theoretical investigation. Through our analysis, this novel method can be understood as standard kernel interpolation by means of a properly rescaled kernel. This point of view allows us to consider its error and stability properties.	
 </blockquote>
 
-```bibtex:
+<pre>
+  <code class="bibtex">
 @InBook{DeMarchi2017,
   Title                    = {A Rescaled Method for RBF Approximation},
   Author                   = {De Marchi, Stefano and Idda, Andrea and Santin, Gabriele},
@@ -708,7 +740,8 @@ In the recent paper [1], a new method to compute stable kernel-based interpolant
   ISBN                     = {978-3-319-59912-0},
   Url                      = {https://doi.org/10.1007/978-3-319-59912-0_3}
 }
-```
+  </code>
+</pre>
 </small>
 
 </details>
@@ -730,7 +763,8 @@ In the recent paper [1], a new method to compute stable kernel-based interpolant
 Kernel-based methods provide flexible and accurate algorithms for the reconstruction of functions frommeshless samples. A major question in the use of such methods is the influence of the samples’ locationson the behavior of the approximation, and feasible optimal strategies are not known for general problems.Nevertheless, efficient and greedy point-selection strategies are known. This paper gives a proof of theconvergence rate of the data-independentP-greedyalgorithm, based on the application of the convergencetheory for greedy algorithms in reduced basis methods. The resulting rate of convergence is shown to bequasi-optimal in the case of kernels generating Sobolev spaces.As a consequence, this convergence rate proves that, for kernels of Sobolev spaces, the points selected bythe algorithm are asymptotically uniformly distributed, as conjectured in the paper where the algorithmhas been introduced.	
 </blockquote>
 
-```bibtex:
+<pre>
+  <code class="bibtex">
 @Article{Santin2016b,
   Title                    = {Convergence rate of the data-independent {P}-greedy algorithm in kernel-based approximation},
   Author                   = {G. Santin and B. Haasdonk},
@@ -742,7 +776,8 @@ Kernel-based methods provide flexible and accurate algorithms for the reconstruc
   Sjournal                 = {Dolomites Res.\ Notes Approx.},
   Url                      = {www.emis.de/journals/DRNA/9-2.html}
 }
-```
+  </code>
+</pre>
 </small>
 
 </details>
@@ -764,7 +799,8 @@ Kernel-based methods provide flexible and accurate algorithms for the reconstruc
 In this paper we propose a new stable and accurate approximation technique which is extremely effective for interpolating large scattered data sets. The Partition of Unity (PU) method is performed considering Radial Basis Functions (RBFs) as local approximants and using locally supported weights. In particular, the approach consists in computing, for each PU subdomain, a stable basis. Such technique, taking advantage of the local scheme, leads to a significant benefit in terms of stability, especially for flat kernels. Furthermore, an optimized searching procedure is applied to build the local stable bases, thus rendering the method more efficient.	
 </blockquote>
 
-```bibtex:
+<pre>
+  <code class="bibtex">
 @Article{Cavoretto2016b,
   Title                    = {Partition of unity interpolation using stable kernel-based techniques},
   Author                   = {Cavoretto, Roberto and De Marchi, Stefano and De Rossi, Alessandra and Perracchione, Emma and Santin, Gabriele},
@@ -773,7 +809,8 @@ In this paper we propose a new stable and accurate approximation technique which
   Doi                      = {10.1016/j.apnum.2016.07.005},
   Url                      = {http://dx.doi.org/10.1016/j.apnum.2016.07.005}
 }
-```
+  </code>
+</pre>
 </small>
 
 </details>
@@ -795,7 +832,8 @@ In this paper we propose a new stable and accurate approximation technique which
 Kernel-based methods in Numerical Analysis have the advantage of yielding optimal recovery processes in the “native” Hilbert space $\mathcal H$ in which they are reproducing. Continuous kernels on compact domains have an expansion into eigenfunctions that are both $L_2$-orthonormal and orthogonal in $\mathcal H$ (Mercer expansion). This paper examines the corresponding eigenspaces and proves that they have optimality properties among all other subspaces of $\mathcal H$. These results have strong connections to $n$-widths in Approximation Theory, and they establish that errors of optimal approximations are closely related to the decay of the eigenvalues. Though the eigenspaces and eigenvalues are not readily available, they can be well approximated using the standard $n$-dimensional subspaces spanned by translates of the kernel with respect to $n$ nodes or centers. We give error bounds for the numerical approximation of the eigensystem via such subspaces. A series of examples shows that our numerical technique via a greedy point selection strategy allows to calculate the eigensystems with good accuracy.	
 </blockquote>
 
-```bibtex:
+<pre>
+  <code class="bibtex">
 @Article{Santin2016a,
   author    = {Santin, Gabriele and Schaback, Robert},
   title     = {Approximation of eigenfunctions in kernel-based spaces},
@@ -809,7 +847,8 @@ Kernel-based methods in Numerical Analysis have the advantage of yielding optima
   url       = {http://dx.doi.org/10.1007/s10444-015-9449-5},
   fjournal  = {Advances in Computational Mathematics},
 }
-```
+  </code>
+</pre>
 </small>
 
 </details>
@@ -831,7 +870,8 @@ Kernel-based methods in Numerical Analysis have the advantage of yielding optima
 In applied sciences it is often required to model and supervise temporal evolution of populations via dynamical systems. In this paper, we focus on the problem of approximating the basins of attraction of such models for each stable equilibrium point. We propose to reconstruct the basins via an implicit interpolant using stable radial bases, obtaining the surfaces by partitioning the phase space into disjoint regions. An application to a competition model presenting jointly three stable equilibria is considered. 	
 </blockquote>
 
-```bibtex:
+<pre>
+  <code class="bibtex">
 @InProceedings{Cavoretto2016a,
   Title                    = {Approximating basins of attraction for dynamical systems via stable radial bases},
   Author                   = {Cavoretto, Roberto and De Marchi, Stefano and De Rossi, Alessandra and Perracchione, Emma and Santin, Gabriele},
@@ -840,7 +880,8 @@ In applied sciences it is often required to model and supervise temporal evoluti
   Doi                      = {10.1063/1.4952177},
   Url                      = {http://dx.doi.org/10.1063/1.4952177}
 }
-```
+  </code>
+</pre>
 </small>
 
 </details>
@@ -862,7 +903,8 @@ In applied sciences it is often required to model and supervise temporal evoluti
 We present an algorithm to approximate large datasets by Radial Basis Function(RBF) techniques. The method couples a fast domain decomposition procedure with alocalized stabilization method. The resulting algorithm can efficiently deal with largeproblems and it is robust with respect to the typical instability of kernel methods.	
 </blockquote>
 
-```bibtex:
+<pre>
+  <code class="bibtex">
 @InProceedings{Cavoretto2015,
   Title                    = {RBF approximation of large datasets by partition of unity and local stabilization},
   Author                   = {Cavoretto, Roberto and De Marchi, Stefano and De Rossi, Alessandra and Perracchione, Emma and Santin, Gabriele},
@@ -873,7 +915,8 @@ We present an algorithm to approximate large datasets by Radial Basis Function(R
   ISBN                     = {978-84-617-2230-3},
   ISSN                     = {2312-0177},
 }
-```
+  </code>
+</pre>
 </small>
 
 </details>
@@ -895,7 +938,8 @@ We present an algorithm to approximate large datasets by Radial Basis Function(R
 In recent years, in the setting of radial basis function, the study of approximation algorithms has particularly focused on the construction of (stable) bases for the associated Hilbert spaces. One of the ways of describing such spaces and their properties is the study of a particular integral operator and its spectrum. We proposed in a recent work the so-called WSVD basis, which is strictly connected to the eigen-decomposition of this operator and allows to overcome some problems related to the stability of the computation of the approximant for a wide class of radial kernels. Although effective, this basis is computationally expensive to compute. In this paper we discuss a method to improve and compute in a fast way the basis using methods related to Krylov subspaces. After reviewing the connections between the two bases, we concentrate on the properties of the new one, describing its behavior by numerical tests.	
 </blockquote>
 
-```bibtex:
+<pre>
+  <code class="bibtex">
 @Article{DeMarchi2015a,
   Title                    = {Fast computation of orthonormal basis for RBF spaces through Krylov space methods},
   Author                   = {De Marchi, Stefano and Santin, Gabriele},
@@ -909,7 +953,8 @@ In recent years, in the setting of radial basis function, the study of approxima
   Publisher                = {Springer Netherlands},
   Url                      = {http://dx.doi.org/10.1007/s10543-014-0537-6}
 }
-```
+  </code>
+</pre>
 </small>
 
 </details>
@@ -931,7 +976,8 @@ In recent years, in the setting of radial basis function, the study of approxima
 It is well-known that radial basis function interpolants suffer of bad conditioning if the basis of translates is used. In the recent work [5], the authors gave a quite general way to build stable and orthonormal bases for the native space ${\mathcal{N}_{\Phi}(\Omega)}$ associated to a  kernel $\Phi$ on a domain  $\Omega \subset \mathbb{R}^s$. The method is simply based on the factorization of the corresponding kernel matrix.  \\Starting from that setting we describe a particular basis which turns out to be orthonormal in ${\mathcal{N}_{\Phi}(\Omega)}$  and in $\ell_{2,w}(X)$, where $X$ is a set of data sites of the domain $\Omega$. The basis arises from a weighted singular value decomposition of the kernel matrix. This  basis is also related to a discretization of the compact operator $T_{\Phi}: {\mathcal{N}_{\Phi}(\Omega)}\rightarrow{\mathcal{N}_{\Phi}(\Omega)}$,  $$T_{\Phi}[f](x) = \int_{\Omega} \Phi(x,y) f(y) dy\quad \forall x\in\Omega$$ and provides a connection with the continuous basis that arises from an  eigen-decomposition of $T_{\Phi}$.  Finally, using the eigenvalues of this operator,  we provide convergence estimates and stability bounds for interpolation and discrete least-squares approximation.	
 </blockquote>
 
-```bibtex:
+<pre>
+  <code class="bibtex">
 @Article{DeMarchi2013,
   Title                    = {A new stable basis for radial basis function interpolation},
   Author                   = {De Marchi, Stefano and Santin, Gabriele},
@@ -944,7 +990,8 @@ It is well-known that radial basis function interpolants suffer of bad condition
   ISSN                     = {0377--0427},
   Url                      = {http://dx.doi.org/10.1016/j.cam.2013.03.048}
 }
-```
+  </code>
+</pre>
 </small>
 
 </details>
@@ -966,7 +1013,8 @@ It is well-known that radial basis function interpolants suffer of bad condition
 We implement in Matlab a Gauss-like cubature formula on bivariate domains whose boundary is a piecewise smooth Jordan curve (curvilinear polygons). The key tools are Green’s integral formula, together with the recent software package Chebfun to approximate the boundary curve close to machine precision by piecewise Chebyshev interpolation. Several tests are presented, including some comparisons of this new routine ChebfunGauss with the recent SplineGauss that approximates the boundary by splines.	
 </blockquote>
 
-```bibtex:
+<pre>
+  <code class="bibtex">
 @Article{Santin2011,
   Title                    = {An algebraic cubature formula on curvilinear polygons},
   Author                   = {Santin, Gabriele and Sommariva, Alvise and Vianello, Marco},
@@ -982,7 +1030,8 @@ We implement in Matlab a Gauss-like cubature formula on bivariate domains whose 
   Mrnumber                 = {2806387},
   Url                      = {http://dx.doi.org/10.1016/j.amc.2011.04.071}
 }
-```
+  </code>
+</pre>
 </small>
 
 </details>
