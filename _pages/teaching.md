@@ -45,7 +45,7 @@ The course gives an introduction to the mathematical principles underlying a dig
 
 <td width="25%" style="border:none;">
 
-<img src="https://GabrieleSantin.github.io/images/" style="padding-top: 7px;display: block;margin-right:35px;" width="90%">
+<img src="https://GabrieleSantin.github.io/images/pytorch_geometric_tutorial.jpeg" style="padding-top: 7px;display: block;margin-right:35px;" width="90%">
 
 </td>
 
