@@ -98,7 +98,7 @@ This package implements the Vectorial Kernel Orthogonal Greedy Algorithm, and ma
 <font size="5">
 <table style="border:none;">
 
-### EigenApprox (Octave)
+### EigenApprox (Matlab/Octave)
 
 <tr style="border:none;">
 
