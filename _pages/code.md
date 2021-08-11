@@ -111,7 +111,7 @@ This package implements the Vectorial Kernel Orthogonal Greedy Algorithm, and ma
 <td width="65%" style="border:none;">
 This bunch of functions implements an algorithm for the numerical approximation of the eigenfunctions associated to the Mercer operator of a strictly positive definite kernel. The code was part of my PhD thesis.
 <br> 
-<a href='https://github.com/GabrieleSantin/VKOGA'> <i class='fa fa-github'></i> Repository</a>
+<a href='https://github.com/GabrieleSantin/EigenApprox'> <i class='fa fa-github'></i> Repository</a>
 
 
 
