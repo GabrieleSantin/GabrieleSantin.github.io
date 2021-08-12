@@ -308,7 +308,6 @@ For dynamical systems with a non hyperbolic equilibrium, it is possible to signi
 <p style='margin-top:-20px;margin-left:5%;'>
 <h3 style='margin-left:5%;'> 2021</h3>
 </p>
-<br>
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> B. Haasdonk, T. Wenzel, G. Santin, S. Schmitt, 
@@ -461,7 +460,6 @@ Kernel based methods provide a way to reconstruct potentially high-dimensional f
 <p style='margin-top:-20px;margin-left:5%;'>
 <h3 style='margin-left:5%;'> 2020</h3>
 </p>
-<br>
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> B. Haasdonk, B. Hamzi, G. Santin, D. Wittwar, 
@@ -505,7 +503,6 @@ For certain dynamical systems it is possible to significantly simplify the study
 <p style='margin-top:-20px;margin-left:5%;'>
 <h3 style='margin-left:5%;'> 2019</h3>
 </p>
-<br>
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> T. Br&uuml;nnette, G. Santin, and B. Haasdonk, 
@@ -547,7 +544,6 @@ We present a novel acceleration method for the solution of parametric ODEs by si
 <p style='margin-top:-20px;margin-left:5%;'>
 <h3 style='margin-left:5%;'> 2018</h3>
 </p>
-<br>
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> S. De Marchi, A. Iske, G. Santin, 
@@ -746,7 +742,6 @@ A variety of methods is available to quantify uncertainties arising within the m
 <p style='margin-top:-20px;margin-left:5%;'>
 <h3 style='margin-left:5%;'> 2017</h3>
 </p>
-<br>
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> S. De Marchi, A. Idda, G. Santin, 
@@ -858,7 +853,6 @@ In this paper we propose a new stable and accurate approximation technique which
 <p style='margin-top:-20px;margin-left:5%;'>
 <h3 style='margin-left:5%;'> 2016</h3>
 </p>
-<br>
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> G. Santin, R. Schaback, 
@@ -934,7 +928,6 @@ In applied sciences it is often required to model and supervise temporal evoluti
 <p style='margin-top:-20px;margin-left:5%;'>
 <h3 style='margin-left:5%;'> 2015</h3>
 </p>
-<br>
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> R. Cavoretto, S. De Marchi, A. De Rossi, E. Perracchione, G. Santin, 
@@ -1012,7 +1005,6 @@ In recent years, in the setting of radial basis function, the study of approxima
 <p style='margin-top:-20px;margin-left:5%;'>
 <h3 style='margin-left:5%;'> 2013</h3>
 </p>
-<br>
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> S. De Marchi, G. Santin, 
@@ -1054,7 +1046,6 @@ It is well-known that radial basis function interpolants suffer of bad condition
 <p style='margin-top:-20px;margin-left:5%;'>
 <h3 style='margin-left:5%;'> 2011</h3>
 </p>
-<br>
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> G. Santin, A. Sommariva, M. Vianello, 
