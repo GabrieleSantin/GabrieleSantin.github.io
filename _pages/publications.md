@@ -306,7 +306,7 @@ For dynamical systems with a non hyperbolic equilibrium, it is possible to signi
 ## Published
 
 <p style='margin-top:-20px;margin-left:5%;'>
-<h3> 2021</h3>
+<h3 style='margin-left:5%;'> 2021</h3>
 </p>
 
  <p style="margin-top:-20px;"><details style="margin-left:5%;">
