@@ -308,8 +308,8 @@ For dynamical systems with a non hyperbolic equilibrium, it is possible to signi
 <p style='margin-top:-20px;margin-left:5%;'>
 <h3 style='margin-left:5%;'> 2021</h3>
 </p>
-
- <p style="margin-top:-20px;"><details style="margin-left:5%;">
+<br>
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> B. Haasdonk, T. Wenzel, G. Santin, S. Schmitt, 
 <i>Biomechanical surrogate modelling using stabilized vectorial greedy kernel methods</i>, 
@@ -459,10 +459,10 @@ Kernel based methods provide a way to reconstruct potentially high-dimensional f
 
 
 <p style='margin-top:-20px;margin-left:5%;'>
-<h3> 2020</h3>
+<h3 style='margin-left:5%;'> 2020</h3>
 </p>
-
- <p style="margin-top:-20px;"><details style="margin-left:5%;">
+<br>
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> B. Haasdonk, B. Hamzi, G. Santin, D. Wittwar, 
 <i>Greedy kernel methods for center manifold approximation</i>, 
@@ -503,10 +503,10 @@ For certain dynamical systems it is possible to significantly simplify the study
 
 
 <p style='margin-top:-20px;margin-left:5%;'>
-<h3> 2019</h3>
+<h3 style='margin-left:5%;'> 2019</h3>
 </p>
-
- <p style="margin-top:-20px;"><details style="margin-left:5%;">
+<br>
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> T. Br&uuml;nnette, G. Santin, and B. Haasdonk, 
 <i>Greedy kernel methods for accelerating implicit integrators for parametric ODEs</i>, 
@@ -545,10 +545,10 @@ We present a novel acceleration method for the solution of parametric ODEs by si
 
 
 <p style='margin-top:-20px;margin-left:5%;'>
-<h3> 2018</h3>
+<h3 style='margin-left:5%;'> 2018</h3>
 </p>
-
- <p style="margin-top:-20px;"><details style="margin-left:5%;">
+<br>
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> S. De Marchi, A. Iske, G. Santin, 
 <i>Image reconstruction from scattered Radon data by weighted positive definite kernel functions</i>, 
@@ -744,10 +744,10 @@ A variety of methods is available to quantify uncertainties arising within the m
 
 
 <p style='margin-top:-20px;margin-left:5%;'>
-<h3> 2017</h3>
+<h3 style='margin-left:5%;'> 2017</h3>
 </p>
-
- <p style="margin-top:-20px;"><details style="margin-left:5%;">
+<br>
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> S. De Marchi, A. Idda, G. Santin, 
 <i>A rescaled method for RBF approximation</i>, 
@@ -856,10 +856,10 @@ In this paper we propose a new stable and accurate approximation technique which
 
 
 <p style='margin-top:-20px;margin-left:5%;'>
-<h3> 2016</h3>
+<h3 style='margin-left:5%;'> 2016</h3>
 </p>
-
- <p style="margin-top:-20px;"><details style="margin-left:5%;">
+<br>
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> G. Santin, R. Schaback, 
 <i>Approximation of eigenfunctions in kernel-based spaces</i>, 
@@ -932,10 +932,10 @@ In applied sciences it is often required to model and supervise temporal evoluti
 
 
 <p style='margin-top:-20px;margin-left:5%;'>
-<h3> 2015</h3>
+<h3 style='margin-left:5%;'> 2015</h3>
 </p>
-
- <p style="margin-top:-20px;"><details style="margin-left:5%;">
+<br>
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> R. Cavoretto, S. De Marchi, A. De Rossi, E. Perracchione, G. Santin, 
 <i>RBF approximation of large datasets by partition of unity and local stabilization</i>, 
@@ -1010,10 +1010,10 @@ In recent years, in the setting of radial basis function, the study of approxima
 
 
 <p style='margin-top:-20px;margin-left:5%;'>
-<h3> 2013</h3>
+<h3 style='margin-left:5%;'> 2013</h3>
 </p>
-
- <p style="margin-top:-20px;"><details style="margin-left:5%;">
+<br>
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> S. De Marchi, G. Santin, 
 <i>A new stable basis for radial basis function interpolation</i>, 
@@ -1052,10 +1052,10 @@ It is well-known that radial basis function interpolants suffer of bad condition
 
 
 <p style='margin-top:-20px;margin-left:5%;'>
-<h3> 2011</h3>
+<h3 style='margin-left:5%;'> 2011</h3>
 </p>
-
- <p style="margin-top:-20px;"><details style="margin-left:5%;">
+<br>
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> G. Santin, A. Sommariva, M. Vianello, 
 <i>An algebraic cubature formula on curvilinear polygons</i>, 
