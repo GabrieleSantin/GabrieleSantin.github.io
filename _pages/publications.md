@@ -305,7 +305,7 @@ For dynamical systems with a non hyperbolic equilibrium, it is possible to signi
 
 ## Published
 
- <p style='margin-top:-20px;'><details style='margin-left:5%;'>  
+ <p style='margin-top:-20px;margin-left:5%;'>  
 ### 2021
  </p>  
 
@@ -458,7 +458,7 @@ Kernel based methods provide a way to reconstruct potentially high-dimensional f
 
 
 
- <p style='margin-top:-20px;'><details style='margin-left:5%;'>  
+ <p style='margin-top:-20px;margin-left:5%;'>  
 ### 2020
  </p>  
 
@@ -502,7 +502,7 @@ For certain dynamical systems it is possible to significantly simplify the study
 
 
 
- <p style='margin-top:-20px;'><details style='margin-left:5%;'>  
+ <p style='margin-top:-20px;margin-left:5%;'>  
 ### 2019
  </p>  
 
@@ -544,7 +544,7 @@ We present a novel acceleration method for the solution of parametric ODEs by si
 
 
 
- <p style='margin-top:-20px;'><details style='margin-left:5%;'>  
+ <p style='margin-top:-20px;margin-left:5%;'>  
 ### 2018
  </p>  
 
@@ -743,7 +743,7 @@ A variety of methods is available to quantify uncertainties arising within the m
 
 
 
- <p style='margin-top:-20px;'><details style='margin-left:5%;'>  
+ <p style='margin-top:-20px;margin-left:5%;'>  
 ### 2017
  </p>  
 
@@ -855,7 +855,7 @@ In this paper we propose a new stable and accurate approximation technique which
 
 
 
- <p style='margin-top:-20px;'><details style='margin-left:5%;'>  
+ <p style='margin-top:-20px;margin-left:5%;'>  
 ### 2016
  </p>  
 
@@ -931,7 +931,7 @@ In applied sciences it is often required to model and supervise temporal evoluti
 
 
 
- <p style='margin-top:-20px;'><details style='margin-left:5%;'>  
+ <p style='margin-top:-20px;margin-left:5%;'>  
 ### 2015
  </p>  
 
@@ -1009,7 +1009,7 @@ In recent years, in the setting of radial basis function, the study of approxima
 
 
 
- <p style='margin-top:-20px;'><details style='margin-left:5%;'>  
+ <p style='margin-top:-20px;margin-left:5%;'>  
 ### 2013
  </p>  
 
@@ -1051,7 +1051,7 @@ It is well-known that radial basis function interpolants suffer of bad condition
 
 
 
- <p style='margin-top:-20px;'><details style='margin-left:5%;'>  
+ <p style='margin-top:-20px;margin-left:5%;'>  
 ### 2011
  </p>  
 
