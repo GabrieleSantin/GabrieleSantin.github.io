@@ -540,6 +540,44 @@ We present a novel acceleration method for the solution of parametric ODEs by si
 
 
 
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
+<summary>M. K&ouml;ppel, F. Franzelin, I. Kr&ouml;ker, G. Santin, D. Wittwar, S. Oladyshkin, A. Barth, B. Haasdonk, W. Nowak, D. Pfl&uuml;ger, C. Rohde, 
+<i>Comparison of data-driven uncertainty quantification methods for a carbon dioxide storage benchmark scenario</i>, 
+ Comput. Geosci (2019). <a href='https://arxiv.org/abs/1802.03064'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1007/s10596-018-9785-x'> <i class="ai ai-doi"> </i>DOI</a>
+</summary>
+
+<small>
+
+<blockquote>
+A variety of methods is available to quantify uncertainties arising within the modeling of flow and transport in carbon dioxide storage, but there is a lack of thorough comparisons. Usually, raw data from such storage sites can hardly be described by theoretical statistical distributions since only very limited data is available. Hence, exact information on distribution shapes for all uncertain parameters is very rare in realistic applications. We discuss and compare four different methods tested for data-driven uncertainty quantification based on a benchmark scenario of carbon dioxide storage. In the benchmark, for which we provide data and code, carbon dioxide is injected into a saline aquifer modeled by the nonlinear capillarity-free fractional flow formulation for two incompressible fluid phases, namely carbon dioxide and brine. To cover different aspects of uncertainty quantification, we incorporate various sources of uncertainty such as uncertainty of boundary conditions, of parameters in constitutive relations, and of material properties. We consider recent versions of the following non-intrusive and intrusive uncertainty quantification methods: arbitrary polynomial chaos, spatially adaptive sparse grids, kernel-based greedy interpolation, and hybrid stochastic Galerkin. The performance of each approach is demonstrated assessing expectation value and standard deviation of the carbon dioxide saturation against a reference statistic based on Monte Carlo sampling. We compare the convergence of all methods reporting on accuracy with respect to the number of model runs and resolution. Finally, we offer suggestions about the methods’ advantages and disadvantages that can guide the modeler for uncertainty quantification in carbon dioxide storage and beyond.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@Article{Koeppel2019,
+  Title                    = {Comparison of data-driven uncertainty quantification methods for a carbon dioxide storage benchmark scenario},
+  Author                   = {K{\"o}ppel, Markus and Franzelin, Fabian and Kr{\"o}ker, Ilja and Oladyshkin, Sergey and Santin, Gabriele and Wittwar, Dominik and Barth, Andrea and Haasdonk, Bernard and Nowak, Wolfgang and Pfl{\"u}ger, Dirk and Rohde, Christian},
+  Journal                  = {Computational Geosciences},
+  Year                     = {2019},
+  Month                    = {Apr},
+  Number                   = {2},
+  Pages                    = {339--354},
+  Volume                   = {23},
+  Day                      = {01},
+  Doi                      = {10.1007/s10596-018-9785-x},
+  Url                      = {https://doi.org/10.1007/s10596-018-9785-x}
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
 
 <p style='margin-top:-20px;margin-left:5%;'>
 <h3 style='margin-left:5%;'> 2018</h3>
@@ -689,44 +727,6 @@ In this paper we consider the problem of approximating vector-valued functions o
   Fjournal                 = {Dolomites Research Notes on Approximation},
   Sjournal                 = {Dolomites Res.\ Notes Approx.},
   Url                      = {https://drna.padovauniversitypress.it/2018/3/4}
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
-<summary>M. K&ouml;ppel, F. Franzelin, I. Kr&ouml;ker, G. Santin, D. Wittwar, S. Oladyshkin, A. Barth, B. Haasdonk, W. Nowak, D. Pfl&uuml;ger, C. Rohde, 
-<i>Comparison of data-driven uncertainty quantification methods for a carbon dioxide storage benchmark scenario</i>, 
- Comput. Geosci (2018). <a href='https://arxiv.org/abs/1802.03064'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1007/s10596-018-9785-x'> <i class="ai ai-doi"> </i>DOI</a>
-</summary>
-
-<small>
-
-<blockquote>
-A variety of methods is available to quantify uncertainties arising within the modeling of flow and transport in carbon dioxide storage, but there is a lack of thorough comparisons. Usually, raw data from such storage sites can hardly be described by theoretical statistical distributions since only very limited data is available. Hence, exact information on distribution shapes for all uncertain parameters is very rare in realistic applications. We discuss and compare four different methods tested for data-driven uncertainty quantification based on a benchmark scenario of carbon dioxide storage. In the benchmark, for which we provide data and code, carbon dioxide is injected into a saline aquifer modeled by the nonlinear capillarity-free fractional flow formulation for two incompressible fluid phases, namely carbon dioxide and brine. To cover different aspects of uncertainty quantification, we incorporate various sources of uncertainty such as uncertainty of boundary conditions, of parameters in constitutive relations, and of material properties. We consider recent versions of the following non-intrusive and intrusive uncertainty quantification methods: arbitrary polynomial chaos, spatially adaptive sparse grids, kernel-based greedy interpolation, and hybrid stochastic Galerkin. The performance of each approach is demonstrated assessing expectation value and standard deviation of the carbon dioxide saturation against a reference statistic based on Monte Carlo sampling. We compare the convergence of all methods reporting on accuracy with respect to the number of model runs and resolution. Finally, we offer suggestions about the methods’ advantages and disadvantages that can guide the modeler for uncertainty quantification in carbon dioxide storage and beyond.	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@Article{Koeppel2019,
-  Title                    = {Comparison of data-driven uncertainty quantification methods for a carbon dioxide storage benchmark scenario},
-  Author                   = {K{\"o}ppel, Markus and Franzelin, Fabian and Kr{\"o}ker, Ilja and Oladyshkin, Sergey and Santin, Gabriele and Wittwar, Dominik and Barth, Andrea and Haasdonk, Bernard and Nowak, Wolfgang and Pfl{\"u}ger, Dirk and Rohde, Christian},
-  Journal                  = {Computational Geosciences},
-  Year                     = {2019},
-  Month                    = {Apr},
-  Number                   = {2},
-  Pages                    = {339--354},
-  Volume                   = {23},
-  Day                      = {01},
-  Doi                      = {10.1007/s10596-018-9785-x},
-  Url                      = {https://doi.org/10.1007/s10596-018-9785-x}
 }
   </code>
 </pre>
