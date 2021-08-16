@@ -12,89 +12,25 @@ Click on the publications below to expand them.
 ## Submitted
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
-<summary>T. Wenzel, G. Santin, B. Haasdonk, 
-<i>Analysis of target data-dependent greedy kernel algorithms: Convergence rates for f-, f P- and  f/P-greedy</i> (2021). <a href='https://arxiv.org/abs/2105.07411'> <i class="fa fa-file-pdf"></i> Preprint </a>
+<summary>F. Marchetti, G. Santin, 
+<i>Convergence results in image interpolation with the continuous SSIM</i> (2021). <a href='https://arxiv.org/abs/2108.03879'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
 
 <small>
 
 <blockquote>
-Data-dependent greedy algorithms in kernel spaces are known to provide fast converging interpolants, while being extremely easy to implement and efficient to run. Despite this experimental evidence, no detailed theory has yet been presented. This situation is unsatisfactory especially when compared to the case of the data-independent P-greedy algorithm, for which optimal convergence rates are available, despite its performances being usually inferior to the ones of target data-dependent algorithms. In this work we fill this gap by first defining a new scale of greedy algorithms for interpolation that comprises all the existing ones in a unique analysis, where the degree of dependency of the selection criterion on the functional data is quantified by a real parameter. We then prove new convergence rates where this degree is taken into account and we show that, possibly up to a logarithmic factor, target data-dependent selection strategies provide faster convergence. In particular, for the first time we obtain convergence rates for target data adaptive interpolation that are faster than the ones given by uniform points, without the need of any special assumption on the target function. The rates are confirmed by a number of examples. These results are made possible by a new analysis of greedy algorithms in general Hilbert spaces.	
+Assessing the similarity of two images is a complex task that has attracted significant efforts in the image processing community. The widely used Structural Similarity Index Measure (SSIM) addresses this problem by quantifying a perceptual structural similarity.  In this paper we consider a recently introduced continuous SSIM (cSSIM), which allows one to analyze sequences of images of increasingly fine resolutions. We prove that this index includes the classical SSIM as a special case, and we provide a precise connection between image similarity measured by the cSSIM and by the $L_2$ norm.  Using this connection, we derive bounds on the cSSIM by means of bounds on the $L_2$ error, and we even prove that the two error measures are equivalent in certain circumstances. We exploit these results to obtain precise rates of convergence with respect to the cSSIM for several concrete image interpolation methods, and we further validate these findings by many numerical experiments.  This newly established connection paves the way to obtain novel insights into the features and limitations of the SSIM.	
 </blockquote>
 
 <pre>
   <code class="bibtex">
-@misc{Wenzel2021b,
-      title={Analysis of target data-dependent greedy kernel algorithms: Convergence rates for $f$-, $f \cdot P$- and $f/P$-greedy}, 
-      author={Tizian Wenzel and Gabriele Santin and Bernard Haasdonk},
+@misc{Marchetti2021,
+      title={Convergence analysis for image interpolation in terms of the cSSIM}, 
+      author={Francesco Marchetti and Gabriele Santin},
       year={2021},
-      eprint={2105.07411},
+      eprint={2108.03879},
       archivePrefix={arXiv},
       primaryClass={math.NA}
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
-<summary>T. Wenzel, G. Santin, B. Haasdonk, 
-<i>Universality and optimality of structured deep kernel  networks</i> (2021). <a href='https://arxiv.org/abs/2105.07228'> <i class="fa fa-file-pdf"></i> Preprint </a>
-</summary>
-
-<small>
-
-<blockquote>
-Kernel based methods yield approximation models that are flexible, efficient and powerful. In particular, they utilize fixed feature maps of the data, being often associated to strong analytical results that prove their accuracy. On the other hand, the recent success of machine learning methods has been driven by deep neural networks (NNs). They achieve a significant accuracy on very high-dimensional data, in that they are able to learn also efficient data representations or data-based feature maps. In this paper, we leverage a recent deep kernel representer theorem to connect the two approaches and understand their interplay. In particular, we show that the use of special types of kernels yield models reminiscent of neural networks that are founded in the same theoretical framework of classical kernel methods, while enjoying many computational properties of deep neural networks. Especially the introduced Structured Deep Kernel Networks (SDKNs) can be viewed as neural networks with optimizable activation functions obeying a representer theorem. Analytic properties show their universal approximation properties in different asymptotic regimes of unbounded number of centers, width and depth. Especially in the case of unbounded depth, the constructions is asymptotically better than corresponding constructions for ReLU neural networks, which is made possible by the flexibility of kernel approximation.	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@misc{Wenzel2021c,
-      title={Universality and Optimality of Structured Deep Kernel Networks}, 
-      author={Tizian Wenzel and Gabriele Santin and Bernard Haasdonk},
-      year={2021},
-      eprint={2105.07228},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
-<summary>E. Leoni, G. Cencetti, G. Santin, T. Istomin, D. Molteni, G. P. Picco, E. Farella, B. Lepri, A. M. Murphy, 
-<i>Measuring close proximity  interactions in summer camps during the COVID-19 pandemic</i> (2021). <a href='https://arxiv.org/abs/2106.14750'> <i class="fa fa-file-pdf"></i> Preprint </a>
-</summary>
-
-<small>
-
-<blockquote>
-Policy makers have implemented multiple non-pharmaceutical strategies to mitigate the COVID-19 worldwide crisis. Interventions had the aim of reducing close proximity interactions, which drive the spread of the disease. A deeper knowledge of human physical interactions has revealed necessary, especially in all settings involving children, whose education and gathering activities should be preserved.  Despite their relevance,  almost  no  data  are  available on close proximity  contacts among  children  in  schools  or  other  educational  settings during the pandemic. Contact data are usually gathered via Bluetooth, which nonetheless  offers  a  low  temporal  and  spatial  resolution. Recently, ultra-wideband (UWB) radios emerged as a more accurate alternative that nonetheless exhibits a significantly higher energy consumption, limiting  in-field  studies. In this paper, we leverage a novel approach,embodied by the Janus system that combines these radios by exploiting their complementary benefits.  The very accurate proximity data gathered in-field by Janus, once augmented with several metadata, unlocks unprecedented levels of information, enabling the development of novel multi-level risk analyses. By means of this technology, we have collected real contact data of children and educators in three summer camps during summer 2020in the province of Trento, Italy.  The wide variety of performed daily activities induced multiple individual behaviors, allowing a rich investigation  of  social  environments  from  the  contagion  risk  perspective. We  consider  risk  based  on  duration  and  proximity  of  contacts  and classify  interactions  according  to  different  risk  levels. We can then evaluate the summer camps’ organization,  observe the effect of partition in small groups,  or social bubbles,  and identify the organized activities that mitigate the riskier behaviors. Overall, we offer an insight into the educator-child and child-child social interactions  during  the  pandemic,  thus  providing  a  valuable tool  for  schools,  summer  camps,  and  policy makers to  (re)structure educational activities safely.	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@misc{Leoni2021,
-      title={Measuring close proximity interactions in summer camps during the COVID-19 pandemic}, 
-      author={E. Leoni and G. Cencetti and G. Santin and T. Istomin and D. Molteni and G. P. Picco and E. Farella and B. Lepri and A. M. Murphy},
-      year={2021},
-      eprint={2106.14750},
-      archivePrefix={arXiv},
-      primaryClass={cs.NI}
 }
   </code>
 </pre>
@@ -140,23 +76,87 @@ Semi-lagrangian schemes for discretization of the dynamic programming principle 
 
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
-<summary>F. Marchetti, G. Santin, 
-<i>Convergence results in image interpolation with the continuous SSIM</i> (2021). <a href='https://arxiv.org/abs/2108.03879'> <i class="fa fa-file-pdf"></i> Preprint </a>
+<summary>E. Leoni, G. Cencetti, G. Santin, T. Istomin, D. Molteni, G. P. Picco, E. Farella, B. Lepri, A. M. Murphy, 
+<i>Measuring close proximity  interactions in summer camps during the COVID-19 pandemic</i> (2021). <a href='https://arxiv.org/abs/2106.14750'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
 
 <small>
 
 <blockquote>
-Assessing the similarity of two images is a complex task that has attracted significant efforts in the image processing community. The widely used Structural Similarity Index Measure (SSIM) addresses this problem by quantifying a perceptual structural similarity.  In this paper we consider a recently introduced continuous SSIM (cSSIM), which allows one to analyze sequences of images of increasingly fine resolutions. We prove that this index includes the classical SSIM as a special case, and we provide a precise connection between image similarity measured by the cSSIM and by the $L_2$ norm.  Using this connection, we derive bounds on the cSSIM by means of bounds on the $L_2$ error, and we even prove that the two error measures are equivalent in certain circumstances. We exploit these results to obtain precise rates of convergence with respect to the cSSIM for several concrete image interpolation methods, and we further validate these findings by many numerical experiments.  This newly established connection paves the way to obtain novel insights into the features and limitations of the SSIM.	
+Policy makers have implemented multiple non-pharmaceutical strategies to mitigate the COVID-19 worldwide crisis. Interventions had the aim of reducing close proximity interactions, which drive the spread of the disease. A deeper knowledge of human physical interactions has revealed necessary, especially in all settings involving children, whose education and gathering activities should be preserved.  Despite their relevance,  almost  no  data  are  available on close proximity  contacts among  children  in  schools  or  other  educational  settings during the pandemic. Contact data are usually gathered via Bluetooth, which nonetheless  offers  a  low  temporal  and  spatial  resolution. Recently, ultra-wideband (UWB) radios emerged as a more accurate alternative that nonetheless exhibits a significantly higher energy consumption, limiting  in-field  studies. In this paper, we leverage a novel approach,embodied by the Janus system that combines these radios by exploiting their complementary benefits.  The very accurate proximity data gathered in-field by Janus, once augmented with several metadata, unlocks unprecedented levels of information, enabling the development of novel multi-level risk analyses. By means of this technology, we have collected real contact data of children and educators in three summer camps during summer 2020in the province of Trento, Italy.  The wide variety of performed daily activities induced multiple individual behaviors, allowing a rich investigation  of  social  environments  from  the  contagion  risk  perspective. We  consider  risk  based  on  duration  and  proximity  of  contacts  and classify  interactions  according  to  different  risk  levels. We can then evaluate the summer camps’ organization,  observe the effect of partition in small groups,  or social bubbles,  and identify the organized activities that mitigate the riskier behaviors. Overall, we offer an insight into the educator-child and child-child social interactions  during  the  pandemic,  thus  providing  a  valuable tool  for  schools,  summer  camps,  and  policy makers to  (re)structure educational activities safely.	
 </blockquote>
 
 <pre>
   <code class="bibtex">
-@misc{Marchetti2021,
-      title={Convergence analysis for image interpolation in terms of the cSSIM}, 
-      author={Francesco Marchetti and Gabriele Santin},
+@misc{Leoni2021,
+      title={Measuring close proximity interactions in summer camps during the COVID-19 pandemic}, 
+      author={E. Leoni and G. Cencetti and G. Santin and T. Istomin and D. Molteni and G. P. Picco and E. Farella and B. Lepri and A. M. Murphy},
       year={2021},
-      eprint={2108.03879},
+      eprint={2106.14750},
+      archivePrefix={arXiv},
+      primaryClass={cs.NI}
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
+<summary>T. Wenzel, G. Santin, B. Haasdonk, 
+<i>Universality and optimality of structured deep kernel  networks</i> (2021). <a href='https://arxiv.org/abs/2105.07228'> <i class="fa fa-file-pdf"></i> Preprint </a>
+</summary>
+
+<small>
+
+<blockquote>
+Kernel based methods yield approximation models that are flexible, efficient and powerful. In particular, they utilize fixed feature maps of the data, being often associated to strong analytical results that prove their accuracy. On the other hand, the recent success of machine learning methods has been driven by deep neural networks (NNs). They achieve a significant accuracy on very high-dimensional data, in that they are able to learn also efficient data representations or data-based feature maps. In this paper, we leverage a recent deep kernel representer theorem to connect the two approaches and understand their interplay. In particular, we show that the use of special types of kernels yield models reminiscent of neural networks that are founded in the same theoretical framework of classical kernel methods, while enjoying many computational properties of deep neural networks. Especially the introduced Structured Deep Kernel Networks (SDKNs) can be viewed as neural networks with optimizable activation functions obeying a representer theorem. Analytic properties show their universal approximation properties in different asymptotic regimes of unbounded number of centers, width and depth. Especially in the case of unbounded depth, the constructions is asymptotically better than corresponding constructions for ReLU neural networks, which is made possible by the flexibility of kernel approximation.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@misc{Wenzel2021c,
+      title={Universality and Optimality of Structured Deep Kernel Networks}, 
+      author={Tizian Wenzel and Gabriele Santin and Bernard Haasdonk},
+      year={2021},
+      eprint={2105.07228},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
+<summary>T. Wenzel, G. Santin, B. Haasdonk, 
+<i>Analysis of target data-dependent greedy kernel algorithms: Convergence rates for f-, f P- and  f/P-greedy</i> (2021). <a href='https://arxiv.org/abs/2105.07411'> <i class="fa fa-file-pdf"></i> Preprint </a>
+</summary>
+
+<small>
+
+<blockquote>
+Data-dependent greedy algorithms in kernel spaces are known to provide fast converging interpolants, while being extremely easy to implement and efficient to run. Despite this experimental evidence, no detailed theory has yet been presented. This situation is unsatisfactory especially when compared to the case of the data-independent P-greedy algorithm, for which optimal convergence rates are available, despite its performances being usually inferior to the ones of target data-dependent algorithms. In this work we fill this gap by first defining a new scale of greedy algorithms for interpolation that comprises all the existing ones in a unique analysis, where the degree of dependency of the selection criterion on the functional data is quantified by a real parameter. We then prove new convergence rates where this degree is taken into account and we show that, possibly up to a logarithmic factor, target data-dependent selection strategies provide faster convergence. In particular, for the first time we obtain convergence rates for target data adaptive interpolation that are faster than the ones given by uniform points, without the need of any special assumption on the target function. The rates are confirmed by a number of examples. These results are made possible by a new analysis of greedy algorithms in general Hilbert spaces.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@misc{Wenzel2021b,
+      title={Analysis of target data-dependent greedy kernel algorithms: Convergence rates for $f$-, $f \cdot P$- and $f/P$-greedy}, 
+      author={Tizian Wenzel and Gabriele Santin and Bernard Haasdonk},
+      year={2021},
+      eprint={2105.07411},
       archivePrefix={arXiv},
       primaryClass={math.NA}
 }
@@ -205,26 +205,27 @@ The inference of novel knowledge, the discovery of hidden patterns, and the unco
 ## Accepted
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
-<summary>G. Santin, B. Haasdonk, 
-<i>Kernel Methods for Surrogate  Modeling</i>, 
-Accepted for publication in Model Order Reduction, Volume 1: System- and Data-Driven Methods and Algorithms, P. Benner, W. Schilders, S. Grivet-Talocia, A. Quarteroni, G. Rozza, L.  M. Silveira  Eds. (2021). <a href='https://arxiv.org/abs/1907.10556'> <i class="fa fa-file-pdf"></i> Preprint </a>
+<summary>B. Haasdonk, B. Hamzi, G. Santin, D. Wittwar, 
+<i>Kernel methods for center manifold approximation and a data-based version  of the Center Manifold Theorem</i>, 
+Accepted for publication in Physica D: Nonlinear Phenomena (2021). <a href='https://arxiv.org/abs/2012.00338'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
 
 <small>
 
 <blockquote>
-This chapter deals with kernel methods as a special class of techniques for surrogate modeling. Kernel methods have proven to be efficient in machine learning, pattern recognition and signal analysis due to their flexibility, excellent experimental performance and elegant functional analytic background. These data-based techniques provide so called kernel expansions, i.e., linear combinations of kernel functions which are generated from given input-output point samples that may be arbitrarily scattered. In particular, these techniques are meshless, do not require or depend on a grid, hence are less prone to the curse of dimensionality, even for high-dimensional problems. In contrast to projection-based model reduction, we do not necessarily assume a high-dimensional model, but a general function that models input-output behavior within some simulation context. This could be some micro-model in a multiscale-simulation, some submodel in a coupled system, some initialization function for solvers, coefficient function in PDEs, etc. First, kernel surrogates can be useful if the input-output function is expensive to evaluate, e.g. is a result of a finite element simulation. Here, acceleration can be obtained by sparse kernel expansions. Second, if a function is available only via measurements or a few function evaluation samples, kernel approximation techniques can provide function surrogates that allow global evaluation. We present some important kernel approximation techniques, which are kernel interpolation, greedy kernel approximation and support vector regression. Pseudo-code is provided for ease of reproducibility. In order to illustrate the main features, commonalities and differences, we compare these techniques on a real-world application. The experiments clearly indicate the enormous acceleration potential	
+For dynamical systems with a non hyperbolic equilibrium, it is possible to significantly simplify the study of stability by means of the center manifold theory. This theory allows to isolate the complicated asymptotic behavior of the system close to the equilibrium point and to obtain meaningful predictions of its behavior by analyzing a reduced order system on the so-called center manifold. Since the center manifold is usually not known, good approximation methods are important as the center manifold theorem states that the stability properties of the origin of the reduced order system are the same as those of the origin of the full order system. In this work, we establish a data-based version of the center manifold theorem that works by considering an approximation in place of an exact manifold. Also the error between the approximated and the original reduced dynamics are quantified. We then use an apposite data-based kernel method to construct a suitable approximation of the manifold close to the equilibrium, which is compatible with our general error theory. The data are collected by repeated numerical simulation of the full system by means of a high-accuracy solver, which generates sets of discrete trajectories that are then used as a training set. The method is tested on different examples which show promising performance and good accuracy.	
 </blockquote>
 
 <pre>
   <code class="bibtex">
-@misc{Santin2019,
-      title={Kernel Methods for Surrogate Modeling}, 
-      author={Gabriele Santin and Bernard Haasdonk},
-      year={2019},
-      eprint={1907.10556},
+@misc{Haasdonk2021b,
+      title={Kernel methods for center manifold approximation and a data-based version of the Center Manifold Theorem}, 
+      author={Bernard Haasdonk and Boumediene Hamzi and Gabriele Santin and Dominik Wittwar},
+      year={2021},
+      eprint={2012.00338},
       archivePrefix={arXiv},
-      primaryClass={math.NA}
+      primaryClass={math.NA},
+      note = {Accepted for publication in Physica D: Nonlinear Phenomena}
 }
   </code>
 </pre>
@@ -271,27 +272,26 @@ Standard kernel methods for machine learning usually struggle when dealing with 
 
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
-<summary>B. Haasdonk, B. Hamzi, G. Santin, D. Wittwar, 
-<i>Kernel methods for center manifold approximation and a data-based version  of the Center Manifold Theorem</i>, 
-Accepted for publication in Physica D: Nonlinear Phenomena (2021). <a href='https://arxiv.org/abs/2012.00338'> <i class="fa fa-file-pdf"></i> Preprint </a>
+<summary>G. Santin, B. Haasdonk, 
+<i>Kernel Methods for Surrogate  Modeling</i>, 
+Accepted for publication in Model Order Reduction, Volume 1: System- and Data-Driven Methods and Algorithms, P. Benner, W. Schilders, S. Grivet-Talocia, A. Quarteroni, G. Rozza, L.  M. Silveira  Eds. (2021). <a href='https://arxiv.org/abs/1907.10556'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
 
 <small>
 
 <blockquote>
-For dynamical systems with a non hyperbolic equilibrium, it is possible to significantly simplify the study of stability by means of the center manifold theory. This theory allows to isolate the complicated asymptotic behavior of the system close to the equilibrium point and to obtain meaningful predictions of its behavior by analyzing a reduced order system on the so-called center manifold. Since the center manifold is usually not known, good approximation methods are important as the center manifold theorem states that the stability properties of the origin of the reduced order system are the same as those of the origin of the full order system. In this work, we establish a data-based version of the center manifold theorem that works by considering an approximation in place of an exact manifold. Also the error between the approximated and the original reduced dynamics are quantified. We then use an apposite data-based kernel method to construct a suitable approximation of the manifold close to the equilibrium, which is compatible with our general error theory. The data are collected by repeated numerical simulation of the full system by means of a high-accuracy solver, which generates sets of discrete trajectories that are then used as a training set. The method is tested on different examples which show promising performance and good accuracy.	
+This chapter deals with kernel methods as a special class of techniques for surrogate modeling. Kernel methods have proven to be efficient in machine learning, pattern recognition and signal analysis due to their flexibility, excellent experimental performance and elegant functional analytic background. These data-based techniques provide so called kernel expansions, i.e., linear combinations of kernel functions which are generated from given input-output point samples that may be arbitrarily scattered. In particular, these techniques are meshless, do not require or depend on a grid, hence are less prone to the curse of dimensionality, even for high-dimensional problems. In contrast to projection-based model reduction, we do not necessarily assume a high-dimensional model, but a general function that models input-output behavior within some simulation context. This could be some micro-model in a multiscale-simulation, some submodel in a coupled system, some initialization function for solvers, coefficient function in PDEs, etc. First, kernel surrogates can be useful if the input-output function is expensive to evaluate, e.g. is a result of a finite element simulation. Here, acceleration can be obtained by sparse kernel expansions. Second, if a function is available only via measurements or a few function evaluation samples, kernel approximation techniques can provide function surrogates that allow global evaluation. We present some important kernel approximation techniques, which are kernel interpolation, greedy kernel approximation and support vector regression. Pseudo-code is provided for ease of reproducibility. In order to illustrate the main features, commonalities and differences, we compare these techniques on a real-world application. The experiments clearly indicate the enormous acceleration potential	
 </blockquote>
 
 <pre>
   <code class="bibtex">
-@misc{Haasdonk2021b,
-      title={Kernel methods for center manifold approximation and a data-based version of the Center Manifold Theorem}, 
-      author={Bernard Haasdonk and Boumediene Hamzi and Gabriele Santin and Dominik Wittwar},
-      year={2021},
-      eprint={2012.00338},
+@misc{Santin2019,
+      title={Kernel Methods for Surrogate Modeling}, 
+      author={Gabriele Santin and Bernard Haasdonk},
+      year={2019},
+      eprint={1907.10556},
       archivePrefix={arXiv},
-      primaryClass={math.NA},
-      note = {Accepted for publication in Physica D: Nonlinear Phenomena}
+      primaryClass={math.NA}
 }
   </code>
 </pre>
@@ -584,36 +584,31 @@ A variety of methods is available to quantify uncertainties arising within the m
 </p>
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
-<summary> S. De Marchi, A. Iske, G. Santin, 
-<i>Image reconstruction from scattered Radon data by weighted positive definite kernel functions</i>, 
- Calcolo (2018). <a href='https://www.math.uni-hamburg.de/home/iske/papers/rbfradon_final.pdf'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1007/s10092-018-0247-6'> <i class="ai ai-doi"> </i>DOI</a>
+<summary> D. Wittwar, G. Santin, B. Haasdonk, 
+<i>Interpolation with uncoupled separable matrix-valued kernels</i>, 
+ Dolomites Res. Notes Approx. (2018). <a href='https://arxiv.org/abs/1807.09111'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' http://dx.doi.org/10.14658/pupj-drna-2018-3-4'> <i class="ai ai-doi"> </i>DOI</a>
 </summary>
 
 <small>
 
 <blockquote>
-We propose a novel kernel-based method for image reconstruction from scattered Radon data. To this end, we employ generalized Hermite–Birkhoff interpola- tion by positive definite kernel functions. For radial kernels, however, a straightforward application of the generalized Hermite–Birkhoff interpolation method fails to work, as we prove in this paper. To obtain a well-posed reconstruction scheme for scattered Radon data, we introduce a new class of weighted positive definite kernels, which are symmetric but not radially symmetric. By our construction, the resulting weighted ker- nels are combinations of radial positive definite kernels and positive weight functions. This yields very flexible image reconstruction methods, which work for arbitrary dis- tributions of Radon lines. We develop suitable representations for the weighted basis functions and the symmetric positive definite kernel matrices that are resulting from the proposed reconstruction scheme. For the relevant special case, where Gaussian radial kernels are combined with Gaussian weights, explicit formulae for the weighted Gaus- sian basis functions and the kernel matrices are given. Supporting numerical examples are finally presented.	
+In this paper we consider the problem of approximating vector-valued functions over a domain $\Omega$. For this purpose, we use matrix-valued reproducing kernels, which can be related to Reproducing kernel Hilbert spaces of vectorial functions and which can be viewed as an extension of the scalar-valued case. These spaces seem promising, when modelling correlations between the target function components, as the components are not learned independently of each other. We focus on the interpolation with such matrix-valued kernels. We derive error bounds for the interpolation error in terms of a generalized power-function and we introduce a subclass of matrix-valued kernels whose power-functions can be traced back to the power-function of scalar-valued reproducing kernels. Finally, we apply these kind of kernels to some artificial data to illustrate the benefit of interpolation with matrix-valued kernels in comparison to a componentwise approach. 	
 </blockquote>
 
 <pre>
   <code class="bibtex">
-@Article{DeMarchi2018,
-  Title                    = {Image reconstruction from scattered Radon data by weighted positive definite kernel functions},
-  Author                   = {De Marchi, S. and Iske, A. and Santin, G.},
-  Journal                  = {Calcolo},
+@Article{Wittwar2018,
+  Title                    = {Interpolation with uncoupled separable matrix-valued kernels},
+  Author                   = {Wittwar, Dominik and Santin, Gabriele and Haasdonk, Bernard},
+  Journal                  = {Dolomites Res. Notes Approx.},
   Year                     = {2018},
-  Month                    = {Feb},
-  Number                   = {1},
-  Pages                    = {2},
-  Volume                   = {55},
-  Day                      = {02},
-  Doi                      = {10.1007/s10092-018-0247-6},
-  ISSN                     = {1126-5434},
-  Url                      = {https://doi.org/10.1007/s10092-018-0247-6}
+  Pages                    = {23--29},
+  Volume                   = {11},
+  Doi                      = {10.14658/pupj-drna-2018-3-4},
+  Fjournal                 = {Dolomites Research Notes on Approximation},
+  Sjournal                 = {Dolomites Res.\ Notes Approx.},
+  Url                      = {https://drna.padovauniversitypress.it/2018/3/4}
 }
-
-
-﻿
   </code>
 </pre>
 </small>
@@ -665,6 +660,48 @@ In this work, we consider 2 kinds of model reduction techniques to simulate bloo
 
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
+<summary> S. De Marchi, A. Iske, G. Santin, 
+<i>Image reconstruction from scattered Radon data by weighted positive definite kernel functions</i>, 
+ Calcolo (2018). <a href='https://www.math.uni-hamburg.de/home/iske/papers/rbfradon_final.pdf'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1007/s10092-018-0247-6'> <i class="ai ai-doi"> </i>DOI</a>
+</summary>
+
+<small>
+
+<blockquote>
+We propose a novel kernel-based method for image reconstruction from scattered Radon data. To this end, we employ generalized Hermite–Birkhoff interpola- tion by positive definite kernel functions. For radial kernels, however, a straightforward application of the generalized Hermite–Birkhoff interpolation method fails to work, as we prove in this paper. To obtain a well-posed reconstruction scheme for scattered Radon data, we introduce a new class of weighted positive definite kernels, which are symmetric but not radially symmetric. By our construction, the resulting weighted ker- nels are combinations of radial positive definite kernels and positive weight functions. This yields very flexible image reconstruction methods, which work for arbitrary dis- tributions of Radon lines. We develop suitable representations for the weighted basis functions and the symmetric positive definite kernel matrices that are resulting from the proposed reconstruction scheme. For the relevant special case, where Gaussian radial kernels are combined with Gaussian weights, explicit formulae for the weighted Gaus- sian basis functions and the kernel matrices are given. Supporting numerical examples are finally presented.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@Article{DeMarchi2018,
+  Title                    = {Image reconstruction from scattered Radon data by weighted positive definite kernel functions},
+  Author                   = {De Marchi, S. and Iske, A. and Santin, G.},
+  Journal                  = {Calcolo},
+  Year                     = {2018},
+  Month                    = {Feb},
+  Number                   = {1},
+  Pages                    = {2},
+  Volume                   = {55},
+  Day                      = {02},
+  Doi                      = {10.1007/s10092-018-0247-6},
+  ISSN                     = {1126-5434},
+  Url                      = {https://doi.org/10.1007/s10092-018-0247-6}
+}
+
+
+﻿
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
 <summary> G. Santin, B. Haasdonk, 
 <i>Greedy kernel approximation for sparse surrogate modelling</i>, 
  Reduced-Order Modeling (ROM) for Simulation and Optimization: Powerful Algorithms as Key Enablers for Scientific Computing, W. Keiper, A. Milde, and S. Volkwein, Eds (2018). <a href=''> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1007/978-3-319-75319-5_2'> <i class="ai ai-doi"> </i>DOI</a>
@@ -690,43 +727,6 @@ Modern simulation scenarios frequently require multi-query or real-time response
   Doi                      = {10.1007/978-3-319-75319-5_2},
   ISBN                     = {978-3-319-75319-5},
   Url                      = {https://doi.org/10.1007/978-3-319-75319-5_2}
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
-<summary> D. Wittwar, G. Santin, B. Haasdonk, 
-<i>Interpolation with uncoupled separable matrix-valued kernels</i>, 
- Dolomites Res. Notes Approx. (2018). <a href='https://arxiv.org/abs/1807.09111'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' http://dx.doi.org/10.14658/pupj-drna-2018-3-4'> <i class="ai ai-doi"> </i>DOI</a>
-</summary>
-
-<small>
-
-<blockquote>
-In this paper we consider the problem of approximating vector-valued functions over a domain $\Omega$. For this purpose, we use matrix-valued reproducing kernels, which can be related to Reproducing kernel Hilbert spaces of vectorial functions and which can be viewed as an extension of the scalar-valued case. These spaces seem promising, when modelling correlations between the target function components, as the components are not learned independently of each other. We focus on the interpolation with such matrix-valued kernels. We derive error bounds for the interpolation error in terms of a generalized power-function and we introduce a subclass of matrix-valued kernels whose power-functions can be traced back to the power-function of scalar-valued reproducing kernels. Finally, we apply these kind of kernels to some artificial data to illustrate the benefit of interpolation with matrix-valued kernels in comparison to a componentwise approach. 	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@Article{Wittwar2018,
-  Title                    = {Interpolation with uncoupled separable matrix-valued kernels},
-  Author                   = {Wittwar, Dominik and Santin, Gabriele and Haasdonk, Bernard},
-  Journal                  = {Dolomites Res. Notes Approx.},
-  Year                     = {2018},
-  Pages                    = {23--29},
-  Volume                   = {11},
-  Doi                      = {10.14658/pupj-drna-2018-3-4},
-  Fjournal                 = {Dolomites Research Notes on Approximation},
-  Sjournal                 = {Dolomites Res.\ Notes Approx.},
-  Url                      = {https://drna.padovauniversitypress.it/2018/3/4}
 }
   </code>
 </pre>
@@ -855,6 +855,39 @@ In this paper we propose a new stable and accurate approximation technique which
 </p>
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
+<summary> R. Cavoretto, S. De Marchi, A. De Rossi, E. Perracchione, G. Santin, 
+<i>Approximating basins of attraction for dynamical systems via stable radial bases</i>, 
+ AIP Conf. Proc. (2016). <a href='https://www.math.unipd.it/~demarchi/papers/ICNAAM15.pdf'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1063/1.4952177'> <i class="ai ai-doi"> </i>DOI</a>
+</summary>
+
+<small>
+
+<blockquote>
+In applied sciences it is often required to model and supervise temporal evolution of populations via dynamical systems. In this paper, we focus on the problem of approximating the basins of attraction of such models for each stable equilibrium point. We propose to reconstruct the basins via an implicit interpolant using stable radial bases, obtaining the surfaces by partitioning the phase space into disjoint regions. An application to a competition model presenting jointly three stable equilibria is considered. 	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@InProceedings{Cavoretto2016a,
+  Title                    = {Approximating basins of attraction for dynamical systems via stable radial bases},
+  Author                   = {Cavoretto, Roberto and De Marchi, Stefano and De Rossi, Alessandra and Perracchione, Emma and Santin, Gabriele},
+  Booktitle                = {AIP Conf. Proc.},
+  Year                     = {2016},
+  Doi                      = {10.1063/1.4952177},
+  Url                      = {http://dx.doi.org/10.1063/1.4952177}
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
 <summary> G. Santin, R. Schaback, 
 <i>Approximation of eigenfunctions in kernel-based spaces</i>, 
  Adv. Comput. Math. (2016). <a href='https://arxiv.org/abs/1411.7656'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1007/s10444-015-9449-5'> <i class="ai ai-doi"> </i>DOI</a>
@@ -891,78 +924,10 @@ Kernel-based methods in Numerical Analysis have the advantage of yielding optima
 
 
 
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
-<summary> R. Cavoretto, S. De Marchi, A. De Rossi, E. Perracchione, G. Santin, 
-<i>Approximating basins of attraction for dynamical systems via stable radial bases</i>, 
- AIP Conf. Proc. (2016). <a href='https://www.math.unipd.it/~demarchi/papers/ICNAAM15.pdf'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1063/1.4952177'> <i class="ai ai-doi"> </i>DOI</a>
-</summary>
-
-<small>
-
-<blockquote>
-In applied sciences it is often required to model and supervise temporal evolution of populations via dynamical systems. In this paper, we focus on the problem of approximating the basins of attraction of such models for each stable equilibrium point. We propose to reconstruct the basins via an implicit interpolant using stable radial bases, obtaining the surfaces by partitioning the phase space into disjoint regions. An application to a competition model presenting jointly three stable equilibria is considered. 	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@InProceedings{Cavoretto2016a,
-  Title                    = {Approximating basins of attraction for dynamical systems via stable radial bases},
-  Author                   = {Cavoretto, Roberto and De Marchi, Stefano and De Rossi, Alessandra and Perracchione, Emma and Santin, Gabriele},
-  Booktitle                = {AIP Conf. Proc.},
-  Year                     = {2016},
-  Doi                      = {10.1063/1.4952177},
-  Url                      = {http://dx.doi.org/10.1063/1.4952177}
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
 
 <p style='margin-top:-20px;margin-left:5%;'>
 <h3 style='margin-left:5%;'> 2015</h3>
 </p>
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
-<summary> R. Cavoretto, S. De Marchi, A. De Rossi, E. Perracchione, G. Santin, 
-<i>RBF approximation of large datasets by partition of unity and local stabilization</i>, 
- CMMSE 2015: Proceedings of the 15th International Conference on  Mathematical Methods in Science and Engineering (2015). <a href='https://www.math.unipd.it/~demarchi/papers/Latex_template_cmmse.pdf'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://iris.unito.it/retrieve/handle/2318/1526172/55702/CMMSE_2015.pdf'> <i class="ai ai-doi"> </i>DOI</a>
-</summary>
-
-<small>
-
-<blockquote>
-We present an algorithm to approximate large datasets by Radial Basis Function(RBF) techniques. The method couples a fast domain decomposition procedure with alocalized stabilization method. The resulting algorithm can efficiently deal with largeproblems and it is robust with respect to the typical instability of kernel methods.	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@InProceedings{Cavoretto2015,
-  Title                    = {RBF approximation of large datasets by partition of unity and local stabilization},
-  Author                   = {Cavoretto, Roberto and De Marchi, Stefano and De Rossi, Alessandra and Perracchione, Emma and Santin, Gabriele},
-  Booktitle                = {CMMSE 2015 : Proceedings of the 15th International Conference on Mathematical Methods in Science and Engineering},
-  Year                     = {2015},
-  Editor                   = {Vigo-Aguiar, J.},
-  Pages                    = {317--326},
-  ISBN                     = {978-84-617-2230-3},
-  ISSN                     = {2312-0177},
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary> S. De Marchi, G. Santin, 
@@ -990,6 +955,41 @@ In recent years, in the setting of radial basis function, the study of approxima
   ISSN                     = {0006-3835},
   Publisher                = {Springer Netherlands},
   Url                      = {http://dx.doi.org/10.1007/s10543-014-0537-6}
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
+<summary> R. Cavoretto, S. De Marchi, A. De Rossi, E. Perracchione, G. Santin, 
+<i>RBF approximation of large datasets by partition of unity and local stabilization</i>, 
+ CMMSE 2015: Proceedings of the 15th International Conference on  Mathematical Methods in Science and Engineering (2015). <a href='https://www.math.unipd.it/~demarchi/papers/Latex_template_cmmse.pdf'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://iris.unito.it/retrieve/handle/2318/1526172/55702/CMMSE_2015.pdf'> <i class="ai ai-doi"> </i>DOI</a>
+</summary>
+
+<small>
+
+<blockquote>
+We present an algorithm to approximate large datasets by Radial Basis Function(RBF) techniques. The method couples a fast domain decomposition procedure with alocalized stabilization method. The resulting algorithm can efficiently deal with largeproblems and it is robust with respect to the typical instability of kernel methods.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@InProceedings{Cavoretto2015,
+  Title                    = {RBF approximation of large datasets by partition of unity and local stabilization},
+  Author                   = {Cavoretto, Roberto and De Marchi, Stefano and De Rossi, Alessandra and Perracchione, Emma and Santin, Gabriele},
+  Booktitle                = {CMMSE 2015 : Proceedings of the 15th International Conference on Mathematical Methods in Science and Engineering},
+  Year                     = {2015},
+  Editor                   = {Vigo-Aguiar, J.},
+  Pages                    = {317--326},
+  ISBN                     = {978-84-617-2230-3},
+  ISSN                     = {2312-0177},
 }
   </code>
 </pre>
