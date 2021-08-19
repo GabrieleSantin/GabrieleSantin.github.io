@@ -19,3 +19,7 @@ Previously, I’ve been for four years in the group of Bernard Haasdonk at the U
 I obtained my MSc and PhD at the Department of Mathematics of the University of Padova under the supervision of Stefano De Marchi in the CAA group, where I wrote my theses on algorithmic and theoretical aspects of kernel based interpolation.
 
 You can find more info in my <a href='https://GabrieleSantin.github.io/files/CV.pdf'> <i class="ai ai-cv"></i> Curriculum</a>.
+
+
+ <a href='https://www.symptoma.it/'>https://www.symptoma.it</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=1c9f050768c2af1bd3a18c68b8d213a84801e27b'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/858186/t/4"></script>
