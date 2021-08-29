@@ -205,40 +205,6 @@ The inference of novel knowledge, the discovery of hidden patterns, and the unco
 ## Accepted
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
-<summary>B. Haasdonk, B. Hamzi, G. Santin, D. Wittwar, 
-<i>Kernel methods for center manifold approximation and a data-based version  of the Center Manifold Theorem</i>, 
-Accepted for publication in Physica D: Nonlinear Phenomena (2021). <a href='https://arxiv.org/abs/2012.00338'> <i class="fa fa-file-pdf"></i> Preprint </a>
-</summary>
-
-<small>
-
-<blockquote>
-For dynamical systems with a non hyperbolic equilibrium, it is possible to significantly simplify the study of stability by means of the center manifold theory. This theory allows to isolate the complicated asymptotic behavior of the system close to the equilibrium point and to obtain meaningful predictions of its behavior by analyzing a reduced order system on the so-called center manifold. Since the center manifold is usually not known, good approximation methods are important as the center manifold theorem states that the stability properties of the origin of the reduced order system are the same as those of the origin of the full order system. In this work, we establish a data-based version of the center manifold theorem that works by considering an approximation in place of an exact manifold. Also the error between the approximated and the original reduced dynamics are quantified. We then use an apposite data-based kernel method to construct a suitable approximation of the manifold close to the equilibrium, which is compatible with our general error theory. The data are collected by repeated numerical simulation of the full system by means of a high-accuracy solver, which generates sets of discrete trajectories that are then used as a training set. The method is tested on different examples which show promising performance and good accuracy.	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@misc{Haasdonk2021b,
-      title={Kernel methods for center manifold approximation and a data-based version of the Center Manifold Theorem}, 
-      author={Bernard Haasdonk and Boumediene Hamzi and Gabriele Santin and Dominik Wittwar},
-      year={2021},
-      eprint={2012.00338},
-      archivePrefix={arXiv},
-      primaryClass={math.NA},
-      note = {Accepted for publication in Physica D: Nonlinear Phenomena}
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
 <summary>T. Wenzel, M. Kurz, A. Beck, G. Santin, B. Haasdonk, 
 <i>Structured Deep Kernel Networks for Data-Driven Closure Terms of  Turbulent Flows</i>, 
 Accepted for publication in Proceedings of the 13th International Conference on Large Scale Scientific Computations (2021). <a href='https://arxiv.org/abs/2103.13655'> <i class="fa fa-file-pdf"></i> Preprint </a>
@@ -445,6 +411,40 @@ Kernel based methods provide a way to reconstruct potentially high-dimensional f
   issn   		   = {0021-9045},
   doi     		   = {https://doi.org/10.1016/j.jat.2020.105508},
   url   		   = {http://www.sciencedirect.com/science/article/pii/S0021904520301441},
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
+<summary>B. Haasdonk, B. Hamzi, G. Santin, D. Wittwar, 
+<i>Kernel methods for center manifold approximation and a weak data-based version of the Center Manifold Theorem</i>, 
+Physica D: Nonlinear Phenomena (2021). <a href='https://arxiv.org/abs/2012.00338'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1016/j.physd.2021.133007'> <i class="ai ai-doi"> </i>DOI</a>
+</summary>
+
+<small>
+
+<blockquote>
+For dynamical systems with a non hyperbolic equilibrium, it is possible to significantly simplify the study of stability by means of the center manifold theory. This theory allows to isolate the complicated asymptotic behavior of the system close to the equilibrium point and to obtain meaningful predictions of its behavior by analyzing a reduced order system on the so-called center manifold. Since the center manifold is usually not known, good approximation methods are important as the center manifold theorem states that the stability properties of the origin of the reduced order system are the same as those of the origin of the full order system. In this work, we establish a data-based version of the center manifold theorem that works by considering an approximation in place of an exact manifold. Also the error between the approximated and the original reduced dynamics are quantified. We then use an apposite data-based kernel method to construct a suitable approximation of the manifold close to the equilibrium, which is compatible with our general error theory. The data are collected by repeated numerical simulation of the full system by means of a high-accuracy solver, which generates sets of discrete trajectories that are then used as a training set. The method is tested on different examples which show promising performance and good accuracy.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@misc{Haasdonk2021b,
+	title     = {Kernel methods for center manifold approximation and a weak data-based version of the Center Manifold Theorem},
+      author={Bernard Haasdonk and Boumediene Hamzi and Gabriele Santin and Dominik Wittwar},
+  journal   = {Physica D: Nonlinear Phenomena},
+  year      = {2021},
+  pages     = {133007},
+  issn      = {0167-2789},
+  doi       = {https://doi.org/10.1016/j.physd.2021.133007},
 }
   </code>
 </pre>
