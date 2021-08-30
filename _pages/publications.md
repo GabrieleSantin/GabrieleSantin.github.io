@@ -290,13 +290,13 @@ For dynamical systems with a non hyperbolic equilibrium, it is possible to signi
 <pre>
   <code class="bibtex">
 @misc{Haasdonk2021b,
-	title     = {Kernel methods for center manifold approximation and a weak data-based version of the Center Manifold Theorem},
-      author={Bernard Haasdonk and Boumediene Hamzi and Gabriele Santin and Dominik Wittwar},
-  journal   = {Physica D: Nonlinear Phenomena},
-  year      = {2021},
-  pages     = {133007},
-  issn      = {0167-2789},
-  doi       = {https://doi.org/10.1016/j.physd.2021.133007},
+      title     = {Kernel methods for center manifold approximation and a weak data-based version of the Center Manifold Theorem},
+      author    = {Bernard Haasdonk and Boumediene Hamzi and Gabriele Santin and Dominik Wittwar},
+      journal   = {Physica D: Nonlinear Phenomena},
+      year      = {2021},
+      pages     = {133007},
+      issn      = {0167-2789},
+      doi       = {https://doi.org/10.1016/j.physd.2021.133007},
 }
   </code>
 </pre>
