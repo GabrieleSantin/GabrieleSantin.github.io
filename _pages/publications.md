@@ -289,12 +289,13 @@ For dynamical systems with a non hyperbolic equilibrium, it is possible to signi
 
 <pre>
   <code class="bibtex">
-@misc{Haasdonk2021b,
+@article{Haasdonk2021b,
       title     = {Kernel methods for center manifold approximation and a weak data-based version of the Center Manifold Theorem},
       author    = {Bernard Haasdonk and Boumediene Hamzi and Gabriele Santin and Dominik Wittwar},
       journal   = {Physica D: Nonlinear Phenomena},
-      year      = {2021},
+      volume    = {427},
       pages     = {133007},
+      year      = {2021},
       issn      = {0167-2789},
       doi       = {https://doi.org/10.1016/j.physd.2021.133007},
 }
@@ -687,7 +688,6 @@ We propose a novel kernel-based method for image reconstruction from scattered R
   ISSN                     = {1126-5434},
   Url                      = {https://doi.org/10.1007/s10092-018-0247-6}
 }
-
 
 ﻿
   </code>
