@@ -236,11 +236,16 @@ Standard kernel methods for machine learning usually struggle when dealing with 
 
 
 
+## Published
+
+<p style='margin-top:-20px;margin-left:5%;'>
+<h3 style='margin-left:5%;'> 2021</h3>
+</p>
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>G. Santin, B. Haasdonk, 
 <i>Kernel Methods for Surrogate  Modeling</i>, 
-Accepted for publication in Model Order Reduction, Volume 1: System- and Data-Driven Methods and Algorithms, P. Benner, W. Schilders, S. Grivet-Talocia, A. Quarteroni, G. Rozza, L.  M. Silveira  Eds. (2021). <a href='https://arxiv.org/abs/1907.10556'> <i class="fa fa-file-pdf"></i> Preprint </a>
+Model Order Reduction, Volume 1: System- and Data-Driven Methods and Algorithms, P. Benner, W. Schilders, S. Grivet-Talocia, A. Quarteroni, G. Rozza, L.  M. Silveira  Eds. (2021). <a href='https://arxiv.org/abs/1907.10556'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1515/9783110498967-009'> <i class="ai ai-doi"> </i>DOI</a>
 </summary>
 
 <small>
@@ -251,13 +256,15 @@ This chapter deals with kernel methods as a special class of techniques for surr
 
 <pre>
   <code class="bibtex">
-@misc{Santin2019,
-      title={Kernel Methods for Surrogate Modeling}, 
-      author={Gabriele Santin and Bernard Haasdonk},
-      year={2019},
-      eprint={1907.10556},
-      archivePrefix={arXiv},
-      primaryClass={math.NA}
+@inbook{Santin2021b,
+      author    = {Gabriele Santin and Bernard Haasdonk},
+      title     = {Kernel methods for surrogate modeling},
+      booktitle = {Volume 1 System- and Data-Driven Methods and Algorithms},
+      year      = {2021},
+      editor    = {Peter Benner and Stefano Grivet-Talocia and Alfio Quarteroni and Gianluigi Rozza and Wil Schilders and Luís Miguel Silveira},
+      publisher = {De Gruyter},
+      pages     = {311--354},
+      doi       = {doi:10.1515/9783110498967-009},
 }
   </code>
 </pre>
@@ -269,11 +276,6 @@ This chapter deals with kernel methods as a special class of techniques for surr
 
 
 
-## Published
-
-<p style='margin-top:-20px;margin-left:5%;'>
-<h3 style='margin-left:5%;'> 2021</h3>
-</p>
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>B. Haasdonk, B. Hamzi, G. Santin, D. Wittwar, 
