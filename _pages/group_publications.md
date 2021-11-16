@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Group Publications"
+permalink: /group_publications/
 author_profile: true
 ---
 
-Up to date information can be found on my <a href='https://scholar.google.it/citations?user=WG9oe0wAAAAJ&hl=en'> <i class="ai ai-google-scholar"></i>Google Scholar</a> and <a href='https://arxiv.org/a/santin_g_1.html'> <i class="ai ai-arxiv"></i>ArXiv</a> profiles.
+Up to date information can be found on the  <a href='https://scholar.google.com/citations?user=JfcopG0AAAAJ&hl=en'> <i class="ai ai-google-scholar"></i>Google Scholar</a> profile of Bruno Lepri.
 
 Click on the publications below to expand them.
 
