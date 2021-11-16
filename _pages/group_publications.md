@@ -505,45 +505,6 @@ Digital contact tracing is a relevant tool to control infectious disease outbrea
 
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
-<summary> G. Cencetti, G. Santin, A. Longa, E. Pigani, A. Barrat, C. Cattuto, S. Lehmann, M. Salath&eacute;, B. Lepri, 
-<i>Digital proximity tracing on empirical contact networks for pandemic control</i>, 
- Nature Commun. (2021). <a href=''> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1038/s41467-021-21809-w'> <i class="ai ai-doi"> </i>DOI</a>
-</summary>
-
-<small>
-
-<blockquote>
-Digital contact tracing is a relevant tool to control infectious disease outbreaks, including the COVID-19 epidemic. Early work evaluating digital contact tracing omitted important features and heterogeneities of real-world contact patterns influencing contagion dynamics. We fill this gap with a modeling framework informed by empirical high-resolution contact data to analyze the impact of digital contact tracing in the COVID-19 pandemic. We investigate how well contact tracing apps, coupled with the quarantine of identified contacts, can mitigate the spread in real environments. We find that restrictive policies are more effective in containing the epidemic but come at the cost of unnecessary large-scale quarantines. Policy evaluation through their efficiency and cost results in optimized solutions which only consider contacts longer than 15–20 minutes and closer than 2–3 meters to be at risk. Our results show that isolation and tracing can help control re-emerging outbreaks when some conditions are met: (i) a reduction of the reproductive number through masks and physical distance; (ii) a low-delay isolation of infected individuals; (iii) a high compliance. Finally, we observe the inefficacy of a less privacy-preserving tracing involving second order contacts. Our results may inform digital contact tracing efforts currently being implemented across several countries worldwide.	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@Article{Cencetti2021,
-  author		   = {Cencetti, G. and Santin, G. and Longa, A. and Pigani, E. and Barrat, A. and Cattuto, C. and Lehmann, S. and Salath{\'e}, M. and Lepri, B.},
-  title  		   = {Digital proximity tracing on empirical contact networks for pandemic control},
-  journal  		   = {Nature Communications},
-  year     		   = {2021},
-  volume   		   = {12},
-  number   		   = {1},
-  month     		   = {Mar},
-  pages    		   = {1655},
-  issn     		   = {2041-1723},
-  doi      		   = {10.1038/s41467-021-21809-w},
-  url      		   = {https://doi.org/10.1038/s41467-021-21809-w},
-  day      		   = {12},
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
 <summary> T. Wenzel, G. Santin, B. Haasdonk, 
 <i>A novel class of stabilized greedy kernel approximation algorithms: Convergence, stability and uniform point distribution</i>, 
  J. of Approx. Theory (2021). <a href='https://arxiv.org/abs/1911.04352'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1016/j.jat.2020.105508'> <i class="ai ai-doi"> </i>DOI</a>
@@ -796,7 +757,7 @@ Scientific reports
 
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
-<summary>Lucchini L,Alessandretti L,Lepri B,Gallo A,Baronchelli A, 
+<summary>Lucchini L, Alessandretti L, Lepri B, Gallo A, Baronchelli A, 
 <i>From code to market: Network of developers and correlated returns of cryptocurrencies</i>, 
 Science advances (2020). <a href='https://arxiv.org/abs/2004.07290'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1126/sciadv.abd2204'> <i class="ai ai-doi"> </i>DOI</a>
 </summary>
@@ -1021,7 +982,7 @@ New Journal of Physics (2019). <a href=''> <i class="fa fa-file-pdf"></i> Prepri
 
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
-<summary>Lucchini L,Tonelli S,Lepri B, 
+<summary>Lucchini L, Tonelli S, Lepri B, 
 <i>Following the footsteps of giants: modeling the mobility of historically notable individuals using Wikipedia</i>, 
 EPJ Data Science (2019). <a href='https://arxiv.org/abs/1912.07551'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1140/epjds/s13688-019-0215-7'> <i class="ai ai-doi"> </i>DOI</a>
 </summary>
