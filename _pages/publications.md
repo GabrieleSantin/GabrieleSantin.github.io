@@ -978,7 +978,7 @@ In recent years, in the setting of radial basis function, the study of approxima
 <small>
 
 <blockquote>
-We present an algorithm to approximate large datasets by Radial Basis Function(RBF) techniques. The method couples a fast domain decomposition procedure with alocalized stabilization method. The resulting algorithm can efficiently deal with largeproblems and it is robust with respect to the typical instability of kernel methods.	
+We present an algorithm to approximate large datasets by Radial Basis Function(RBF) techniques. The method couples a fast domain decomposition procedure with a localized stabilization method. The resulting algorithm can efficiently deal with large problems and it is robust with respect to the typical instability of kernel methods.	
 </blockquote>
 
 <pre>
