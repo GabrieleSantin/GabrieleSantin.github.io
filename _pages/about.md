@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a Researcher in the MobS Lab at the [Digital Society Center](https://www.fbk.eu/it/digital-society/) of FBK in Trento, Italy. 
+I’m a Researcher in the [MobS Lab](https://mobs-fbk.github.io/) at the [Digital Society Center](https://www.fbk.eu/it/digital-society/) of FBK in Trento, Italy. 
 
 I work on Machine Learning and Approximation Theory, and on their combination for the solution of problems in simulation and social sciences. Recently, I'm gaining an increasing interest in their application to network data. 
 
