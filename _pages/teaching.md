@@ -79,7 +79,7 @@ This series of video tutorials gives an introduction to Geometric Deep Learning,
 <td width="65%" style="border:none;">
 In this second session on PyTorch Geometric, we focus on some advanced tool and implementation aspect. In the webpage of the tutorials you can find info to join the weekly sessions and links to the notebooks.
 <br> 
-<a href='https://antoniolonga.github.io/Pytorch_geometric_tutorials/index.html'> <i class='fa fa-link'></i> Webpage</a> <a href='https://github.com/AntonioLonga/PytorchGeometricTutorial'> <i class='fa fa-file-powerpoint'></i> Slides</a> <a href='https://www.youtube.com/user/94longa2112/videos'> <i class='fa fa-youtube'></i> Videos</a> <br>With <a href='https://antoniolonga.github.io/'> <i class='fa fa-user'></i> Antonio Longa</a> <a href='https://giannipele.com/'> <i class='fa fa-user'></i>  Gianni Pellegrini</a> 
+<a href='https://antoniolonga.github.io/Advanced_PyG_tutorials/index.html'> <i class='fa fa-link'></i> Webpage</a> <a href='https://github.com/AntonioLonga/AdvancePyTorchGeometricTutorials'> <i class='fa fa-file-powerpoint'></i> Slides</a> <a href='https://www.youtube.com/user/94longa2112/videos'> <i class='fa fa-youtube'></i> Videos</a> <br>With <a href='https://antoniolonga.github.io/'> <i class='fa fa-user'></i> Antonio Longa</a> <a href='https://giannipele.com/'> <i class='fa fa-user'></i>  Gianni Pellegrini</a> 
 
 
 </td>
