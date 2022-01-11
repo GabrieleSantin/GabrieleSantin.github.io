@@ -106,7 +106,8 @@ In this second session on PyTorch Geometric, we focus on some advanced tool and 
 <td width="65%" style="border:none;">
 The course is designed for MSc students with a strong math background, and it deals with the theory and implementation of various kernel methods for approximation. The main topics are: Introduction to kernel methods, Connection to the corresponding function spaces and general theory, Approximation of scattered data (Greedy procedures, Regression), Pattern recognition (Classification, Support Vector Machines), Numerical approximation of PDEs by collocation.
 <br> 
-<a href='https://cntr.click/T9bQj7B'> <i class='fa fa-file-pdf'></i> Lecture notes</a> 
+<a href='https://GabrieleSantin.github.io/files/approximation_with_kernel_methods.pdf'> <i class='fa fa-file-pdf'></i> Lecture notes</a> 
+
 
 </td>
 
