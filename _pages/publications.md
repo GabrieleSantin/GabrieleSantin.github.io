@@ -12,6 +12,38 @@ Click on the publications below to expand them.
 ## Submitted
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
+<summary>R. Campagna, S. De Marchi, E. Perracchione, G. Santin, 
+<i>Greedy algorithms for learning via exponential-polynomial splines </i> (2021). <a href='https://arxiv.org/abs/2109.14299'> <i class="fa fa-file-pdf"></i> Preprint </a>
+</summary>
+
+<small>
+
+<blockquote>
+Kernel-based schemes are state-of-the-art techniques for learning by data. In this work we extend some ideas about kernel-based greedy algorithms to exponential-polynomial splines, whose main drawback consists in possible overfitting and consequent oscillations of the approximant. To partially overcome this issue, we introduce two algorithms which perform an adaptive selection of the spline interpolation points based on the minimization either of the sample residuals (f-greedy), or of an upper bound for the approximation error based on the spline Lebesgue function (λ-greedy). Both methods allow us to obtain an adaptive selection of the sampling points, i.e. the spline nodes. However, while the {f-greedy} selection is tailored to one specific target function, the λ-greedy algorithm is independent of the function values and enables us to define a priori optimal interpolation nodes.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@misc{Campagna2021,
+      title={Greedy algorithms for learning via exponential-polynomial splines}, 
+      author={Rosanna Campagna and Stefano De Marchi and Emma Perracchione and Gabriele Santin},
+      year={2021},
+      eprint={2109.14299},
+      archivePrefix={arXiv},
+      primaryClass={math.NA}
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
 <summary>F. Marchetti, G. Santin, 
 <i>Convergence results in image interpolation with the continuous SSIM</i> (2021). <a href='https://arxiv.org/abs/2108.03879'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
