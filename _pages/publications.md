@@ -239,6 +239,43 @@ Standard kernel methods for machine learning usually struggle when dealing with 
 ## Published
 
 <p style='margin-top:-20px;margin-left:5%;'>
+<h3 style='margin-left:5%;'> 2022</h3>
+</p>
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
+<summary>E. Leoni, G. Cencetti, G. Santin, T. Istomin, D. Molteni, G. P. Picco, E. Farella, B. Lepri, A. M. Murphy, 
+<i>Measuring close proximity  interactions in summer camps during the COVID-19 pandemic</i>, 
+EPJ Data Science (2022). <a href='https://arxiv.org/abs/2106.14750'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1140/epjds/s13688-022-00316-y'> <i class="ai ai-doi"> </i>DOI</a>
+</summary>
+
+<small>
+
+<blockquote>
+Policy makers have implemented multiple non-pharmaceutical strategies to mitigate the COVID-19 worldwide crisis. Interventions had the aim of reducing close proximity interactions, which drive the spread of the disease. A deeper knowledge of human physical interactions has revealed necessary, especially in all settings involving children, whose education and gathering activities should be preserved.  Despite their relevance,  almost  no  data  are  available on close proximity  contacts among  children  in  schools  or  other  educational  settings during the pandemic. Contact data are usually gathered via Bluetooth, which nonetheless  offers  a  low  temporal  and  spatial  resolution. Recently, ultra-wideband (UWB) radios emerged as a more accurate alternative that nonetheless exhibits a significantly higher energy consumption, limiting  in-field  studies. In this paper, we leverage a novel approach,embodied by the Janus system that combines these radios by exploiting their complementary benefits.  The very accurate proximity data gathered in-field by Janus, once augmented with several metadata, unlocks unprecedented levels of information, enabling the development of novel multi-level risk analyses. By means of this technology, we have collected real contact data of children and educators in three summer camps during summer 2020in the province of Trento, Italy.  The wide variety of performed daily activities induced multiple individual behaviors, allowing a rich investigation  of  social  environments  from  the  contagion  risk  perspective. We  consider  risk  based  on  duration  and  proximity  of  contacts  and classify  interactions  according  to  different  risk  levels. We can then evaluate the summer camps’ organization,  observe the effect of partition in small groups,  or social bubbles,  and identify the organized activities that mitigate the riskier behaviors. Overall, we offer an insight into the educator-child and child-child social interactions  during  the  pandemic,  thus  providing  a  valuable tool  for  schools,  summer  camps,  and  policy makers to  (re)structure educational activities safely.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@misc{Leoni2021,
+      title={Measuring close proximity interactions in summer camps during the COVID-19 pandemic}, 
+      author={E. Leoni and G. Cencetti and G. Santin and T. Istomin and D. Molteni and G. P. Picco and E. Farella and B. Lepri and A. M. Murphy},
+      year={2021},
+      eprint={2106.14750},
+      archivePrefix={arXiv},
+      primaryClass={cs.NI}
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+
+<p style='margin-top:-20px;margin-left:5%;'>
 <h3 style='margin-left:5%;'> 2021</h3>
 </p>
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
@@ -300,39 +337,6 @@ For dynamical systems with a non hyperbolic equilibrium, it is possible to signi
       year      = {2021},
       issn      = {0167-2789},
       doi       = {https://doi.org/10.1016/j.physd.2021.133007},
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
-<summary>E. Leoni, G. Cencetti, G. Santin, T. Istomin, D. Molteni, G. P. Picco, E. Farella, B. Lepri, A. M. Murphy, 
-<i>Measuring close proximity  interactions in summer camps during the COVID-19 pandemic</i>, 
-EPJ Data Science (2021). <a href='https://arxiv.org/abs/2106.14750'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1140/epjds/s13688-022-00316-y'> <i class="ai ai-doi"> </i>DOI</a>
-</summary>
-
-<small>
-
-<blockquote>
-Policy makers have implemented multiple non-pharmaceutical strategies to mitigate the COVID-19 worldwide crisis. Interventions had the aim of reducing close proximity interactions, which drive the spread of the disease. A deeper knowledge of human physical interactions has revealed necessary, especially in all settings involving children, whose education and gathering activities should be preserved.  Despite their relevance,  almost  no  data  are  available on close proximity  contacts among  children  in  schools  or  other  educational  settings during the pandemic. Contact data are usually gathered via Bluetooth, which nonetheless  offers  a  low  temporal  and  spatial  resolution. Recently, ultra-wideband (UWB) radios emerged as a more accurate alternative that nonetheless exhibits a significantly higher energy consumption, limiting  in-field  studies. In this paper, we leverage a novel approach,embodied by the Janus system that combines these radios by exploiting their complementary benefits.  The very accurate proximity data gathered in-field by Janus, once augmented with several metadata, unlocks unprecedented levels of information, enabling the development of novel multi-level risk analyses. By means of this technology, we have collected real contact data of children and educators in three summer camps during summer 2020in the province of Trento, Italy.  The wide variety of performed daily activities induced multiple individual behaviors, allowing a rich investigation  of  social  environments  from  the  contagion  risk  perspective. We  consider  risk  based  on  duration  and  proximity  of  contacts  and classify  interactions  according  to  different  risk  levels. We can then evaluate the summer camps’ organization,  observe the effect of partition in small groups,  or social bubbles,  and identify the organized activities that mitigate the riskier behaviors. Overall, we offer an insight into the educator-child and child-child social interactions  during  the  pandemic,  thus  providing  a  valuable tool  for  schools,  summer  camps,  and  policy makers to  (re)structure educational activities safely.	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@misc{Leoni2021,
-      title={Measuring close proximity interactions in summer camps during the COVID-19 pandemic}, 
-      author={E. Leoni and G. Cencetti and G. Santin and T. Istomin and D. Molteni and G. P. Picco and E. Farella and B. Lepri and A. M. Murphy},
-      year={2021},
-      eprint={2106.14750},
-      archivePrefix={arXiv},
-      primaryClass={cs.NI}
 }
   </code>
 </pre>
