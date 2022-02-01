@@ -256,13 +256,18 @@ Policy makers have implemented multiple non-pharmaceutical strategies to mitigat
 
 <pre>
   <code class="bibtex">
-@misc{Leoni2021,
-      title={Measuring close proximity interactions in summer camps during the COVID-19 pandemic}, 
-      author={E. Leoni and G. Cencetti and G. Santin and T. Istomin and D. Molteni and G. P. Picco and E. Farella and B. Lepri and A. M. Murphy},
-      year={2021},
-      eprint={2106.14750},
-      archivePrefix={arXiv},
-      primaryClass={cs.NI}
+@Article{Leoni2022,
+  author    = {Leoni, Elia and Cencetti, Giulia and Santin, Gabriele and Istomin, Timofei and Molteni, Davide and Picco, Gian Pietro and Farella, Elisabetta and Lepri, Bruno and Murphy, Amy L.},
+  title     = {Measuring close proximity interactions in summer camps during the COVID-19 pandemic},
+  journal   = {EPJ Data Science},
+  year      = {2022},
+  volume    = {11},
+  number    = {1},
+  month     = {Jan},
+  pages     = {5},
+  issn      = {2193-1127},
+  doi       = {10.1140/epjds/s13688-022-00316-y},
+  url       = {https://doi.org/10.1140/epjds/s13688-022-00316-y},
 }
   </code>
 </pre>
