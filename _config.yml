@@ -159,7 +159,10 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-unsafe: true
+
+commonmark:
+  options: ["UNSAFE", "SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
 
 
 # Markdown Processing
