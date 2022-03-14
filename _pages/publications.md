@@ -12,6 +12,38 @@ Click on the publications below to expand them.
 ## Submitted
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
+<summary>B. Nobile, G. Santin, B. Lepri, P. Brutti, 
+<i>Reprogramming FairGANs with Variational Auto-Encoders: A New Transfer Learning Model </i> (2022). <a href='https://arxiv.org/abs/2203.05811'> <i class="fa fa-file-pdf"></i> Preprint </a>
+</summary>
+
+<small>
+
+<blockquote>
+Fairness-aware GANs (FairGANs) exploit the mechanisms of Generative Adversarial Networks (GANs) to impose fairness on the generated data, freeing them from both disparate impact and disparate treatment. Given the model's advantages and performance, we introduce a novel learning framework to transfer a pre-trained FairGAN to other tasks. This reprogramming process has the goal of maintaining the FairGAN's main targets of data utility, classification utility, and data fairness, while widening its applicability and ease of use. In this paper we present the technical extensions required to adapt the original architecture to this new framework (and in particular the use of Variational Auto-Encoders), and discuss the benefits, trade-offs, and limitations of the new model.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@misc{Nobile2022,
+      title={Reprogramming FairGANs with Variational Auto-Encoders: A New Transfer Learning Model}, 
+      author={Beatrice Nobile and Gabriele Santin and Bruno Lepri and Pierpaolo Brutti},
+      year={2022},
+      eprint={2203.05811},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
 <summary>R. Campagna, S. De Marchi, E. Perracchione, G. Santin, 
 <i>Greedy algorithms for learning via exponential-polynomial splines </i> (2021). <a href='https://arxiv.org/abs/2109.14299'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
