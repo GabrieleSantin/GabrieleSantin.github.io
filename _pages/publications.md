@@ -267,39 +267,6 @@ The inference of novel knowledge, the discovery of hidden patterns, and the unco
 
 
 ## Accepted
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
-<summary>T. Wenzel, M. Kurz, A. Beck, G. Santin, B. Haasdonk, 
-<i>Structured Deep Kernel Networks for Data-Driven Closure Terms of  Turbulent Flows</i>, 
-Accepted for publication in Proceedings of the 13th International Conference on Large Scale Scientific Computations (2021). <a href='https://arxiv.org/abs/2103.13655'> <i class="fa fa-file-pdf"></i> Preprint </a>
-</summary>
-
-<small>
-
-<blockquote>
-Standard kernel methods for machine learning usually struggle when dealing with large datasets. We review a recently introduced Structured Deep Kernel Network (SDKN) approach that is capable of dealing with high-dimensional and huge datasets - and enjoys typical standard machine learning approximation properties. We extend the SDKN to combine it with standard machine learning modules and compare it with Neural Networks on the scientific challenge of data-driven prediction of closure terms of turbulent flows. We show experimentally that the SDKNs are capable of dealing with large datasets and achieve near-perfect accuracy on the given application.	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@misc{Wenzel2021d,
-      title={Structured Deep Kernel Networks for Data-Driven Closure Terms of Turbulent Flows}, 
-      author={Tizian Wenzel and Marius Kurz and Andrea Beck and Gabriele Santin and Bernard Haasdonk},
-      year={2021},
-      eprint={2103.13655},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
 ## Published
 
 <p style='margin-top:-20px;margin-left:5%;'>
@@ -332,6 +299,42 @@ Policy makers have implemented multiple non-pharmaceutical strategies to mitigat
   issn      = {2193-1127},
   doi       = {10.1140/epjds/s13688-022-00316-y},
   url       = {https://doi.org/10.1140/epjds/s13688-022-00316-y},
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
+<summary>T. Wenzel, M. Kurz, A. Beck, G. Santin, B. Haasdonk, 
+<i>Structured Deep Kernel Networks for Data-Driven Closure Terms of  Turbulent Flows</i>, 
+Proceedings of the 13th International Conference on Large Scale Scientific Computations (2022). <a href='https://arxiv.org/abs/2103.13655'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1007/978-3-030-97549-4_47'> <i class="ai ai-doi"> </i>DOI</a>
+</summary>
+
+<small>
+
+<blockquote>
+Standard kernel methods for machine learning usually struggle when dealing with large datasets. We review a recently introduced Structured Deep Kernel Network (SDKN) approach that is capable of dealing with high-dimensional and huge datasets - and enjoys typical standard machine learning approximation properties. We extend the SDKN to combine it with standard machine learning modules and compare it with Neural Networks on the scientific challenge of data-driven prediction of closure terms of turbulent flows. We show experimentally that the SDKNs are capable of dealing with large datasets and achieve near-perfect accuracy on the given application.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@InProceedings{Wenzel2022a,
+  author    = {Wenzel, Tizian and Kurz, Marius and Beck, Andrea and Santin, Gabriele and Haasdonk, Bernard},
+  title     = {Structured Deep Kernel Networks for Data-Driven Closure Terms of Turbulent Flows},
+  booktitle = {Large-Scale Scientific Computing},
+  year      = {2022},
+  editor    = {Lirkov, Ivan and Margenov, Svetozar},
+  publisher = {Springer International Publishing},
+  isbn      = {978-3-030-97549-4},
+  pages     = {410--418},
+  address   = {Cham},
 }
   </code>
 </pre>
