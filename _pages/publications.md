@@ -236,38 +236,6 @@ Kernel based methods yield approximation models that are flexible, efficient and
 
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
-<summary>T. Wenzel, G. Santin, B. Haasdonk, 
-<i>Analysis of target data-dependent greedy kernel algorithms: Convergence rates for f-, f P- and  f/P-greedy</i> (2021). <a href='https://arxiv.org/abs/2105.07411'> <i class="fa fa-file-pdf"></i> Preprint </a>
-</summary>
-
-<small>
-
-<blockquote>
-Data-dependent greedy algorithms in kernel spaces are known to provide fast converging interpolants, while being extremely easy to implement and efficient to run. Despite this experimental evidence, no detailed theory has yet been presented. This situation is unsatisfactory especially when compared to the case of the data-independent P-greedy algorithm, for which optimal convergence rates are available, despite its performances being usually inferior to the ones of target data-dependent algorithms. In this work we fill this gap by first defining a new scale of greedy algorithms for interpolation that comprises all the existing ones in a unique analysis, where the degree of dependency of the selection criterion on the functional data is quantified by a real parameter. We then prove new convergence rates where this degree is taken into account and we show that, possibly up to a logarithmic factor, target data-dependent selection strategies provide faster convergence. In particular, for the first time we obtain convergence rates for target data adaptive interpolation that are faster than the ones given by uniform points, without the need of any special assumption on the target function. The rates are confirmed by a number of examples. These results are made possible by a new analysis of greedy algorithms in general Hilbert spaces.	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@misc{Wenzel2021b,
-      title={Analysis of target data-dependent greedy kernel algorithms: Convergence rates for $f$-, $f \cdot P$- and $f/P$-greedy}, 
-      author={Tizian Wenzel and Gabriele Santin and Bernard Haasdonk},
-      year={2021},
-      eprint={2105.07411},
-      archivePrefix={arXiv},
-      primaryClass={math.NA}
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
 <summary>S. Cuomo, W. Erb, G. Santin, 
 <i>Kernel-Based Models for Influence Maximization on Graphs based on Gaussian Process Variance  Minimization</i> (2021). <a href='https://arxiv.org/abs/2103.01575'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
@@ -299,6 +267,39 @@ The inference of novel knowledge, the discovery of hidden patterns, and the unco
 
 
 ## Accepted
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
+<summary>T. Wenzel, G. Santin, B. Haasdonk, 
+<i>Analysis of target data-dependent greedy kernel algorithms: Convergence rates for f-, f P- and  f/P-greedy</i>, 
+Accepted for publication in Constructive Approximation (2022). <a href='https://arxiv.org/abs/2105.07411'> <i class="fa fa-file-pdf"></i> Preprint </a>
+</summary>
+
+<small>
+
+<blockquote>
+Data-dependent greedy algorithms in kernel spaces are known to provide fast converging interpolants, while being extremely easy to implement and efficient to run. Despite this experimental evidence, no detailed theory has yet been presented. This situation is unsatisfactory especially when compared to the case of the data-independent P-greedy algorithm, for which optimal convergence rates are available, despite its performances being usually inferior to the ones of target data-dependent algorithms. In this work we fill this gap by first defining a new scale of greedy algorithms for interpolation that comprises all the existing ones in a unique analysis, where the degree of dependency of the selection criterion on the functional data is quantified by a real parameter. We then prove new convergence rates where this degree is taken into account and we show that, possibly up to a logarithmic factor, target data-dependent selection strategies provide faster convergence. In particular, for the first time we obtain convergence rates for target data adaptive interpolation that are faster than the ones given by uniform points, without the need of any special assumption on the target function. The rates are confirmed by a number of examples. These results are made possible by a new analysis of greedy algorithms in general Hilbert spaces.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@misc{Wenzel2021b,
+      title={Analysis of target data-dependent greedy kernel algorithms: Convergence rates for $f$-, $f \cdot P$- and $f/P$-greedy}, 
+      author={Tizian Wenzel and Gabriele Santin and Bernard Haasdonk},
+      year={2021},
+      eprint={2105.07411},
+      archivePrefix={arXiv},
+      primaryClass={math.NA}
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
 ## Published
 
 <p style='margin-top:-20px;margin-left:5%;'>
