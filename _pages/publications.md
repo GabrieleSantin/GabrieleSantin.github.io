@@ -12,6 +12,37 @@ Click on the publications below to expand them.
 ## Submitted
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
+<summary>T. Wenzel, D. Winkle, G. Santin, B. Haasdonk, 
+<i>Adaptive meshfree solution of linear partial differential equations with PDE-greedy kernel methods </i> (2022). <a href='https://arxiv.org/abs/2207.13971'> <i class="fa fa-file-pdf"></i> Preprint </a>
+</summary>
+
+<small>
+
+<blockquote>
+We consider the meshless solution of PDEs via symmetric kernel collocation by using greedy kernel methods. In this way we avoid the need for mesh generation, which can be challenging for non-standard domains or manifolds. We introduce and discuss different kind of greedy selection criteria, such as the PDE-P -greedy and the PDE-f -greedy for collocation point selection. Subsequently we analyze the convergence rates of these algorithms and provide bounds on the approximation error in terms of the number of greedily selected points. Especially we prove that target-data dependent algorithms, i.e. those using knowledge of the right hand side functions of the PDE, exhibit faster convergence rates. The provided analysis is applicable to PDEs both on domains and manifolds. This fact and the advantages of target-data dependent algorithms are highlighted by numerical examples.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@misc{Wenzel2022c,
+  url = {https://arxiv.org/abs/2207.13971},
+  author = {Wenzel, Tizian and Winkle, Daniel and Santin, Gabriele and Haasdonk, Bernard},
+  title = {Adaptive meshfree solution of linear partial differential equations with PDE-greedy kernel methods},
+  publisher = {arXiv},
+  year = {2022},
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
 <summary>G. Santin, I. Skarbovsky, F. Fournier, B. Lepri, 
 <i>A Framework for Verifiable and Auditable Federated Anomaly Detection </i> (2022). <a href='https://arxiv.org/abs/2203.07802'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
