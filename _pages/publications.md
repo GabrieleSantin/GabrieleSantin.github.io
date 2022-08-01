@@ -43,38 +43,6 @@ We consider the meshless solution of PDEs via symmetric kernel collocation by us
 
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
-<summary>G. Santin, I. Skarbovsky, F. Fournier, B. Lepri, 
-<i>A Framework for Verifiable and Auditable Federated Anomaly Detection </i> (2022). <a href='https://arxiv.org/abs/2203.07802'> <i class="fa fa-file-pdf"></i> Preprint </a>
-</summary>
-
-<small>
-
-<blockquote>
-Federated Leaning is an emerging approach to manage cooperation between a group of agents for the solution of Machine Learning tasks, with the goal of improving each agent's performance without disclosing any data. In this paper we present a novel algorithmic architecture that tackle this problem in the particular case of Anomaly Detection (or classification or rare events), a setting where typical applications often comprise data with sensible information, but where the scarcity of anomalous examples encourages collaboration. We show how Random Forests can be used as a tool for the development of accurate classifiers with an effective insight-sharing mechanism that does not break the data integrity. Moreover, we explain how the new architecture can be readily integrated in a blockchain infrastructure to ensure the verifiable and auditable execution of the algorithm. Furthermore, we discuss how this work may set the basis for a more general approach for the design of federated ensemble-learning methods beyond the specific task and architecture discussed in this paper.	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@misc{Santin2022,
-      title={A Framework for Verifiable and Auditable Federated Anomaly Detection}, 
-      author={Gabriele Santin and Inna Skarbovsky and Fabiana Fournier and Bruno Lepri},
-      year={2022},
-      eprint={2203.07802},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
 <summary>T. Wenzel, G. Santin, B. Haasdonk, 
 <i>Stability of convergence rates: Kernel interpolation on non-Lipschitz domains </i> (2022). <a href='https://arxiv.org/abs/2203.12532'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
@@ -266,6 +234,39 @@ The inference of novel knowledge, the discovery of hidden patterns, and the unco
 
 
 ## Accepted
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
+<summary>G. Santin, I. Skarbovsky, F. Fournier, B. Lepri, 
+<i>A Framework for Verifiable and Auditable Federated Anomaly Detection </i>, 
+Accepted for publication in IEEE Access (2022). <a href='https://arxiv.org/abs/2203.07802'> <i class="fa fa-file-pdf"></i> Preprint </a>
+</summary>
+
+<small>
+
+<blockquote>
+Federated Leaning is an emerging approach to manage cooperation between a group of agents for the solution of Machine Learning tasks, with the goal of improving each agent's performance without disclosing any data. In this paper we present a novel algorithmic architecture that tackle this problem in the particular case of Anomaly Detection (or classification or rare events), a setting where typical applications often comprise data with sensible information, but where the scarcity of anomalous examples encourages collaboration. We show how Random Forests can be used as a tool for the development of accurate classifiers with an effective insight-sharing mechanism that does not break the data integrity. Moreover, we explain how the new architecture can be readily integrated in a blockchain infrastructure to ensure the verifiable and auditable execution of the algorithm. Furthermore, we discuss how this work may set the basis for a more general approach for the design of federated ensemble-learning methods beyond the specific task and architecture discussed in this paper.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@misc{Santin2022,
+      title={A Framework for Verifiable and Auditable Federated Anomaly Detection}, 
+      author={Gabriele Santin and Inna Skarbovsky and Fabiana Fournier and Bruno Lepri},
+      year={2022},
+      eprint={2203.07802},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>T. Wenzel, G. Santin, B. Haasdonk, 
