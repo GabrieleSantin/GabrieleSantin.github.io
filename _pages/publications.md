@@ -107,38 +107,6 @@ Kernel-based schemes are state-of-the-art techniques for learning by data. In th
 
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
-<summary>F. Marchetti, G. Santin, 
-<i>Convergence results in image interpolation with the continuous SSIM</i> (2021). <a href='https://arxiv.org/abs/2108.03879'> <i class="fa fa-file-pdf"></i> Preprint </a>
-</summary>
-
-<small>
-
-<blockquote>
-Assessing the similarity of two images is a complex task that has attracted significant efforts in the image processing community. The widely used Structural Similarity Index Measure (SSIM) addresses this problem by quantifying a perceptual structural similarity.  In this paper we consider a recently introduced continuous SSIM (cSSIM), which allows one to analyze sequences of images of increasingly fine resolutions. We prove that this index includes the classical SSIM as a special case, and we provide a precise connection between image similarity measured by the cSSIM and by the $L_2$ norm.  Using this connection, we derive bounds on the cSSIM by means of bounds on the $L_2$ error, and we even prove that the two error measures are equivalent in certain circumstances. We exploit these results to obtain precise rates of convergence with respect to the cSSIM for several concrete image interpolation methods, and we further validate these findings by many numerical experiments.  This newly established connection paves the way to obtain novel insights into the features and limitations of the SSIM.	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@misc{Marchetti2021,
-      title={Convergence analysis for image interpolation in terms of the cSSIM}, 
-      author={Francesco Marchetti and Gabriele Santin},
-      year={2021},
-      eprint={2108.03879},
-      archivePrefix={arXiv},
-      primaryClass={math.NA}
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
 <summary>A. Alla, H. Oliveira, G. Santin, 
 <i>HJB-RBF based approach for the control of PDEs</i> (2021). <a href='https://arxiv.org/abs/2108.02987'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
@@ -236,21 +204,54 @@ The inference of novel knowledge, the discovery of hidden patterns, and the unco
 ## Accepted
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
+<summary>F. Marchetti, G. Santin, 
+<i>Convergence results in image interpolation with the continuous SSIM</i>, 
+Accepted for publication in SIAM Journal on Imaging Sciences (2022). <a href='https://arxiv.org/abs/2108.03879'> <i class="fa fa-file-pdf"></i> Preprint </a>
+</summary>
+
+<small>
+
+<blockquote>
+Assessing the similarity of two images is a complex task that attracts significant efforts in the image processing community. The widely used Structural Similarity Index Measure (SSIM) addresses this problem by quantifying a perceptual structural similarity. In this paper we consider a recently introduced continuous SSIM (cSSIM), which allows one to analyse sequences of images of increasingly fine resolutions, and  further extend the definition of the index to encompass the locally weighted version that is used in practice.  For both the local and the global versions, we prove that the continuous index includes the classical SSIM as a special case, and we provide a precise  connection between image similarity measured by the cSSIM and by the $L_2$ norm. Using this connection, we derive bounds on the cSSIM by means of bounds on the $L_2$ error, and we even prove that the two error measures are equivalent in  certain circumstances. We exploit these results to obtain precise rates of convergence with respect to the cSSIM for several concrete image interpolation  methods, and we further validate these findings by different numerical experiments. This newly established connection paves the way to obtain novel insights into the features and limitations of the SSIM, including on the effect of the local  weighted window on the index performances. 	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@misc{Marchetti2022,
+      title={Convergence results in image interpolation with the continuous SSIM}, 
+      author={Francesco Marchetti and Gabriele Santin},
+      year={2021},
+      eprint={2108.03879},
+      archivePrefix={arXiv},
+      primaryClass={math.NA}
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
 <summary>G. Santin, I. Skarbovsky, F. Fournier, B. Lepri, 
-<i>A Framework for Verifiable and Auditable Federated Anomaly Detection </i>, 
+<i>A Framework for Verifiable and Auditable Collaborative Anomaly Detection</i>, 
 Accepted for publication in IEEE Access (2022). <a href='https://arxiv.org/abs/2203.07802'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
 
 <small>
 
 <blockquote>
-Federated Leaning is an emerging approach to manage cooperation between a group of agents for the solution of Machine Learning tasks, with the goal of improving each agent's performance without disclosing any data. In this paper we present a novel algorithmic architecture that tackle this problem in the particular case of Anomaly Detection (or classification or rare events), a setting where typical applications often comprise data with sensible information, but where the scarcity of anomalous examples encourages collaboration. We show how Random Forests can be used as a tool for the development of accurate classifiers with an effective insight-sharing mechanism that does not break the data integrity. Moreover, we explain how the new architecture can be readily integrated in a blockchain infrastructure to ensure the verifiable and auditable execution of the algorithm. Furthermore, we discuss how this work may set the basis for a more general approach for the design of federated ensemble-learning methods beyond the specific task and architecture discussed in this paper.	
+Collaborative and Federated Leaning are emerging approaches to manage cooperation between a group of agents for the solution of Machine Learning tasks,  with the goal of improving each agent's performance without disclosing any data.  In this paper we present a novel algorithmic architecture that tackle this problem in the particular case of Anomaly Detection (or classification of rare  events), a setting where typical applications often comprise data with sensible information, but where the scarcity of anomalous examples encourages collaboration.  We show how Random Forests can be used as a tool for the development of accurate classifiers with an effective insight-sharing  mechanism that does not break  the data integrity. Moreover, we explain how the new architecture can be readily integrated in a blockchain infrastructure to ensure the verifiable and auditable execution of the algorithm.  Furthermore, we discuss how this work may set the basis for a more general approach for the design of collaborative ensemble-learning methods beyond the specific  task and  architecture discussed in this paper.	
 </blockquote>
 
 <pre>
   <code class="bibtex">
 @misc{Santin2022,
-      title={A Framework for Verifiable and Auditable Federated Anomaly Detection}, 
+      title={A Framework for Verifiable and Auditable Collaborative Anomaly Detection}, 
       author={Gabriele Santin and Inna Skarbovsky and Fabiana Fournier and Bruno Lepri},
       year={2022},
       eprint={2203.07802},
