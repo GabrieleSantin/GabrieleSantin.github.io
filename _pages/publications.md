@@ -237,39 +237,6 @@ Assessing the similarity of two images is a complex task that attracts significa
 
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
-<summary>G. Santin, I. Skarbovsky, F. Fournier, B. Lepri, 
-<i>A Framework for Verifiable and Auditable Collaborative Anomaly Detection</i>, 
-Accepted for publication in IEEE Access (2022). <a href='https://arxiv.org/abs/2203.07802'> <i class="fa fa-file-pdf"></i> Preprint </a>
-</summary>
-
-<small>
-
-<blockquote>
-Collaborative and Federated Leaning are emerging approaches to manage cooperation between a group of agents for the solution of Machine Learning tasks,  with the goal of improving each agent's performance without disclosing any data.  In this paper we present a novel algorithmic architecture that tackle this problem in the particular case of Anomaly Detection (or classification of rare  events), a setting where typical applications often comprise data with sensible information, but where the scarcity of anomalous examples encourages collaboration.  We show how Random Forests can be used as a tool for the development of accurate classifiers with an effective insight-sharing  mechanism that does not break  the data integrity. Moreover, we explain how the new architecture can be readily integrated in a blockchain infrastructure to ensure the verifiable and auditable execution of the algorithm.  Furthermore, we discuss how this work may set the basis for a more general approach for the design of collaborative ensemble-learning methods beyond the specific  task and  architecture discussed in this paper.	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@misc{Santin2022,
-      title={A Framework for Verifiable and Auditable Collaborative Anomaly Detection}, 
-      author={Gabriele Santin and Inna Skarbovsky and Fabiana Fournier and Bruno Lepri},
-      year={2022},
-      eprint={2203.07802},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
 <summary>T. Wenzel, G. Santin, B. Haasdonk, 
 <i>Analysis of target data-dependent greedy kernel algorithms: Convergence rates for f-, f P- and  f/P-greedy</i>, 
 Accepted for publication in Constructive Approximation (2022). <a href='https://arxiv.org/abs/2105.07411'> <i class="fa fa-file-pdf"></i> Preprint </a>
@@ -339,6 +306,39 @@ Fairness-aware GANs (FairGANs) exploit the mechanisms of Generative Adversarial 
 <p style='margin-top:-20px;margin-left:5%;'>
 <h3 style='margin-left:5%;'> 2022</h3>
 </p>
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
+<summary>G. Santin, I. Skarbovsky, F. Fournier, B. Lepri, 
+<i>A Framework for Verifiable and Auditable Collaborative Anomaly Detection</i>, 
+IEEE Access (2022). <a href='https://arxiv.org/abs/2203.07802'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1109/ACCESS.2022.3196391'> <i class="ai ai-doi"> </i>DOI</a>
+</summary>
+
+<small>
+
+<blockquote>
+Collaborative and Federated Leaning are emerging approaches to manage cooperation between a group of agents for the solution of Machine Learning tasks,  with the goal of improving each agent's performance without disclosing any data.  In this paper we present a novel algorithmic architecture that tackle this problem in the particular case of Anomaly Detection (or classification of rare  events), a setting where typical applications often comprise data with sensible information, but where the scarcity of anomalous examples encourages collaboration.  We show how Random Forests can be used as a tool for the development of accurate classifiers with an effective insight-sharing  mechanism that does not break  the data integrity. Moreover, we explain how the new architecture can be readily integrated in a blockchain infrastructure to ensure the verifiable and auditable execution of the algorithm.  Furthermore, we discuss how this work may set the basis for a more general approach for the design of collaborative ensemble-learning methods beyond the specific  task and  architecture discussed in this paper.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@Article{Santin2022,
+  author    = {Santin, Gabriele and Skarbovsky, Inna and Fournier, Fabiana and Lepri, Bruno},
+  title     = {A Framework for Verifiable and Auditable Collaborative Anomaly Detection},
+  journal   = {IEEE Access},
+  year      = {2022},
+  pages     = {1-1},
+  doi       = {10.1109/ACCESS.2022.3196391},
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>E. Leoni, G. Cencetti, G. Santin, T. Istomin, D. Molteni, G. P. Picco, E. Farella, B. Lepri, A. M. Murphy, 
