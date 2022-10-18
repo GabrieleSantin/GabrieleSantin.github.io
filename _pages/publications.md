@@ -24,12 +24,16 @@ We consider the meshless solution of PDEs via symmetric kernel collocation by us
 
 <pre>
   <code class="bibtex">
-@misc{Wenzel2022c,
-  url = {https://arxiv.org/abs/2207.13971},
-  author = {Wenzel, Tizian and Winkle, Daniel and Santin, Gabriele and Haasdonk, Bernard},
-  title = {Adaptive meshfree solution of linear partial differential equations with PDE-greedy kernel methods},
-  publisher = {arXiv},
-  year = {2022},
+@Article{Wenzel2022c,
+  author    = {Wenzel, Tizian and Santin, Gabriele and Haasdonk, Bernard},
+  title     = {Analysis of Target Data-Dependent Greedy Kernel Algorithms: Convergence Rates for f-, {\$}{\$}f {\backslash}cdot P{\$}{\$}- and f/P-Greedy},
+  journal   = {Constructive Approximation},
+  year      = {2022},
+  month     = {Oct},
+  issn      = {1432-0940},
+  doi       = {10.1007/s00365-022-09592-3},
+  url       = {https://doi.org/10.1007/s00365-022-09592-3},
+  day       = {18},
 }
   </code>
 </pre>
@@ -238,39 +242,6 @@ Assessing the similarity of two images is a complex task that attracts significa
 
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
-<summary>T. Wenzel, G. Santin, B. Haasdonk, 
-<i>Analysis of target data-dependent greedy kernel algorithms: Convergence rates for f-, f P- and  f/P-greedy</i>, 
-Accepted for publication in Constructive Approximation (2022). <a href='https://arxiv.org/abs/2105.07411'> <i class="fa fa-file-pdf"></i> Preprint </a>
-</summary>
-
-<small>
-
-<blockquote>
-Data-dependent greedy algorithms in kernel spaces are known to provide fast converging interpolants, while being extremely easy to implement and efficient to run. Despite this experimental evidence, no detailed theory has yet been presented. This situation is unsatisfactory especially when compared to the case of the data-independent P-greedy algorithm, for which optimal convergence rates are available, despite its performances being usually inferior to the ones of target data-dependent algorithms. In this work we fill this gap by first defining a new scale of greedy algorithms for interpolation that comprises all the existing ones in a unique analysis, where the degree of dependency of the selection criterion on the functional data is quantified by a real parameter. We then prove new convergence rates where this degree is taken into account and we show that, possibly up to a logarithmic factor, target data-dependent selection strategies provide faster convergence. In particular, for the first time we obtain convergence rates for target data adaptive interpolation that are faster than the ones given by uniform points, without the need of any special assumption on the target function. The rates are confirmed by a number of examples. These results are made possible by a new analysis of greedy algorithms in general Hilbert spaces.	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@misc{Wenzel2021b,
-      title={Analysis of target data-dependent greedy kernel algorithms: Convergence rates for $f$-, $f \cdot P$- and $f/P$-greedy}, 
-      author={Tizian Wenzel and Gabriele Santin and Bernard Haasdonk},
-      year={2021},
-      eprint={2105.07411},
-      archivePrefix={arXiv},
-      primaryClass={math.NA}
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
 <summary>B. Nobile, G. Santin, B. Lepri, P. Brutti, 
 <i>Reprogramming FairGANs with Variational Auto-Encoders: A New Transfer Learning Model</i>, 
 Accepted for publication in Proceeding of SIS2022 - 51st Scientific Meeting of the Italian Statistical Society (2022). <a href='https://arxiv.org/abs/2203.05811'> <i class="fa fa-file-pdf"></i> Preprint </a>
@@ -307,6 +278,42 @@ Fairness-aware GANs (FairGANs) exploit the mechanisms of Generative Adversarial 
 <p style='margin-top:-20px;margin-left:5%;'>
 <h3 style='margin-left:5%;'> 2022</h3>
 </p>
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
+<summary>T. Wenzel, G. Santin, B. Haasdonk, 
+<i>Analysis of target data-dependent greedy kernel algorithms: Convergence rates for f-, f P- and  f/P-greedy</i>, 
+Constructive Approximation (2022). <a href='https://arxiv.org/abs/2105.07411'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1007/s00365-022-09592-3'> <i class="ai ai-doi"> </i>DOI</a>
+</summary>
+
+<small>
+
+<blockquote>
+Data-dependent greedy algorithms in kernel spaces are known to provide fast converging interpolants, while being extremely easy to implement and efficient to run. Despite this experimental evidence, no detailed theory has yet been presented. This situation is unsatisfactory especially when compared to the case of the data-independent P-greedy algorithm, for which optimal convergence rates are available, despite its performances being usually inferior to the ones of target data-dependent algorithms. In this work we fill this gap by first defining a new scale of greedy algorithms for interpolation that comprises all the existing ones in a unique analysis, where the degree of dependency of the selection criterion on the functional data is quantified by a real parameter. We then prove new convergence rates where this degree is taken into account and we show that, possibly up to a logarithmic factor, target data-dependent selection strategies provide faster convergence. In particular, for the first time we obtain convergence rates for target data adaptive interpolation that are faster than the ones given by uniform points, without the need of any special assumption on the target function. The rates are confirmed by a number of examples. These results are made possible by a new analysis of greedy algorithms in general Hilbert spaces.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@Article{Wenzel2022c,
+  author    = {Wenzel, Tizian and Santin, Gabriele and Haasdonk, Bernard},
+  title     = {Analysis of Target Data-Dependent Greedy Kernel Algorithms: Convergence Rates for f-, {\$}{\$}f {\backslash}cdot P{\$}{\$}- and f/P-Greedy},
+  journal   = {Constructive Approximation},
+  year      = {2022},
+  month     = {Oct},
+  issn      = {1432-0940},
+  doi       = {10.1007/s00365-022-09592-3},
+  url       = {https://doi.org/10.1007/s00365-022-09592-3},
+  day       = {18},
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>G. Santin, I. Skarbovsky, F. Fournier, B. Lepri, 
@@ -615,17 +622,7 @@ Kernel based methods provide a way to reconstruct potentially high-dimensional f
 
 <pre>
   <code class="bibtex">
-@Article{Wenzel2021a,
-  author                   = {Tizian Wenzel and Gabriele Santin and Bernard Haasdonk},
-  title   		   = {A novel class of stabilized greedy kernel approximation algorithms: Convergence, stability and uniform point distribution},
-  journal  		   = {Journal of Approximation Theory},
-  year    		   = {2021},
-  volume 		   = {262},
-  pages   		   = {105508},
-  issn   		   = {0021-9045},
-  doi     		   = {https://doi.org/10.1016/j.jat.2020.105508},
-  url   		   = {http://www.sciencedirect.com/science/article/pii/S0021904520301441},
-}
+
   </code>
 </pre>
 </small>
