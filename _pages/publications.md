@@ -176,39 +176,6 @@ The inference of novel knowledge, the discovery of hidden patterns, and the unco
 ## Accepted
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
-<summary>R. Campagna, S. De Marchi, E. Perracchione, G. Santin, 
-<i>Greedy algorithms for learning via exponential-polynomial splines</i>, 
-Accepted for publication in Advances in Computational Mathematics (2022). <a href='https://arxiv.org/abs/2109.14299'> <i class="fa fa-file-pdf"></i> Preprint </a>
-</summary>
-
-<small>
-
-<blockquote>
-In this work we extend some ideas about greedy algorithms, which are well-established tools for e.g. kernel bases, and exponential-polynomial splines whose main drawback consists in possible overfitting and consequent oscillations of the approximant. To partially overcome this issue, we develop some results on theoretically optimal interpolation points. Moreover, we introduce two algorithms which perform an adaptive selection of the spline interpolation points based on the minimization either of the sample residuals ($f$-greedy), or of an upper bound for the approximation error based on the spline Lebesgue function ($\lambda$-greedy). Both methods allow us to obtain an adaptive selection of the sampling points, i.e. the spline nodes. While the $f$-greedy selection is tailored to one specific target function, the $\lambda$-greedy algorithm enables us to define target-data-independent interpolation nodes.	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@misc{Campagna2022,
-      title={Greedy algorithms for learning via exponential-polynomial splines}, 
-      author={Rosanna Campagna and Stefano De Marchi and Emma Perracchione and Gabriele Santin},
-      year={2021},
-      eprint={2109.14299},
-      archivePrefix={arXiv},
-      primaryClass={math.NA}
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
 <summary>F. Marchetti, G. Santin, 
 <i>Convergence results in image interpolation with the continuous SSIM</i>, 
 Accepted for publication in SIAM Journal on Imaging Sciences (2022). <a href='https://arxiv.org/abs/2108.03879'> <i class="fa fa-file-pdf"></i> Preprint </a>
@@ -303,6 +270,45 @@ Data-dependent greedy algorithms in kernel spaces are known to provide fast conv
   doi       = {10.1007/s00365-022-09592-3},
   url       = {https://doi.org/10.1007/s00365-022-09592-3},
   day       = {18},
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
+<summary>R. Campagna, S. De Marchi, E. Perracchione, G. Santin, 
+<i>Stable interpolation with exponential-polynomial splines and node selection via greedy algorithms </i>, 
+Advances in Computational Mathematics (2022). <a href='https://arxiv.org/abs/2109.14299'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1007/s10444-022-09986-8  '> <i class="ai ai-doi"> </i>DOI</a>
+</summary>
+
+<small>
+
+<blockquote>
+In this work we extend some ideas about greedy algorithms, which are well-established tools for e.g. kernel bases, and exponential-polynomial splines whose main drawback consists in possible overfitting and consequent oscillations of the approximant. To partially overcome this issue, we develop some results on theoretically optimal interpolation points. Moreover, we introduce two algorithms which perform an adaptive selection of the spline interpolation points based on the minimization either of the sample residuals ($f$-greedy), or of an upper bound for the approximation error based on the spline Lebesgue function ($\lambda$-greedy). Both methods allow us to obtain an adaptive selection of the sampling points, i.e. the spline nodes. While the $f$-greedy selection is tailored to one specific target function, the $\lambda$-greedy algorithm enables us to define target-data-independent interpolation nodes.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@Article{Campagna2022,
+  author    = {Campagna, R. and De Marchi, S. and Perracchione, E. and Santin, G.},
+  title     = {Stable interpolation with exponential-polynomial splines and node selection via greedy algorithms},
+  journal   = {Advances in Computational Mathematics},
+  year      = {2022},
+  volume    = {48},
+  number    = {6},
+  month     = {Oct},
+  pages     = {69},
+  issn      = {1572-9044},
+  doi       = {10.1007/s10444-022-09986-8},
+  url       = {https://doi.org/10.1007/s10444-022-09986-8},
+  day       = {27},
 }
   </code>
 </pre>
