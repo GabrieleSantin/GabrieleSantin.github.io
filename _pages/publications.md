@@ -206,6 +206,37 @@ The inference of novel knowledge, the discovery of hidden patterns, and the unco
 ## Accepted
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
+<summary>G. Santin, 
+<i>Equally spaced points are optimal for Brownian Bridge kernel interpolation</i>, 
+Accepted for publication in Applied Mathematics Letters (2022). <a href='https://arxiv.org/abs/2210.15959'> <i class="fa fa-file-pdf"></i> Preprint </a>
+</summary>
+
+<small>
+
+<blockquote>
+In this paper we show how ideas from spline theory can be used to construct a local basis for the space of translates of a general iterated Brownian  Bridge kernel $k_{\beta,\varepsilon}$ for $\beta\in\N$, $\varepsilon\geq 0$. In the simple case $\beta=1$, we derive an explicit formula for the corresponding Lagrange  basis, which allows us to solve interpolation problems without inverting any linear system.   We use this basis to prove that interpolation with $k_{1,\varepsilon}$ is uniformly stable, i.e., the Lebesgue constant is bounded  independently of the number and location of the interpolation points, and that equally spaced points are the unique minimizers of the associated  power function, and are thus error optimal.  In this derivation, we investigate the role of the shape parameter $\varepsilon>0$, and discuss its effect on these error and stability bounds.  Some of the ideas discussed in this paper could be extended to more general Green kernels.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@misc{Santin2022b,
+  author = {Santin, Gabriele},
+  title = {Equally spaced points are optimal for Brownian Bridge kernel interpolation},
+  publisher = {arXiv},
+  year = {2022},
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
 <summary>F. Marchetti, G. Santin, 
 <i>Convergence results in image interpolation with the continuous SSIM</i>, 
 Accepted for publication in SIAM Journal on Imaging Sciences (2022). <a href='https://arxiv.org/abs/2108.03879'> <i class="fa fa-file-pdf"></i> Preprint </a>
