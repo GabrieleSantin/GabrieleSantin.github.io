@@ -174,6 +174,39 @@ Kernel based methods yield approximation models that are flexible, efficient and
 ## Accepted
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
+<summary>S. Cuomo, W. Erb, G. Santin, 
+<i>Kernel-Based Models for Influence Maximization on Graphs based on Gaussian Process Variance  Minimization</i>, 
+Accepted for publication in Journal of Computational and Applied Mathematics (2022). <a href='https://arxiv.org/abs/2103.01575'> <i class="fa fa-file-pdf"></i> Preprint </a>
+</summary>
+
+<small>
+
+<blockquote>
+The inference of novel knowledge, the discovery of hidden patterns, and the uncovering of insights from large amounts of data from a multitude of sources make Data Science (DS) to an art rather than just a mere scientific discipline. The study and design of mathematical models able to analyze information represents a central research topic in DS. In this work, we introduce and investigate a novel model for influence maximization (IM) on graphs using ideas from kernel-based approximation, Gaussian process regression, and the minimization of a corresponding variance term. Data-driven approaches can be applied to determine proper kernels for this IM model and machine learning methodologies are adopted to tune the model parameters. Compared to stochastic models in this field that rely on costly Monte-Carlo simulations, our model allows for a simple and cost-efficient update strategy to compute optimal influencing nodes on a graph. In several numerical experiments, we show the properties and benefits of this new model. 	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@misc{Cuomo2021,
+      title={Kernel-Based Models for Influence Maximization on Graphs based on Gaussian Process Variance Minimization}, 
+      author={Salvatore Cuomo and Wolfgang Erb and Gabriele Santin},
+      year={2021},
+      eprint={2103.01575},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
 <summary>F. Marchetti, G. Santin, 
 <i>Convergence results in image interpolation with the continuous SSIM</i>, 
 Accepted for publication in SIAM Journal on Imaging Sciences (2022). <a href='https://arxiv.org/abs/2108.03879'> <i class="fa fa-file-pdf"></i> Preprint </a>
@@ -225,39 +258,6 @@ Fairness-aware GANs (FairGANs) exploit the mechanisms of Generative Adversarial 
       author={Beatrice Nobile and Gabriele Santin and Bruno Lepri and Pierpaolo Brutti},
       year={2022},
       eprint={2203.05811},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
-<summary>S. Cuomo, W. Erb, G. Santin, 
-<i>Kernel-Based Models for Influence Maximization on Graphs based on Gaussian Process Variance  Minimization</i>, 
-Accepted for publication in Journal of Computational and Applied Mathematics (2021). <a href='https://arxiv.org/abs/2103.01575'> <i class="fa fa-file-pdf"></i> Preprint </a>
-</summary>
-
-<small>
-
-<blockquote>
-The inference of novel knowledge, the discovery of hidden patterns, and the uncovering of insights from large amounts of data from a multitude of sources make Data Science (DS) to an art rather than just a mere scientific discipline. The study and design of mathematical models able to analyze information represents a central research topic in DS. In this work, we introduce and investigate a novel model for influence maximization (IM) on graphs using ideas from kernel-based approximation, Gaussian process regression, and the minimization of a corresponding variance term. Data-driven approaches can be applied to determine proper kernels for this IM model and machine learning methodologies are adopted to tune the model parameters. Compared to stochastic models in this field that rely on costly Monte-Carlo simulations, our model allows for a simple and cost-efficient update strategy to compute optimal influencing nodes on a graph. In several numerical experiments, we show the properties and benefits of this new model. 	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@misc{Cuomo2021,
-      title={Kernel-Based Models for Influence Maximization on Graphs based on Gaussian Process Variance Minimization}, 
-      author={Salvatore Cuomo and Wolfgang Erb and Gabriele Santin},
-      year={2021},
-      eprint={2103.01575},
       archivePrefix={arXiv},
       primaryClass={cs.LG}
 }
