@@ -174,6 +174,42 @@ Kernel based methods yield approximation models that are flexible, efficient and
 ## Accepted
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
+<summary>F. Marchetti, G. Santin, 
+<i>Convergence results in image interpolation with the continuous SSIM</i>, 
+Accepted for publication in SIAM Journal on Imaging Sciences (2022). <a href='https://arxiv.org/abs/2108.03879'> <i class="fa fa-file-pdf"></i> Preprint </a>
+</summary>
+
+<small>
+
+<blockquote>
+Assessing the similarity of two images is a complex task that attracts significant efforts in the image processing community. The widely used Structural Similarity Index Measure (SSIM) addresses this problem by quantifying a perceptual structural similarity. In this paper we consider a recently introduced continuous SSIM (cSSIM), which allows one to analyse sequences of images of increasingly fine resolutions, and  further extend the definition of the index to encompass the locally weighted version that is used in practice.  For both the local and the global versions, we prove that the continuous index includes the classical SSIM as a special case, and we provide a precise  connection between image similarity measured by the cSSIM and by the $L_2$ norm. Using this connection, we derive bounds on the cSSIM by means of bounds on the $L_2$ error, and we even prove that the two error measures are equivalent in  certain circumstances. We exploit these results to obtain precise rates of convergence with respect to the cSSIM for several concrete image interpolation  methods, and we further validate these findings by different numerical experiments. This newly established connection paves the way to obtain novel insights into the features and limitations of the SSIM, including on the effect of the local  weighted window on the index performances. 	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@Article{Marchetti2022,
+  author    = {Marchetti, Francesco and Santin, Gabriele},
+  title     = {Convergence Results in Image Interpolation With the Continuous SSIM},
+  journal   = {SIAM Journal on Imaging Sciences},
+  year      = {2022},
+  volume    = {15},
+  number    = {4},
+  pages     = {1977-1999},
+  doi       = {10.1137/22M147637X},
+  url       = {https://doi.org/10.1137/22M147637X},
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
 <summary>S. Cuomo, W. Erb, G. Santin, 
 <i>Kernel-Based Models for Influence Maximization on Graphs based on Gaussian Process Variance  Minimization</i>, 
 Accepted for publication in Journal of Computational and Applied Mathematics (2022). <a href='https://arxiv.org/abs/2103.01575'> <i class="fa fa-file-pdf"></i> Preprint </a>
@@ -194,39 +230,6 @@ The inference of novel knowledge, the discovery of hidden patterns, and the unco
       eprint={2103.01575},
       archivePrefix={arXiv},
       primaryClass={cs.LG}
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
-<summary>F. Marchetti, G. Santin, 
-<i>Convergence results in image interpolation with the continuous SSIM</i>, 
-Accepted for publication in SIAM Journal on Imaging Sciences (2022). <a href='https://arxiv.org/abs/2108.03879'> <i class="fa fa-file-pdf"></i> Preprint </a>
-</summary>
-
-<small>
-
-<blockquote>
-Assessing the similarity of two images is a complex task that attracts significant efforts in the image processing community. The widely used Structural Similarity Index Measure (SSIM) addresses this problem by quantifying a perceptual structural similarity. In this paper we consider a recently introduced continuous SSIM (cSSIM), which allows one to analyse sequences of images of increasingly fine resolutions, and  further extend the definition of the index to encompass the locally weighted version that is used in practice.  For both the local and the global versions, we prove that the continuous index includes the classical SSIM as a special case, and we provide a precise  connection between image similarity measured by the cSSIM and by the $L_2$ norm. Using this connection, we derive bounds on the cSSIM by means of bounds on the $L_2$ error, and we even prove that the two error measures are equivalent in  certain circumstances. We exploit these results to obtain precise rates of convergence with respect to the cSSIM for several concrete image interpolation  methods, and we further validate these findings by different numerical experiments. This newly established connection paves the way to obtain novel insights into the features and limitations of the SSIM, including on the effect of the local  weighted window on the index performances. 	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@misc{Marchetti2022,
-      title={Convergence results in image interpolation with the continuous SSIM}, 
-      author={Francesco Marchetti and Gabriele Santin},
-      year={2021},
-      eprint={2108.03879},
-      archivePrefix={arXiv},
-      primaryClass={math.NA}
 }
   </code>
 </pre>
