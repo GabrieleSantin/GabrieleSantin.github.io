@@ -212,6 +212,43 @@ Fairness-aware GANs (FairGANs) exploit the mechanisms of Generative Adversarial 
 </p>
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
+<summary>G. Elefante, W. Erb, F. Marchetti, E. Perracchione, D. Poggiali, G. Santin, 
+<i>Interpolation with the polynomial kernels </i>, 
+ Dolomites Res. Notes Approx. (2022). <a href=''> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='http://dx.doi.org/10.14658/pupj-drna-2022-4-5'> <i class="ai ai-doi"> </i>DOI</a>
+</summary>
+
+<small>
+
+<blockquote>
+The polynomial kernels are widely used in machine learning and they are one of the default choices to develop kernel-based classification and regression models. However, they are rarely used and considered in numerical analysis due to their lack of strict positive definiteness. In particular they do not enjoy the usual property of unisolvency for arbitrary point sets, which is one of the key properties used to build kernel-based interpolation methods. This paper is devoted to establish some initial results for the study of these kernels, and their related interpolation algorithms, in the context of approximation theory. We will first prove necessary and sufficient conditions on point sets which guarantee the existence and uniqueness of an interpolant. We will then study the Reproducing Kernel Hilbert Spaces (or native spaces) of these kernels and their norms, and provide inclusion relations between spaces corresponding to different kernel parameters. With these spaces at hand, it will be further possible to derive generic error estimates which apply to sufficiently smooth functions, thus escaping the native space. Finally, we will show how to employ an efficient stable algorithm to these kernels to obtain accurate interpolants, and we will test them in some numerical experiment. After this analysis several computational and theoretical aspects remain open, and we will outline possible further research directions in a concluding section. This work builds some bridges between kernel and polynomial interpolation, two topics to which the authors, to different extents, have been introduced under the supervision or through the work of Stefano De Marchi. For this reason, they wish to dedicate this work to him in the occasion of his 60th birthday.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@Article{Elefante2022,
+  Title                    = {Interpolation with the polynomial kernels},
+  Author                   = {Elefante, Giacomo and Erb, Wolfgang and Marchetti, Francesco and Perracchione, Emma and Poggiali, Davide and Santin, Gabriele},
+  Journal                  = {Dolomites Res. Notes Approx.},
+  Year                     = {2022},
+  Pages                    = {45--60},
+  Volume                   = {15},
+  Fjournal                 = {Dolomites Research Notes on Approximation},
+  Sjournal                 = {Dolomites Res.\ Notes Approx.},
+  Url                      = {https://drna.padovauniversitypress.it/2022/4/5},
+  Doi                      = {http://dx.doi.org/10.14658/pupj-drna-2022-4-5}
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
 <summary>F. Marchetti, G. Santin, 
 <i>Convergence results in image interpolation with the continuous SSIM</i>, 
 SIAM Journal on Imaging Sciences (2022). <a href='https://arxiv.org/abs/2108.03879'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1137/22M147637X'> <i class="ai ai-doi"> </i>DOI</a>
