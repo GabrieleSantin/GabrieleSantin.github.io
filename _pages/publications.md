@@ -214,7 +214,7 @@ Fairness-aware GANs (FairGANs) exploit the mechanisms of Generative Adversarial 
 
 <summary>G. Elefante, W. Erb, F. Marchetti, E. Perracchione, D. Poggiali, G. Santin, 
 <i>Interpolation with the polynomial kernels </i>, 
- Dolomites Res. Notes Approx. (2022). <a href=''> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='http://dx.doi.org/10.14658/pupj-drna-2022-4-5'> <i class="ai ai-doi"> </i>DOI</a>
+ Dolomites Res. Notes Approx. (2022). <a href='https://arxiv.org/abs/2212.07658'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='http://dx.doi.org/10.14658/pupj-drna-2022-4-5'> <i class="ai ai-doi"> </i>DOI</a>
 </summary>
 
 <small>
