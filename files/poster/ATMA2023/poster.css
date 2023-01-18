@@ -155,6 +155,8 @@ main figure object:first-of-type:last-of-type {
 main figure figcaption {
   display: block;
   margin-top: 0.5rem;
+  font-style: italic;
+  font-size: 90%;
 }
 article {
   background: #eeeeec; /*block background color*/
@@ -349,3 +351,13 @@ mjx-container,
 .MathJax_Preview:empty {
   display: none;
 }
+
+/* Tabular images*/
+#image_grid > img {
+  float: center;
+  width: 46%;
+  margin: 10px;
+}
+
+
+

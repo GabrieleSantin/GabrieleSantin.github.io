@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Interpolation with the Polynomial Kernels — A tour into interpolation with positive definite kernels</title>
+    <link rel="stylesheet" href="poster.css">
+    <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1">
+    <!-- Based on a poster template from https://github.com/cpitclaudel/academic-poster-template -->
+
+          <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    
+          <link href="https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&amp;family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap" rel="stylesheet">
+    
+    <style type="text/css">
+  html { font-size: 1.15rem }
+</style>
+  </head>
+
+  <body vocab="http://schema.org/" typeof="ScholarlyArticle">
+    <header role="banner">
+      <aside>
+          <img src="figures/logo_fbk.png" alt="Institution logo">
+      </aside>
+      <div>
+        <h1 property="headline">Interpolation with the Polynomial Kernels</h1>
+                  <h2 property="alternativeHeadline">A tour into interpolation with positive definite kernels</h2>
+                
+        <span class="publication-info">
+                     <h3>
+            <span property="publisher">ATMA 2023 - Approximation: Theory, Methods and Applications</span>,
+            <time pubdate property="datePublished" datetime="2023-01-19">January 18-20, 2023</time>
+            </h3>
+                  </span>
+        
+        <address>
+              <a property="author">Giacomo Elefante<sup>a</sup></a>,
+  <a property="author">Wolfgang Erb<sup>a</sup></a>,
+  <a property="author">Francesco Marchetti<sup>a</sup></a>,
+  <a property="author">Emma Perracchione<sup>b</sup></a>,
+  <a property="author">Davide Poggiali<sup>c</sup></a>,
+  <a property="author"><u>Gabriele Santin</u><sup>d</sup></a>
+<br />  <sup>a</sup><a property="sourceOrganization">Universita&grave; di Padova </a>,
+  <sup>b</sup><a property="sourceOrganization">Politecnico di Torino</a>,
+  <sup>c</sup><a property="sourceOrganization">FAR Networks S.r.l.</a>,
+  <sup>d</sup><a property="sourceOrganization">Fondazione Bruno Kessler</a>
+        </address>
+      </div>
+      <aside>
+          <a href="https://gabrielesantin.github.io/"><img src="figures/qr.png" alt="Link to the poster"><figcaption>Get this poster</figcaption></a> 
+      </aside>
+    </header>
+
+    <main property="articleBody">
+      
+
+<article property="abstract">
+<header><h3>Abstract</h3></header>
+
+<p align="justify">
+The polynomial kernels are widely used in machine learning and they are one of the default choices to develop kernel-based classification and regression models.
+However, they are rarely used and considered in numerical analysis due to their lack of strict positive definiteness. In particular they do not enjoy the 
+usual property of unisolvency for arbitrary point sets, which is one of the key properties used to build kernel-based interpolation methods.
+
+This paper is devoted to establish some initial results for the study of these kernels, and their related interpolation algorithms, in the context of 
+approximation theory. 
+We will first prove necessary and sufficient conditions on point sets which guarantee the existence and uniqueness of an interpolant. We will 
+then study the Reproducing Kernel Hilbert Spaces (or native spaces) of these kernels and their norms, and provide inclusion relations between spaces 
+corresponding to different kernel parameters.  With these spaces at hand, it will be further possible to derive generic error estimates which apply to 
+sufficiently smooth functions, thus escaping the native space. Finally, we will show how to employ an efficient stable algorithm to these kernels to obtain 
+accurate interpolants, and we will test them in some numerical experiment.
+After this analysis several computational and theoretical aspects remain open, and we will outline possible further research directions in a concluding section.
+</p>
+</article>
+
+
+
+<article>
+<header><h3>The polynomial kernels</h3></header>
+<p class="boxed center">
+\[
+k_{a,p}(x, y) = \left(a + \langle x, y \rangle\right)^p,\;\;p\in\mathbb{N}, \; a\geq 0.
+\]
+</p>
+
+<figure>
+<img src="figures/kernel_viz.svg" height="250" alt="Visualization of some kernel examples.">
+<figcaption>Values of the kernel \(k_{a,p}(\cdot, 1/2)\) on \([-1,1]\) for \(p\in\{1,2,3,4\}\) and for \(a=0\) (left), \(a=1\) (center), and \(a=2\) (right).</figcaption>
+</figure>
+
+<b> Properties:</b>
+<ul>
+<li>Positive definite (p.d.), not strictly p. d.</li>
+<li>Series expansion \(k_{a,p}(x, y) = ...\)</li>
+<li></li>
+<ul>
+
+</article>
+
+
+
+<article>
+<header><h3>Unisolvency</h3></header>
+<p class="boxed center">
+\[
+k_{a,p}(x, y) = \left(a + \langle x, y \rangle\right)^p,\;\;p\in\mathbb{N}, \; a\geq 0.
+\]
+</p>
+
+<figure>
+<img src="figures/kernel_viz.svg" height="250" alt="Visualization of some kernel examples.">
+<figcaption>Values of the kernel \(k_{a,p}(\cdot, 1/2)\) on \([-1,1]\) for \(p\in\{1,2,3,4\}\) and for \(a=0\) (left), \(a=1\) (center), and \(a=2\) (right).</figcaption>
+</figure>
+
+<b> Properties:</b>
+<ul>
+<li>Positive definite (p.d.), not strictly p. d.</li>
+<li>Series expansion \(k_{a,p}(x, y) = ...\)</li>
+<li></li>
+<ul>
+
+</article>
+
+
+
+<article>
+<header><h3>The native space</h3></header>
+<p class="boxed center">
+\[
+k_{a,p}(x, y) = \left(a + \langle x, y \rangle\right)^p,\;\;p\in\mathbb{N}, \; a\geq 0.
+\]
+</p>
+
+<figure>
+<img src="figures/kernel_viz.svg" height="250" alt="Visualization of some kernel examples.">
+<figcaption>Values of the kernel \(k_{a,p}(\cdot, 1/2)\) on \([-1,1]\) for \(p\in\{1,2,3,4\}\) and for \(a=0\) (left), \(a=1\) (center), and \(a=2\) (right).</figcaption>
+</figure>
+
+<b> Properties:</b>
+<ul>
+<li>Positive definite (p.d.), not strictly p. d.</li>
+<li>Series expansion \(k_{a,p}(x, y) = ...\)</li>
+<li></li>
+<ul>
+
+</article>
+
+
+<article>
+<header><h3>Stability</h3></header>
+<p class="boxed center">
+\[
+k_{a,p}(x, y) = \left(a + \langle x, y \rangle\right)^p,\;\;p\in\mathbb{N}, \; a\geq 0.
+\]
+</p>
+
+<figure>
+<img src="figures/kernel_viz.svg" height="250" alt="Visualization of some kernel examples.">
+<figcaption>Values of the kernel \(k_{a,p}(\cdot, 1/2)\) on \([-1,1]\) for \(p\in\{1,2,3,4\}\) and for \(a=0\) (left), \(a=1\) (center), and \(a=2\) (right).</figcaption>
+</figure>
+
+<b> Properties:</b>
+<ul>
+<li>Positive definite (p.d.), not strictly p. d.</li>
+<li>Series expansion \(k_{a,p}(x, y) = ...\)</li>
+<li></li>
+<ul>
+
+</article>
+
+
+
+<article>
+<header><h3>Error estimation</h3></header>
+<p class="boxed center">
+\[
+k_{a,p}(x, y) = \left(a + \langle x, y \rangle\right)^p,\;\;p\in\mathbb{N}, \; a\geq 0.
+\]
+</p>
+
+<figure>
+<img src="figures/kernel_viz.svg" height="250" alt="Visualization of some kernel examples.">
+<figcaption>Values of the kernel \(k_{a,p}(\cdot, 1/2)\) on \([-1,1]\) for \(p\in\{1,2,3,4\}\) and for \(a=0\) (left), \(a=1\) (center), and \(a=2\) (right).</figcaption>
+</figure>
+
+<b> Properties:</b>
+<ul>
+<li>Positive definite (p.d.), not strictly p. d.</li>
+<li>Series expansion \(k_{a,p}(x, y) = ...\)</li>
+<li></li>
+<ul>
+
+</article>
+
+
+
+<article>
+<header><h3>Mathematics</h3></header>
+<p>This poster template loads <a href="https://www.mathjax.org/">MathJax</a> by default, so you can include inline math in backslash-parentheses <code>\( … \)</code> and display math in backslash-brackets <code>\[ … \]</code>:</>
+
+<p class="center">\((\lambda x. e) v \downarrow e[x/v]\) (β-reduction)</p>
+
+    \[\frac
+      {\langle \mathtt{expr}, s\rangle \Downarrow v}
+      {\langle \mathtt{var := expr}, s\rangle \downarrow s\left[\mathtt{var} \leftarrow v\right]}
+     \small{\text{Assign}}\]
+
+<p>Using MathJax allows users of assistive technology to browse the equations.</p>
+</article>
+
+
+
+<article>
+<header><h3>Stable computations</h3></header>
+
+<figure>
+<div id="image_grid" >
+ 	<img src="figures/convergence_qr_cheb_alg_direct_avalue_5.svg" alt="">
+	<img src="figures/convergence_qr_cheb_alg_direct_avalue_10.svg" alt="">
+	<img src="figures/convergence_qr_cheb_alg_rbfqr_avalue_5.svg" alt="">
+	<img src="figures/convergence_qr_cheb_alg_rbfqr_avalue_10.svg" alt="">
+</div>
+
+<figcaption>Convergence of the maximal absolute error of interpolation of the function \(f(x) = \cos(10 x)\) using \(N=5, \dots, 50\) Chebyshev points. For each 
+figure, we test a polynomial interpolant (gray line), and kernel interpolants with various values of \(p\), and \(a=5\) (left column) and \(a=10\) (right column). 
+The kernel interpolants are computed with the direct method (first row) and with RBF-QR (second row).</figcaption>
+
+</figure>
+</article>
+
+
+<article>
+<header><h3>Lagrange basis</h3></header>
+
+<figure>
+<div id="image_grid" >
+ 	<img src="figures/convergence_qr_cheb_alg_direct_avalue_5.svg" alt="">
+	<img src="figures/convergence_qr_cheb_alg_direct_avalue_10.svg" alt="">
+	<img src="figures/convergence_qr_cheb_alg_rbfqr_avalue_5.svg" alt="">
+	<img src="figures/convergence_qr_cheb_alg_rbfqr_avalue_10.svg" alt="">
+</div>
+
+<figcaption>Convergence of the maximal absolute error of interpolation of the function \(f(x) = \cos(10 x)\) using \(N=5, \dots, 50\) Chebyshev points. For each 
+figure, we test a polynomial interpolant (gray line), and kernel interpolants with various values of \(p\), and \(a=5\) (left column) and \(a=10\) (right column). 
+The kernel interpolants are computed with the direct method (first row) and with RBF-QR (second row).</figcaption>
+
+</figure>
+</article>
+
+
+
+    </main>
+
+    <footer>
+      <address>Paper: G. Elefante et al., <a href="https://drna.padovauniversitypress.it/2022/4/5"> <i> Interpolation with the Polynomial Kernels </i> </a>, Dolomites Research Notes on Approximation (2022).</address><span class="credits">
+        gsantin@fbk.eu - <a href="https://gabrielesantin.github.io/"> https://gabrielesantin.github.io/ </a>
+        </span></footer>
+  </body>
+</html>
