@@ -20,4 +20,4 @@ I obtained my MSc and PhD at the Department of Mathematics of the University of 
 
 You can find more info in my <a href='https://GabrieleSantin.github.io/files/CV.pdf'> <i class="ai ai-cv"></i> Curriculum</a>.
 
-<a href='https://GabrieleSantin.github.io/files/test/output.html'> poster</a>.
+<a href='https://GabrieleSantin.github.io/files/output.html'> poster</a>.
