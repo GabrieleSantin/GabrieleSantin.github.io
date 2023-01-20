@@ -22,13 +22,13 @@
           <img src="figures/logo_fbk.png" alt="Institution logo">
       </aside>
       <div>
-        <h1 property="headline">Interpolation with the Polynomial Kernels</h1>
+        <h1 property="headline" style="font-size:3rem">Interpolation with the Polynomial Kernels</h1>
                   <h2 property="alternativeHeadline">A tour into interpolation with positive definite kernels</h2>
                 
         <span class="publication-info">
                      <h3>
-            <span property="publisher">ATMA 2023 - Approximation: Theory, Methods and Applications</span>,
-            <time pubdate property="datePublished" datetime="2023-01-19">January 18-20, 2023</time>
+            <span property="publisher" style="font-size:1.5rem">ATMA 2023 - Approximation: Theory, Methods and Applications</span>,
+            <time pubdate property="datePublished" style="font-size:1.5rem" datetime="2023-01-19">January 18-20, 2023</time>
             </h3>
                   </span>
         
@@ -46,7 +46,7 @@
         </address>
       </div>
       <aside>
-          <a href="https://gabrielesantin.github.io/"><img src="figures/qr.png" alt="Link to the poster"><figcaption>Get this poster</figcaption></a> 
+          <a href="https://GabrieleSantin.github.io/files/2023_ATMA_poster.html"><img src="figures/qr.png" alt="Link to the poster"><figcaption>Get this poster</figcaption></a>  
       </aside>
     </header>
 
@@ -61,14 +61,13 @@ The polynomial kernels are widely used in machine learning and they are one of t
 However, they are rarely used and considered in numerical analysis due to their lack of strict positive definiteness. In particular they do not enjoy the 
 usual property of unisolvency for arbitrary point sets, which is one of the key properties used to build kernel-based interpolation methods.
 
-This paper is devoted to establish some initial results for the study of these kernels, and their related interpolation algorithms, in the context of 
+This work is devoted to establish some initial results for the study of these kernels, and their related interpolation algorithms, in the context of 
 approximation theory. 
 We will first prove necessary and sufficient conditions on point sets which guarantee the existence and uniqueness of an interpolant. We will 
 then study the Reproducing Kernel Hilbert Spaces (or native spaces) of these kernels and their norms, and provide inclusion relations between spaces 
 corresponding to different kernel parameters.  With these spaces at hand, it will be further possible to derive generic error estimates which apply to 
 sufficiently smooth functions, thus escaping the native space. Finally, we will show how to employ an efficient stable algorithm to these kernels to obtain 
-accurate interpolants, and we will test them in some numerical experiment.
-After this analysis several computational and theoretical aspects remain open, and we will outline possible further research directions in a concluding section.
+accurate interpolants, and we will test them in some numerical experiments.
 </p>
 </article>
 
@@ -76,94 +75,293 @@ After this analysis several computational and theoretical aspects remain open, a
 
 <article>
 <header><h3>The polynomial kernels</h3></header>
+<p>
+The polynomial kernels are a family of kernels defined for \( x,y\in\mathbb{R}^d \) by
+</p>
 <p class="boxed center">
-\[
+\(
 k_{a,p}(x, y) = \left(a + \langle x, y \rangle\right)^p,\;\;p\in\mathbb{N}, \; a\geq 0.
-\]
+\)
 </p>
 
+<ul>
+<li>They are positive definite (p.d.)
+<li>They are not strictly p.d.: There exist sets of points which makes the kernel matrix singular.</li>
+<ul>
+
+
+<p>
 <figure>
 <img src="figures/kernel_viz.svg" height="250" alt="Visualization of some kernel examples.">
 <figcaption>Values of the kernel \(k_{a,p}(\cdot, 1/2)\) on \([-1,1]\) for \(p\in\{1,2,3,4\}\) and for \(a=0\) (left), \(a=1\) (center), and \(a=2\) (right).</figcaption>
 </figure>
+</p>
+</article>
 
-<b> Properties:</b>
-<ul>
-<li>Positive definite (p.d.), not strictly p. d.</li>
-<li>Series expansion \(k_{a,p}(x, y) = ...\)</li>
-<li></li>
-<ul>
+
+<article>
+<header><h3>Polynomial Expansion I</h3></header>
+
+<p>
+For \(a\geq 0\) define 
+
+<p class="bottom-space">
+\[I_a(p, d):=
+\begin{cases}
+\left\{\zeta \in \mathbb{N}_0^{d}, |\zeta|\leq p\right\}, & a>0\\
+\left\{\zeta \in \mathbb{N}_0^{d}, |\zeta|= p\right\}, & a=0,
+\end{cases}
+\]
+</p>
+and
+<p class="bottom-space">
+\[M_a:=
+\begin{cases}
+M_{p}^d=\dim(\mathbb{P}_{p}^d), & a>0\\
+M_{p}^{d-1}=\dim(\mathbb{H}_{p}^d), & a=0,
+\end{cases}
+\]
+</p>
+<p class="bottom-space">
+Then 
+<p class="boxed center">
+\(
+k_{a,p}(x, y) =\sum_{\zeta \in I_a(p,d)} d_\zeta^a  x^\zeta y^\zeta.
+\)
+</p>
+</p>
+
+where
+
+\[
+d_\zeta^a:= 
+\begin{cases}
+\frac{p! a^{p-|\zeta|}}{(p-|\zeta|)!\zeta!}, & a>0\\
+\frac{p!}{\zeta!}, & a=0,
+\end{cases},\;\;
+\zeta \in I_a(p,d).
+\]
 
 </article>
 
+
+
+<article>
+<header><h3>Polynomial Expansion II</h3></header>
+
+Let 
+<ul>
+<li>
+\(p\in\mathbb{N}\) and \(a\geq 0\)
+</li>
+
+<li>
+\(\left\{\zeta^{(i)}\right\}_{i=1}^{M_a}\) an enumeration of \(I_a(p, d)\)
+</li>
+
+<li>
+\(X_N\subset\Omega\) a set of \(N\leq M_a\) pairwise distinct points.
+</li>
+</ul>
+
+<p class="bottom-space">
+</p>
+
+Let 
+\[
+V:= \begin{bmatrix}
+    x_1^{\zeta^{(1)}}&\dots & x_1^{\zeta^{({M_a})}}\\
+    \vdots & \ddots &\vdots\\
+    x_N^{\zeta^{(1)}}&\dots & x_N^{\zeta^{({M_a})}}\\
+    \end{bmatrix}.
+\]
+<p class="bottom-space">
+</p>
+
+<p>
+Then for all \(a>0\) the kernel matrix satisfies</p>
+\[
+A_{a,p}(X_N) := \left(k_{a,p}(x_i,x_j)\right)_{i,j=1}^N = V D V^T,
+\]
+
+where \[D:=diag\left(d^a_{\zeta^{(1)}}, \dots, d^a_{\zeta^{(M_a)}}\right)\]
+
+
+
+</article>
 
 
 <article>
 <header><h3>Unisolvency</h3></header>
-<p class="boxed center">
-\[
-k_{a,p}(x, y) = \left(a + \langle x, y \rangle\right)^p,\;\;p\in\mathbb{N}, \; a\geq 0.
-\]
+
+<b> Consequences:</b>
+<ul>
+
+<li>
+The kernel matrix \(A_{a,p}(X_N)\) is invertible if and only if there exists \(X_N\subset X_{M_a}\) which is \(\mathbb{P}_p^d(\Omega)\)-unisolvent if \(a>0\), or \(\mathbb{H}_p^d(\Omega)\)-unisolvent if \(a=0\).
+</li>
+
+<li>
+If \(N=M_a\) and \(X_N\) are \(\mathbb{P}_p^d\)-unisolvent (if \(a>0\)) or \(\mathbb{H}_p^d\)-unisolvent (if \(a=0\)),
+then the polynomial kernel interpolant coincides with the polynomial interpolant from the corresponding space.
+</li>
+<ul>
+<p class="bottom-space">
 </p>
 
-<figure>
-<img src="figures/kernel_viz.svg" height="250" alt="Visualization of some kernel examples.">
-<figcaption>Values of the kernel \(k_{a,p}(\cdot, 1/2)\) on \([-1,1]\) for \(p\in\{1,2,3,4\}\) and for \(a=0\) (left), \(a=1\) (center), and \(a=2\) (right).</figcaption>
-</figure>
+<p class="boxed">
+Let \(a> 0\) and \(X_N\subset\Omega\) pairwise distinct. 
+<br>For any \(p\geq d (N-1)\) there exists a set \(X_{M_p^d}\subset \Omega\) of \(M_p^d\) points such that \(X_N\subset X_{M_p^d}\) and \(X_{M_p^d}\) is 
+\(\mathbb{P}_p^d\)-unisolvent. 
+</p>
+<p class="bottom-space-small">
+</p>
+\[\Downarrow\]
+<p class="bottom-space-small"></p>
+<p class="boxed">
+\(A_{a,p}(X_N)\) is invertible if \(p\geq d (N-1)\).
+</p>
 
-<b> Properties:</b>
-<ul>
-<li>Positive definite (p.d.), not strictly p. d.</li>
-<li>Series expansion \(k_{a,p}(x, y) = ...\)</li>
-<li></li>
-<ul>
+
 
 </article>
-
 
 
 <article>
 <header><h3>The native space</h3></header>
-<p class="boxed center">
+
+<p>
+The native space \(\mathcal{H}_{a, p}(\Omega)\) of \(k_{a,p}\) on \(\Omega\):
+</p>
+<ul>
+
+<li>
+\(k_{a,p}(\cdot, x) \in \Omega\) for all \(x\in\Omega\)
+</li>
+
+<li>
+\(\left\langle k_{a,p}(\cdot, x), f\right\rangle_{\mathcal{H}_{a, p}} = f(x)\), \(x\in\Omega\), \(f\in\mathcal{H}_{a, p}\).
+</li>
+
+</ul>
+<p class="bottom-space-small"></p>
+<p class="boxed">
+We have
+
 \[
-k_{a,p}(x, y) = \left(a + \langle x, y \rangle\right)^p,\;\;p\in\mathbb{N}, \; a\geq 0.
+\mathcal{H}_{a, p}(\Omega)=
+\begin{cases}
+\mathbb{P}_p^d(\Omega), & a>0,\\
+\mathbb{H}_p^d(\Omega), & a=0, 
+\end{cases}
+\]
+with 
+
+\[
+  \left\langle f, g\right\rangle_{\mathcal{H}_{a,p}}:=\sum_{\gamma\in I_a(p, d)} \frac{1}{w_\gamma^a} D^\gamma f(0) D^\gamma g(0).
+\]
+</p>
+<p class="bottom-space-small"></p>
+where
+<p class="bottom-space-small"></p>
+<p>
+\[
+w_\zeta^a:= (\zeta!)^2 d_\zeta^a=
+\begin{cases}
+\frac{p! \zeta!}{(p-|\zeta|)!} a^{p-|\zeta|}, & a>0,\\
+p! \zeta!, & a=0.\\
+\end{cases}
 \]
 </p>
 
-<figure>
-<img src="figures/kernel_viz.svg" height="250" alt="Visualization of some kernel examples.">
-<figcaption>Values of the kernel \(k_{a,p}(\cdot, 1/2)\) on \([-1,1]\) for \(p\in\{1,2,3,4\}\) and for \(a=0\) (left), \(a=1\) (center), and \(a=2\) (right).</figcaption>
-</figure>
 
-<b> Properties:</b>
-<ul>
-<li>Positive definite (p.d.), not strictly p. d.</li>
-<li>Series expansion \(k_{a,p}(x, y) = ...\)</li>
-<li></li>
-<ul>
+
 
 </article>
 
 
 <article>
-<header><h3>Stability</h3></header>
-<p class="boxed center">
+<header><h3>Inclusion relations</h3></header>
+
+
+<p>
+For any \(a\geq 0\), \(p\in\mathbb{N}\):
+<p class="bottom-space"></p>
+<ul>
+<li>
+If \(0 < a' \leq a \) then \(\mathcal{H}_{a, p}=\mathcal{H}_{a', p}\) as sets and
+<p>
 \[
-k_{a,p}(x, y) = \left(a + \langle x, y \rangle\right)^p,\;\;p\in\mathbb{N}, \; a\geq 0.
+\left(\frac{a'}{a}\right)^{p/2} \left\|f\right\|_{\mathcal{H}_{a', p}}
+\leq 
+\left\|f\right\|_{\mathcal{H}_{a, p}}
+\leq 
+\left\|f\right\|_{\mathcal{H}_{a', p}}.
 \]
 </p>
+</li>
+<p class="bottom-space"></p>
 
-<figure>
-<img src="figures/kernel_viz.svg" height="250" alt="Visualization of some kernel examples.">
-<figcaption>Values of the kernel \(k_{a,p}(\cdot, 1/2)\) on \([-1,1]\) for \(p\in\{1,2,3,4\}\) and for \(a=0\) (left), \(a=1\) (center), and \(a=2\) (right).</figcaption>
-</figure>
+<li>
+If \( a > 0\) then \(\mathcal{H}_{0,p}\subset \mathcal{H}_{a, p}\) with same norm for \(f\in \mathcal{H}_{0, p}\).
+</li>
+<p class="bottom-space"></p>
 
-<b> Properties:</b>
+<li>
+If \(a>0\) and \(p,q\in\mathbb{N}\) with \(0\leq q\leq p\), then \(\mathcal{H}_{a, q}\subset\mathcal{H}_{a, p}\) with \(d_p:=p-q\) and
+\[
+a^{\frac{d_p}{2}} \left\|f\right\|_{\mathcal{H}_{a, p}}
+\leq 
+\left\|f\right\|_{\mathcal{H}_{a, q}}
+\leq 
+a^\frac{d_p}{2} \binom{p}{d_p}^\frac{1}{2} \left\|f\right\|_{\mathcal{H}_{a, p}}.
+\]
+</li>
 <ul>
-<li>Positive definite (p.d.), not strictly p. d.</li>
-<li>Series expansion \(k_{a,p}(x, y) = ...\)</li>
-<li></li>
+
+</article>
+
+<article>
+<header><h3>Stability</h3></header>
 <ul>
+<li>
+Lagrange basis \(\left\{\ell_{i,a,p}\right\}_{i=1}^N\) of \(V_{a,p}(X_N)=\mathrm{span}\{k_{a,p}(\cdot, x):x\in X_N\}\),
+</li>
+
+
+<li>
+Lebesgue function
+\[
+\lambda_{X_N,a,p}(x):=\sum_{i=1}^N \left|\ell_{i,a,p}(x)\right|,
+\]
+</li>
+
+<li>
+Lebesgue constant
+\[\Lambda_{X,a,p,\Omega}:=\max_{x\in\Omega}\lambda_{X,a,p}(x)\]
+</li>
+</ul>
+
+
+<p class="bottom-space"></p>
+<p class="boxed">
+Let \(a\geq 0\), \(p\in\mathbb{N}\), and \(X\) be \(\mathcal{H}_{a,p}\)-unisolvent. 
+
+<br>
+If \(X\subset X_{M_a}\subset B\subset\mathbb{R}^d\) is \(\mathbb{P}_p^d\)-unisolvent, then
+ for \(f\in C(B)\)
+\[
+\|I_{X,a,p} f\|_{\infty,\Omega} 
+\leq 
+\Lambda_{X_{M_a},p,B}^{pol} \|f\|_{\infty,B},
+\]
+
+where 
+\(
+\Lambda_{X_{M_a},p,B}^{pol}
+\)
+is the Lebesgue constant for polynomial interpolation of degree \(p\) on \(X_{M_a},B\).
+</p>
 
 </article>
 
@@ -171,65 +369,104 @@ k_{a,p}(x, y) = \left(a + \langle x, y \rangle\right)^p,\;\;p\in\mathbb{N}, \; a
 
 <article>
 <header><h3>Error estimation</h3></header>
-<p class="boxed center">
+Power function
 \[
-k_{a,p}(x, y) = \left(a + \langle x, y \rangle\right)^p,\;\;p\in\mathbb{N}, \; a\geq 0.
+P_{X,a,p}(x)
+:=\sup\limits_{0\neq f\in \mathcal{H}_{a, p}}\frac{\left|f(x) - I_{X,a,p} f(x)\right|}{\|f\|_{\mathcal{H}_{a,p}}}
+\]
+<p class="bottom-space-small"></p>
+
+<p class="boxed">
+Let \(X_N\subset\Omega\) be \(\mathcal{H}_{a,p}\)-unisolvent. 
+<br>For all \(f\in C(\Omega)\) and \(x\in\Omega\)
+<br>
+\[
+\begin{align}
+&\\
+&\left|(f-I_{X,a,p} f)(x)\right| \leq E_{pol}(x) + E_{ker}(x).
+\end{align}
 \]
 </p>
 
-<figure>
-<img src="figures/kernel_viz.svg" height="250" alt="Visualization of some kernel examples.">
-<figcaption>Values of the kernel \(k_{a,p}(\cdot, 1/2)\) on \([-1,1]\) for \(p\in\{1,2,3,4\}\) and for \(a=0\) (left), \(a=1\) (center), and \(a=2\) (right).</figcaption>
-</figure>
 
-<b> Properties:</b>
-<ul>
-<li>Positive definite (p.d.), not strictly p. d.</li>
-<li>Series expansion \(k_{a,p}(x, y) = ...\)</li>
-<li></li>
-<ul>
+Here
+\[
+E_{pol}(x):=\left(1 + \lambda_{X,a,p}(x)\right)\left\|f-f_p^\star\right\|_{\infty,\Omega} 
+\]
+and
+\[
+E_{ker}(x)
+:=P_{X,a,p}(x) \left\|f^\star - I_{X,a,p} 
+f_p^\star\right\|_{\mathcal{H}_{a,p}},
+\]
+with 
+\[
+f_p^\star:=\inf\limits_{g\in \mathbb{P}_p^d(\Omega)}\|f-g\|_{\infty,\Omega}.
+\]
+</p>
+
 
 </article>
-
-
-
-<article>
-<header><h3>Mathematics</h3></header>
-<p>This poster template loads <a href="https://www.mathjax.org/">MathJax</a> by default, so you can include inline math in backslash-parentheses <code>\( … \)</code> and display math in backslash-brackets <code>\[ … \]</code>:</>
-
-<p class="center">\((\lambda x. e) v \downarrow e[x/v]\) (β-reduction)</p>
-
-    \[\frac
-      {\langle \mathtt{expr}, s\rangle \Downarrow v}
-      {\langle \mathtt{var := expr}, s\rangle \downarrow s\left[\mathtt{var} \leftarrow v\right]}
-     \small{\text{Assign}}\]
-
-<p>Using MathJax allows users of assistive technology to browse the equations.</p>
-</article>
-
 
 
 <article>
 <header><h3>Stable computations</h3></header>
+Stable computations with RBF-QR:
+<ul>
+<li> \(V=Q R\) 
+</li>
 
+<li>
+\(Q\in\mathbb{R}^{N\times N}\)
+</li>
+
+<li>
+\(R:=[R_1|R_2]\), \(R_1\in \mathbb{R}^{N\times N}\),
+</li>
+
+<li>
+\(D=\begin{bmatrix}D_1 &0 \\ 0 &D_2\end{bmatrix}\), 
+\(D_1\in \mathbb{R}^{N\times N}\)
+</li>
+
+<ul>
+<p class="bottom-space">
+Then
+</p>
+\[
+A_{a,p}(X_N)
+= V \begin{bmatrix}I \\ D_2 R_2^T R_1^{-T} D_1^{-1}\end{bmatrix} D_1 R_1^T Q^T
+\]
+<p class="bottom-space">
+</p>
+
+<p class="boxed center">
+New basis
+\[V':=
+V \begin{bmatrix}I \\ D_2 R_2^T R_1^{-T} D_1^{-1}\end{bmatrix} 
+\]
+</p>
+
+</article>
+
+<article>
+<header><h3>Stable computations: Lagrange basis</h3></header>
+
+<p>
 <figure>
-<div id="image_grid" >
- 	<img src="figures/convergence_qr_cheb_alg_direct_avalue_5.svg" alt="">
-	<img src="figures/convergence_qr_cheb_alg_direct_avalue_10.svg" alt="">
-	<img src="figures/convergence_qr_cheb_alg_rbfqr_avalue_5.svg" alt="">
-	<img src="figures/convergence_qr_cheb_alg_rbfqr_avalue_10.svg" alt="">
-</div>
-
-<figcaption>Convergence of the maximal absolute error of interpolation of the function \(f(x) = \cos(10 x)\) using \(N=5, \dots, 50\) Chebyshev points. For each 
-figure, we test a polynomial interpolant (gray line), and kernel interpolants with various values of \(p\), and \(a=5\) (left column) and \(a=10\) (right column). 
-The kernel interpolants are computed with the direct method (first row) and with RBF-QR (second row).</figcaption>
-
+<img src="figures/lagrange_direct_vs_QR.svg" width="350" alt="">
+<figcaption>
+Lagrange functions for the polynomial kernel with \(p=25\) and \(a=10\), for \(N=15\) Chebyshev points (black dots), computed 
+with the direct method (gray lines) and with RBF-QR (black lines).
+</figcaption>
 </figure>
+</p>
 </article>
 
 
 <article>
-<header><h3>Lagrange basis</h3></header>
+<header><h3>Stable computations: Approximation</h3></header>
+
 
 <figure>
 <div id="image_grid" >
@@ -239,14 +476,77 @@ The kernel interpolants are computed with the direct method (first row) and with
 	<img src="figures/convergence_qr_cheb_alg_rbfqr_avalue_10.svg" alt="">
 </div>
 
-<figcaption>Convergence of the maximal absolute error of interpolation of the function \(f(x) = \cos(10 x)\) using \(N=5, \dots, 50\) Chebyshev points. For each 
+<figcaption>
+Maximal absolute interpolation error for the function \(f(x) = \cos(10 x)\) using \(N=5, \dots, 50\) Chebyshev points. For each 
 figure, we test a polynomial interpolant (gray line), and kernel interpolants with various values of \(p\), and \(a=5\) (left column) and \(a=10\) (right column). 
-The kernel interpolants are computed with the direct method (first row) and with RBF-QR (second row).</figcaption>
+The kernel interpolants are computed with the direct method (first row) and with RBF-QR (second row).
+</figcaption>
+
+</figure>
+
+
+</article>
+
+
+<article>
+<header><h3>Lebesgue function</h3></header>
+
+
+<figure>
+<figure>
+<div id="image_grid_small" >
+ 	<img src="figures/lagrange_cheb.svg" alt="">
+	<img src="figures/lebesgue_fun_cheb.svg" alt="">
+</div>
+
+
+<figcaption>
+Lagrange functions (top) and Lebesgue function (bottom) for interpolation with a polynomial kernel \(k_{5, p}\) 
+on \(N=5\) Chebyshev points and various values of \(p\).
+</figcaption>
+
+</figure>
+
+</article>
+
+
+<article>
+<header><h3>Lebesgue function</h3></header>
+
+<figure>
+<div id="image_grid" >
+ 	<img src="figures/lebesgue_unif_avalue_5.svg" alt="">
+  <img src="figures/lebesgue_cheb_avalue_5.svg" alt="">
+	<img src="figures/lebesgue_unif_avalue_10.svg" alt="">
+	<img src="figures/lebesgue_cheb_avalue_10.svg" alt="">
+</div>
+
+<figcaption>
+Growth of the Lebesgue constant associated to \(N=5, \dots, 45\) equally spaced (left) and Chebyshev (right) points. We test kernel interpolants 
+with various values of \(p\), and \(a=5\) (first row) and \(a=10\) (second row). 
+</figcaption>
 
 </figure>
 </article>
 
+<article>
+<header><h3>Future directions</h3></header>
+<ul>
 
+<li>
+</li>
+
+<li>
+</li>
+
+<li>
+</li>
+
+<li>
+</li>
+<li>
+</li>
+</article>
 
     </main>
 

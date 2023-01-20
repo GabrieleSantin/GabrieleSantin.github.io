@@ -48,7 +48,7 @@ b {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    overflow: auto;
+    overflow: auto; /*auto for html, hidden for pdf*/ 
     padding: 0.5rem;
   }
   main::after {
@@ -103,7 +103,7 @@ body > header {
   font-size: 80%;
 }
 body > header img {
-  max-height: 5rem;
+  max-height: 8rem;
 }
 body > header h1 {
   font-size: 1.5rem;
@@ -267,11 +267,14 @@ article ul.inline li::before {
   display: none;
 }
 .boxed {
-  border: thin solid #f57900;
-  padding: 0.25rem;
+  border: thin solid #0167b5;
+  padding: 0.5rem;
+  border-width: 0.2rem;
 }
 .center {
   text-align: center;
+  margin: auto;
+  width: 90%;
 }
 .center-self {
   justify-self: center;
@@ -354,10 +357,25 @@ mjx-container,
 
 /* Tabular images*/
 #image_grid > img {
-  float: center;
+  float: top;
   width: 46%;
   margin: 10px;
 }
+
+#image_grid_small > img {
+  float: center;
+  width: 85%;
+  margin: 10px;
+}
+
+.bottom-space {
+  margin-bottom: 2em;
+}
+
+.bottom-space-small {
+  margin-bottom: 1em;
+}
+
 
 
 
