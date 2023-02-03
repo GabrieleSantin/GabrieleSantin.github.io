@@ -12,6 +12,38 @@ Click on the publications below to expand them.
 ## Submitted
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
+<summary>A. Longa, V. Lachi, G. Santin, M. Bianchini, B. Lepri, P. Lio, F. Scarselli, A. Passerini, 
+<i>Graph Neural Networks for temporal graphs: State of the art, open challenges, and opportunities</i> (2023). <a href='https://arxiv.org/abs/2302.01018'> <i class="fa fa-file-pdf"></i> Preprint </a>
+</summary>
+
+<small>
+
+<blockquote>
+Graph Neural Networks (GNNs) have become the leading paradigm for learning on (static) graph-structured data. However, many real-world systems are dynamic in nature, since the graph and node/edge attributes change over time. In recent years, GNN-based models for temporal graphs have emerged as a promising area of research to extend the capabilities of GNNs. In this work, we provide the first comprehensive overview of the current state-of-the-art of temporal GNN, introducing a rigorous formalization of learning settings and tasks and a novel taxonomy categorizing existing approaches in terms of how the temporal aspect is represented and processed. We conclude the survey with a discussion of the most relevant open challenges for the field, from both research and application perspectives.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@Misc{Longa2023,
+  author        = {Antonio Longa and Veronica Lachi and Gabriele Santin and Monica Bianchini and Bruno Lepri and Pietro Lio and Franco Scarselli and Andrea Passerini},
+  title         = {Graph Neural Networks for temporal graphs: State of the art, open challenges, and opportunities},
+  year          = {2023},
+  eprint        = {2302.01018},
+  archiveprefix = {arXiv},
+  primaryclass  = {cs.LG},
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
 <summary>A. Longa, S. Azzolin, G. Santin, G. Cencetti, P. Lio’, B. Lepri, A. Passerini, 
 <i>Explaining the Explainers in Graph Neural Networks: a Comparative Study </i> (2022). <a href='https://arxiv.org/abs/2210.15304'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
