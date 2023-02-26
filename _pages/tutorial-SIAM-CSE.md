@@ -5,9 +5,9 @@ permalink: /tutorial-SIAM-CSE/
 author_profile: true
 ---
 
-## A minitutorial at the SIAM Conference on Computational Science and Engineering
+### A minitutorial at the SIAM Conference on Computational Science and Engineering, February 26 - March 3, 2023
 
-### February 26 - March 3, 2023
+### 
 
 ### Abstract
 
@@ -20,8 +20,8 @@ The tutorial is divided in two parts:
 - **Part I:** 2:35 PM - 4:15 PM, Room: G103 
   - Presenter: Gabriele Santin
   - Goals:   Motivations, Intro of basic concepts, definition of GNNs
-  - Material: <a href='https://drive.google.com/drive/u/1/folders/1mH7-AlXOZNtJALaw7QKcpbqHxOqUn0-9'> <i class='fa fa-file-powerpoint'></i> Slides</a> <br> and <a href='https://github.com/GabrieleSantin/GraphBasisFunctions'> <i class='fa fa-github'></i>Notebook</a>.
+  - Material: <a href='https://drive.google.com/drive/u/1/folders/1mH7-AlXOZNtJALaw7QKcpbqHxOqUn0-9'> <i class='fa fa-file-powerpoint'></i> Slides</a> and <a href='https://github.com/GabrieleSantin/GraphBasisFunctions'> <i class='fa fa-github'></i>Notebook</a>.
 - **Part II:** 4:45 PM - 6:25 PM, Room: G103
   - Presenter: <a href='https://antoniolonga.github.io/'> <i class='fa fa-user'></i> Antonio Longa</a>
   - Goals:    Practical session, self-contained code for GNN training
-  - Material:<a href='https://drive.google.com/drive/u/1/folders/1mH7-AlXOZNtJALaw7QKcpbqHxOqUn0-9'> <i class='fa fa-file-powerpoint'></i> Slides</a> <br> and <a href='https://github.com/GabrieleSantin/GraphBasisFunctions'> <i class='fa fa-github'></i>Notebook</a>.
+  - Material:<a href='https://drive.google.com/drive/u/1/folders/1mH7-AlXOZNtJALaw7QKcpbqHxOqUn0-9'> <i class='fa fa-file-powerpoint'></i> Slides</a> and <a href='https://github.com/GabrieleSantin/GraphBasisFunctions'> <i class='fa fa-github'></i>Notebook</a>.
