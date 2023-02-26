@@ -34,3 +34,30 @@ The polynomial kernels are widely used in machine learning and they are one of t
 
 </table>
 </font>
+
+<font size="5">
+<table style="border:none;">
+
+### A Hands-on Introduction to Geometric Deep Learning, with Examples in PyTorch Geometric
+
+<tr style="border:none;">
+
+<td width="25%" style="border:none;">
+
+<img src="https://GabrieleSantin.github.io/images/pytorch_geometric_tutorial.jpeg" style="padding-top: 7px;display: block;margin-right:35px;" width="90%">
+
+</td>
+
+<td width="65%" style="border:none;">
+Neural Networks and Deep Learning have started only recently to become standard tools in simulation and computational sciences, and they have already enabled significant advances, becoming a viable op[...].
+<br> 
+<a href='https://gabrielesantin.github.io/tutorial-SIAM-CSE/'> <i class='fa fa-link'></i> Webpage</a> <br>With <a href='https://antoniolonga.github.io/'> <i class='fa fa-user'></i> Antonio Longa</a> 
+
+
+</td>
+
+</tr>
+
+
+</table>
+</font>
