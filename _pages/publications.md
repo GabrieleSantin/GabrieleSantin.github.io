@@ -12,6 +12,35 @@ Click on the publications below to expand them.
 ## Submitted
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
+<summary>D. Spiller, G. Santin, A. Sebastianelli, L. Lucchini, R. Gallotti, B. Lake, S. Liberata Ullo, B. Le Saux, B. Lepri, 
+<i>Analysis of COVID-19 first wave in the US based on demographic, mobility, and environmental variables </i> (2023). <a href='https://arxiv.org/abs/2302.14649v1'> <i class="fa fa-file-pdf"></i> Preprint </a>
+</summary>
+
+<small>
+
+<blockquote>
+COVID-19 had a strong and disruptive impact on our society, and yet further analyses on most relevant factors explaining the spread of the pandemic are needed. Interdisciplinary studies linking epidemiological, mobility, environmental, and socio-demographic data analysis can help understanding how historical conditions, concurrent social policies and environmental factors impacted on the evolution of the pandemic crisis. This work deals with a regression analysis linking COVID-19 mortality to socio-demographic, mobility, and environmental data in the US during the first half of 2020, i.e., during the COVID-19 pandemic first wave. This study can provide very useful insights about risk factors enhancing mortality rates before non-pharmaceutical interventions or vaccination campaigns took place. Our cross-sectional ecological regression analysis demonstrates that, when considering the entire US area, the socio-demographic variables globally play the most important role with respect to environmental and mobility variables in describing COVID-19 mortality. Compared to the complete generalized linear model considering all socio-demographic, mobility, and environmental data, the regression based only on socio-demographic data provides a better approximation and proves to be a better explanatory model when compared to the mobility-based and environmental-based models. However, when looking at single entries within each of the three groups, we see that the mobility data can become relevant descriptive predictors at local scale, as in New Jersey where the time spent at work is one of the most relevant explanatory variables, while environmental data play contradictory roles.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@misc{Spiller2023,
+  author = {Spiller, Dario and Santin, Gabriele and Sebastianelli, Alessandro and Lucchini, Lorenzo and Gallotti, Riccardo and Lake, Brennan and Ullo, Silvia Liberata and Saux, Bertrand Le and Lepri, Bruno},
+  title = {Analysis of COVID-19 first wave in the US based on demographic, mobility, and environmental variables},
+  year = {2023},
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
 <summary>A. Longa, V. Lachi, G. Santin, M. Bianchini, B. Lepri, P. Lio, F. Scarselli, A. Passerini, 
 <i>Graph Neural Networks for temporal graphs: State of the art, open challenges, and opportunities</i> (2023). <a href='https://arxiv.org/abs/2302.01018'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
