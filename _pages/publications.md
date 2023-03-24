@@ -232,7 +232,6 @@ Kernel based methods yield approximation models that are flexible, efficient and
 
 
 
-## Accepted
 ## Published
 
 <p style='margin-top:-20px;margin-left:5%;'>
