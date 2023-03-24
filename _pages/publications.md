@@ -237,7 +237,7 @@ Kernel based methods yield approximation models that are flexible, efficient and
 
 <summary>B. Nobile, G. Santin, B. Lepri, P. Brutti, 
 <i>Reprogramming FairGANs with Variational Auto-Encoders: A New Transfer Learning Model</i>, 
-Accepted for publication in Proceeding of SIS2022 - 51st Scientific Meeting of the Italian Statistical Society (2022). <a href='https://arxiv.org/abs/2203.05811'> <i class="fa fa-file-pdf"></i> Preprint </a>
+Accepted for publication in Book of short papers, SIS2022 - 51st Scientific Meeting of the Italian Statistical Society (2022). <a href='https://arxiv.org/abs/2203.05811'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
 
 <small>
@@ -248,13 +248,13 @@ Fairness-aware GANs (FairGANs) exploit the mechanisms of Generative Adversarial 
 
 <pre>
   <code class="bibtex">
-@misc{Nobile2022,
-      title={Reprogramming FairGANs with Variational Auto-Encoders: A New Transfer Learning Model}, 
-      author={Beatrice Nobile and Gabriele Santin and Bruno Lepri and Pierpaolo Brutti},
-      year={2022},
-      eprint={2203.05811},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@InProceedings{Nobile2022,
+  author    = {Beatrice Nobile and Gabriele Santin and Bruno Lepri and Pierpaolo Brutti},
+  title     = {Reprogramming FairGANs with Variational Auto-Encoders: A New Transfer Learning Model},
+  booktitle = {Book of short papers. SIS 2022},
+  year      = {2022},
+  editor    = {Antonio Balzanella, Matilde Bini, Carlo Cavicchia, Rosanna Verde},
+  isbn      = {9788891932310},
 }
   </code>
 </pre>
