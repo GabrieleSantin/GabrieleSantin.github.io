@@ -233,39 +233,6 @@ Kernel based methods yield approximation models that are flexible, efficient and
 
 
 ## Accepted
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
-<summary>B. Nobile, G. Santin, B. Lepri, P. Brutti, 
-<i>Reprogramming FairGANs with Variational Auto-Encoders: A New Transfer Learning Model</i>, 
-Accepted for publication in Book of short papers, SIS2022 - 51st Scientific Meeting of the Italian Statistical Society (2022). <a href='https://arxiv.org/abs/2203.05811'> <i class="fa fa-file-pdf"></i> Preprint </a>
-</summary>
-
-<small>
-
-<blockquote>
-Fairness-aware GANs (FairGANs) exploit the mechanisms of Generative Adversarial Networks (GANs) to impose fairness on the generated data, freeing them from both disparate impact and disparate treatment. Given the model's advantages and performance, we introduce a novel learning framework to transfer a pre-trained FairGAN to other tasks. This reprogramming process has the goal of maintaining the FairGAN's main targets of data utility, classification utility, and data fairness, while widening its applicability and ease of use. In this paper we present the technical extensions required to adapt the original architecture to this new framework (and in particular the use of Variational Auto-Encoders), and discuss the benefits, trade-offs, and limitations of the new model.	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@InProceedings{Nobile2022,
-  author    = {Beatrice Nobile and Gabriele Santin and Bruno Lepri and Pierpaolo Brutti},
-  title     = {Reprogramming FairGANs with Variational Auto-Encoders: A New Transfer Learning Model},
-  booktitle = {Book of short papers. SIS 2022},
-  year      = {2022},
-  editor    = {Antonio Balzanella, Matilde Bini, Carlo Cavicchia, Rosanna Verde},
-  isbn      = {9788891932310},
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
 ## Published
 
 <p style='margin-top:-20px;margin-left:5%;'>
@@ -548,6 +515,39 @@ Policy makers have implemented multiple non-pharmaceutical strategies to mitigat
   issn      = {2193-1127},
   doi       = {10.1140/epjds/s13688-022-00316-y},
   url       = {https://doi.org/10.1140/epjds/s13688-022-00316-y},
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
+<summary>B. Nobile, G. Santin, B. Lepri, P. Brutti, 
+<i>Reprogramming FairGANs with Variational Auto-Encoders: A New Transfer Learning Model</i>, 
+Book of short papers, SIS2022 - 51st Scientific Meeting of the Italian Statistical Society (2022). <a href='https://arxiv.org/abs/2203.05811'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Università/Sis-2022-4c-low.pdf'> <i class="ai ai-doi"> </i>DOI</a>
+</summary>
+
+<small>
+
+<blockquote>
+Fairness-aware GANs (FairGANs) exploit the mechanisms of Generative Adversarial Networks (GANs) to impose fairness on the generated data, freeing them from both disparate impact and disparate treatment. Given the model's advantages and performance, we introduce a novel learning framework to transfer a pre-trained FairGAN to other tasks. This reprogramming process has the goal of maintaining the FairGAN's main targets of data utility, classification utility, and data fairness, while widening its applicability and ease of use. In this paper we present the technical extensions required to adapt the original architecture to this new framework (and in particular the use of Variational Auto-Encoders), and discuss the benefits, trade-offs, and limitations of the new model.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@InProceedings{Nobile2022,
+  author    = {Beatrice Nobile and Gabriele Santin and Bruno Lepri and Pierpaolo Brutti},
+  title     = {Reprogramming FairGANs with Variational Auto-Encoders: A New Transfer Learning Model},
+  booktitle = {Book of short papers. SIS 2022},
+  year      = {2022},
+  editor    = {Antonio Balzanella, Matilde Bini, Carlo Cavicchia, Rosanna Verde},
+  isbn      = {9788891932310},
 }
   </code>
 </pre>
