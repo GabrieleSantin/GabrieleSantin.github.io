@@ -170,38 +170,6 @@ Error estimates for kernel interpolation in Reproducing Kernel Hilbert Spaces (R
 
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
-<summary>A. Alla, H. Oliveira, G. Santin, 
-<i>HJB-RBF based approach for the control of PDEs</i> (2021). <a href='https://arxiv.org/abs/2108.02987'> <i class="fa fa-file-pdf"></i> Preprint </a>
-</summary>
-
-<small>
-
-<blockquote>
-Semi-lagrangian schemes for discretization of the dynamic programming principle are based on a time discretization projected on a state-space grid. The use of a structured grid makes this approach not feasible for high-dimensional problems due to the curse of dimensionality. Here, we present a new approach for infinite horizon optimal control problems where the value function is computed using Radial Basis Functions (RBF) by the Shepard's moving least squares approximation method on scattered grids. We propose a new method to generate a scattered mesh driven by the dynamics and the selection of the shape parameter in the RBF using an optimization routine. This mesh will help to localize the problem and approximate the dynamic programming principle in high dimension. Error estimates for the value function are also provided. Numerical tests for high dimensional problems will show the effectiveness of the proposed method.	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@misc{Alla2021,
-      title={HJB-RBF based approach for the control of PDEs}, 
-      author={Alessandro Alla and Hugo Oliveira and Gabriele Santin},
-      year={2021},
-      eprint={2108.02987},
-      archivePrefix={arXiv},
-      primaryClass={math.NA}
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
 <summary>T. Wenzel, G. Santin, B. Haasdonk, 
 <i>Universality and optimality of structured deep kernel  networks</i> (2021). <a href='https://arxiv.org/abs/2105.07228'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
@@ -221,6 +189,40 @@ Kernel based methods yield approximation models that are flexible, efficient and
       eprint={2105.07228},
       archivePrefix={arXiv},
       primaryClass={cs.LG}
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+## Accepted
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
+<summary>A. Alla, H. Oliveira, G. Santin, 
+<i>HJB-RBF based approach for the control of PDEs</i>, 
+Accepted for publication in Journal of Scientific Computing (2023). <a href='https://arxiv.org/abs/2108.02987'> <i class="fa fa-file-pdf"></i> Preprint </a>
+</summary>
+
+<small>
+
+<blockquote>
+Semi-lagrangian schemes for discretization of the dynamic programming principle are based on a time discretization projected on a state-space grid. The use of a structured grid makes this approach not feasible for high-dimensional problems due to the curse of dimensionality. Here, we present a new approach for infinite horizon optimal control problems where the value function is computed using Radial Basis Functions (RBF) by the Shepard's moving least squares approximation method on scattered grids. We propose a new method to generate a scattered mesh driven by the dynamics and the selection of the shape parameter in the RBF using an optimization routine. This mesh will help to localize the problem and approximate the dynamic programming principle in high dimension. Error estimates for the value function are also provided. Numerical tests for high dimensional problems will show the effectiveness of the proposed method.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@misc{Alla2021,
+      title={HJB-RBF based approach for the control of PDEs}, 
+      author={Alessandro Alla and Hugo Oliveira and Gabriele Santin},
+      year={2021},
+      eprint={2108.02987},
+      archivePrefix={arXiv},
+      primaryClass={math.NA}
 }
   </code>
 </pre>
