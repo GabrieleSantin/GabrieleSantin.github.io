@@ -200,12 +200,16 @@ Kernel based methods yield approximation models that are flexible, efficient and
 
 
 
-## Accepted
+## Published
+
+<p style='margin-top:-20px;margin-left:5%;'>
+<h3 style='margin-left:5%;'> 2023</h3>
+</p>
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>A. Alla, H. Oliveira, G. Santin, 
 <i>HJB-RBF based approach for the control of PDEs</i>, 
-Accepted for publication in Journal of Scientific Computing (2023). <a href='https://arxiv.org/abs/2108.02987'> <i class="fa fa-file-pdf"></i> Preprint </a>
+Journal of Scientific Computing (2023). <a href='https://arxiv.org/abs/2108.02987'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1007/s10915-023-02208-3'> <i class="ai ai-doi"> </i>DOI</a>
 </summary>
 
 <small>
@@ -216,13 +220,18 @@ Semi-lagrangian schemes for discretization of the dynamic programming principle 
 
 <pre>
   <code class="bibtex">
-@misc{Alla2021,
-      title={HJB-RBF based approach for the control of PDEs}, 
-      author={Alessandro Alla and Hugo Oliveira and Gabriele Santin},
-      year={2021},
-      eprint={2108.02987},
-      archivePrefix={arXiv},
-      primaryClass={math.NA}
+@Article{Alla2023,
+  author    = {Alla, Alessandro and Oliveira, Hugo and Santin, Gabriele},
+  title     = {HJB-RBF Based Approach for the Control of PDEs},
+  journal   = {Journal of Scientific Computing},
+  year      = {2023},
+  volume    = {96},
+  number    = {1},
+  month     = {May},
+  pages     = {25},
+  issn      = {1573-7691},
+  doi       = {10.1007/s10915-023-02208-3},
+  url       = {https://doi.org/10.1007/s10915-023-02208-3},
 }
   </code>
 </pre>
@@ -234,7 +243,6 @@ Semi-lagrangian schemes for discretization of the dynamic programming principle 
 
 
 
-## Published
 
 <p style='margin-top:-20px;margin-left:5%;'>
 <h3 style='margin-left:5%;'> 2022</h3>
