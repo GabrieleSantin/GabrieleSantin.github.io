@@ -12,6 +12,39 @@ Click on the publications below to expand them.
 ## Submitted
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
+<summary>M. Hammer, T. Wenzel, G. Santin, L. Meszaros-Beller, J. Paige Little, B. Haasdonk, S. Schmitt, 
+<i>Designing energy-conserving surrogate models for the coupled,non-linear responses of intervertebral disc</i> (2023). <a href='https://www.researchsquare.com/article/rs-3073632/v1'> <i class="fa fa-file-pdf"></i> Preprint </a>
+</summary>
+
+<small>
+
+<blockquote>
+The aim of this study was to design physics-preserving and precise surrogate models of the non-linear elastic behaviour of an intervertebral disc (IVD). Based on artificial force-displacement data sets from detailed finite element (FE) disc models, weused greedy kernel and polynomial approximations of second, third and fourth order to train surrogate models for the scalar force-torque-potential. Doing so, the resulting models of the elastic IVD responses ensured the conservation of mechanical energy through their structure. At the sametime, they were capable of predicting disc forces for the full physiological range of motion andfor the coupling of all six degrees of freedom of an intervertebral joint. The performance of allsurrogate models for a subject-specific L4|5 disc geometry was evaluated both on training and test data obtained from uncoupled (one-dimensional), weakly coupled (two-dimensional),and random movement trajectories in the entire six-dimensional (6d) physiological displacement range, as well as on synthetic kinematic data. We observed highest precisions for the kernel surrogate followed by the fourth order polynomial model. Both clearly outperformed the second order polynomial model which is equivalent to the commonly used stiffness matrix in neuro-musculoskeletal simulations.Hence, the proposed model architectures have the potential to improve the accuracy, and, therewith, validity of load predictions in neuro-musculoskeletal spine models.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@TechReport{Hammer2023,
+  author    = {Hammer, Maria and Wenzel, Tizian and Santin, Gabriele and Meszaros-Beller, Laura and Paige Little, Judith and Haasdonk, Bernard and Schmitt, Syn},
+  title     = {Designing energy-conserving surrogate models for the coupled,non-linear responses of intervertebral disc},
+  year      = {2023},
+  type      = {Research Square},
+  url       = {https://doi.org/10.21203/rs.3.rs-3073632/v},
+  owner     = {gab},
+  timestamp = {2023-07-17},
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
 <summary>D. Spiller, G. Santin, A. Sebastianelli, L. Lucchini, R. Gallotti, B. Lake, S. Liberata Ullo, B. Le Saux, B. Lepri, 
 <i>Analysis of COVID-19 first wave in the US based on demographic, mobility, and environmental variables </i> (2023). <a href='https://arxiv.org/abs/2302.14649v1'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
