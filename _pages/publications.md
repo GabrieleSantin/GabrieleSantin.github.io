@@ -30,8 +30,6 @@ The aim of this study was to design physics-preserving and precise surrogate mod
   year      = {2023},
   type      = {Research Square},
   url       = {https://doi.org/10.21203/rs.3.rs-3073632/v},
-  owner     = {gab},
-  timestamp = {2023-07-17},
 }
   </code>
 </pre>
