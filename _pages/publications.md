@@ -19,7 +19,7 @@ Click on the publications below to expand them.
 <small>
 
 <blockquote>
-Kernel interpolation is a versatile tool for the approximation of functions from data, and it can be proven to have some optimality properties when used with kernels related to certain Sobolev spaces.	
+Kernel interpolation is a versatile tool for the approximation of functions from data, and it can be proven to have some optimality properties when used with kernels related to certain Sobolev spaces. In the context of interpolation, the selection of optimal function sampling locations is a central problem, both from a practical perspective, and as an interesting theoretical question. Greedy interpolation algorithms provide a viable solution for this task, being efficient to run and provably accurate in their approximation. In this paper we close a gap that is present in the convergence theory for these algorithms by employing a recent result on general greedy algorithms. This modification leads to new convergence rates which match the optimal ones when restricted to the P-greedy target-data-independent selection rule, and can additionally be proven to be optimal when they fully exploit adaptivity (f-greedy). Other than closing this gap, the new results have some significance in the broader setting of the optimality of general approximation algorithms in Reproducing Kernel Hilbert Spaces, as they allow us to compare adaptive interpolation with non-adaptive best nonlinear approximation. 	
 </blockquote>
 
 <pre>
