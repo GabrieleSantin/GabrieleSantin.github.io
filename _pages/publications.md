@@ -42,25 +42,25 @@ Kernel interpolation is a versatile tool for the approximation of functions from
 
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
-<summary>A. Longa, V. Lachi, G. Santin, M. Bianchini, B. Lepri, P. Lio, F. Scarselli, A. Passerini, 
-<i>Graph Neural Networks for temporal graphs: State of the art, open challenges, and opportunities</i> (2023). <a href='https://arxiv.org/abs/2302.01018'> <i class="fa fa-file-pdf"></i> Preprint </a>
+<summary>G. Cencetti, L. Lucchini, G. Santin, F. Battiston, E. Moro, A. Pentland, B. Lepri, 
+<i>Temporal clustering of social interactions trades-off disease spreading and knowledge diffusion</i> (2023). <a href='https://arxiv.org/abs/2308.07058'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
 
 <small>
 
 <blockquote>
-Graph Neural Networks (GNNs) have become the leading paradigm for learning on (static) graph-structured data. However, many real-world systems are dynamic in nature, since the graph and node/edge attributes change over time. In recent years, GNN-based models for temporal graphs have emerged as a promising area of research to extend the capabilities of GNNs. In this work, we provide the first comprehensive overview of the current state-of-the-art of temporal GNN, introducing a rigorous formalization of learning settings and tasks and a novel taxonomy categorizing existing approaches in terms of how the temporal aspect is represented and processed. We conclude the survey with a discussion of the most relevant open challenges for the field, from both research and application perspectives.	
+Non-pharmaceutical measures such as preventive quarantines, remote working, school and workplace closures, lockdowns, etc. have shown effectivenness from an epidemic control perspective; however they have also significant negative consequences on social life and relationships, work routines, and community engagement. In particular, complex ideas, work and school collaborations, innovative discoveries, and resilient norms formation and maintenance, which often require face-to-face interactions of two or more parties to be developed and synergically coordinated, are particularly affected. In this study, we propose an alternative hybrid solution that balances the slowdown of epidemic diffusion with the preservation of face-to-face interactions. Our approach involves a two-step partitioning of the population. First, we tune the level of node clustering, creating "social bubbles" with increased contacts within each bubble and fewer outside, while maintaining the average number of contacts in each network. Second, we tune the level of temporal clustering by pairing, for a certain time interval, nodes from specific social bubbles. Our results demonstrate that a hybrid approach can achieve better trade-offs between epidemic control and complex knowledge diffusion. The versatility of our model enables tuning and refining clustering levels to optimally achieve the desired trade-off, based on the potentially changing characteristics of a disease or knowledge diffusion process.	
 </blockquote>
 
 <pre>
   <code class="bibtex">
-@Article{Longa2023,
-  author    = {Antonio Longa and Veronica Lachi and Gabriele Santin and Monica Bianchini and Bruno Lepri and Pietro Lio and franco scarselli and Andrea Passerini},
-  title     = {Graph Neural Networks for Temporal Graphs: State of the Art, Open Challenges, and Opportunities},
-  journal   = {Transactions on Machine Learning Research},
-  year      = {2023},
-  issn      = {2835-8856},
-  url       = {https://openreview.net/forum?id=pHCdMat0gI},
+@Misc{Cencetti2023,
+    title={Temporal clustering of social interactions trades-off disease spreading and knowledge diffusion},
+    author={Giulia Cencetti and Lorenzo Lucchini and Gabriele Santin and Federico Battiston and Esteban Moro and Alex Pentland and Bruno Lepri},
+    year={2023},
+    eprint={2308.07058},
+    archivePrefix={arXiv},
+    primaryClass={physics.soc-ph}
 }
   </code>
 </pre>
@@ -250,6 +250,40 @@ Kernel based methods yield approximation models that are flexible, efficient and
       eprint={2105.07228},
       archivePrefix={arXiv},
       primaryClass={cs.LG}
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+## Accepted
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
+<summary>A. Longa, V. Lachi, G. Santin, M. Bianchini, B. Lepri, P. Lio, F. Scarselli, A. Passerini, 
+<i>Graph Neural Networks for temporal graphs: State of the art, open challenges, and opportunities</i>, 
+Accepted for publication in Transactions on Machine Learning Research  (2023). <a href='https://arxiv.org/abs/2302.01018'> <i class="fa fa-file-pdf"></i> Preprint </a>
+</summary>
+
+<small>
+
+<blockquote>
+Graph Neural Networks (GNNs) have become the leading paradigm for learning on (static) graph-structured data. However, many real-world systems are dynamic in nature, since the graph and node/edge attributes change over time. In recent years, GNN-based models for temporal graphs have emerged as a promising area of research to extend the capabilities of GNNs. In this work, we provide the first comprehensive overview of the current state-of-the-art of temporal GNN, introducing a rigorous formalization of learning settings and tasks and a novel taxonomy categorizing existing approaches in terms of how the temporal aspect is represented and processed. We conclude the survey with a discussion of the most relevant open challenges for the field, from both research and application perspectives.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@Article{Longa2023,
+  author    = {Antonio Longa and Veronica Lachi and Gabriele Santin and Monica Bianchini and Bruno Lepri and Pietro Lio and franco scarselli and Andrea Passerini},
+  title     = {Graph Neural Networks for Temporal Graphs: State of the Art, Open Challenges, and Opportunities},
+  journal   = {Transactions on Machine Learning Research},
+  year      = {2023},
+  issn      = {2835-8856},
+  url       = {https://openreview.net/forum?id=pHCdMat0gI},
 }
   </code>
 </pre>
