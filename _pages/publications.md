@@ -42,6 +42,38 @@ Kernel interpolation is a versatile tool for the approximation of functions from
 
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
+<summary>A. Longa, V. Lachi, G. Santin, M. Bianchini, B. Lepri, P. Lio, F. Scarselli, A. Passerini, 
+<i>Graph Neural Networks for temporal graphs: State of the art, open challenges, and opportunities</i> (2023). <a href='https://arxiv.org/abs/2302.01018'> <i class="fa fa-file-pdf"></i> Preprint </a>
+</summary>
+
+<small>
+
+<blockquote>
+Graph Neural Networks (GNNs) have become the leading paradigm for learning on (static) graph-structured data. However, many real-world systems are dynamic in nature, since the graph and node/edge attributes change over time. In recent years, GNN-based models for temporal graphs have emerged as a promising area of research to extend the capabilities of GNNs. In this work, we provide the first comprehensive overview of the current state-of-the-art of temporal GNN, introducing a rigorous formalization of learning settings and tasks and a novel taxonomy categorizing existing approaches in terms of how the temporal aspect is represented and processed. We conclude the survey with a discussion of the most relevant open challenges for the field, from both research and application perspectives.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@Article{Longa2023,
+  author    = {Antonio Longa and Veronica Lachi and Gabriele Santin and Monica Bianchini and Bruno Lepri and Pietro Lio and franco scarselli and Andrea Passerini},
+  title     = {Graph Neural Networks for Temporal Graphs: State of the Art, Open Challenges, and Opportunities},
+  journal   = {Transactions on Machine Learning Research},
+  year      = {2023},
+  issn      = {2835-8856},
+  url       = {https://openreview.net/forum?id=pHCdMat0gI},
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
 <summary>M. Hammer, T. Wenzel, G. Santin, L. Meszaros-Beller, J. Paige Little, B. Haasdonk, S. Schmitt, 
 <i>Designing energy-conserving surrogate models for the coupled,non-linear responses of intervertebral disc</i> (2023). <a href='https://www.researchsquare.com/article/rs-3073632/v1'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
@@ -89,38 +121,6 @@ COVID-19 had a strong and disruptive impact on our society, and yet further anal
   author = {Spiller, Dario and Santin, Gabriele and Sebastianelli, Alessandro and Lucchini, Lorenzo and Gallotti, Riccardo and Lake, Brennan and Ullo, Silvia Liberata and Saux, Bertrand Le and Lepri, Bruno},
   title = {Analysis of COVID-19 first wave in the US based on demographic, mobility, and environmental variables},
   year = {2023},
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
-<summary>A. Longa, V. Lachi, G. Santin, M. Bianchini, B. Lepri, P. Lio, F. Scarselli, A. Passerini, 
-<i>Graph Neural Networks for temporal graphs: State of the art, open challenges, and opportunities</i> (2023). <a href='https://arxiv.org/abs/2302.01018'> <i class="fa fa-file-pdf"></i> Preprint </a>
-</summary>
-
-<small>
-
-<blockquote>
-Graph Neural Networks (GNNs) have become the leading paradigm for learning on (static) graph-structured data. However, many real-world systems are dynamic in nature, since the graph and node/edge attributes change over time. In recent years, GNN-based models for temporal graphs have emerged as a promising area of research to extend the capabilities of GNNs. In this work, we provide the first comprehensive overview of the current state-of-the-art of temporal GNN, introducing a rigorous formalization of learning settings and tasks and a novel taxonomy categorizing existing approaches in terms of how the temporal aspect is represented and processed. We conclude the survey with a discussion of the most relevant open challenges for the field, from both research and application perspectives.	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@Misc{Longa2023,
-  author        = {Antonio Longa and Veronica Lachi and Gabriele Santin and Monica Bianchini and Bruno Lepri and Pietro Lio and Franco Scarselli and Andrea Passerini},
-  title         = {Graph Neural Networks for temporal graphs: State of the art, open challenges, and opportunities},
-  year          = {2023},
-  eprint        = {2302.01018},
-  archiveprefix = {arXiv},
-  primaryclass  = {cs.LG},
 }
   </code>
 </pre>
