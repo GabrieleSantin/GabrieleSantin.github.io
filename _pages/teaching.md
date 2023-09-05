@@ -14,7 +14,7 @@ This page contains some material that was prepared for various lectures or tutor
 
 
 
-<font size="5">
+<font size="4">
 <table style="border:none;">
 
 ### Introduction to Digital Contact Tracing
@@ -41,7 +41,7 @@ The course is designed for BSc students with no particular math background, and 
 </table>
 </font>
 
-<font size="5">
+<font size="4">
 <table style="border:none;">
 
 ### Pytorch Geometric Tutorial
@@ -68,7 +68,7 @@ This series of video tutorials gives an introduction to Geometric Deep Learning,
 </table>
 </font>
 
-<font size="5">
+<font size="4">
 <table style="border:none;">
 
 ### Advanced PyG Tutorial
@@ -95,7 +95,7 @@ In this second session on PyTorch Geometric, we focus on some advanced tool and 
 </table>
 </font>
 
-<font size="5">
+<font size="4">
 <table style="border:none;">
 
 ### Approximation with Kernel Methods
