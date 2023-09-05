@@ -5,11 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Universit&acirc; Ca' Foscari Venezia
+## Universit&agrave; Ca' Foscari Venezia
 
 Si rimanda alla [pagina ufficiale](https://www.unive.it/data/persone/27715997/didattica) dei corsi.
 
-# Other courses
+## Other courses
 This page contains some material that was prepared for various lectures or tutorials.
 
 
