@@ -42,6 +42,38 @@ Kernel interpolation is a versatile tool for the approximation of functions from
 
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
+<summary>L. Ferrarotti, M. Luca, G. Santin, G. Previati, G. Mastinu, E. Campi, L. Uccello, A. Albanese, P. Zalaya, A. Roccasalva, B. Lepri, 
+<i>Quantitative and Qualitative Evaluation of Reinforcement Learning Policies for Autonomous Vehicles</i> (2023). <a href='https://arxiv.org/abs/2309.08254'> <i class="fa fa-file-pdf"></i> Preprint </a>
+</summary>
+
+<small>
+
+<blockquote>
+Optimizing traffic dynamics in an evolving transportation landscape is crucial, particularly in scenarios where autonomous vehicles (AVs) with varying levels of autonomy coexist with human-driven cars. This paper presents a novel approach to optimizing choices of AVs using Proximal Policy Optimization (PPO), a reinforcement learning algorithm. We learned a policy to minimize traffic jams (i.e., minimize the time to cross the scenario) and to minimize pollution in a roundabout in Milan, Italy. Through empirical analysis, we demonstrate that our approach can reduce time and pollution levels. Furthermore, we qualitatively evaluate the learned policy using a cutting-edge cockpit to assess its performance in near-real-world conditions. To gauge the practicality and acceptability of the policy, we conducted evaluations with human participants using the simulator, focusing on a range of metrics like traffic smoothness and safety perception. In general, our findings show that human-driven vehicles benefit from optimizing AVs dynamics. Also, participants in the study highlighted that the scenario with 80\% AVs is perceived as safer than the scenario with 20\%. The same result is obtained for traffic smoothness perception.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@misc{Ferrarotti2023,
+      title={Quantitative and Qualitative Evaluation of Reinforcement Learning Policies for Autonomous Vehicles}, 
+      author={Laura Ferrarotti and Massimiliano Luca and Gabriele Santin and Giorgio Previati and Gianpiero Mastinu and Elena Campi and Lorenzo Uccello and Antonino Albanese and Praveen Zalaya and Alessandro Roccasalva and Bruno Lepri},
+      year={2023},
+      eprint={2309.08254},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
 <summary>G. Cencetti, L. Lucchini, G. Santin, F. Battiston, E. Moro, A. Pentland, B. Lepri, 
 <i>Temporal clustering of social interactions trades-off disease spreading and knowledge diffusion</i> (2023). <a href='https://arxiv.org/abs/2308.07058'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
