@@ -12,36 +12,6 @@ Click on the publications below to expand them.
 ## Submitted
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
-<summary>G. Santin, T. Wenzel, B. Haasdonk, 
-<i>On the optimality of target-data-dependent kernel greedy interpolation in Sobolev Reproducing Kernel Hilbert Spaces</i> (2023). <a href='https://arxiv.org/abs/2307.09811v1'> <i class="fa fa-file-pdf"></i> Preprint </a>
-</summary>
-
-<small>
-
-<blockquote>
-Kernel interpolation is a versatile tool for the approximation of functions from data, and it can be proven to have some optimality properties when used with kernels related to certain Sobolev spaces. In the context of interpolation, the selection of optimal function sampling locations is a central problem, both from a practical perspective, and as an interesting theoretical question. Greedy interpolation algorithms provide a viable solution for this task, being efficient to run and provably accurate in their approximation. In this paper we close a gap that is present in the convergence theory for these algorithms by employing a recent result on general greedy algorithms. This modification leads to new convergence rates which match the optimal ones when restricted to the P-greedy target-data-independent selection rule, and can additionally be proven to be optimal when they fully exploit adaptivity (f-greedy). Other than closing this gap, the new results have some significance in the broader setting of the optimality of general approximation algorithms in Reproducing Kernel Hilbert Spaces, as they allow us to compare adaptive interpolation with non-adaptive best nonlinear approximation. 	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@Misc{Santin2023,
-      title={On the optimality of target-data-dependent kernel greedy interpolation in Sobolev Reproducing Kernel Hilbert Spaces}, 
-      author={Gabriele Santin and Tizian Wenzel and Bernard Haasdonk},
-      year={2023},
-      eprint={2307.09811}
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
 <summary>L. Ferrarotti, M. Luca, G. Santin, G. Previati, G. Mastinu, E. Campi, L. Uccello, A. Albanese, P. Zalaya, A. Roccasalva, B. Lepri, 
 <i>Quantitative and Qualitative Evaluation of Reinforcement Learning Policies for Autonomous Vehicles</i> (2023). <a href='https://arxiv.org/abs/2309.08254'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
@@ -93,6 +63,36 @@ Non-pharmaceutical measures such as preventive quarantines, remote working, scho
     eprint={2308.07058},
     archivePrefix={arXiv},
     primaryClass={physics.soc-ph}
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
+<summary>G. Santin, T. Wenzel, B. Haasdonk, 
+<i>On the optimality of target-data-dependent kernel greedy interpolation in Sobolev Reproducing Kernel Hilbert Spaces</i> (2023). <a href='https://arxiv.org/abs/2307.09811v1'> <i class="fa fa-file-pdf"></i> Preprint </a>
+</summary>
+
+<small>
+
+<blockquote>
+Kernel interpolation is a versatile tool for the approximation of functions from data, and it can be proven to have some optimality properties when used with kernels related to certain Sobolev spaces. In the context of interpolation, the selection of optimal function sampling locations is a central problem, both from a practical perspective, and as an interesting theoretical question. Greedy interpolation algorithms provide a viable solution for this task, being efficient to run and provably accurate in their approximation. In this paper we close a gap that is present in the convergence theory for these algorithms by employing a recent result on general greedy algorithms. This modification leads to new convergence rates which match the optimal ones when restricted to the P-greedy target-data-independent selection rule, and can additionally be proven to be optimal when they fully exploit adaptivity (f-greedy). Other than closing this gap, the new results have some significance in the broader setting of the optimality of general approximation algorithms in Reproducing Kernel Hilbert Spaces, as they allow us to compare adaptive interpolation with non-adaptive best nonlinear approximation. 	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@Misc{Santin2023,
+      title={On the optimality of target-data-dependent kernel greedy interpolation in Sobolev Reproducing Kernel Hilbert Spaces}, 
+      author={Gabriele Santin and Tizian Wenzel and Bernard Haasdonk},
+      year={2023},
+      eprint={2307.09811}
 }
   </code>
 </pre>
