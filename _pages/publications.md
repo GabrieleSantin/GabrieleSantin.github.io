@@ -293,12 +293,16 @@ Kernel based methods yield approximation models that are flexible, efficient and
 
 
 
-## Accepted
+## Published
+
+<p style='margin-top:-20px;margin-left:5%;'>
+<h3 style='margin-left:5%;'> 2023</h3>
+</p>
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>A. Longa, V. Lachi, G. Santin, M. Bianchini, B. Lepri, P. Lio, F. Scarselli, A. Passerini, 
 <i>Graph Neural Networks for temporal graphs: State of the art, open challenges, and opportunities</i>, 
-Accepted for publication in Transactions on Machine Learning Research  (2023). <a href='https://arxiv.org/abs/2302.01018'> <i class="fa fa-file-pdf"></i> Preprint </a>
+Transactions on Machine Learning Research  (2023). <a href='https://arxiv.org/abs/2302.01018'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://openreview.net/forum?id=pHCdMat0gI'> <i class="ai ai-doi"> </i>DOI</a>
 </summary>
 
 <small>
@@ -327,11 +331,6 @@ Graph Neural Networks (GNNs) have become the leading paradigm for learning on (s
 
 
 
-## Published
-
-<p style='margin-top:-20px;margin-left:5%;'>
-<h3 style='margin-left:5%;'> 2023</h3>
-</p>
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>A. Alla, H. Oliveira, G. Santin, 
