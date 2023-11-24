@@ -44,38 +44,6 @@ Optimizing traffic dynamics in an evolving transportation landscape is crucial, 
 
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
-<summary>G. Cencetti, L. Lucchini, G. Santin, F. Battiston, E. Moro, A. Pentland, B. Lepri, 
-<i>Temporal clustering of social interactions trades-off disease spreading and knowledge diffusion</i> (2023). <a href='https://arxiv.org/abs/2308.07058'> <i class="fa fa-file-pdf"></i> Preprint </a>
-</summary>
-
-<small>
-
-<blockquote>
-Non-pharmaceutical measures such as preventive quarantines, remote working, school and workplace closures, lockdowns, etc. have shown effectivenness from an epidemic control perspective; however they have also significant negative consequences on social life and relationships, work routines, and community engagement. In particular, complex ideas, work and school collaborations, innovative discoveries, and resilient norms formation and maintenance, which often require face-to-face interactions of two or more parties to be developed and synergically coordinated, are particularly affected. In this study, we propose an alternative hybrid solution that balances the slowdown of epidemic diffusion with the preservation of face-to-face interactions. Our approach involves a two-step partitioning of the population. First, we tune the level of node clustering, creating "social bubbles" with increased contacts within each bubble and fewer outside, while maintaining the average number of contacts in each network. Second, we tune the level of temporal clustering by pairing, for a certain time interval, nodes from specific social bubbles. Our results demonstrate that a hybrid approach can achieve better trade-offs between epidemic control and complex knowledge diffusion. The versatility of our model enables tuning and refining clustering levels to optimally achieve the desired trade-off, based on the potentially changing characteristics of a disease or knowledge diffusion process.	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@Misc{Cencetti2023,
-    title={Temporal clustering of social interactions trades-off disease spreading and knowledge diffusion},
-    author={Giulia Cencetti and Lorenzo Lucchini and Gabriele Santin and Federico Battiston and Esteban Moro and Alex Pentland and Bruno Lepri},
-    year={2023},
-    eprint={2308.07058},
-    archivePrefix={arXiv},
-    primaryClass={physics.soc-ph}
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
 <summary>G. Santin, T. Wenzel, B. Haasdonk, 
 <i>On the optimality of target-data-dependent kernel greedy interpolation in Sobolev Reproducing Kernel Hilbert Spaces</i> (2023). <a href='https://arxiv.org/abs/2307.09811v1'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
@@ -282,6 +250,40 @@ Kernel based methods yield approximation models that are flexible, efficient and
       eprint={2105.07228},
       archivePrefix={arXiv},
       primaryClass={cs.LG}
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+## Accepted
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
+<summary>G. Cencetti, L. Lucchini, G. Santin, F. Battiston, E. Moro, A. Pentland, B. Lepri, 
+<i>Temporal clustering of social interactions trades-off disease spreading and knowledge diffusion</i>, 
+Accepted for publication in Journal of the Royal Society Interface (2023). <a href='https://arxiv.org/abs/2308.07058'> <i class="fa fa-file-pdf"></i> Preprint </a>
+</summary>
+
+<small>
+
+<blockquote>
+Non-pharmaceutical measures such as preventive quarantines, remote working, school and workplace closures, lockdowns, etc. have shown effectivenness from an epidemic control perspective; however they have also significant negative consequences on social life and relationships, work routines, and community engagement. In particular, complex ideas, work and school collaborations, innovative discoveries, and resilient norms formation and maintenance, which often require face-to-face interactions of two or more parties to be developed and synergically coordinated, are particularly affected. In this study, we propose an alternative hybrid solution that balances the slowdown of epidemic diffusion with the preservation of face-to-face interactions. Our approach involves a two-step partitioning of the population. First, we tune the level of node clustering, creating "social bubbles" with increased contacts within each bubble and fewer outside, while maintaining the average number of contacts in each network. Second, we tune the level of temporal clustering by pairing, for a certain time interval, nodes from specific social bubbles. Our results demonstrate that a hybrid approach can achieve better trade-offs between epidemic control and complex knowledge diffusion. The versatility of our model enables tuning and refining clustering levels to optimally achieve the desired trade-off, based on the potentially changing characteristics of a disease or knowledge diffusion process.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@Misc{Cencetti2023,
+    title={Temporal clustering of social interactions trades-off disease spreading and knowledge diffusion},
+    author={Giulia Cencetti and Lorenzo Lucchini and Gabriele Santin and Federico Battiston and Esteban Moro and Alex Pentland and Bruno Lepri},
+    year={2023},
+    eprint={2308.07058},
+    archivePrefix={arXiv},
+    primaryClass={physics.soc-ph}
 }
   </code>
 </pre>
