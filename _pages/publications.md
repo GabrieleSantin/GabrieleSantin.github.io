@@ -233,41 +233,6 @@ Kernel based methods yield approximation models that are flexible, efficient and
 ## Accepted
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
-<summary>G. Previati, G. Mastinu, E. Campi, M. Gobbi, L. Uccello, Á. Varela Daniel, A. Albanese, A. Roccasalva, G. Santin, M. Luca, B. Lepri, L. Ferrarotti, N. di Pietro, 
-<i>Roundabout Traffic: Simulation With Automated Vehicles, AI, 5G, Edge Computing and Human in the Loop</i>, 
-Accepted for publication in ASME 2023 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (2023). <a href=''> <i class="fa fa-file-pdf"></i> Preprint </a>
-</summary>
-
-<small>
-
-<blockquote>
-The aim of the paper is to assess how the traffic of roundabouts could be organized in the future. A mixed traffic is supposed to occur, featuring both fully automated vehicle and vehicles driven by humans. The case study is a part of a comprehensive research funded by European Commission, focusing on how improving the 5G network by Artificial Intelligence (AI) and edge computing.	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@InProceedings{Previati2023,
-  author    = {Previati, Giorgio and Mastinu, Gianpiero and Campi, Elena and Gobbi, Massimiliano and Uccello, Lorenzo and Varela Daniel, Álvaro and Albanese, Antonino and Roccasalva, Alessandro and Santin, Gabriele and Luca, Massimiliano and Lepri, Bruno and Ferrarotti, Laura and di Pietro, Nicola},
-  title     = {{Roundabout Traffic: Simulation With Automated Vehicles, AI, 5G, Edge Computing and Human in the Loop}},
-  year      = {2023},
-  volume    = {Volume 1: 25th International Conference on Advanced Vehicle Technologies (AVT)},
-  series    = {International Design Engineering Technical Conferences and Computers and Information in Engineering Conference},
-  month     = {08},
-  pages     = {V001T01A016},
-  doi       = {10.1115/DETC2023-116402},
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
 <summary>G. Cencetti, L. Lucchini, G. Santin, F. Battiston, E. Moro, A. Pentland, B. Lepri, 
 <i>Temporal clustering of social interactions trades-off disease spreading and knowledge diffusion</i>, 
 Accepted for publication in Journal of the Royal Society Interface (2023). <a href='https://arxiv.org/abs/2308.07058'> <i class="fa fa-file-pdf"></i> Preprint </a>
@@ -368,6 +333,41 @@ The aim of this study was to design physics-preserving and precise surrogate mod
 <p style='margin-top:-20px;margin-left:5%;'>
 <h3 style='margin-left:5%;'> 2023</h3>
 </p>
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
+<summary>G. Previati, G. Mastinu, E. Campi, M. Gobbi, L. Uccello, Á. Varela Daniel, A. Albanese, A. Roccasalva, G. Santin, M. Luca, B. Lepri, L. Ferrarotti, N. di Pietro, 
+<i>Roundabout Traffic: Simulation With Automated Vehicles, AI, 5G, Edge Computing and Human in the Loop</i>, 
+ASME 2023 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (2023). <a href=''> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1115/DETC2023-116402'> <i class="ai ai-doi"> </i>DOI</a>
+</summary>
+
+<small>
+
+<blockquote>
+The aim of the paper is to assess how the traffic of roundabouts could be organized in the future. A mixed traffic is supposed to occur, featuring both fully automated vehicle and vehicles driven by humans. The case study is a part of a comprehensive research funded by European Commission, focusing on how improving the 5G network by Artificial Intelligence (AI) and edge computing.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@InProceedings{Previati2023,
+  author    = {Previati, Giorgio and Mastinu, Gianpiero and Campi, Elena and Gobbi, Massimiliano and Uccello, Lorenzo and Varela Daniel, Álvaro and Albanese, Antonino and Roccasalva, Alessandro and Santin, Gabriele and Luca, Massimiliano and Lepri, Bruno and Ferrarotti, Laura and di Pietro, Nicola},
+  title     = {{Roundabout Traffic: Simulation With Automated Vehicles, AI, 5G, Edge Computing and Human in the Loop}},
+  year      = {2023},
+  volume    = {Volume 1: 25th International Conference on Advanced Vehicle Technologies (AVT)},
+  series    = {International Design Engineering Technical Conferences and Computers and Information in Engineering Conference},
+  month     = {08},
+  pages     = {V001T01A016},
+  doi       = {10.1115/DETC2023-116402},
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>A. Longa, V. Lachi, G. Santin, M. Bianchini, B. Lepri, P. Lio, F. Scarselli, A. Passerini, 
