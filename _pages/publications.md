@@ -443,6 +443,38 @@ Semi-lagrangian schemes for discretization of the dynamic programming principle 
 
 
 
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
+<summary>M. Pacini, X. Dong, B. Lepri, G. Santin, 
+<i>A Characterization Theorem for Equivariant Networks with Point-wise Activations</i>, 
+The Twelfth International Conference on Learning Representations (2023). <a href='https://openreview.net/forum?id=79FVDdfoSR'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://openreview.net/forum?id=79FVDdfoSR'> <i class="ai ai-doi"> </i>DOI</a>
+</summary>
+
+<small>
+
+<blockquote>
+Equivariant neural networks have shown improved performance, expressiveness and sample complexity on symmetrical domains. But for some specific symmetries, representations, and choice of coordinates, the most common point-wise activations, such as ReLU, are not equivariant, hence they cannot be employed in the design of equivariant neural networks. The theorem we present in this paper describes all possibile combinations of representations, choice of coordinates and point-wise activations to obtain an equivariant layer, generalizing and strengthening existing characterizations. Notable cases of practical relevance are discussed as corollaries. Indeed, we prove that rotation-equivariant networks can only be invariant, as it happens for any network which is equivariant with respect to connected compact groups. Then, we discuss implications of our findings when applied to important instances of equivariant networks. First, we completely characterize permutation equivariant networks such as Invariant Graph Networks with point-wise nonlinearities and their geometric counterparts, highlighting a plethora of models whose expressive power and performance are still unknown. Second, we show that feature spaces of disentangled steerable convolutional neural networks are trivial representations.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@InProceedings{Pacini2024,
+  author    = {Pacini, Marco and Dong, Xiaowen and Lepri, Bruno and Santin, Gabriele},
+  title     = {A Characterization Theorem for Equivariant Networks with Point-wise Activations},
+  booktitle = {The Twelfth International Conference on Learning Representations},
+  year      = {2024},
+  url       = {https://openreview.net/forum?id=79FVDdfoSR},
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
 
 <p style='margin-top:-20px;margin-left:5%;'>
 <h3 style='margin-left:5%;'> 2022</h3>
