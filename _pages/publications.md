@@ -341,7 +341,7 @@ Non-pharmaceutical measures such as preventive quarantines, remote working, scho
 
 <summary>M. Pacini, X. Dong, B. Lepri, G. Santin, 
 <i>A Characterization Theorem for Equivariant Networks with Point-wise Activations</i>, 
-The Twelfth International Conference on Learning Representations (2024). <a href='https://openreview.net/forum?id=79FVDdfoSR'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://openreview.net/forum?id=79FVDdfoSR'> <i class="ai ai-doi"> </i>DOI</a>
+The Twelfth International Conference on Learning Representations (2024). <a href='https://arxiv.org/abs/2401.09235'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://openreview.net/forum?id=79FVDdfoSR'> <i class="ai ai-doi"> </i>DOI</a>
 </summary>
 
 <small>
@@ -383,7 +383,7 @@ ASME 2023 International Design Engineering Technical Conferences and Computers a
 <small>
 
 <blockquote>
-The aim of the paper is to assess how the traffic of roundabouts could be organized in the future. A mixed traffic is supposed to occur, featuring both fully automated vehicle and vehicles driven by humans. The case study is a part of a comprehensive research funded by European Commission, focusing on how improving the 5G network by Artificial Intelligence (AI) and edge computing.	
+The aim of the paper is to assess how the traffic of roundabouts could be organized in the future. A mixed traffic is supposed to occur, featuring both fully automated vehicle and vehicles driven by humans. The case study is a part of a comprehensive research funded by European Commission, focusing on how improving the 5G network by Artificial Intelligence (AI) and edge computing.  The traffic flow into a reference roundabout is simulated by SUMO, a Reinforcement Learning (RL) algorithm is derived and drives the automated vehicles into the roundabout. By means of a dynamic driving simulator, a real human drives into the simulated traffic of the roundabout. The human-in-the-loop is needed to check whether the driver feels comfortable and safe while driving in presence of automated cars.  The preliminary results are quite promising. Drivers seem not worried when they interact with Connected and Automated Vehicles (CAVs) into the roundabout. They seem preferring to share the roundabout with CAVs as they seem feeling the traffic to be more fluent. Such preliminary results deserve an extensive statistical investigation for a final assessment.	
 </blockquote>
 
 <pre>
