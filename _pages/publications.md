@@ -233,32 +233,6 @@ Kernel based methods yield approximation models that are flexible, efficient and
 ## Accepted
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
-<summary>M. Hammer, T. Wenzel, G. Santin, L. Meszaros-Beller, J. Paige Little, B. Haasdonk, S. Schmitt, 
-<i>A new method to design energy-conserving surrogate models for the coupled, non-linear responses of intervertebral discs</i>, 
-Accepted for publication in Biomechanics and Modeling in Mechanobiology (2024). <a href='https://www.researchsquare.com/article/rs-3073632/v1'> <i class="fa fa-file-pdf"></i> Preprint </a>
-</summary>
-
-<small>
-
-<blockquote>
-The aim of this study was to design physics-preserving and precise surrogate models of the non-linear elastic behaviour of an intervertebral disc (IVD). Based on artificial force-displacement data sets from detailed finite element (FE) disc models, weused greedy kernel and polynomial approximations of second, third and fourth order to train surrogate models for the scalar force-torque-potential. Doing so, the resulting models of the elastic IVD responses ensured the conservation of mechanical energy through their structure. At the sametime, they were capable of predicting disc forces for the full physiological range of motion andfor the coupling of all six degrees of freedom of an intervertebral joint. The performance of allsurrogate models for a subject-specific L4|5 disc geometry was evaluated both on training and test data obtained from uncoupled (one-dimensional), weakly coupled (two-dimensional),and random movement trajectories in the entire six-dimensional (6d) physiological displacement range, as well as on synthetic kinematic data. We observed highest precisions for the kernel surrogate followed by the fourth order polynomial model. Both clearly outperformed the second order polynomial model which is equivalent to the commonly used stiffness matrix in neuro-musculoskeletal simulations.Hence, the proposed model architectures have the potential to improve the accuracy, and, therewith, validity of load predictions in neuro-musculoskeletal spine models.	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
 <summary>M. Pacini, X. Dong, B. Lepri, G. Santin, 
 <i>Point-wise Activations and Steerable Convolutional Network</i>, 
 Accepted for publication in The Second Learning on Graphs Conference (2023). <a href='https://openreview.net/forum?id=gsJPYzdA0S'> <i class="fa fa-file-pdf"></i> Preprint </a>
@@ -296,9 +270,35 @@ Steerable Convolutional Neural Networks are a popular and efficient class of equ
 </p>
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
+<summary>M. Hammer, T. Wenzel, G. Santin, L. Meszaros-Beller, J. Paige Little, B. Haasdonk, S. Schmitt, 
+<i>A new method to design energy-conserving surrogate models for the coupled, non-linear responses of intervertebral discs</i>, 
+Biomechanics and Modeling in Mechanobiology (2024). <a href='https://www.researchsquare.com/article/rs-3073632/v1'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1007/s10237-023-01804-4'> <i class="ai ai-doi"> </i>Published</a>
+</summary>
+
+<small>
+
+<blockquote>
+The aim of this study was to design physics-preserving and precise surrogate models of the non-linear elastic behaviour of an intervertebral disc (IVD). Based on artificial force-displacement data sets from detailed finite element (FE) disc models, weused greedy kernel and polynomial approximations of second, third and fourth order to train surrogate models for the scalar force-torque-potential. Doing so, the resulting models of the elastic IVD responses ensured the conservation of mechanical energy through their structure. At the sametime, they were capable of predicting disc forces for the full physiological range of motion andfor the coupling of all six degrees of freedom of an intervertebral joint. The performance of allsurrogate models for a subject-specific L4|5 disc geometry was evaluated both on training and test data obtained from uncoupled (one-dimensional), weakly coupled (two-dimensional),and random movement trajectories in the entire six-dimensional (6d) physiological displacement range, as well as on synthetic kinematic data. We observed highest precisions for the kernel surrogate followed by the fourth order polynomial model. Both clearly outperformed the second order polynomial model which is equivalent to the commonly used stiffness matrix in neuro-musculoskeletal simulations.Hence, the proposed model architectures have the potential to improve the accuracy, and, therewith, validity of load predictions in neuro-musculoskeletal spine models.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
 <summary>G. Cencetti, L. Lucchini, G. Santin, F. Battiston, E. Moro, A. Pentland, B. Lepri, 
 <i>Temporal clustering of social interactions trades-off disease spreading and knowledge diffusion</i>, 
-Journal of the Royal Society Interface (2024). <a href='https://arxiv.org/abs/2308.07058'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1098/rsif.2023.0471'> <i class="ai ai-doi"> </i>DOI</a>
+Journal of the Royal Society Interface (2024). <a href='https://arxiv.org/abs/2308.07058'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1098/rsif.2023.0471'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -335,7 +335,7 @@ Non-pharmaceutical measures such as preventive quarantines, remote working, scho
 
 <summary>M. Pacini, X. Dong, B. Lepri, G. Santin, 
 <i>A Characterization Theorem for Equivariant Networks with Point-wise Activations</i>, 
-The Twelfth International Conference on Learning Representations (2024). <a href='https://arxiv.org/abs/2401.09235'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://openreview.net/forum?id=79FVDdfoSR'> <i class="ai ai-doi"> </i>DOI</a>
+The Twelfth International Conference on Learning Representations (2024). <a href='https://arxiv.org/abs/2401.09235'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://openreview.net/forum?id=79FVDdfoSR'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -371,7 +371,7 @@ Equivariant neural networks have shown improved performance, expressiveness and 
 
 <summary>G. Previati, G. Mastinu, E. Campi, M. Gobbi, L. Uccello, Á. Varela Daniel, A. Albanese, A. Roccasalva, G. Santin, M. Luca, B. Lepri, L. Ferrarotti, N. di Pietro, 
 <i>Roundabout Traffic: Simulation With Automated Vehicles, AI, 5G, Edge Computing and Human in the Loop</i>, 
-ASME 2023 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (2023). <a href=''> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1115/DETC2023-116402'> <i class="ai ai-doi"> </i>DOI</a>
+ASME 2023 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (2023). <a href=''> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1115/DETC2023-116402'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -406,7 +406,7 @@ The aim of the paper is to assess how the traffic of roundabouts could be organi
 
 <summary>A. Longa, V. Lachi, G. Santin, M. Bianchini, B. Lepri, P. Lio, F. Scarselli, A. Passerini, 
 <i>Graph Neural Networks for temporal graphs: State of the art, open challenges, and opportunities</i>, 
-Transactions on Machine Learning Research  (2023). <a href='https://arxiv.org/abs/2302.01018'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://openreview.net/forum?id=pHCdMat0gI'> <i class="ai ai-doi"> </i>DOI</a>
+Transactions on Machine Learning Research  (2023). <a href='https://arxiv.org/abs/2302.01018'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://openreview.net/forum?id=pHCdMat0gI'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -439,7 +439,7 @@ Graph Neural Networks (GNNs) have become the leading paradigm for learning on (s
 
 <summary>A. Alla, H. Oliveira, G. Santin, 
 <i>HJB-RBF based approach for the control of PDEs</i>, 
-Journal of Scientific Computing (2023). <a href='https://arxiv.org/abs/2108.02987'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1007/s10915-023-02208-3'> <i class="ai ai-doi"> </i>DOI</a>
+Journal of Scientific Computing (2023). <a href='https://arxiv.org/abs/2108.02987'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1007/s10915-023-02208-3'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -481,7 +481,7 @@ Semi-lagrangian schemes for discretization of the dynamic programming principle 
 
 <summary>G. Elefante, W. Erb, F. Marchetti, E. Perracchione, D. Poggiali, G. Santin, 
 <i>Interpolation with the polynomial kernels </i>, 
- Dolomites Res. Notes Approx. (2022). <a href='https://arxiv.org/abs/2212.07658'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='http://dx.doi.org/10.14658/pupj-drna-2022-4-5'> <i class="ai ai-doi"> </i>DOI</a>
+ Dolomites Res. Notes Approx. (2022). <a href='https://arxiv.org/abs/2212.07658'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='http://dx.doi.org/10.14658/pupj-drna-2022-4-5'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -518,7 +518,7 @@ The polynomial kernels are widely used in machine learning and they are one of t
 
 <summary>F. Marchetti, G. Santin, 
 <i>Convergence results in image interpolation with the continuous SSIM</i>, 
-SIAM Journal on Imaging Sciences (2022). <a href='https://arxiv.org/abs/2108.03879'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1137/22M147637X'> <i class="ai ai-doi"> </i>DOI</a>
+SIAM Journal on Imaging Sciences (2022). <a href='https://arxiv.org/abs/2108.03879'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1137/22M147637X'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -554,7 +554,7 @@ Assessing the similarity of two images is a complex task that attracts significa
 
 <summary>S. Cuomo, W. Erb, G. Santin, 
 <i>Kernel-Based Models for Influence Maximization on Graphs based on Gaussian Process Variance  Minimization</i>, 
-Journal of Computational and Applied Mathematics (2022). <a href='https://arxiv.org/abs/2103.01575'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1016/j.cam.2022.114951'> <i class="ai ai-doi"> </i>DOI</a>
+Journal of Computational and Applied Mathematics (2022). <a href='https://arxiv.org/abs/2103.01575'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1016/j.cam.2022.114951'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -589,7 +589,7 @@ The inference of novel knowledge, the discovery of hidden patterns, and the unco
 
 <summary>T. Wenzel, G. Santin, B. Haasdonk, 
 <i>Analysis of target data-dependent greedy kernel algorithms: Convergence rates for f-, f P- and  f/P-greedy</i>, 
-Constructive Approximation (2022). <a href='https://arxiv.org/abs/2105.07411'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1007/s00365-022-09592-3'> <i class="ai ai-doi"> </i>DOI</a>
+Constructive Approximation (2022). <a href='https://arxiv.org/abs/2105.07411'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1007/s00365-022-09592-3'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -625,7 +625,7 @@ Data-dependent greedy algorithms in kernel spaces are known to provide fast conv
 
 <summary>R. Campagna, S. De Marchi, E. Perracchione, G. Santin, 
 <i>Stable interpolation with exponential-polynomial splines and node selection via greedy algorithms </i>, 
-Advances in Computational Mathematics (2022). <a href='https://arxiv.org/abs/2109.14299'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1007/s10444-022-09986-8  '> <i class="ai ai-doi"> </i>DOI</a>
+Advances in Computational Mathematics (2022). <a href='https://arxiv.org/abs/2109.14299'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1007/s10444-022-09986-8  '> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -664,7 +664,7 @@ In this work we extend some ideas about greedy algorithms, which are well-establ
 
 <summary>G. Santin, 
 <i>Equally spaced points are optimal for Brownian Bridge kernel interpolation</i>, 
-Applied Mathematics Letters (2022). <a href='https://arxiv.org/abs/2210.15959'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1016/j.aml.2022.108489'> <i class="ai ai-doi"> </i>DOI</a>
+Applied Mathematics Letters (2022). <a href='https://arxiv.org/abs/2210.15959'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1016/j.aml.2022.108489'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -698,7 +698,7 @@ In this paper we show how ideas from spline theory can be used to construct a lo
 
 <summary>G. Santin, I. Skarbovsky, F. Fournier, B. Lepri, 
 <i>A Framework for Verifiable and Auditable Collaborative Anomaly Detection</i>, 
-IEEE Access (2022). <a href='https://arxiv.org/abs/2203.07802'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1109/ACCESS.2022.3196391'> <i class="ai ai-doi"> </i>DOI</a>
+IEEE Access (2022). <a href='https://arxiv.org/abs/2203.07802'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1109/ACCESS.2022.3196391'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -731,7 +731,7 @@ Collaborative and Federated Leaning are emerging approaches to manage cooperatio
 
 <summary>E. Leoni, G. Cencetti, G. Santin, T. Istomin, D. Molteni, G. P. Picco, E. Farella, B. Lepri, A. M. Murphy, 
 <i>Measuring close proximity  interactions in summer camps during the COVID-19 pandemic</i>, 
-EPJ Data Science (2022). <a href='https://arxiv.org/abs/2106.14750'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1140/epjds/s13688-022-00316-y'> <i class="ai ai-doi"> </i>DOI</a>
+EPJ Data Science (2022). <a href='https://arxiv.org/abs/2106.14750'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1140/epjds/s13688-022-00316-y'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -769,7 +769,7 @@ Policy makers have implemented multiple non-pharmaceutical strategies to mitigat
 
 <summary>B. Nobile, G. Santin, B. Lepri, P. Brutti, 
 <i>Reprogramming FairGANs with Variational Auto-Encoders: A New Transfer Learning Model</i>, 
-Book of short papers, SIS2022 - 51st Scientific Meeting of the Italian Statistical Society (2022). <a href='https://arxiv.org/abs/2203.05811'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Università/Sis-2022-4c-low.pdf'> <i class="ai ai-doi"> </i>DOI</a>
+Book of short papers, SIS2022 - 51st Scientific Meeting of the Italian Statistical Society (2022). <a href='https://arxiv.org/abs/2203.05811'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Università/Sis-2022-4c-low.pdf'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -802,7 +802,7 @@ Fairness-aware GANs (FairGANs) exploit the mechanisms of Generative Adversarial 
 
 <summary>T. Wenzel, M. Kurz, A. Beck, G. Santin, B. Haasdonk, 
 <i>Structured Deep Kernel Networks for Data-Driven Closure Terms of  Turbulent Flows</i>, 
-Proceedings of the 13th International Conference on Large Scale Scientific Computations (2022). <a href='https://arxiv.org/abs/2103.13655'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1007/978-3-030-97549-4_47'> <i class="ai ai-doi"> </i>DOI</a>
+Proceedings of the 13th International Conference on Large Scale Scientific Computations (2022). <a href='https://arxiv.org/abs/2103.13655'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1007/978-3-030-97549-4_47'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -842,7 +842,7 @@ Standard kernel methods for machine learning usually struggle when dealing with 
 
 <summary>G. Santin, B. Haasdonk, 
 <i>Kernel Methods for Surrogate  Modeling</i>, 
-Model Order Reduction, Volume 1: System- and Data-Driven Methods and Algorithms, P. Benner, W. Schilders, S. Grivet-Talocia, A. Quarteroni, G. Rozza, L.  M. Silveira  Eds. (2021). <a href='https://arxiv.org/abs/1907.10556'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1515/9783110498967-009'> <i class="ai ai-doi"> </i>DOI</a>
+Model Order Reduction, Volume 1: System- and Data-Driven Methods and Algorithms, P. Benner, W. Schilders, S. Grivet-Talocia, A. Quarteroni, G. Rozza, L.  M. Silveira  Eds. (2021). <a href='https://arxiv.org/abs/1907.10556'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1515/9783110498967-009'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -877,7 +877,7 @@ This chapter deals with kernel methods as a special class of techniques for surr
 
 <summary>B. Haasdonk, B. Hamzi, G. Santin, D. Wittwar, 
 <i>Kernel methods for center manifold approximation and a weak data-based version of the Center Manifold Theorem</i>, 
-Physica D: Nonlinear Phenomena (2021). <a href='https://arxiv.org/abs/2012.00338'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1016/j.physd.2021.133007'> <i class="ai ai-doi"> </i>DOI</a>
+Physica D: Nonlinear Phenomena (2021). <a href='https://arxiv.org/abs/2012.00338'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1016/j.physd.2021.133007'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -912,7 +912,7 @@ For dynamical systems with a non hyperbolic equilibrium, it is possible to signi
 
 <summary> B. Haasdonk, T. Wenzel, G. Santin, S. Schmitt, 
 <i>Biomechanical surrogate modelling using stabilized vectorial greedy kernel methods</i>, 
- Numerical Mathematics and Advanced Applications ENUMATH 2019, F. J. Vermolen, C. Vuik, Eds (2021). <a href='https://arxiv.org/abs/2004.12670'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1007/978-3-030-55874-1_49'> <i class="ai ai-doi"> </i>DOI</a>
+ Numerical Mathematics and Advanced Applications ENUMATH 2019, F. J. Vermolen, C. Vuik, Eds (2021). <a href='https://arxiv.org/abs/2004.12670'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1007/978-3-030-55874-1_49'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -949,7 +949,7 @@ Greedy kernel approximation algorithms are successful techniques for sparse and 
 
 <summary> G. Santin, T. Karvonen, B. Haasdonk, 
 <i>Sampling based approximation of linear functionals in Reproducing Kernel Hilbert Spaces</i>, 
- BIT (2021). <a href='https://arxiv.org/abs/2004.00556'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1007/s10543-021-00870-3'> <i class="ai ai-doi"> </i>DOI</a>
+ BIT (2021). <a href='https://arxiv.org/abs/2004.00556'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1007/s10543-021-00870-3'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -985,7 +985,7 @@ In this paper we analyze a greedy procedure to approximate a linear functional d
 
 <summary> G. Cencetti, G. Santin, A. Longa, E. Pigani, A. Barrat, C. Cattuto, S. Lehmann, M. Salath&eacute;, B. Lepri, 
 <i>Digital proximity tracing on empirical contact networks for pandemic control</i>, 
- Nature Commun. (2021). <a href=' https://doi.org/10.1038/s41467-021-21809-w'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1038/s41467-021-21809-w'> <i class="ai ai-doi"> </i>DOI</a>
+ Nature Commun. (2021). <a href=' https://doi.org/10.1038/s41467-021-21809-w'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1038/s41467-021-21809-w'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -1024,7 +1024,7 @@ Digital contact tracing is a relevant tool to control infectious disease outbrea
 
 <summary> T. Wenzel, G. Santin, B. Haasdonk, 
 <i>A novel class of stabilized greedy kernel approximation algorithms: Convergence, stability and uniform point distribution</i>, 
- J. of Approx. Theory (2021). <a href='https://arxiv.org/abs/1911.04352'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1016/j.jat.2020.105508'> <i class="ai ai-doi"> </i>DOI</a>
+ J. of Approx. Theory (2021). <a href='https://arxiv.org/abs/1911.04352'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1016/j.jat.2020.105508'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -1054,7 +1054,7 @@ Kernel based methods provide a way to reconstruct potentially high-dimensional f
 
 <summary> B. Haasdonk, B. Hamzi, G. Santin, D. Wittwar, 
 <i>Greedy kernel methods for center manifold approximation</i>, 
- Spectral and High Order Methods for Partial Differential Equations ICOSAHOM 2018, S. Sherwin, D. Moxey, J. Peir&oacute;, P. E. Vincent, and C. Schwab Eds. (2020). <a href='https://arxiv.org/abs/1810.11329'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1007/978-3-030-39647-3_6'> <i class="ai ai-doi"> </i>DOI</a>
+ Spectral and High Order Methods for Partial Differential Equations ICOSAHOM 2018, S. Sherwin, D. Moxey, J. Peir&oacute;, P. E. Vincent, and C. Schwab Eds. (2020). <a href='https://arxiv.org/abs/1810.11329'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1007/978-3-030-39647-3_6'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -1097,7 +1097,7 @@ For certain dynamical systems it is possible to significantly simplify the study
 
 <summary> T. Br&uuml;nnette, G. Santin, and B. Haasdonk, 
 <i>Greedy kernel methods for accelerating implicit integrators for parametric ODEs</i>, 
- Numerical Mathematics and Advanced Applications ENUMATH 2017, F.A. Radu, K. Kumar, I. Berre, J.M. Nordbotten, I.S. Pop (2019). <a href='https://arxiv.org/abs/1802.08106'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1007/978-3-319-96415-7_84'> <i class="ai ai-doi"> </i>DOI</a>
+ Numerical Mathematics and Advanced Applications ENUMATH 2017, F.A. Radu, K. Kumar, I. Berre, J.M. Nordbotten, I.S. Pop (2019). <a href='https://arxiv.org/abs/1802.08106'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1007/978-3-319-96415-7_84'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -1134,7 +1134,7 @@ We present a novel acceleration method for the solution of parametric ODEs by si
 
 <summary>M. K&ouml;ppel, F. Franzelin, I. Kr&ouml;ker, G. Santin, D. Wittwar, S. Oladyshkin, A. Barth, B. Haasdonk, W. Nowak, D. Pfl&uuml;ger, C. Rohde, 
 <i>Comparison of data-driven uncertainty quantification methods for a carbon dioxide storage benchmark scenario</i>, 
- Comput. Geosci (2019). <a href='https://arxiv.org/abs/1802.03064'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1007/s10596-018-9785-x'> <i class="ai ai-doi"> </i>DOI</a>
+ Comput. Geosci (2019). <a href='https://arxiv.org/abs/1802.03064'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1007/s10596-018-9785-x'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -1176,7 +1176,7 @@ A variety of methods is available to quantify uncertainties arising within the m
 
 <summary> D. Wittwar, G. Santin, B. Haasdonk, 
 <i>Interpolation with uncoupled separable matrix-valued kernels</i>, 
- Dolomites Res. Notes Approx. (2018). <a href='https://arxiv.org/abs/1807.09111'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' http://dx.doi.org/10.14658/pupj-drna-2018-3-4'> <i class="ai ai-doi"> </i>DOI</a>
+ Dolomites Res. Notes Approx. (2018). <a href='https://arxiv.org/abs/1807.09111'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' http://dx.doi.org/10.14658/pupj-drna-2018-3-4'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -1213,7 +1213,7 @@ In this paper we consider the problem of approximating vector-valued functions o
 
 <summary> T. K&ouml;ppl, G. Santin, B. Haasdonk, R. Helmig, 
 <i>Numerical modelling of a peripheral arterial stenosis using dimensionally  reduced models and kernel methods</i>, 
- Int. J. Numer. Meth. Biomed. Engng. (2018). <a href='https://arxiv.org/abs/1802.04628'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1002/cnm.3095'> <i class="ai ai-doi"> </i>DOI</a>
+ Int. J. Numer. Meth. Biomed. Engng. (2018). <a href='https://arxiv.org/abs/1802.04628'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1002/cnm.3095'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -1252,7 +1252,7 @@ In this work, we consider 2 kinds of model reduction techniques to simulate bloo
 
 <summary> S. De Marchi, A. Iske, G. Santin, 
 <i>Image reconstruction from scattered Radon data by weighted positive definite kernel functions</i>, 
- Calcolo (2018). <a href='https://www.math.uni-hamburg.de/home/iske/papers/rbfradon_final.pdf'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1007/s10092-018-0247-6'> <i class="ai ai-doi"> </i>DOI</a>
+ Calcolo (2018). <a href='https://www.math.uni-hamburg.de/home/iske/papers/rbfradon_final.pdf'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1007/s10092-018-0247-6'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -1293,7 +1293,7 @@ In this work, we consider 2 kinds of model reduction techniques to simulate bloo
 
 <summary> G. Santin, B. Haasdonk, 
 <i>Greedy kernel approximation for sparse surrogate modelling</i>, 
- Reduced-Order Modeling (ROM) for Simulation and Optimization: Powerful Algorithms as Key Enablers for Scientific Computing, W. Keiper, A. Milde, and S. Volkwein, Eds (2018). <a href=''> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1007/978-3-319-75319-5_2'> <i class="ai ai-doi"> </i>DOI</a>
+ Reduced-Order Modeling (ROM) for Simulation and Optimization: Powerful Algorithms as Key Enablers for Scientific Computing, W. Keiper, A. Milde, and S. Volkwein, Eds (2018). <a href=''> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1007/978-3-319-75319-5_2'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -1335,7 +1335,7 @@ Modern simulation scenarios frequently require multi-query or real-time response
 
 <summary> S. De Marchi, A. Idda, G. Santin, 
 <i>A rescaled method for RBF approximation</i>, 
- Proceedings of Approximation Theory 15, San Antonio (Texas), Springer Proceedings on Mathematics and Statistics (2017). <a href='https://arxiv.org/abs/1611.10034'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1007/978-3-319-59912-0_3'> <i class="ai ai-doi"> </i>DOI</a>
+ Proceedings of Approximation Theory 15, San Antonio (Texas), Springer Proceedings on Mathematics and Statistics (2017). <a href='https://arxiv.org/abs/1611.10034'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1007/978-3-319-59912-0_3'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -1373,7 +1373,7 @@ In the recent paper [1], a new method to compute stable kernel-based interpolant
 
 <summary> G. Santin, B. Haasdonk, 
 <i>Convergence rate of the data-independent P-greedy algorithm in kernel-based spaces</i>, 
- Dolomites Res. Notes Approx. (2017). <a href='https://arxiv.org/abs/1612.02672'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' http://dx.doi.org/10.14658/pupj-drna-2017-Special_Issue-9'> <i class="ai ai-doi"> </i>DOI</a>
+ Dolomites Res. Notes Approx. (2017). <a href='https://arxiv.org/abs/1612.02672'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' http://dx.doi.org/10.14658/pupj-drna-2017-Special_Issue-9'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -1409,7 +1409,7 @@ Kernel-based methods provide flexible and accurate algorithms for the reconstruc
 
 <summary> R. Cavoretto, S. De Marchi, A. De Rossi, E. Perracchione, G. Santin, 
 <i>Partition of unity interpolation using stable kernel-based techniques</i>, 
- Appl. Numer. Math. (2017). <a href='https://arxiv.org/abs/1607.03278'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1016/j.apnum.2016.07.005'> <i class="ai ai-doi"> </i>DOI</a>
+ Appl. Numer. Math. (2017). <a href='https://arxiv.org/abs/1607.03278'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1016/j.apnum.2016.07.005'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -1446,7 +1446,7 @@ In this paper we propose a new stable and accurate approximation technique which
 
 <summary> R. Cavoretto, S. De Marchi, A. De Rossi, E. Perracchione, G. Santin, 
 <i>Approximating basins of attraction for dynamical systems via stable radial bases</i>, 
- AIP Conf. Proc. (2016). <a href='https://www.math.unipd.it/~demarchi/papers/ICNAAM15.pdf'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1063/1.4952177'> <i class="ai ai-doi"> </i>DOI</a>
+ AIP Conf. Proc. (2016). <a href='https://www.math.unipd.it/~demarchi/papers/ICNAAM15.pdf'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1063/1.4952177'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -1479,7 +1479,7 @@ In applied sciences it is often required to model and supervise temporal evoluti
 
 <summary> G. Santin, R. Schaback, 
 <i>Approximation of eigenfunctions in kernel-based spaces</i>, 
- Adv. Comput. Math. (2016). <a href='https://arxiv.org/abs/1411.7656'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1007/s10444-015-9449-5'> <i class="ai ai-doi"> </i>DOI</a>
+ Adv. Comput. Math. (2016). <a href='https://arxiv.org/abs/1411.7656'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1007/s10444-015-9449-5'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -1521,7 +1521,7 @@ Kernel-based methods in Numerical Analysis have the advantage of yielding optima
 
 <summary> S. De Marchi, G. Santin, 
 <i>Fast computation of orthonormal basis for RBF spaces through Krylov space methods</i>, 
- BIT (2015). <a href='http://www.math.unipd.it/~demarchi/papers/FCoOB.pdf'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1007/s10543-014-0537-6'> <i class="ai ai-doi"> </i>DOI</a>
+ BIT (2015). <a href='http://www.math.unipd.it/~demarchi/papers/FCoOB.pdf'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1007/s10543-014-0537-6'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -1559,7 +1559,7 @@ In recent years, in the setting of radial basis function, the study of approxima
 
 <summary> R. Cavoretto, S. De Marchi, A. De Rossi, E. Perracchione, G. Santin, 
 <i>RBF approximation of large datasets by partition of unity and local stabilization</i>, 
- CMMSE 2015: Proceedings of the 15th International Conference on  Mathematical Methods in Science and Engineering (2015). <a href='https://www.math.unipd.it/~demarchi/papers/Latex_template_cmmse.pdf'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://iris.unito.it/retrieve/handle/2318/1526172/55702/CMMSE_2015.pdf'> <i class="ai ai-doi"> </i>DOI</a>
+ CMMSE 2015: Proceedings of the 15th International Conference on  Mathematical Methods in Science and Engineering (2015). <a href='https://www.math.unipd.it/~demarchi/papers/Latex_template_cmmse.pdf'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://iris.unito.it/retrieve/handle/2318/1526172/55702/CMMSE_2015.pdf'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -1598,7 +1598,7 @@ We present an algorithm to approximate large datasets by Radial Basis Function(R
 
 <summary> S. De Marchi, G. Santin, 
 <i>A new stable basis for radial basis function interpolation</i>, 
- J. Comput. Appl. (2013). <a href='https://arxiv.org/abs/1210.1682'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1016/j.cam.2013.03.048'> <i class="ai ai-doi"> </i>DOI</a>
+ J. Comput. Appl. (2013). <a href='https://arxiv.org/abs/1210.1682'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1016/j.cam.2013.03.048'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -1639,7 +1639,7 @@ It is well-known that radial basis function interpolants suffer of bad condition
 
 <summary> G. Santin, A. Sommariva, M. Vianello, 
 <i>An algebraic cubature formula on curvilinear polygons</i>, 
- Appl. Math. Comput. (2011). <a href='https://www.math.unipd.it/~alvise/PAPERS/AnAlgebraicCubatureFormulaOnCurvilinearPolygons.pdf'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1016/j.amc.2011.04.071'> <i class="ai ai-doi"> </i>DOI</a>
+ Appl. Math. Comput. (2011). <a href='https://www.math.unipd.it/~alvise/PAPERS/AnAlgebraicCubatureFormulaOnCurvilinearPolygons.pdf'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href=' https://doi.org/10.1016/j.amc.2011.04.071'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
