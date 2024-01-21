@@ -283,7 +283,16 @@ The aim of this study was to design physics-preserving and precise surrogate mod
 
 <pre>
   <code class="bibtex">
-
+@Article{Hammer2024,
+  author    = {Hammer, Maria and Wenzel, Tizian and Santin, Gabriele and Meszaros-Beller, Laura and Little, Judith Paige and Haasdonk, Bernard and Schmitt, Syn},
+  title     = {A new method to design energy-conserving surrogate models for the coupled, nonlinear responses of intervertebral discs},
+  journal   = {Biomechanics and Modeling in Mechanobiology},
+  year      = {2024},
+  month     = {Jan},
+  issn      = {1617-7940},
+  doi       = {10.1007/s10237-023-01804-4},
+  url       = {https://doi.org/10.1007/s10237-023-01804-4},
+}
   </code>
 </pre>
 </small>
