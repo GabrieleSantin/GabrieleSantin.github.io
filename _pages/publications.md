@@ -393,7 +393,7 @@ The aim of the paper is to assess how the traffic of roundabouts could be organi
   <code class="bibtex">
 @InProceedings{Previati2023,
   author    = {Previati, Giorgio and Mastinu, Gianpiero and Campi, Elena and Gobbi, Massimiliano and Uccello, Lorenzo and Varela Daniel, Álvaro and Albanese, Antonino and Roccasalva, Alessandro and Santin, Gabriele and Luca, Massimiliano and Lepri, Bruno and Ferrarotti, Laura and di Pietro, Nicola},
-  title     = {{Roundabout Traffic: Simulation With Automated Vehicles, AI, 5G, Edge Computing and Human in the Loop}},
+  title     = {Roundabout Traffic: Simulation With Automated Vehicles, AI, 5G, Edge Computing and Human in the Loop},
   year      = {2023},
   volume    = {Volume 1: 25th International Conference on Advanced Vehicle Technologies (AVT)},
   series    = {International Design Engineering Technical Conferences and Computers and Information in Engineering Conference},
