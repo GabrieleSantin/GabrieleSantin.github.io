@@ -240,7 +240,7 @@ Steerable Convolutional Neural Networks are a popular and efficient class of equ
 
 <summary>L. Ferrarotti, M. Luca, G. Santin, G. Previati, G. Mastinu, E. Campi, L. Uccello, A. Albanese, P. Zalaya, A. Roccasalva, B. Lepri, 
 <i>Autonomous and Human-Driven Vehicles Interacting in a Roundabout: A Quantitative and Qualitative Evaluation</i>, 
- (2024). <a href='https://arxiv.org/abs/2309.08254'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1109/ACCESS.2024.3370469'> <i class="ai ai-doi"> </i>Published</a>
+IEEE Access (2024). <a href='https://arxiv.org/abs/2309.08254'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1109/ACCESS.2024.3370469'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
