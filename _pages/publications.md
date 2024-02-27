@@ -13,7 +13,7 @@ Click on the publications below to expand them.
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>L. Ferrarotti, M. Luca, G. Santin, G. Previati, G. Mastinu, E. Campi, L. Uccello, A. Albanese, P. Zalaya, A. Roccasalva, B. Lepri, 
-<i>Quantitative and Qualitative Evaluation of Reinforcement Learning Policies for Autonomous Vehicles</i> (2023). <a href='https://arxiv.org/abs/2309.08254'> <i class="fa fa-file-pdf"></i> Preprint </a>
+<i>Autonomous and Human-Driven Vehicles Interacting in a Roundabout: A Quantitative and Qualitative Evaluation</i> (2024). <a href='https://arxiv.org/abs/2309.08254'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
 
 <small>
@@ -24,13 +24,13 @@ Optimizing traffic dynamics in an evolving transportation landscape is crucial, 
 
 <pre>
   <code class="bibtex">
-@misc{Ferrarotti2023,
-      title={Quantitative and Qualitative Evaluation of Reinforcement Learning Policies for Autonomous Vehicles}, 
-      author={Laura Ferrarotti and Massimiliano Luca and Gabriele Santin and Giorgio Previati and Gianpiero Mastinu and Elena Campi and Lorenzo Uccello and Antonino Albanese and Praveen Zalaya and Alessandro Roccasalva and Bruno Lepri},
-      year={2023},
-      eprint={2309.08254},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI}
+@Article{Ferrarotti2024,
+  author    = {Ferrarotti, Laura and Luca, Massimiliano and Santin, Gabriele and Previati, Giorgio and Mastinu, Gianpiero and Gobbi, Massimiliano and Campi, Elena and Uccello, Lorenzo and Albanese, Antonino and Zalaya, Praveen and Roccasalva, Alessandro and Lepri, Bruno},
+  title     = {Autonomous and Human-Driven Vehicles Interacting in a Roundabout: A Quantitative and Qualitative Evaluation},
+  journal   = {IEEE Access},
+  year      = {2024},
+  pages     = {1-1},
+  doi       = {10.1109/ACCESS.2024.3370469},
 }
   </code>
 </pre>
