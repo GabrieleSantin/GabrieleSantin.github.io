@@ -12,38 +12,6 @@ Click on the publications below to expand them.
 ## Submitted
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
-<summary>L. Ferrarotti, M. Luca, G. Santin, G. Previati, G. Mastinu, E. Campi, L. Uccello, A. Albanese, P. Zalaya, A. Roccasalva, B. Lepri, 
-<i>Autonomous and Human-Driven Vehicles Interacting in a Roundabout: A Quantitative and Qualitative Evaluation</i> (2024). <a href='https://arxiv.org/abs/2309.08254'> <i class="fa fa-file-pdf"></i> Preprint </a>
-</summary>
-
-<small>
-
-<blockquote>
-Optimizing traffic dynamics in an evolving transportation landscape is crucial, particularly in scenarios where autonomous vehicles (AVs) with varying levels of autonomy coexist with human-driven cars. This paper presents a novel approach to optimizing choices of AVs using Proximal Policy Optimization (PPO), a reinforcement learning algorithm. We learned a policy to minimize traffic jams (i.e., minimize the time to cross the scenario) and to minimize pollution in a roundabout in Milan, Italy. Through empirical analysis, we demonstrate that our approach can reduce time and pollution levels. Furthermore, we qualitatively evaluate the learned policy using a cutting-edge cockpit to assess its performance in near-real-world conditions. To gauge the practicality and acceptability of the policy, we conducted evaluations with human participants using the simulator, focusing on a range of metrics like traffic smoothness and safety perception. In general, our findings show that human-driven vehicles benefit from optimizing AVs dynamics. Also, participants in the study highlighted that the scenario with 80\% AVs is perceived as safer than the scenario with 20\%. The same result is obtained for traffic smoothness perception.	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@Article{Ferrarotti2024,
-  author    = {Ferrarotti, Laura and Luca, Massimiliano and Santin, Gabriele and Previati, Giorgio and Mastinu, Gianpiero and Gobbi, Massimiliano and Campi, Elena and Uccello, Lorenzo and Albanese, Antonino and Zalaya, Praveen and Roccasalva, Alessandro and Lepri, Bruno},
-  title     = {Autonomous and Human-Driven Vehicles Interacting in a Roundabout: A Quantitative and Qualitative Evaluation},
-  journal   = {IEEE Access},
-  year      = {2024},
-  pages     = {1-1},
-  doi       = {10.1109/ACCESS.2024.3370469},
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
 <summary>G. Santin, T. Wenzel, B. Haasdonk, 
 <i>On the optimality of target-data-dependent kernel greedy interpolation in Sobolev Reproducing Kernel Hilbert Spaces</i> (2023). <a href='https://arxiv.org/abs/2307.09811v1'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
@@ -268,6 +236,39 @@ Steerable Convolutional Neural Networks are a popular and efficient class of equ
 <p style='margin-top:-20px;margin-left:5%;'>
 <h3 style='margin-left:5%;'> 2024</h3>
 </p>
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
+<summary>L. Ferrarotti, M. Luca, G. Santin, G. Previati, G. Mastinu, E. Campi, L. Uccello, A. Albanese, P. Zalaya, A. Roccasalva, B. Lepri, 
+<i>Autonomous and Human-Driven Vehicles Interacting in a Roundabout: A Quantitative and Qualitative Evaluation</i>, 
+ (2024). <a href='https://arxiv.org/abs/2309.08254'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1109/ACCESS.2024.3370469'> <i class="ai ai-doi"> </i>Published</a>
+</summary>
+
+<small>
+
+<blockquote>
+Optimizing traffic dynamics in an evolving transportation landscape is crucial, particularly in scenarios where autonomous vehicles (AVs) with varying levels of autonomy coexist with human-driven cars. This paper presents a novel approach to optimizing choices of AVs using Proximal Policy Optimization (PPO), a reinforcement learning algorithm. We learned a policy to minimize traffic jams (i.e., minimize the time to cross the scenario) and to minimize pollution in a roundabout in Milan, Italy. Through empirical analysis, we demonstrate that our approach can reduce time and pollution levels. Furthermore, we qualitatively evaluate the learned policy using a cutting-edge cockpit to assess its performance in near-real-world conditions. To gauge the practicality and acceptability of the policy, we conducted evaluations with human participants using the simulator, focusing on a range of metrics like traffic smoothness and safety perception. In general, our findings show that human-driven vehicles benefit from optimizing AVs dynamics. Also, participants in the study highlighted that the scenario with 80\% AVs is perceived as safer than the scenario with 20\%. The same result is obtained for traffic smoothness perception.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@Article{Ferrarotti2024,
+  author    = {Ferrarotti, Laura and Luca, Massimiliano and Santin, Gabriele and Previati, Giorgio and Mastinu, Gianpiero and Gobbi, Massimiliano and Campi, Elena and Uccello, Lorenzo and Albanese, Antonino and Zalaya, Praveen and Roccasalva, Alessandro and Lepri, Bruno},
+  title     = {Autonomous and Human-Driven Vehicles Interacting in a Roundabout: A Quantitative and Qualitative Evaluation},
+  journal   = {IEEE Access},
+  year      = {2024},
+  pages     = {1-1},
+  doi       = {10.1109/ACCESS.2024.3370469},
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>M. Hammer, T. Wenzel, G. Santin, L. Meszaros-Beller, J. Paige Little, B. Haasdonk, S. Schmitt, 
