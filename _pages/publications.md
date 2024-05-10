@@ -182,13 +182,16 @@ Error estimates for kernel interpolation in Reproducing Kernel Hilbert Spaces (R
 
 <pre>
   <code class="bibtex">
-@Misc{Wenzel2022b,
-  author        = {Tizian Wenzel and Gabriele Santin and Bernard Haasdonk},
-  title         = {Stability of convergence rates: Kernel interpolation on non-Lipschitz domains},
-  year          = {2022},
-  eprint        = {2203.12532},
-  archiveprefix = {arXiv},
-  primaryclass  = {math.NA},
+@Article{Wenzel2024a,
+  author    = {Wenzel, Tizian and Santin, Gabriele and Haasdonk, Bernard},
+  title     = {{Stability of convergence rates: kernel interpolation on non-Lipschitz domains}},
+  journal   = {IMA Journal of Numerical Analysis},
+  year      = {2024},
+  month     = {05},
+  pages     = {drae014},
+  issn      = {0272-4979},
+  doi       = {10.1093/imanum/drae014},
+  url       = {https://doi.org/10.1093/imanum/drae014},
 }
   </code>
 </pre>
