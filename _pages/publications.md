@@ -169,42 +169,6 @@ Kernel based methods yield approximation models that are flexible, efficient and
 ## Accepted
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
-<summary>T. Wenzel, G. Santin, B. Haasdonk, 
-<i>Stability of convergence rates: Kernel interpolation on non-Lipschitz domains </i>, 
-Accepted for publication in IMA Journal of Numerical Analysis (2024). <a href='https://arxiv.org/abs/2203.12532'> <i class="fa fa-file-pdf"></i> Preprint </a>
-</summary>
-
-<small>
-
-<blockquote>
-Error estimates for kernel interpolation in Reproducing Kernel Hilbert Spaces (RKHS) usually assume quite restrictive properties on the shape of the domain, especially in the case of infinitely smooth kernels like the popular Gaussian kernel. In this paper we leverage an analysis of greedy kernel algorithms to prove that it is possible to obtain convergence results (in the number of interpolation points) for kernel interpolation for arbitrary domains $\Omega\subset\mathbb{R}^d$, thus allowing for non-Lipschitz domains including e.g. cusps and irregular boundaries. Especially we show that, when going to a smaller domain $\tilde\Omega\subset\Omega\subset\mathbb{R}^d$, the convergence rate does not deteriorate - i.e. the convergence rates are stable with respect to going to a subset. The impact of this result is explained on the examples of kernels of finite as well as infinite smoothness like the Gaussian kernel. A comparison to approximation in Sobolev spaces is drawn, where the shape of the domain Ω has an impact on the approximation properties. Numerical experiments illustrate and confirm the experiments	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@Article{Wenzel2024a,
-  author    = {Wenzel, Tizian and Santin, Gabriele and Haasdonk, Bernard},
-  title     = {{Stability of convergence rates: kernel interpolation on non-Lipschitz domains}},
-  journal   = {IMA Journal of Numerical Analysis},
-  year      = {2024},
-  month     = {05},
-  pages     = {drae014},
-  issn      = {0272-4979},
-  doi       = {10.1093/imanum/drae014},
-  url       = {https://doi.org/10.1093/imanum/drae014},
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
 <summary>M. Pacini, X. Dong, B. Lepri, G. Santin, 
 <i>Point-wise Activations and Steerable Convolutional Network</i>, 
 Accepted for publication in The Second Learning on Graphs Conference (2023). <a href='https://openreview.net/forum?id=gsJPYzdA0S'> <i class="fa fa-file-pdf"></i> Preprint </a>
@@ -240,6 +204,42 @@ Steerable Convolutional Neural Networks are a popular and efficient class of equ
 <p style='margin-top:-20px;margin-left:5%;'>
 <h3 style='margin-left:5%;'> 2024</h3>
 </p>
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
+<summary>T. Wenzel, G. Santin, B. Haasdonk, 
+<i>Stability of convergence rates: Kernel interpolation on non-Lipschitz domains </i>, 
+IMA Journal of Numerical Analysis (2024). <a href='https://arxiv.org/abs/2203.12532'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1093/imanum/drae014'> <i class="ai ai-doi"> </i>Published</a>
+</summary>
+
+<small>
+
+<blockquote>
+Error estimates for kernel interpolation in Reproducing Kernel Hilbert Spaces (RKHS) usually assume quite restrictive properties on the shape of the domain, especially in the case of infinitely smooth kernels like the popular Gaussian kernel. In this paper we leverage an analysis of greedy kernel algorithms to prove that it is possible to obtain convergence results (in the number of interpolation points) for kernel interpolation for arbitrary domains $\Omega\subset\mathbb{R}^d$, thus allowing for non-Lipschitz domains including e.g. cusps and irregular boundaries. Especially we show that, when going to a smaller domain $\tilde\Omega\subset\Omega\subset\mathbb{R}^d$, the convergence rate does not deteriorate - i.e. the convergence rates are stable with respect to going to a subset. The impact of this result is explained on the examples of kernels of finite as well as infinite smoothness like the Gaussian kernel. A comparison to approximation in Sobolev spaces is drawn, where the shape of the domain Ω has an impact on the approximation properties. Numerical experiments illustrate and confirm the experiments	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@Article{Wenzel2024a,
+  author    = {Wenzel, Tizian and Santin, Gabriele and Haasdonk, Bernard},
+  title     = {{Stability of convergence rates: kernel interpolation on non-Lipschitz domains}},
+  journal   = {IMA Journal of Numerical Analysis},
+  year      = {2024},
+  month     = {05},
+  pages     = {drae014},
+  issn      = {0272-4979},
+  doi       = {10.1093/imanum/drae014},
+  url       = {https://doi.org/10.1093/imanum/drae014},
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>L. Ferrarotti, M. Luca, G. Santin, G. Previati, G. Mastinu, E. Campi, L. Uccello, A. Albanese, P. Zalaya, A. Roccasalva, B. Lepri, 
