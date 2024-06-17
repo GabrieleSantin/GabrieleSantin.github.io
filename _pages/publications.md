@@ -356,7 +356,13 @@ Equivariant neural networks have shown improved performance, expressiveness and 
 
 <pre>
   <code class="bibtex">
-
+@InProceedings{Pacini2024,
+  author    = {Pacini, Marco and Dong, Xiaowen and Lepri, Bruno and Santin, Gabriele},
+  title     = {A Characterization Theorem for Equivariant Networks with Point-wise Activations},
+  booktitle = {The Twelfth International Conference on Learning Representations},
+  year      = {2024},
+  url       = {https://openreview.net/forum?id=79FVDdfoSR},
+}
   </code>
 </pre>
 </small>
