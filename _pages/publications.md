@@ -24,7 +24,12 @@ The separation power of a machine learning model refers to its capacity to disti
 
 <pre>
   <code class="bibtex">
-
+@misc{Pacini2024b,
+      title={Separation Power of Equivariant Neural Networks}, 
+      author={Marco Pacini and Xiaowen Dong and Bruno Lepri and Gabriele Santin},
+      year={2024},
+      eprint={2406.08966},
+}
   </code>
 </pre>
 </small>
