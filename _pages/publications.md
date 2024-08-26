@@ -42,36 +42,6 @@ The separation power of a machine learning model refers to its capacity to disti
 
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
-<summary>A. Longa, S. Azzolin, G. Santin, G. Cencetti, P. Lio’, B. Lepri, A. Passerini, 
-<i>Explaining the Explainers in Graph Neural Networks: a Comparative Study </i> (2022). <a href='https://arxiv.org/abs/2210.15304'> <i class="fa fa-file-pdf"></i> Preprint </a>
-</summary>
-
-<small>
-
-<blockquote>
-Following a fast initial breakthrough in graph based learning, Graph Neural Networks (GNNs) have reached a widespread application in many science and engineering fields, prompting the need for methods to understand their decision process. GNN explainers have started to emerge in recent years, with a multitude of methods both novel or adapted from other domains. To sort out this plethora of alternative approaches, several studies have benchmarked the performance of different explainers in terms of various explainability metrics. However, these earlier works make no attempts at providing insights into why different GNN architectures are more or less explainable, or which explainer should be preferred in a given setting. In this survey, we fill these gaps by devising a systematic experimental study, which tests ten explainers on eight representative architectures trained on six carefully designed graph and node classification datasets. With our results we provide key insights on the choice and applicability of GNN explainers, we isolate key components that make them usable and successful and provide recommendations on how to avoid common interpretation pitfalls. We conclude by highlighting open questions and directions of possible future research.	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@misc{Longa2022,
-  author = {Longa, Antonio and Azzolin, Steve and Santin, Gabriele and Cencetti, Giulia and Liò, Pietro and Lepri, Bruno and Passerini, Andrea},
-  title = {Explaining the Explainers in Graph Neural Networks: a Comparative Study},
-  publisher = {arXiv},
-  year = {2022},
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
 <summary>T. Wenzel, D. Winkle, G. Santin, B. Haasdonk, 
 <i>Adaptive meshfree solution of linear partial differential equations with PDE-greedy kernel methods </i> (2022). <a href='https://arxiv.org/abs/2207.13971'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
@@ -138,6 +108,37 @@ Kernel based methods yield approximation models that are flexible, efficient and
 
 
 ## Accepted
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
+<summary>A. Longa, S. Azzolin, G. Santin, G. Cencetti, P. Lio’, B. Lepri, A. Passerini, 
+<i>Explaining the Explainers in Graph Neural Networks: a Comparative Study </i>, 
+Accepted for publication in ACM Computing Surveys (2024). <a href='https://arxiv.org/abs/2210.15304'> <i class="fa fa-file-pdf"></i> Preprint </a>
+</summary>
+
+<small>
+
+<blockquote>
+Following a fast initial breakthrough in graph based learning, Graph Neural Networks (GNNs) have reached a widespread application in many science and engineering fields, prompting the need for methods to understand their decision process. GNN explainers have started to emerge in recent years, with a multitude of methods both novel or adapted from other domains. To sort out this plethora of alternative approaches, several studies have benchmarked the performance of different explainers in terms of various explainability metrics. However, these earlier works make no attempts at providing insights into why different GNN architectures are more or less explainable, or which explainer should be preferred in a given setting. In this survey, we fill these gaps by devising a systematic experimental study, which tests ten explainers on eight representative architectures trained on six carefully designed graph and node classification datasets. With our results we provide key insights on the choice and applicability of GNN explainers, we isolate key components that make them usable and successful and provide recommendations on how to avoid common interpretation pitfalls. We conclude by highlighting open questions and directions of possible future research.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@misc{Longa2022,
+  author = {Longa, Antonio and Azzolin, Steve and Santin, Gabriele and Cencetti, Giulia and Liò, Pietro and Lepri, Bruno and Passerini, Andrea},
+  title = {Explaining the Explainers in Graph Neural Networks: a Comparative Study},
+  publisher = {arXiv},
+  year = {2022},
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>G. Santin, T. Wenzel, B. Haasdonk, 
