@@ -191,7 +191,7 @@ Kernel interpolation is a versatile tool for the approximation of functions from
 
 <pre>
   <code class="bibtex">
-@Misc{Santin2024a,
+@Article{Santin2024a,
   author    = {Santin, Gabriele and Wenzel, Tizian and Haasdonk, Bernard},
   title     = {On the Optimality of Target-Data-Dependent Kernel Greedy Interpolation in Sobolev Reproducing Kernel Hilbert Spaces},
   year      = {2024},
