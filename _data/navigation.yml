@@ -9,6 +9,9 @@ main:
   - title: "Teaching/Didattica"
     url: /teaching/         
     
+  - title: "Projects"
+    url: /projects/
+    
   - title: "Presentations"
     url: /presentations/         
     
