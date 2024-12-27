@@ -12,6 +12,37 @@ Click on the publications below to expand them.
 ## Submitted
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
+<summary>Jonghyeon Lee, Boumediene Hamzi, Boya Hou, Houman Owhadi, Gabriele Santin, Umesh Vaidya, 
+<i>Kernel Methods for the Approximation of the Eigenfunctions of the Koopman Operator</i> (2024). <a href='https://www.arxiv.org/abs/2412.16588'> <i class="fa fa-file-pdf"></i> Preprint </a>
+</summary>
+
+<small>
+
+<blockquote>
+The Koopman operator provides a linear framework to study nonlinear dynamical systems. Its spectra offer valuable insights into system dynamics, but the operator can exhibit both discrete and continuous spectra, complicating direct computations. In this paper, we introduce a kernel-based method to construct the principal eigenfunctions of the Koopman operator without explicitly computing the operator itself. These principal eigenfunctions are associated with the equilibrium dynamics, and their eigenvalues match those of the linearization of the nonlinear system at the equilibrium point. We exploit the structure of the principal eigenfunctions by decomposing them into linear and nonlinear components. The linear part corresponds to the left eigenvector of the system's linearization at the equilibrium, while the nonlinear part is obtained by solving a partial differential equation (PDE) using kernel methods. Our approach avoids common issues such as spectral pollution and spurious eigenvalues, which can arise in previous methods. We demonstrate the effectiveness of our algorithm through numerical examples.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@misc{Lee2024,
+      title={Kernel Methods for the Approximation of the Eigenfunctions of the Koopman Operator}, 
+      author={Jonghyeon Lee and Boumediene Hamzi and Boya Hou and Houman Owhadi and Gabriele Santin and Umesh Vaidya},
+      year={2024},
+      eprint={2412.16588},
+      url={https://arxiv.org/abs/2412.16588}, 
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
 <summary>M. Pacini, X. Dong, B. Lepri, G. Santin, 
 <i>Separation Power of Equivariant Neural Networks</i> (2024). <a href='https://arxiv.org/abs/2406.08966v1'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
