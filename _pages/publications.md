@@ -12,7 +12,7 @@ Click on the publications below to expand them.
 ## Submitted
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
-<summary>Jonghyeon Lee, Boumediene Hamzi, Boya Hou, Houman Owhadi, Gabriele Santin, Umesh Vaidya, 
+<summary>J. Lee, B. Hamzi, B. Hou, H. Owhadi, G. Santin, U. Vaidya, 
 <i>Kernel Methods for the Approximation of the Eigenfunctions of the Koopman Operator</i> (2024). <a href='https://www.arxiv.org/abs/2412.16588'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
 
