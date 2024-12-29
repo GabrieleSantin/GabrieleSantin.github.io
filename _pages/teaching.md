@@ -7,7 +7,8 @@ author_profile: true
 
 ## Universit&agrave; Ca' Foscari Venezia
 
-Si rimanda alla [pagina ufficiale](https://www.unive.it/data/persone/27715997/didattica) dei corsi.
+Si rimanda alla [pagina ufficiale](https://www.unive.it/data/persone/27715997/didattica) dei corsi / 
+Please see the [official page](https://www.unive.it/data/people/27715997/didattica) of the courses.
 
 ## Other courses
 This page contains some material that was prepared for various lectures or tutorials.
