@@ -43,6 +43,38 @@ The Koopman operator provides a linear framework to study nonlinear dynamical sy
 
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
+<summary>R. Campagna, S. Crisci, G. Santin, G. Toraldo, M. Viola , 
+<i>An algorithm for a constrained P-spline </i> (2024). <a href='https://arxiv.org/abs/2501.04335'> <i class="fa fa-file-pdf"></i> Preprint </a>
+</summary>
+
+<small>
+
+<blockquote>
+Regression splines are largely used to investigate and predict data behavior, attracting the interest of mathematicians for their beautiful numerical properties, and of statisticians for their versatility with respect to the applications. Several penalized spline regression models are available in the literature, and the most commonly used ones in real-world applications are P-splines, which enjoy the advantages of penalized models while being easy to generalize across different functional spaces and higher degree order, because of their discrete penalty term. To face the different requirements imposed by the nature of the problem or the physical meaning of the expected values, the P-spline definition is often modified by additional hypotheses, often translated into constraints on the solution or its derivatives. In this framework, our work is motivated by the aim of getting approximation models that fall within pre-established thresholds. Specifically, starting from a set of observed data, we consider a P-spline constrained between some prefixed bounds. In our paper, we just consider 0 as lower bound, although our approach applies to more general cases. We propose to get nonnegativity by imposing lower bounds on selected sample points. The spline can be computed through a sequence of linearly constrained problems. We suggest a strategy to dynamically select the sample points, to avoid extremely dense sampling, and therefore try to reduce as much as possible the computational burden. We show through some computational experiments the reliability of our approach and the accuracy of the results compared to some state-of-the-art models.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@misc{Campagna2024,
+      title={An algorithm for a constrained P-spline}, 
+      author={Rosanna Campagna and Serena Crisci and Gabriele Santin and Gerardo Toraldo and Marco Viola},
+      year={2025},
+      eprint={2501.04335},
+      archivePrefix={arXiv},
+      url={https://arxiv.org/abs/2501.04335}, 
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
 <summary>M. Pacini, X. Dong, B. Lepri, G. Santin, 
 <i>Separation Power of Equivariant Neural Networks</i> (2024). <a href='https://arxiv.org/abs/2406.08966v1'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
