@@ -170,39 +170,6 @@ Kernel based methods yield approximation models that are flexible, efficient and
 
 
 
-## Accepted
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
-<summary>M. Pacini, X. Dong, B. Lepri, G. Santin, 
-<i>Point-wise Activations and Steerable Convolutional Network</i>, 
-Accepted for publication in The Second Learning on Graphs Conference (2023). <a href='https://openreview.net/forum?id=gsJPYzdA0S'> <i class="fa fa-file-pdf"></i> Preprint </a>
-</summary>
-
-<small>
-
-<blockquote>
-Steerable Convolutional Neural Networks are a popular and efficient class of equivariant models. For some specific groups, representations, and choice of coordinates, the most common point-wise activations, such as ReLU, are not equivariant. Hence they cannot be employed in designing equivariant neural networks. In this paper, we present a simple yet effective generalization of such results for equivariant networks. First, we prove that for groups such point-wise activations can be employed in disentangled layers only when a simple group-theoretic condition is satisfied, namely when the linear representations underlying their feature spaces are trivial representations. Second, we show analogous results for connected compact groups, where the only admitted equivariant neural networks with point-wise activations are the invariant ones.	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@InProceedings{Pacini2023,
-  author    = {Marco Pacini and Xiaowen Dong and Bruno Lepri and Gabriele Santin},
-  title     = {Point-wise Activations and Steerable Convolutional Networks},
-  booktitle = {The Second Learning on Graphs Conference},
-  year      = {2023},
-  url       = {https://openreview.net/forum?id=gsJPYzdA0S},
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
 ## Published
 
 <p style='margin-top:-20px;margin-left:5%;'>
@@ -482,6 +449,38 @@ The aim of the paper is to assess how the traffic of roundabouts could be organi
   month     = {08},
   pages     = {V001T01A016},
   doi       = {10.1115/DETC2023-116402},
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
+<summary>M. Pacini, X. Dong, B. Lepri, G. Santin, 
+<i>Point-wise Activations and Steerable Convolutional Network</i>, 
+The Second Learning on Graphs Conference (2023). <a href='https://openreview.net/forum?id=gsJPYzdA0S'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://openreview.net/forum?id=gsJPYzdA0S'> <i class="ai ai-doi"> </i>Published</a>
+</summary>
+
+<small>
+
+<blockquote>
+Steerable Convolutional Neural Networks are a popular and efficient class of equivariant models. For some specific groups, representations, and choice of coordinates, the most common point-wise activations, such as ReLU, are not equivariant. Hence they cannot be employed in designing equivariant neural networks. In this paper, we present a simple yet effective generalization of such results for equivariant networks. First, we prove that for groups such point-wise activations can be employed in disentangled layers only when a simple group-theoretic condition is satisfied, namely when the linear representations underlying their feature spaces are trivial representations. Second, we show analogous results for connected compact groups, where the only admitted equivariant neural networks with point-wise activations are the invariant ones.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@InProceedings{Pacini2023,
+  author    = {Marco Pacini and Xiaowen Dong and Bruno Lepri and Gabriele Santin},
+  title     = {Point-wise Activations and Steerable Convolutional Networks},
+  booktitle = {The Second Learning on Graphs Conference},
+  year      = {2023},
+  url       = {https://openreview.net/forum?id=gsJPYzdA0S},
 }
   </code>
 </pre>
