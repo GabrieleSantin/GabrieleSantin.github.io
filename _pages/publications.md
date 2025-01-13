@@ -105,41 +105,6 @@ The separation power of a machine learning model refers to its capacity to disti
 
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
-<summary>T. Wenzel, D. Winkle, G. Santin, B. Haasdonk, 
-<i>Adaptive meshfree solution of linear partial differential equations with PDE-greedy kernel methods </i> (2022). <a href='https://arxiv.org/abs/2207.13971'> <i class="fa fa-file-pdf"></i> Preprint </a>
-</summary>
-
-<small>
-
-<blockquote>
-We consider the meshless solution of PDEs via symmetric kernel collocation by using greedy kernel methods. In this way we avoid the need for mesh generation, which can be challenging for non-standard domains or manifolds. We introduce and discuss different kind of greedy selection criteria, such as the PDE-P -greedy and the PDE-f -greedy for collocation point selection. Subsequently we analyze the convergence rates of these algorithms and provide bounds on the approximation error in terms of the number of greedily selected points. Especially we prove that target-data dependent algorithms, i.e. those using knowledge of the right hand side functions of the PDE, exhibit faster convergence rates. The provided analysis is applicable to PDEs both on domains and manifolds. This fact and the advantages of target-data dependent algorithms are highlighted by numerical examples.	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@Article{Wenzel2022c,
-  author    = {Wenzel, Tizian and Santin, Gabriele and Haasdonk, Bernard},
-  title     = {Analysis of Target Data-Dependent Greedy Kernel Algorithms: Convergence Rates for f-, {\$}{\$}f {\backslash}cdot P{\$}{\$}- and f/P-Greedy},
-  journal   = {Constructive Approximation},
-  year      = {2022},
-  month     = {Oct},
-  issn      = {1432-0940},
-  doi       = {10.1007/s00365-022-09592-3},
-  url       = {https://doi.org/10.1007/s00365-022-09592-3},
-  day       = {18},
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
 <summary>T. Wenzel, G. Santin, B. Haasdonk, 
 <i>Universality and optimality of structured deep kernel  networks</i> (2021). <a href='https://arxiv.org/abs/2105.07228'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
@@ -159,6 +124,43 @@ Kernel based methods yield approximation models that are flexible, efficient and
       eprint={2105.07228},
       archivePrefix={arXiv},
       primaryClass={cs.LG}
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+## Accepted
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
+<summary>T. Wenzel, D. Winkle, G. Santin, B. Haasdonk, 
+<i>Adaptive meshfree  approximation for linear elliptic partial differential equations with  PDE-greedy kernel methods</i>, 
+Accepted for publication in BIT (2025). <a href='https://arxiv.org/abs/2207.13971'> <i class="fa fa-file-pdf"></i> Preprint </a>
+</summary>
+
+<small>
+
+<blockquote>
+We consider meshless approximation for solutions of boundary value problems (BVPs)  of elliptic Partial Differential Equations (PDEs) via symmetric kernel collocation. We discuss the importance of the choice of the collocation points, in particular by using greedy kernel methods. We introduce a scale of PDE-greedy selection criteria that generalizes existing techniques, such as the PDE-$P$-greedy and the PDE-$f$-greedy rules for collocation point selection. For these greedy selection criteria we provide bounds on the approximation error in terms of the number of greedily selected points and analyze the corresponding convergence rates. This is achieved by a novel analysis of Kolmogorov widths of special sets of BVP point-evaluation functionals. Especially, we prove that target-data dependent algorithms that make use of the right hand side functions of the BVP exhibit faster convergence rates than the target-data independent PDE-$P$-greedy. The convergence rate of the PDE-$f$-greedy possesses a dimension independent rate, which makes it amenable to mitigate the curse of dimensionality. The advantages of these greedy algorithms are highlighted by numerical examples. 	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@Article{Wenzel2022c,
+  author    = {Wenzel, Tizian and Santin, Gabriele and Haasdonk, Bernard},
+  title     = {Analysis of Target Data-Dependent Greedy Kernel Algorithms: Convergence Rates for f-, {\$}{\$}f {\backslash}cdot P{\$}{\$}- and f/P-Greedy},
+  journal   = {Constructive Approximation},
+  year      = {2022},
+  month     = {Oct},
+  issn      = {1432-0940},
+  doi       = {10.1007/s00365-022-09592-3},
+  url       = {https://doi.org/10.1007/s00365-022-09592-3},
+  day       = {18},
 }
   </code>
 </pre>
