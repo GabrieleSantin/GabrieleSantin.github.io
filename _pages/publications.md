@@ -75,36 +75,6 @@ Regression splines are largely used to investigate and predict data behavior, at
 
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
-<summary>M. Pacini, X. Dong, B. Lepri, G. Santin, 
-<i>Separation Power of Equivariant Neural Networks</i> (2024). <a href='https://arxiv.org/abs/2406.08966v1'> <i class="fa fa-file-pdf"></i> Preprint </a>
-</summary>
-
-<small>
-
-<blockquote>
-The separation power of a machine learning model refers to its capacity to distinguish distinct inputs, and it is often employed as a proxy for its expressivity. In this paper, we propose a theoretical framework to investigate the separation power of equivariant neural networks with point-wise activations. Using the proposed framework, we can derive an explicit description of inputs indistinguishable by a family of neural networks with given architecture, demonstrating that it remains unaffected by the choice of non-polynomial activation function employed. We are able to understand the role played by activation functions in separability. Indeed, we show that all non-polynomial activations, such as ReLU and sigmoid, are equivalent in terms of expressivity, and that they reach maximum discrimination capacity. We demonstrate how assessing the separation power of an equivariant neural network can be simplified to evaluating the separation power of minimal representations. We conclude by illustrating how these minimal components form a hierarchy in separation power.	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@misc{Pacini2024b,
-      title={Separation Power of Equivariant Neural Networks}, 
-      author={Marco Pacini and Xiaowen Dong and Bruno Lepri and Gabriele Santin},
-      year={2024},
-      eprint={2406.08966},
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
 <summary>T. Wenzel, G. Santin, B. Haasdonk, 
 <i>Universality and optimality of structured deep kernel  networks</i> (2021). <a href='https://arxiv.org/abs/2105.07228'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
@@ -161,6 +131,37 @@ We consider meshless approximation for solutions of boundary value problems (BVP
   doi       = {10.1007/s00365-022-09592-3},
   url       = {https://doi.org/10.1007/s00365-022-09592-3},
   day       = {18},
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
+<summary>M. Pacini, X. Dong, B. Lepri, G. Santin, 
+<i>Separation Power of Equivariant Neural Networks</i>, 
+Accepted for publication in The Thirteenth International Conference on Learning Representations (ICLR2025) (2025). <a href='https://arxiv.org/abs/2406.08966v1'> <i class="fa fa-file-pdf"></i> Preprint </a>
+</summary>
+
+<small>
+
+<blockquote>
+The separation power of a machine learning model refers to its capacity to distinguish distinct inputs, and it is often employed as a proxy for its expressivity. In this paper, we propose a theoretical framework to investigate the separation power of equivariant neural networks with point-wise activations. Using the proposed framework, we can derive an explicit description of inputs indistinguishable by a family of neural networks with given architecture, demonstrating that it remains unaffected by the choice of non-polynomial activation function employed. We are able to understand the role played by activation functions in separability. Indeed, we show that all non-polynomial activations, such as ReLU and sigmoid, are equivalent in terms of expressivity, and that they reach maximum discrimination capacity. We demonstrate how assessing the separation power of an equivariant neural network can be simplified to evaluating the separation power of minimal representations. We conclude by illustrating how these minimal components form a hierarchy in separation power.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@misc{Pacini2024b,
+      title={Separation Power of Equivariant Neural Networks}, 
+      author={Marco Pacini and Xiaowen Dong and Bruno Lepri and Gabriele Santin},
+      year={2024},
+      eprint={2406.08966},
 }
   </code>
 </pre>
@@ -395,7 +396,7 @@ Non-pharmaceutical measures such as preventive quarantines, remote working, scho
 
 <summary>M. Pacini, X. Dong, B. Lepri, G. Santin, 
 <i>A Characterization Theorem for Equivariant Networks with Point-wise Activations</i>, 
-The Twelfth International Conference on Learning Representations (2024). <a href='https://arxiv.org/abs/2401.09235'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://openreview.net/forum?id=79FVDdfoSR'> <i class="ai ai-doi"> </i>Published</a>
+The Twelfth International Conference on Learning Representations (ICLR2024) (2024). <a href='https://arxiv.org/abs/2401.09235'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://openreview.net/forum?id=79FVDdfoSR'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
