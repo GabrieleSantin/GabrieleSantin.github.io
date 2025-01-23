@@ -146,7 +146,7 @@ We consider meshless approximation for solutions of boundary value problems (BVP
 
 <summary>M. Pacini, X. Dong, B. Lepri, G. Santin, 
 <i>Separation Power of Equivariant Neural Networks</i>, 
-Accepted for publication in The Thirteenth International Conference on Learning Representations (ICLR2025) (2025). <a href='https://arxiv.org/abs/2406.08966v1'> <i class="fa fa-file-pdf"></i> Preprint </a>
+Accepted for publication in The Thirteenth International Conference on Learning Representations – ICLR (2025). <a href='https://arxiv.org/abs/2406.08966v1'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
 
 <small>
@@ -396,7 +396,7 @@ Non-pharmaceutical measures such as preventive quarantines, remote working, scho
 
 <summary>M. Pacini, X. Dong, B. Lepri, G. Santin, 
 <i>A Characterization Theorem for Equivariant Networks with Point-wise Activations</i>, 
-The Twelfth International Conference on Learning Representations (ICLR2024) (2024). <a href='https://arxiv.org/abs/2401.09235'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://openreview.net/forum?id=79FVDdfoSR'> <i class="ai ai-doi"> </i>Published</a>
+The Twelfth International Conference on Learning Representations – ICLR (2024). <a href='https://arxiv.org/abs/2401.09235'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://openreview.net/forum?id=79FVDdfoSR'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
