@@ -108,42 +108,6 @@ Kernel based methods yield approximation models that are flexible, efficient and
 ## Accepted
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
-<summary>T. Wenzel, D. Winkle, G. Santin, B. Haasdonk, 
-<i>Adaptive meshfree  approximation for linear elliptic partial differential equations with  PDE-greedy kernel methods</i>, 
-Accepted for publication in BIT (2025). <a href='https://arxiv.org/abs/2207.13971'> <i class="fa fa-file-pdf"></i> Preprint </a>
-</summary>
-
-<small>
-
-<blockquote>
-We consider meshless approximation for solutions of boundary value problems (BVPs)  of elliptic Partial Differential Equations (PDEs) via symmetric kernel collocation. We discuss the importance of the choice of the collocation points, in particular by using greedy kernel methods. We introduce a scale of PDE-greedy selection criteria that generalizes existing techniques, such as the PDE-$P$-greedy and the PDE-$f$-greedy rules for collocation point selection. For these greedy selection criteria we provide bounds on the approximation error in terms of the number of greedily selected points and analyze the corresponding convergence rates. This is achieved by a novel analysis of Kolmogorov widths of special sets of BVP point-evaluation functionals. Especially, we prove that target-data dependent algorithms that make use of the right hand side functions of the BVP exhibit faster convergence rates than the target-data independent PDE-$P$-greedy. The convergence rate of the PDE-$f$-greedy possesses a dimension independent rate, which makes it amenable to mitigate the curse of dimensionality. The advantages of these greedy algorithms are highlighted by numerical examples. 	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@Article{Wenzel2022c,
-  author    = {Wenzel, Tizian and Santin, Gabriele and Haasdonk, Bernard},
-  title     = {Analysis of Target Data-Dependent Greedy Kernel Algorithms: Convergence Rates for f-, {\$}{\$}f {\backslash}cdot P{\$}{\$}- and f/P-Greedy},
-  journal   = {Constructive Approximation},
-  year      = {2022},
-  month     = {Oct},
-  issn      = {1432-0940},
-  doi       = {10.1007/s00365-022-09592-3},
-  url       = {https://doi.org/10.1007/s00365-022-09592-3},
-  day       = {18},
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
 <summary>M. Pacini, X. Dong, B. Lepri, G. Santin, 
 <i>Separation Power of Equivariant Neural Networks</i>, 
 Accepted for publication in The Thirteenth International Conference on Learning Representations – ICLR (2025). <a href='https://arxiv.org/abs/2406.08966v1'> <i class="fa fa-file-pdf"></i> Preprint </a>
@@ -174,6 +138,48 @@ The separation power of a machine learning model refers to its capacity to disti
 
 
 ## Published
+
+<p style='margin-top:-20px;margin-left:5%;'>
+<h3 style='margin-left:5%;'> 2025</h3>
+</p>
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
+<summary>T. Wenzel, D. Winkle, G. Santin, B. Haasdonk, 
+<i>Adaptive meshfree  approximation for linear elliptic partial differential equations with  PDE-greedy kernel methods</i>, 
+BIT (2025). <a href='https://arxiv.org/abs/2207.13971'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='http://dx.doi.org/10.1007/s10543-025-01053-0'> <i class="ai ai-doi"> </i>Published</a>
+</summary>
+
+<small>
+
+<blockquote>
+We consider meshless approximation for solutions of boundary value problems (BVPs)  of elliptic Partial Differential Equations (PDEs) via symmetric kernel collocation. We discuss the importance of the choice of the collocation points, in particular by using greedy kernel methods. We introduce a scale of PDE-greedy selection criteria that generalizes existing techniques, such as the PDE-$P$-greedy and the PDE-$f$-greedy rules for collocation point selection. For these greedy selection criteria we provide bounds on the approximation error in terms of the number of greedily selected points and analyze the corresponding convergence rates. This is achieved by a novel analysis of Kolmogorov widths of special sets of BVP point-evaluation functionals. Especially, we prove that target-data dependent algorithms that make use of the right hand side functions of the BVP exhibit faster convergence rates than the target-data independent PDE-$P$-greedy. The convergence rate of the PDE-$f$-greedy possesses a dimension independent rate, which makes it amenable to mitigate the curse of dimensionality. The advantages of these greedy algorithms are highlighted by numerical examples. 	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@Article{Wenzel2025,
+  author    = {Wenzel, Tizian and Winkle, Daniel and Santin, Gabriele and Haasdonk, Bernard},
+  title     = {Adaptive meshfree approximation for linear elliptic partial differential equations with PDE-greedy kernel methods},
+  journal   = {BIT Numerical Mathematics},
+  year      = {2025},
+  volume    = {65},
+  number    = {1},
+  month     = {Jan},
+  pages     = {11},
+  issn      = {1572-9125},
+  doi       = {10.1007/s10543-025-01053-0},
+  day       = {23},
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
 
 <p style='margin-top:-20px;margin-left:5%;'>
 <h3 style='margin-left:5%;'> 2024</h3>
