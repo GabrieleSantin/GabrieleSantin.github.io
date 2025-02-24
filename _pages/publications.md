@@ -105,38 +105,6 @@ Kernel based methods yield approximation models that are flexible, efficient and
 
 
 
-## Accepted
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
-<summary>M. Pacini, X. Dong, B. Lepri, G. Santin, 
-<i>Separation Power of Equivariant Neural Networks</i>, 
-Accepted for publication in The Thirteenth International Conference on Learning Representations – ICLR (2025). <a href='https://arxiv.org/abs/2406.08966v1'> <i class="fa fa-file-pdf"></i> Preprint </a>
-</summary>
-
-<small>
-
-<blockquote>
-The separation power of a machine learning model refers to its capacity to distinguish distinct inputs, and it is often employed as a proxy for its expressivity. In this paper, we propose a theoretical framework to investigate the separation power of equivariant neural networks with point-wise activations. Using the proposed framework, we can derive an explicit description of inputs indistinguishable by a family of neural networks with given architecture, demonstrating that it remains unaffected by the choice of non-polynomial activation function employed. We are able to understand the role played by activation functions in separability. Indeed, we show that all non-polynomial activations, such as ReLU and sigmoid, are equivalent in terms of expressivity, and that they reach maximum discrimination capacity. We demonstrate how assessing the separation power of an equivariant neural network can be simplified to evaluating the separation power of minimal representations. We conclude by illustrating how these minimal components form a hierarchy in separation power.	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@misc{Pacini2024b,
-      title={Separation Power of Equivariant Neural Networks}, 
-      author={Marco Pacini and Xiaowen Dong and Bruno Lepri and Gabriele Santin},
-      year={2024},
-      eprint={2406.08966},
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
 ## Published
 
 <p style='margin-top:-20px;margin-left:5%;'>
@@ -169,6 +137,37 @@ We consider meshless approximation for solutions of boundary value problems (BVP
   issn      = {1572-9125},
   doi       = {10.1007/s10543-025-01053-0},
   day       = {23},
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
+<summary>M. Pacini, X. Dong, B. Lepri, G. Santin, 
+<i>Separation Power of Equivariant Neural Networks</i>, 
+The Thirteenth International Conference on Learning Representations – ICLR (2025). <a href='https://arxiv.org/abs/2406.08966v1'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://openreview.net/forum?id=RAyRXQjsFl'> <i class="ai ai-doi"> </i>Published</a>
+</summary>
+
+<small>
+
+<blockquote>
+The separation power of a machine learning model refers to its capacity to distinguish distinct inputs, and it is often employed as a proxy for its expressivity. In this paper, we propose a theoretical framework to investigate the separation power of equivariant neural networks with point-wise activations. Using the proposed framework, we can derive an explicit description of inputs indistinguishable by a family of neural networks with given architecture, demonstrating that it remains unaffected by the choice of non-polynomial activation function employed. We are able to understand the role played by activation functions in separability. Indeed, we show that all non-polynomial activations, such as ReLU and sigmoid, are equivalent in terms of expressivity, and that they reach maximum discrimination capacity. We demonstrate how assessing the separation power of an equivariant neural network can be simplified to evaluating the separation power of minimal representations. We conclude by illustrating how these minimal components form a hierarchy in separation power.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@misc{Pacini2024b,
+      title={Separation Power of Equivariant Neural Networks}, 
+      author={Marco Pacini and Xiaowen Dong and Bruno Lepri and Gabriele Santin},
+      year={2024},
+      eprint={2406.08966},
 }
   </code>
 </pre>
