@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m an assistant professor (RTDb) at the [Department of Environmental Sciences, Informatics and Statistics](https://www.unive.it/pag/28183) at the Ca' Foscari University of Venice in Italy, where I'm also a member of the [Data-Centric Environmental Studies Center (DESC)](https://www.unive.it/web/en/15222/home).
+I’m an assistant professor (RTDb) at the [Department of Environmental Sciences, Informatics and Statistics](https://www.unive.it/pag/28183) at the Ca' Foscari University of Venice in Italy, where I'm a member of the [Applied Mathematics lab](https://www.unive.it/pag/50029/) and of the [Data-Centric Environmental Studies Center (DESC)](https://www.unive.it/web/en/15222/home).
 
 I work on Approximation Theory and Machine Learning, and on their combination for the solution of problems in simulation sciences. 
 
