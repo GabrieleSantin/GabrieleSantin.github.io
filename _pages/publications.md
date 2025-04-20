@@ -74,12 +74,16 @@ Kernel based methods yield approximation models that are flexible, efficient and
 
 
 
-## Accepted
+## Published
+
+<p style='margin-top:-20px;margin-left:5%;'>
+<h3 style='margin-left:5%;'> 2025</h3>
+</p>
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>J. Lee, B. Hamzi, B. Hou, H. Owhadi, G. Santin, U. Vaidya, 
 <i>Kernel Methods for the Approximation of the Eigenfunctions of the Koopman Operator</i>, 
-Accepted for publication in Physica D: Nonlinear Phenomena (2025). <a href='https://www.arxiv.org/abs/2412.16588'> <i class="fa fa-file-pdf"></i> Preprint </a>
+Physica D: Nonlinear Phenomena (2025). <a href='https://www.arxiv.org/abs/2412.16588'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1016/j.physd.2025.134662'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -90,12 +94,15 @@ The Koopman operator provides a linear framework to study nonlinear dynamical sy
 
 <pre>
   <code class="bibtex">
-@misc{Lee2024,
-      title={Kernel Methods for the Approximation of the Eigenfunctions of the Koopman Operator}, 
-      author={Jonghyeon Lee and Boumediene Hamzi and Boya Hou and Houman Owhadi and Gabriele Santin and Umesh Vaidya},
-      year={2024},
-      eprint={2412.16588},
-      url={https://arxiv.org/abs/2412.16588}, 
+@Article{Lee2025,
+  author    = {Jonghyeon Lee and Boumediene Hamzi and Boya Hou and Houman Owhadi and Gabriele Santin and Umesh Vaidya},
+  title     = {Kernel methods for the approximation of the eigenfunctions of the Koopman operator},
+  journal   = {Physica D: Nonlinear Phenomena},
+  year      = {2025},
+  volume    = {476},
+  pages     = {134662},
+  issn      = {0167-2789},
+  doi       = {https://doi.org/10.1016/j.physd.2025.134662},
 }
   </code>
 </pre>
@@ -107,11 +114,6 @@ The Koopman operator provides a linear framework to study nonlinear dynamical sy
 
 
 
-## Published
-
-<p style='margin-top:-20px;margin-left:5%;'>
-<h3 style='margin-left:5%;'> 2025</h3>
-</p>
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>T. Wenzel, D. Winkle, G. Santin, B. Haasdonk, 
