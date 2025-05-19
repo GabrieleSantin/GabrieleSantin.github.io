@@ -19,7 +19,7 @@ Click on the publications below to expand them.
 <small>
 
 <blockquote>
-	
+In Single Photon Emission Computed Tomography (SPECT), the image reconstruction process involves many tunable parameters that have a significant impact on the quality of the resulting clinical images. Traditional image quality evaluation often relies on expert judgment and full-reference metrics such as MSE and SSIM. However, these approaches are limited by their subjectivity or the need for a ground-truth image. In this paper, we investigate the usage of a no-reference image quality assessment method tailored for SPECT imaging, employing the Perception-based Image QUality Evaluator (PIQUE) score. Precisely, we propose a novel application of PIQUE in evaluating SPECT images reconstructed via filtered backprojection using a parameter-dependent Butterworth filter. For the optimization of filter's parameters, we adopt a kernel-based Bayesian optimization framework grounded in reproducing kernel Hilbert space theory, highlighting the connections to recent greedy approximation techniques. Experimental results in a concrete clinical setting for SPECT imaging show the potential of this optimization approach for an objective and quantitative assessment of image quality, without requiring a reference image.	
 </blockquote>
 
 <pre>
@@ -32,6 +32,39 @@ Click on the publications below to expand them.
       archivePrefix={arXiv},
       primaryClass={math.NA},
       url={https://arxiv.org/abs/2505.06692}, 
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
+<summary>Toni Karvonen, Gabriele Santin, Tizian Wenzel, 
+<i>General superconvergence for kernel-based approximation</i> (2025). <a href='https://arxiv.org/abs/2505.11435'> <i class="fa fa-file-pdf"></i> Preprint </a>
+</summary>
+
+<small>
+
+<blockquote>
+Kernel interpolation is a fundamental technique for approximating functions from scattered data, with a well-understood convergence theory when interpolating elements of a reproducing kernel Hilbert space. Beyond this classical setting, research has focused on two regimes: misspecified interpolation, where the kernel smoothness exceeds that of the target function, and superconvergence, where the target is smoother than the Hilbert space. This work addresses the latter, where smoother target functions yield improved convergence rates, and extends existing results by characterizing superconvergence for projections in general Hilbert spaces. We show that functions lying in ranges of certain operators, including adjoint of embeddings, exhibit accelerated convergence, which we extend across interpolation scales between these ranges and the full Hilbert space. In particular, we analyze Mercer operators and embeddings into Lp spaces, linking the images of adjoint operators to Mercer power spaces. Applications to Sobolev spaces are discussed in detail, highlighting how superconvergence depends critically on boundary conditions. Our findings generalize and refine previous results, offering a broader framework for understanding and exploiting superconvergence. The results are supported by numerical experiments.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@misc{Karvonen2025,
+      title={General superconvergence for kernel-based approximation}, 
+      author={Toni Karvonen and Gabriele Santin and Tizian Wenzel},
+      year={2025},
+      eprint={2505.11435},
+      archivePrefix={arXiv},
+      primaryClass={math.NA},
+      url={https://arxiv.org/abs/2505.11435}, 
 }
   </code>
 </pre>
