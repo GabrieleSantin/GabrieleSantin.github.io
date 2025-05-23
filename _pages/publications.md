@@ -108,12 +108,16 @@ Kernel based methods yield approximation models that are flexible, efficient and
 
 
 
-## Accepted
+## Published
+
+<p style='margin-top:-20px;margin-left:5%;'>
+<h3 style='margin-left:5%;'> 2025</h3>
+</p>
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>R. Campagna, S. Crisci, G. Santin, G. Toraldo, M. Viola , 
 <i>An algorithm for a constrained P-spline </i>, 
-Accepted for publication in BIT (2025). <a href='https://arxiv.org/abs/2501.04335'> <i class="fa fa-file-pdf"></i> Preprint </a>
+BIT (2025). <a href='https://arxiv.org/abs/2501.04335'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1007/s10543-025-01071-y'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -145,11 +149,6 @@ Regression splines are largely used to investigate and predict data behavior, at
 
 
 
-## Published
-
-<p style='margin-top:-20px;margin-left:5%;'>
-<h3 style='margin-left:5%;'> 2025</h3>
-</p>
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>J. Lee, B. Hamzi, B. Hou, H. Owhadi, G. Santin, U. Vaidya, 
