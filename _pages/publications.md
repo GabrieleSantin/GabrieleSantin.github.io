@@ -124,13 +124,16 @@ Regression splines are largely used to investigate and predict data behavior, at
 
 <pre>
   <code class="bibtex">
-@misc{Campagna2024,
-      title={An algorithm for a constrained P-spline}, 
-      author={Rosanna Campagna and Serena Crisci and Gabriele Santin and Gerardo Toraldo and Marco Viola},
-      year={2025},
-      eprint={2501.04335},
-      archivePrefix={arXiv},
-      url={https://arxiv.org/abs/2501.04335}, 
+@Article{Campagna2025,
+  author    = {Campagna, Rosanna and Crisci, Serena and Santin, Gabriele and Toraldo, Gerardo and Viola, Marco},
+  title     = {An algorithm for a constrained P-spline},
+  journal   = {BIT Numerical Mathematics},
+  year      = {2025},
+  volume    = {65},
+  number    = {2},
+  pages     = {29},
+  doi       = {10.1007/s10543-025-01071-y},
+  day       = {21},
 }
   </code>
 </pre>
