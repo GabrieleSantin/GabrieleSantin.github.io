@@ -45,7 +45,7 @@ In Single Photon Emission Computed Tomography (SPECT), the image reconstruction 
 
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
-<summary>Toni Karvonen, Gabriele Santin, Tizian Wenzel, 
+<summary>T. Karvonen, G. Santin, T. Wenzel, 
 <i>General superconvergence for kernel-based approximation</i> (2025). <a href='https://arxiv.org/abs/2505.11435'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
 
