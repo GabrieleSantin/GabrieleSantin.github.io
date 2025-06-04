@@ -12,6 +12,39 @@ Click on the publications below to expand them.
 ## Submitted
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
+<summary>M. Pacini, G. Santin, B. Lepri,  S. Trivedi, 
+<i>On Universality Classes of Equivariant Networks</i> (2025). <a href='https://arxiv.org/abs/2506.02293'> <i class="fa fa-file-pdf"></i> Preprint </a>
+</summary>
+
+<small>
+
+<blockquote>
+Equivariant neural networks provide a principled framework for incorporating symmetry into learning architectures and have been extensively analyzed through the lens of their separation power, that is, the ability to distinguish inputs modulo symmetry. This notion plays a central role in settings such as graph learning, where it is often formalized via the Weisfeiler-Leman hierarchy. In contrast, the universality of equivariant models-their capacity to approximate target functions-remains comparatively underexplored. In this work, we investigate the approximation power of equivariant neural networks beyond separation constraints. We show that separation power does not fully capture expressivity: models with identical separation power may differ in their approximation ability. To demonstrate this, we characterize the universality classes of shallow invariant networks, providing a general framework for understanding which functions these architectures can approximate. Since equivariant models reduce to invariant ones under projection, this analysis yields sufficient conditions under which shallow equivariant networks fail to be universal. Conversely, we identify settings where shallow models do achieve separation-constrained universality. These positive results, however, depend critically on structural properties of the symmetry group, such as the existence of adequate normal subgroups, which may not hold in important cases like permutation symmetry.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@misc{Pacini2025,
+      title={On Universality Classes of Equivariant Networks}, 
+      author={Marco Pacini and Gabriele Santin and Bruno Lepri and Shubhendu Trivedi},
+      year={2025},
+      eprint={2506.02293},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2506.02293}, 
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
 <summary>L. Pastrello, D. Cecchin, G. Santin, F. Marchetti, 
 <i>Tuning Butterworth filter's parameters in SPECT reconstructions via kernel-based Bayesian optimization with a no-reference image evaluation metric </i> (2025). <a href='https://arxiv.org/abs/2505.06692'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
