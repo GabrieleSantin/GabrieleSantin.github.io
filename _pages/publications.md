@@ -45,6 +45,39 @@ Equivariant neural networks provide a principled framework for incorporating sym
 
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
+<summary>M. Rama, G. Santin, G. Cencetti, M. Tizzoni, B. Lepri, 
+<i>Forecasting Seasonal Influenza Epidemics with Physics-Informed Neural Networks}</i> (2025). <a href='https://arxiv.org/abs/2506.03897'> <i class="fa fa-file-pdf"></i> Preprint </a>
+</summary>
+
+<small>
+
+<blockquote>
+Accurate epidemic forecasting is critical for informing public health decisions and timely interventions. While Physics-Informed Neural Networks (PINNs) have shown promise in various scientific domains, their application to real-time epidemic forecasting remains limited. The reasons are mainly due to the intrinsic difficulty of the task and the tendency to fully leveraging their learning and inference potential, which, however, often results in non-optimal forecasting frameworks. Here, we present SIR-INN, a hybrid forecasting framework that integrates the mechanistic structure of the classical Susceptible-Infectious-Recovered (SIR) model into a neural network architecture. Trained once on synthetic epidemic scenarios, the model is able to generalize across epidemic conditions without retraining. From limited and noisy observations, SIR-INN infers key transmission parameters via Markov chain Monte Carlo (MCMC) generating probabilistic short- and long-term forecasts. We validate SIR-INN using national influenza data from the Italian National Institute of Health, in the 2023-2024 and 2024-2025 seasons. The model performs competitively with current state-of-the-art approaches, particularly in terms of Mean Absolute Error (MAE) and Weighted Interval Score (WIS). It shows accurate predictive performance in nearly all phases of the outbreak, with improved accuracy observed for the 2024-2025 influenza season. Credible uncertainty intervals are consistently maintained, despite occasional shortcomings in coverage. SIR-INN offers a computationally efficient, interpretable, and generalizable solution for epidemic forecasting, appropriately leveraging the framework's hybrid design. Its ability to provide real-time predictions of epidemic dynamics, together with uncertainty quantification, makes it a promising tool for real-world epidemic forecasting.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@misc{Rama2025,
+      title={Forecasting Seasonal Influenza Epidemics with Physics-Informed Neural Networks}, 
+      author={Martina Rama and Gabriele Santin and Giulia Cencetti and Michele Tizzoni and Bruno Lepri},
+      year={2025},
+      eprint={2506.03897},
+      archivePrefix={arXiv},
+      primaryClass={physics.soc-ph},
+      url={https://arxiv.org/abs/2506.03897}, 
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
 <summary>L. Pastrello, D. Cecchin, G. Santin, F. Marchetti, 
 <i>Tuning Butterworth filter's parameters in SPECT reconstructions via kernel-based Bayesian optimization with a no-reference image evaluation metric </i> (2025). <a href='https://arxiv.org/abs/2505.06692'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
