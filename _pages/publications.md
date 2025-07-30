@@ -79,7 +79,7 @@ Equivariant neural networks provide a principled framework for incorporating sym
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>M. Rama, G. Santin, G. Cencetti, M. Tizzoni, B. Lepri, 
-<i>Forecasting Seasonal Influenza Epidemics with Physics-Informed Neural Networks}</i> (2025). <a href='https://arxiv.org/abs/2506.03897'> <i class="fa fa-file-pdf"></i> Preprint </a>
+<i>Forecasting Seasonal Influenza Epidemics with Physics-Informed Neural Networks</i> (2025). <a href='https://arxiv.org/abs/2506.03897'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
 
 <small>
@@ -164,38 +164,6 @@ Kernel interpolation is a fundamental technique for approximating functions from
       archivePrefix={arXiv},
       primaryClass={math.NA},
       url={https://arxiv.org/abs/2505.11435}, 
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
-<summary>T. Wenzel, G. Santin, B. Haasdonk, 
-<i>Universality and optimality of structured deep kernel  networks</i> (2021). <a href='https://arxiv.org/abs/2105.07228'> <i class="fa fa-file-pdf"></i> Preprint </a>
-</summary>
-
-<small>
-
-<blockquote>
-Kernel based methods yield approximation models that are flexible, efficient and powerful. In particular, they utilize fixed feature maps of the data, being often associated to strong analytical results that prove their accuracy. On the other hand, the recent success of machine learning methods has been driven by deep neural networks (NNs). They achieve a significant accuracy on very high-dimensional data, in that they are able to learn also efficient data representations or data-based feature maps. In this paper, we leverage a recent deep kernel representer theorem to connect the two approaches and understand their interplay. In particular, we show that the use of special types of kernels yield models reminiscent of neural networks that are founded in the same theoretical framework of classical kernel methods, while enjoying many computational properties of deep neural networks. Especially the introduced Structured Deep Kernel Networks (SDKNs) can be viewed as neural networks with optimizable activation functions obeying a representer theorem. Analytic properties show their universal approximation properties in different asymptotic regimes of unbounded number of centers, width and depth. Especially in the case of unbounded depth, the constructions is asymptotically better than corresponding constructions for ReLU neural networks, which is made possible by the flexibility of kernel approximation.	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@misc{Wenzel2021c,
-      title={Universality and Optimality of Structured Deep Kernel Networks}, 
-      author={Tizian Wenzel and Gabriele Santin and Bernard Haasdonk},
-      year={2021},
-      eprint={2105.07228},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
 }
   </code>
 </pre>
