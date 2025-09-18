@@ -175,12 +175,16 @@ Kernel interpolation is a fundamental technique for approximating functions from
 
 
 
-## Accepted
+## Published
+
+<p style='margin-top:-20px;margin-left:5%;'>
+<h3 style='margin-left:5%;'> 2025</h3>
+</p>
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>T. Wenzel, G. Santin, B. Haasdonk, 
 <i>Analysis of Structured Deep Kernel Networks</i>, 
-Accepted for publication in Journal of Computational and Applied Mathematics (2025). <a href='https://arxiv.org/abs/2105.07228'> <i class="fa fa-file-pdf"></i> Preprint </a>
+Journal of Computational and Applied Mathematics (2025). <a href='https://arxiv.org/abs/2105.07228'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='{https://doi.org/10.1016/j.cam.2025.116975'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -191,13 +195,15 @@ Kernel based methods yield approximation models that are flexible, efficient and
 
 <pre>
   <code class="bibtex">
-@misc{Wenzel2021c,
-      title={Universality and Optimality of Structured Deep Kernel Networks}, 
-      author={Tizian Wenzel and Gabriele Santin and Bernard Haasdonk},
-      year={2021},
-      eprint={2105.07228},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@Article{Wenzel2025c,
+  author    = {Tizian Wenzel and Gabriele Santin and Bernard Haasdonk},
+  title     = {Analysis of structured deep kernel networks},
+  journal   = {Journal of Computational and Applied Mathematics},
+  year      = {2025},
+  pages     = {116975},
+  issn      = {0377-0427},
+  doi       = {https://doi.org/10.1016/j.cam.2025.116975},
+  url       = {https://www.sciencedirect.com/science/article/pii/S0377042725004893},
 }
   </code>
 </pre>
@@ -209,11 +215,6 @@ Kernel based methods yield approximation models that are flexible, efficient and
 
 
 
-## Published
-
-<p style='margin-top:-20px;margin-left:5%;'>
-<h3 style='margin-left:5%;'> 2025</h3>
-</p>
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>R. Campagna, S. Crisci, G. Santin, G. Toraldo, M. Viola , 
