@@ -184,7 +184,7 @@ Kernel interpolation is a fundamental technique for approximating functions from
 
 <summary>T. Wenzel, G. Santin, B. Haasdonk, 
 <i>Analysis of Structured Deep Kernel Networks</i>, 
-Journal of Computational and Applied Mathematics (2025). <a href='https://arxiv.org/abs/2105.07228'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='{https://doi.org/10.1016/j.cam.2025.116975'> <i class="ai ai-doi"> </i>Published</a>
+Journal of Computational and Applied Mathematics (2025). <a href='https://arxiv.org/abs/2105.07228'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1016/j.cam.2025.116975'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
