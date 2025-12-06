@@ -12,6 +12,39 @@ Click on the publications below to expand them.
 ## Submitted
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
+<summary>S. Guastavino, G. Santin, F. Marchetti, F. Benvenuto, 
+<i>Weak convergence rates for spectral regularization via sampling inequalities</i> (2025). <a href='https://arxiv.org/abs/2512.04929'> <i class="fa fa-file-pdf"></i> Preprint </a>
+</summary>
+
+<small>
+
+<blockquote>
+Convergence rates in spectral regularization methods quantify the approximation error in inverse problems as a function of the noise level or the number of sampling points. Classical strong convergence rate results typically rely on source conditions, which are essential for estimating the truncation error. However, in the framework of kernel approximation, the truncation error in the case of Tikhonov regularization can be characterized entirely through sampling inequalities, without invoking source conditions. In this paper, we first generalize sampling inequalities to spectral regularization, and then, by exploiting the connection between inverse problems and kernel approximation, we derive weak convergence rate bounds for inverse problems, independently of source conditions. These weak convergence rates are established and analyzed when the forward operator is compact and uniformly bounded, or the kernel operator is of trace class.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@misc{Guastavino2025,
+      title={Weak convergence rates for spectral regularization via sampling inequalities}, 
+      author={Sabrina Guastavino and Gabriele Santin and Francesco Marchetti and Federico Benvenuto},
+      year={2025},
+      eprint={2512.04929},
+      archivePrefix={arXiv},
+      primaryClass={math.NA},
+      url={https://arxiv.org/abs/2512.04929}, 
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
 <summary>B. Haasdonk, G. Santin, T. Wenzel, 
 <i>Kernel-based Greedy Approximation of Parametric Elliptic Boundary Value Problems</i> (2025). <a href='https://arxiv.org/abs/2507.06731'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
