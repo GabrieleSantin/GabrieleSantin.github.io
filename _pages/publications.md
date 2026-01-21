@@ -178,40 +178,6 @@ Kernel interpolation is a fundamental technique for approximating functions from
 ## Accepted
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
-<summary>L. Pastrello, D. Cecchin, G. Santin, F. Marchetti, 
-<i>Tuning Butterworth filter's parameters in SPECT reconstructions via kernel-based Bayesian optimization with a no-reference image evaluation metric </i>, 
-Accepted for publication in Mathematical Medicine and Biology: A Journal of the IMA (2026). <a href='https://arxiv.org/abs/2505.06692'> <i class="fa fa-file-pdf"></i> Preprint </a>
-</summary>
-
-<small>
-
-<blockquote>
-In Single Photon Emission Computed Tomography (SPECT), the image reconstruction process involves many tunable parameters that have a significant impact on the quality of the resulting clinical images. Traditional image quality evaluation often relies on expert judgment and full-reference metrics such as MSE and SSIM. However, these approaches are limited by their subjectivity or the need for a ground-truth image. In this paper, we investigate the usage of a no-reference image quality assessment method tailored for SPECT imaging, employing the Perception-based Image QUality Evaluator (PIQUE) score. Precisely, we propose a novel application of PIQUE in evaluating SPECT images reconstructed via filtered backprojection using a parameter-dependent Butterworth filter. For the optimization of filter's parameters, we adopt a kernel-based Bayesian optimization framework grounded in reproducing kernel Hilbert space theory, highlighting the connections to recent greedy approximation techniques. Experimental results in a concrete clinical setting for SPECT imaging show the potential of this optimization approach for an objective and quantitative assessment of image quality, without requiring a reference image.	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@Article{Pastrello2026,
-  author    = {Pastrello, Luca and Cecchin, Diego and Santin, Gabriele and Marchetti, Francesco},
-  title     = {Tuning Butterworth filter’s parameters in SPECT reconstructions via kernel-based Bayesian optimization with a no-reference image evaluation metric},
-  journal   = {Mathematical Medicine and Biology: A Journal of the IMA},
-  year      = {2025},
-  month     = {12},
-  doi       = {10.1093/imammb/dqaf012},
-  url       = {https://doi.org/10.1093/imammb/dqaf012},
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
 <summary>M. Pacini, G. Santin, B. Lepri,  S. Trivedi, 
 <i>On Universality Classes of Equivariant Networks</i>, 
 Accepted for publication in NeurIPS 2025 (2025). <a href='https://arxiv.org/abs/2506.02293'> <i class="fa fa-file-pdf"></i> Preprint </a>
@@ -245,6 +211,44 @@ Equivariant neural networks provide a principled framework for incorporating sym
 
 
 ## Published
+
+<p style='margin-top:-20px;margin-left:5%;'>
+<h3 style='margin-left:5%;'> 2026</h3>
+</p>
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
+<summary>L. Pastrello, D. Cecchin, G. Santin, F. Marchetti, 
+<i>Tuning Butterworth filter's parameters in SPECT reconstructions via kernel-based Bayesian optimization with a no-reference image evaluation metric </i>, 
+Mathematical Medicine and Biology: A Journal of the IMA (2026). <a href='https://arxiv.org/abs/2505.06692'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1093/imammb/dqaf012'> <i class="ai ai-doi"> </i>Published</a>
+</summary>
+
+<small>
+
+<blockquote>
+In Single Photon Emission Computed Tomography (SPECT), the image reconstruction process involves many tunable parameters that have a significant impact on the quality of the resulting clinical images. Traditional image quality evaluation often relies on expert judgment and full-reference metrics such as MSE and SSIM. However, these approaches are limited by their subjectivity or the need for a ground-truth image. In this paper, we investigate the usage of a no-reference image quality assessment method tailored for SPECT imaging, employing the Perception-based Image QUality Evaluator (PIQUE) score. Precisely, we propose a novel application of PIQUE in evaluating SPECT images reconstructed via filtered backprojection using a parameter-dependent Butterworth filter. For the optimization of filter's parameters, we adopt a kernel-based Bayesian optimization framework grounded in reproducing kernel Hilbert space theory, highlighting the connections to recent greedy approximation techniques. Experimental results in a concrete clinical setting for SPECT imaging show the potential of this optimization approach for an objective and quantitative assessment of image quality, without requiring a reference image.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@Article{Pastrello2026,
+  author    = {Pastrello, Luca and Cecchin, Diego and Santin, Gabriele and Marchetti, Francesco},
+  title     = {Tuning Butterworth filter’s parameters in SPECT reconstructions via kernel-based Bayesian optimization with a no-reference image evaluation metric},
+  journal   = {Mathematical Medicine and Biology: A Journal of the IMA},
+  year      = {2025},
+  month     = {12},
+  doi       = {10.1093/imammb/dqaf012},
+  url       = {https://doi.org/10.1093/imammb/dqaf012},
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
 
 <p style='margin-top:-20px;margin-left:5%;'>
 <h3 style='margin-left:5%;'> 2025</h3>
