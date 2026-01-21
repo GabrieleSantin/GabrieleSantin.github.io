@@ -180,7 +180,7 @@ Kernel interpolation is a fundamental technique for approximating functions from
 
 <summary>L. Pastrello, D. Cecchin, G. Santin, F. Marchetti, 
 <i>Tuning Butterworth filter's parameters in SPECT reconstructions via kernel-based Bayesian optimization with a no-reference image evaluation metric </i>, 
-Accepted for publication in Mathematical Medicine and Biology: A Journal of the IMA (2025). <a href='https://arxiv.org/abs/2505.06692'> <i class="fa fa-file-pdf"></i> Preprint </a>
+Accepted for publication in Mathematical Medicine and Biology: A Journal of the IMA (2026). <a href='https://arxiv.org/abs/2505.06692'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
 
 <small>
@@ -191,14 +191,14 @@ In Single Photon Emission Computed Tomography (SPECT), the image reconstruction 
 
 <pre>
   <code class="bibtex">
-@misc{Pastrello2025,
-      title={Tuning Butterworth filter's parameters in SPECT reconstructions via kernel-based Bayesian optimization with a no-reference image evaluation metric}, 
-      author={Luca Pastrello and Diego Cecchin and Gabriele Santin and Francesco Marchetti},
-      year={2025},
-      eprint={2505.06692},
-      archivePrefix={arXiv},
-      primaryClass={math.NA},
-      url={https://arxiv.org/abs/2505.06692}, 
+@Article{Pastrello2026,
+  author    = {Pastrello, Luca and Cecchin, Diego and Santin, Gabriele and Marchetti, Francesco},
+  title     = {Tuning Butterworth filter’s parameters in SPECT reconstructions via kernel-based Bayesian optimization with a no-reference image evaluation metric},
+  journal   = {Mathematical Medicine and Biology: A Journal of the IMA},
+  year      = {2025},
+  month     = {12},
+  doi       = {10.1093/imammb/dqaf012},
+  url       = {https://doi.org/10.1093/imammb/dqaf012},
 }
   </code>
 </pre>
