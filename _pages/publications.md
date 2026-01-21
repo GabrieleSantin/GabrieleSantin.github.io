@@ -12,6 +12,39 @@ Click on the publications below to expand them.
 ## Submitted
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
+<summary>T. Wenzel, G. Santin, 
+<i>On the optimal shape parameter for kernel methods: Sharp direct and inverse statements</i> (2026). <a href='https://arxiv.org/abs/2601.14070'> <i class="fa fa-file-pdf"></i> Preprint </a>
+</summary>
+
+<small>
+
+<blockquote>
+The search for the optimal shape parameter for Radial Basis Function (RBF) kernel approximation has been an outstanding research problem for decades. In this work, we establish a theoretical framework for this problem by leveraging a recently established theory on sharp direct, inverse and saturation statements for kernel based approximation. In particular, we link the search for the optimal shape parameter to superconvergence phenomena. Our analysis is carried out for finitely smooth Sobolev kernels, thereby covering large classes of radial kernels used in practice, including those emerging from current machine-learning methodologies. Our results elucidate how approximation regimes, kernel regularity, and parameter choices interact, thereby clarifying a question that has remained unresolved for decades.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@misc{Wenzel2026a,
+      title={On the optimal shape parameter for kernel methods: Sharp direct and inverse statements}, 
+      author={Tizian Wenzel and Gabriele Santin},
+      year={2026},
+      eprint={2601.14070},
+      archivePrefix={arXiv},
+      primaryClass={math.NA},
+      url={https://arxiv.org/abs/2601.14070}, 
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
 <summary>S. Guastavino, G. Santin, F. Marchetti, F. Benvenuto, 
 <i>Weak convergence rates for spectral regularization via sampling inequalities</i> (2025). <a href='https://arxiv.org/abs/2512.04929'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
