@@ -45,6 +45,39 @@ The search for the optimal shape parameter for Radial Basis Function (RBF) kerne
 
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
+<summary>B. Haasdonk, G. Santin, T. Wenzel, D. Winkle, 
+<i>Refined rates of convergence for target-data dependent greedy generalized interpolation with Sobolev kernels</i> (2026). <a href='https://arxiv.org/abs/2601.20407v1'> <i class="fa fa-file-pdf"></i> Preprint </a>
+</summary>
+
+<small>
+
+<blockquote>
+Greedy methods have recently been successfully applied to generalized kernel interpolation, or the recovery of a function from data stemming from the evaluation of linear functionals, including the approximation of solutions of linear PDEs by symmetric collocation. When applied to kernels generating Sobolev spaces as their native Hilbert spaces, some of these greedy methods can provide the same error guarantee of generalized interpolation on quasi-uniform points. More importantly, certain target-data-adaptive methods even give a dimension- and smoothness-independent improvement in the speed of convergence over quasi-uniform points, thus offering advantages for high-dimensional problems. These convergence rates however contain a spurious logarithmic term that limits this beneficial effect. The goal of this note is to remove this factor, and this is possible by using estimates on metric entropy numbers.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@misc{Haasdonk2026a,
+      title={Refined rates of convergence for target-data dependent greedy generalized interpolation with Sobolev kernels}, 
+      author={Bernard Haasdonk and Gabriele Santin and Tizian Wenzel and Daniel Winkle},
+      year={2026},
+      eprint={2601.20407},
+      archivePrefix={arXiv},
+      primaryClass={math.NA},
+      url={https://arxiv.org/abs/2601.20407}, 
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
 <summary>S. Guastavino, G. Santin, F. Marchetti, F. Benvenuto, 
 <i>Weak convergence rates for spectral regularization via sampling inequalities</i> (2025). <a href='https://arxiv.org/abs/2512.04929'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
