@@ -208,41 +208,6 @@ Kernel interpolation is a fundamental technique for approximating functions from
 
 
 
-## Accepted
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
-<summary>M. Pacini, G. Santin, B. Lepri,  S. Trivedi, 
-<i>On Universality Classes of Equivariant Networks</i>, 
-Accepted for publication in NeurIPS 2025 (2025). <a href='https://arxiv.org/abs/2506.02293'> <i class="fa fa-file-pdf"></i> Preprint </a>
-</summary>
-
-<small>
-
-<blockquote>
-Equivariant neural networks provide a principled framework for incorporating symmetry into learning architectures and have been extensively analyzed through the lens of their separation power, that is, the ability to distinguish inputs modulo symmetry. This notion plays a central role in settings such as graph learning, where it is often formalized via the Weisfeiler-Leman hierarchy. In contrast, the universality of equivariant models-their capacity to approximate target functions-remains comparatively underexplored. In this work, we investigate the approximation power of equivariant neural networks beyond separation constraints. We show that separation power does not fully capture expressivity: models with identical separation power may differ in their approximation ability. To demonstrate this, we characterize the universality classes of shallow invariant networks, providing a general framework for understanding which functions these architectures can approximate. Since equivariant models reduce to invariant ones under projection, this analysis yields sufficient conditions under which shallow equivariant networks fail to be universal. Conversely, we identify settings where shallow models do achieve separation-constrained universality. These positive results, however, depend critically on structural properties of the symmetry group, such as the existence of adequate normal subgroups, which may not hold in important cases like permutation symmetry.	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@misc{Pacini2025,
-      title={On Universality Classes of Equivariant Networks}, 
-      author={Marco Pacini and Gabriele Santin and Bruno Lepri and Shubhendu Trivedi},
-      year={2025},
-      eprint={2506.02293},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2506.02293}, 
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
 ## Published
 
 <p style='margin-top:-20px;margin-left:5%;'>
@@ -286,6 +251,38 @@ In Single Photon Emission Computed Tomography (SPECT), the image reconstruction 
 <p style='margin-top:-20px;margin-left:5%;'>
 <h3 style='margin-left:5%;'> 2025</h3>
 </p>
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
+<summary>M. Pacini, G. Santin, B. Lepri,  S. Trivedi, 
+<i>On Universality Classes of Equivariant Networks</i>, 
+NeurIPS 2025 (2025). <a href='https://arxiv.org/abs/2506.02293'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://openreview.net/forum?id=V4YAS7NLXi'> <i class="ai ai-doi"> </i>Published</a>
+</summary>
+
+<small>
+
+<blockquote>
+Equivariant neural networks provide a principled framework for incorporating symmetry into learning architectures and have been extensively analyzed through the lens of their separation power, that is, the ability to distinguish inputs modulo symmetry. This notion plays a central role in settings such as graph learning, where it is often formalized via the Weisfeiler-Leman hierarchy. In contrast, the universality of equivariant models-their capacity to approximate target functions-remains comparatively underexplored. In this work, we investigate the approximation power of equivariant neural networks beyond separation constraints. We show that separation power does not fully capture expressivity: models with identical separation power may differ in their approximation ability. To demonstrate this, we characterize the universality classes of shallow invariant networks, providing a general framework for understanding which functions these architectures can approximate. Since equivariant models reduce to invariant ones under projection, this analysis yields sufficient conditions under which shallow equivariant networks fail to be universal. Conversely, we identify settings where shallow models do achieve separation-constrained universality. These positive results, however, depend critically on structural properties of the symmetry group, such as the existence of adequate normal subgroups, which may not hold in important cases like permutation symmetry.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@inproceedings{Pacini2025,
+title={On Universality Classes of Equivariant Networks},
+author={Marco Pacini and Gabriele Santin and Bruno Lepri and Shubhendu Trivedi},
+booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+year={2025},
+url={https://openreview.net/forum?id=V4YAS7NLXi}
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>T. Wenzel, G. Santin, B. Haasdonk, 
@@ -1220,41 +1217,6 @@ Standard kernel methods for machine learning usually struggle when dealing with 
 </p>
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
-<summary>G. Santin, B. Haasdonk, 
-<i>Kernel Methods for Surrogate  Modeling</i>, 
-Model Order Reduction, Volume 1: System- and Data-Driven Methods and Algorithms, P. Benner, W. Schilders, S. Grivet-Talocia, A. Quarteroni, G. Rozza, L.  M. Silveira  Eds. (2021). <a href='https://arxiv.org/abs/1907.10556'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1515/9783110498967-009'> <i class="ai ai-doi"> </i>Published</a>
-</summary>
-
-<small>
-
-<blockquote>
-This chapter deals with kernel methods as a special class of techniques for surrogate modeling. Kernel methods have proven to be efficient in machine learning, pattern recognition and signal analysis due to their flexibility, excellent experimental performance and elegant functional. analytic background. These data-based techniques provide so called kernel expansions, i.e., linear combinations of kernel functions which are generated from given input-output point samples that may be arbitrarily scattered. In particular, these techniques are meshless, do not require or depend on a grid, hence are less prone to the curse of dimensionality, even for high-dimensional problems. In contrast to projection-based model reduction, we do not necessarily assume a high-dimensional model, but a general function that models input-output behavior within some simulation context. This could be some micro-model in a multiscale-simulation, some submodel in a coupled system, some initialization function for solvers, coefficient function in PDEs, etc. First, kernel surrogates can be useful if the input-output function is expensive to evaluate, e.g. is a result of a finite element simulation. Here, acceleration can be obtained by sparse kernel expansions. Second, if a function is available only via measurements or a few function evaluation samples, kernel approximation techniques can provide function surrogates that allow global evaluation. We present some important kernel approximation techniques, which are kernel interpolation, greedy kernel approximation and support vector regression. Pseudo-code is provided for ease of reproducibility. In order to illustrate the main features, commonalities and differences, we compare these techniques on a real-world application. The experiments clearly indicate the enormous acceleration potential	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@inbook{Santin2021b,
-      author    = {Gabriele Santin and Bernard Haasdonk},
-      title     = {Kernel methods for surrogate modeling},
-      booktitle = {Volume 1 System- and Data-Driven Methods and Algorithms},
-      year      = {2021},
-      editor    = {Peter Benner and Stefano Grivet-Talocia and Alfio Quarteroni and Gianluigi Rozza and Wil Schilders and Luís Miguel Silveira},
-      publisher = {De Gruyter},
-      pages     = {311--354},
-      doi       = {doi:10.1515/9783110498967-009},
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
 <summary>B. Haasdonk, B. Hamzi, G. Santin, D. Wittwar, 
 <i>Kernel methods for center manifold approximation and a weak data-based version of the Center Manifold Theorem</i>, 
 Physica D: Nonlinear Phenomena (2021). <a href='https://arxiv.org/abs/2012.00338'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1016/j.physd.2021.133007'> <i class="ai ai-doi"> </i>Published</a>
@@ -1416,6 +1378,41 @@ Kernel based methods provide a way to reconstruct potentially high-dimensional f
 <pre>
   <code class="bibtex">
 
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
+<summary>G. Santin, B. Haasdonk, 
+<i>Kernel Methods for Surrogate  Modeling</i>, 
+Model Order Reduction, Volume 1: System- and Data-Driven Methods and Algorithms, P. Benner, W. Schilders, S. Grivet-Talocia, A. Quarteroni, G. Rozza, L.  M. Silveira  Eds. (2021). <a href='https://arxiv.org/abs/1907.10556'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1515/9783110498967-009'> <i class="ai ai-doi"> </i>Published</a>
+</summary>
+
+<small>
+
+<blockquote>
+This chapter deals with kernel methods as a special class of techniques for surrogate modeling. Kernel methods have proven to be efficient in machine learning, pattern recognition and signal analysis due to their flexibility, excellent experimental performance and elegant functional. analytic background. These data-based techniques provide so called kernel expansions, i.e., linear combinations of kernel functions which are generated from given input-output point samples that may be arbitrarily scattered. In particular, these techniques are meshless, do not require or depend on a grid, hence are less prone to the curse of dimensionality, even for high-dimensional problems. In contrast to projection-based model reduction, we do not necessarily assume a high-dimensional model, but a general function that models input-output behavior within some simulation context. This could be some micro-model in a multiscale-simulation, some submodel in a coupled system, some initialization function for solvers, coefficient function in PDEs, etc. First, kernel surrogates can be useful if the input-output function is expensive to evaluate, e.g. is a result of a finite element simulation. Here, acceleration can be obtained by sparse kernel expansions. Second, if a function is available only via measurements or a few function evaluation samples, kernel approximation techniques can provide function surrogates that allow global evaluation. We present some important kernel approximation techniques, which are kernel interpolation, greedy kernel approximation and support vector regression. Pseudo-code is provided for ease of reproducibility. In order to illustrate the main features, commonalities and differences, we compare these techniques on a real-world application. The experiments clearly indicate the enormous acceleration potential	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@inbook{Santin2021b,
+      author    = {Gabriele Santin and Bernard Haasdonk},
+      title     = {Kernel methods for surrogate modeling},
+      booktitle = {Volume 1 System- and Data-Driven Methods and Algorithms},
+      year      = {2021},
+      editor    = {Peter Benner and Stefano Grivet-Talocia and Alfio Quarteroni and Gianluigi Rozza and Wil Schilders and Luís Miguel Silveira},
+      publisher = {De Gruyter},
+      pages     = {311--354},
+      doi       = {doi:10.1515/9783110498967-009},
+}
   </code>
 </pre>
 </small>
