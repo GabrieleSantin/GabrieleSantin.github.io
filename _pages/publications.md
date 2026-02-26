@@ -12,6 +12,39 @@ Click on the publications below to expand them.
 ## Submitted
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
+<summary>P. Giesl, S. Hafstein, B. Hamzi, J. Lee, H. Owhadi, G. Santin, U. Vaidya, 
+<i>Kernel Methods for the Construction of Certified Lyapunov Functions via Approximate Koopman Eigenfunctions</i> (2026). <a href='https://arxiv.org/abs/2602.21767v1'> <i class="fa fa-file-pdf"></i> Preprint </a>
+</summary>
+
+<small>
+
+<blockquote>
+We present a kernel-based methodology for constructing Lyapunov functions for nonlinear dynamical systems using approximate Koopman eigenfunctions. Our approach decomposes principal Koopman eigenfunctions into linear and nonlinear components, where the linear part is obtained from the system's linearization and the nonlinear part is computed by solving a partial differential equation using symmetric kernel collocation in reproducing kernel Hilbert spaces (RKHS). The resulting Lyapunov function is constructed as a quadratic form in the approximate eigenfunctions. We establish error bounds relating the approximation quality to the fill distance of collocation points and provide a certification procedure using continuous piecewise affine (CPA) methods. Numerical experiments on benchmark systems, including a polynomial system and the Duffing oscillator, demonstrate the effectiveness of our approach.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@misc{Giesl2026,
+      title={Kernel Methods for the Construction of Certified Lyapunov Functions via Approximate Koopman Eigenfunctions}, 
+      author={P. Giesl and S. Hafstein and B. Hamzi and J. Lee and H. Owhadi and G. Santin and U. Vaidya},
+      year={2026},
+      eprint={2602.21767},
+      archivePrefix={arXiv},
+      primaryClass={math.NA},
+      url={https://arxiv.org/abs/2602.21767}, 
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
 <summary>T. Wenzel, G. Santin, 
 <i>On the optimal shape parameter for kernel methods: Sharp direct and inverse statements</i> (2026). <a href='https://arxiv.org/abs/2601.14070'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
