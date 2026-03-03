@@ -12,6 +12,39 @@ Click on the publications below to expand them.
 ## Submitted
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
+<summary>T. Karvonen, G. Santin, T. Wenzel, 
+<i>Piecewise linear interpolation via kernels</i> (2026). <a href='https://arxiv.org/abs/2603.01555'> <i class="fa fa-file-pdf"></i> Preprint </a>
+</summary>
+
+<small>
+
+<blockquote>
+We consider piecewise linear interpolation from the perspective of kernel interpolation and quadrature.     If the Sobolev space $W_2^1(0, 1)$ is equipped with a suitable inner product, its reproducing kernel is piecewise linear and gives rise to piecewise linear interpolation.      We show that such kernels are Green kernels for certain second-order partial differential equations and use kernel-based superconvergence theory to obtain rates of convergence for approximation of functions lying in $W_2^s(0, 1)$ for $s \in [1, 2]$.     The rates coincide with classical rates for linear splines.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@misc{Karvonen2026,
+      title={Piecewise linear interpolation via kernels}, 
+      author={Toni Karvonen and Gabriele Santin and Tizian Wenzel},
+      year={2026},
+      eprint={2603.01555},
+      archivePrefix={arXiv},
+      primaryClass={math.NA},
+      url={https://arxiv.org/abs/2603.01555}, 
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
 <summary>P. Giesl, S. Hafstein, B. Hamzi, J. Lee, H. Owhadi, G. Santin, U. Vaidya, 
 <i>Kernel Methods for the Construction of Certified Lyapunov Functions via Approximate Koopman Eigenfunctions</i> (2026). <a href='https://arxiv.org/abs/2602.21767v1'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
