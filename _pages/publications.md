@@ -19,7 +19,7 @@ Click on the publications below to expand them.
 <small>
 
 <blockquote>
-We consider piecewise linear interpolation from the perspective of kernel interpolation and quadrature.     If the Sobolev space $W_2^1(0, 1)$ is equipped with a suitable inner product, its reproducing kernel is piecewise linear and gives rise to piecewise linear interpolation.      We show that such kernels are Green kernels for certain second-order partial differential equations and use kernel-based superconvergence theory to obtain rates of convergence for approximation of functions lying in $W_2^s(0, 1)$ for $s \in [1, 2]$.     The rates coincide with classical rates for linear splines.	
+We consider piecewise linear interpolation from the perspective of kernel interpolation and quadrature. If the Sobolev space $W_2^1(0, 1)$ is equipped with a suitable inner product, its reproducing kernel is piecewise linear and gives rise to piecewise linear interpolation. We show that such kernels are Green kernels for certain second-order partial differential equations and use kernel-based superconvergence theory to obtain rates of convergence for approximation of functions lying in $W_2^s(0, 1)$ for $s \in [1, 2]$. The rates coincide with classical rates for linear splines.	
 </blockquote>
 
 <pre>
@@ -211,40 +211,6 @@ Kernel interpolation is a fundamental technique for approximating functions from
 ## Accepted
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
-<summary>B. Haasdonk, G. Santin, T. Wenzel, D. Winkle, 
-<i>Refined rates of convergence for target-data dependent greedy generalized interpolation with Sobolev kernels</i>, 
-Accepted for publication in Applied Mathematics Letters (2026). <a href='https://arxiv.org/abs/2601.20407v1'> <i class="fa fa-file-pdf"></i> Preprint </a>
-</summary>
-
-<small>
-
-<blockquote>
-Greedy methods have recently been successfully applied to generalized kernel interpolation, or the recovery of a function from data stemming from the evaluation of linear functionals, including the approximation of solutions of linear PDEs by symmetric collocation. When applied to kernels generating Sobolev spaces as their native Hilbert spaces, some of these greedy methods can provide the same error guarantee of generalized interpolation on quasi-uniform points. More importantly, certain target-data-adaptive methods even give a dimension- and smoothness-independent improvement in the speed of convergence over quasi-uniform points, thus offering advantages for high-dimensional problems. These convergence rates however contain a spurious logarithmic term that limits this beneficial effect. The goal of this note is to remove this factor, and this is possible by using estimates on metric entropy numbers.	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@misc{Haasdonk2026a,
-      title={Refined rates of convergence for target-data dependent greedy generalized interpolation with Sobolev kernels}, 
-      author={Bernard Haasdonk and Gabriele Santin and Tizian Wenzel and Daniel Winkle},
-      year={2026},
-      eprint={2601.20407},
-      archivePrefix={arXiv},
-      primaryClass={math.NA},
-      url={https://arxiv.org/abs/2601.20407}, 
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
 <summary>M. Rama, G. Santin, G. Cencetti, M. Tizzoni, B. Lepri, 
 <i>Forecasting Seasonal Influenza Epidemics with Physics-Informed Neural Networks</i>, 
 Accepted for publication in Epidemics (2025). <a href='https://arxiv.org/abs/2506.03897'> <i class="fa fa-file-pdf"></i> Preprint </a>
@@ -282,6 +248,41 @@ Accurate epidemic forecasting is critical for informing public health decisions 
 <p style='margin-top:-20px;margin-left:5%;'>
 <h3 style='margin-left:5%;'> 2026</h3>
 </p>
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
+<summary>B. Haasdonk, G. Santin, T. Wenzel, D. Winkle, 
+<i>Refined rates of convergence for target-data dependent greedy generalized interpolation with Sobolev kernels</i>, 
+Applied Mathematics Letters (2026). <a href='https://arxiv.org/abs/2601.20407v1'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1016/j.aml.2026.110005'> <i class="ai ai-doi"> </i>Published</a>
+</summary>
+
+<small>
+
+<blockquote>
+Greedy methods have recently been successfully applied to generalized kernel interpolation, or the recovery of a function from data stemming from the evaluation of linear functionals, including the approximation of solutions of linear PDEs by symmetric collocation. When applied to kernels generating Sobolev spaces as their native Hilbert spaces, some of these greedy methods can provide the same error guarantee of generalized interpolation on quasi-uniform points. More importantly, certain target-data-adaptive methods even give a dimension- and smoothness-independent improvement in the speed of convergence over quasi-uniform points, thus offering advantages for high-dimensional problems. These convergence rates however contain a spurious logarithmic term that limits this beneficial effect. The goal of this note is to remove this factor, and this is possible by using estimates on metric entropy numbers.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@misc{Haasdonk2026a,
+      title={Refined rates of convergence for target-data dependent greedy generalized interpolation with Sobolev kernels}, 
+      author={Bernard Haasdonk and Gabriele Santin and Tizian Wenzel and Daniel Winkle},
+      year={2026},
+      volume = {181},
+      pages = {110005},
+      issn = {0893-9659},
+      doi = {https://doi.org/10.1016/j.aml.2026.110005},
+      url = {https://www.sciencedirect.com/science/article/pii/S0893965926001369},
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>L. Pastrello, D. Cecchin, G. Santin, F. Marchetti, 
