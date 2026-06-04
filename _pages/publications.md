@@ -208,12 +208,16 @@ Kernel interpolation is a fundamental technique for approximating functions from
 
 
 
-## Accepted
+## Published
+
+<p style='margin-top:-20px;margin-left:5%;'>
+<h3 style='margin-left:5%;'> 2026</h3>
+</p>
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>M. Rama, G. Santin, G. Cencetti, M. Tizzoni, B. Lepri, 
 <i>Forecasting Seasonal Influenza Epidemics with Physics-Informed Neural Networks</i>, 
-Accepted for publication in Epidemics (2025). <a href='https://arxiv.org/abs/2506.03897'> <i class="fa fa-file-pdf"></i> Preprint </a>
+Epidemics (2026). <a href='https://arxiv.org/abs/2506.03897'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1016/j.epidem.2026.100919'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
@@ -224,7 +228,7 @@ Accurate epidemic forecasting is critical for informing public health decisions 
 
 <pre>
   <code class="bibtex">
-@misc{Rama2025,
+@misc{Rama2026,
       title={Forecasting Seasonal Influenza Epidemics with Physics-Informed Neural Networks}, 
       author={Martina Rama and Gabriele Santin and Giulia Cencetti and Michele Tizzoni and Bruno Lepri},
       year={2025},
@@ -232,6 +236,12 @@ Accurate epidemic forecasting is critical for informing public health decisions 
       archivePrefix={arXiv},
       primaryClass={physics.soc-ph},
       url={https://arxiv.org/abs/2506.03897}, 
+      journal = {Epidemics},
+      pages = {100919},
+      year = {2026},
+      issn = {1755-4365},
+      doi = {https://doi.org/10.1016/j.epidem.2026.100919},
+      url = {https://www.sciencedirect.com/science/article/pii/S1755436526000356},
 }
   </code>
 </pre>
@@ -243,11 +253,6 @@ Accurate epidemic forecasting is critical for informing public health decisions 
 
 
 
-## Published
-
-<p style='margin-top:-20px;margin-left:5%;'>
-<h3 style='margin-left:5%;'> 2026</h3>
-</p>
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>B. Haasdonk, G. Santin, T. Wenzel, D. Winkle, 
