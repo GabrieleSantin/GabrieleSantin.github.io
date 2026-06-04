@@ -24,7 +24,15 @@ Deep neural networks dominate modern machine learning, while alternative functio
 
 <pre>
   <code class="bibtex">
-
+@misc{Mercier2026,
+      title={Differentiable Kernel Ridge Regression for Deep Learning Pipelines}, 
+      author={Jean-Marc Mercier and Gabriele Santin},
+      year={2026},
+      eprint={2605.02313},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2605.02313}, 
+}
   </code>
 </pre>
 </small>
