@@ -12,6 +12,31 @@ Click on the publications below to expand them.
 ## Submitted
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
+<summary>J.-M. Mercier, G. Santin, 
+<i>Differentiable Kernel Ridge Regression for Deep Learning Pipelines</i> (2026). <a href='https://arxiv.org/abs/2605.02313'> <i class="fa fa-file-pdf"></i> Preprint </a>
+</summary>
+
+<small>
+
+<blockquote>
+Deep neural networks dominate modern machine learning, while alternative function approximators remain comparatively underexplored at scale. In this work, we revisit kernel methods as drop-in components for standard deep learning pipelines. We introduce \emph{Sparse Kernels} (SKs), a differentiable, localized, and lazy variant of kernel ridge regression (KRR) that defers training to inference time and reduces to the solution of small local systems. We integrate SKs into PyTorch as modular layers that preserve end-to-end trainability, and we show that they expose three distinct sets of parameters -- feature representations, target values, and evaluation points -- each of which can be fixed or learned. This decomposition broadens the design space available to practitioners, enabling, in particular, training-free transfer, nonlinear probing, and hybrid kernel-neural models. Across convolutional networks, vision transformers, and reinforcement learning, SK-based modules serve two complementary roles: in some settings, they match the performance of trained neural readouts with substantially less training; in others, they augment existing models and improve their performance when used as additional components. Our results suggest that kernel methods, once made scalable and differentiable, can be readily integrated with deep learning rather than treated as a separate paradigm.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
 <summary>T. Karvonen, G. Santin, T. Wenzel, 
 <i>Piecewise linear interpolation via kernels</i> (2026). <a href='https://arxiv.org/abs/2603.01555'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
