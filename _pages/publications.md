@@ -178,40 +178,6 @@ Kernel interpolation is a fundamental technique for approximating functions from
 ## Accepted
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
-<summary>B. Haasdonk, G. Santin, T. Wenzel, 
-<i>Kernel-based Greedy Approximation of Parametric Elliptic Boundary Value Problems</i>, 
-Accepted for publication in Advances in Computational Mathematics (2026). <a href='https://arxiv.org/abs/2507.06731'> <i class="fa fa-file-pdf"></i> Preprint </a>
-</summary>
-
-<small>
-
-<blockquote>
-We recently introduced a scale of kernel-based greedy schemes for approximating the solutions of elliptic boundary value problems. The procedure is based on a generalized interpolation framework in reproducing kernel Hilbert spaces and was coined PDE-$\beta$-greedy procedure, where the parameter $\beta\geq 0$ is used in a greedy selection criterion and steers the degree of function adaptivity. Algebraic convergence rates have been obtained for Sobolev-space kernels and solutions of finite smoothness. We now report a result of exponential convergence rates for the case of infinitely smooth kernels and solutions. We furthermore extend the approximation scheme to the case of parametric PDEs by the use of state-parameter product kernels. In the surrogate modelling context, the resulting approach can be interpreted as an a priori model reduction approach, as no solution snapshots need to be precomputed. Numerical results show the efficiency of the approximation procedure for problems which occur as challenges for other parametric MOR procedures: non-affine geometry parametrizations, moving sources or high-dimensional domains.	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@misc{Haasdonk2025,
-      title={Kernel-based Greedy Approximation of Parametric Elliptic Boundary Value Problems}, 
-      author={Bernard Haasdonk and Gabriele Santin and Tizian Wenzel},
-      year={2025},
-      eprint={2507.06731},
-      archivePrefix={arXiv},
-      primaryClass={math.NA},
-      url={https://arxiv.org/abs/2507.06731}, 
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
 <summary>T. Karvonen, G. Santin, T. Wenzel, 
 <i>Piecewise linear interpolation via kernels</i>, 
 Accepted for publication in Proceedings of ENUMATH 2025 (2026). <a href='https://arxiv.org/abs/2603.01555'> <i class="fa fa-file-pdf"></i> Preprint </a>
@@ -249,6 +215,44 @@ We consider piecewise linear interpolation from the perspective of kernel interp
 <p style='margin-top:-20px;margin-left:5%;'>
 <h3 style='margin-left:5%;'> 2026</h3>
 </p>
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
+<summary>B. Haasdonk, G. Santin, T. Wenzel, 
+<i>Kernel-based Greedy Approximation of Parametric Elliptic Boundary Value Problems</i>, 
+Advances in Computational Mathematics (2026). <a href='https://arxiv.org/abs/2507.06731'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1007/s10444-026-10323-6'> <i class="ai ai-doi"> </i>Published</a>
+</summary>
+
+<small>
+
+<blockquote>
+We recently introduced a scale of kernel-based greedy schemes for approximating the solutions of elliptic boundary value problems. The procedure is based on a generalized interpolation framework in reproducing kernel Hilbert spaces and was coined PDE-$\beta$-greedy procedure, where the parameter $\beta\geq 0$ is used in a greedy selection criterion and steers the degree of function adaptivity. Algebraic convergence rates have been obtained for Sobolev-space kernels and solutions of finite smoothness. We now report a result of exponential convergence rates for the case of infinitely smooth kernels and solutions. We furthermore extend the approximation scheme to the case of parametric PDEs by the use of state-parameter product kernels. In the surrogate modelling context, the resulting approach can be interpreted as an a priori model reduction approach, as no solution snapshots need to be precomputed. Numerical results show the efficiency of the approximation procedure for problems which occur as challenges for other parametric MOR procedures: non-affine geometry parametrizations, moving sources or high-dimensional domains.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@Article{Haasdonk2026,
+  author    = {Haasdonk, Bernard and Wenzel, Tizian and Santin, Gabriele},
+  title     = {Kernel-based greedy approximation of parametric elliptic boundary value problems},
+  journal   = {Advances in Computational Mathematics},
+  year      = {2026},
+  volume    = {52},
+  number    = {4},
+  month     = {Jul},
+  pages     = {54},
+  issn      = {1572-9044},
+  doi       = {10.1007/s10444-026-10323-6},
+  url       = {https://doi.org/10.1007/s10444-026-10323-6},
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>M. Rama, G. Santin, G. Cencetti, M. Tizzoni, B. Lepri, 
