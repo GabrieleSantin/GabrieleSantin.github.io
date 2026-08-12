@@ -370,7 +370,7 @@ In Single Photon Emission Computed Tomography (SPECT), the image reconstruction 
 
 <summary>M. Pacini, G. Santin, B. Lepri,  S. Trivedi, 
 <i>On Universality Classes of Equivariant Networks</i>, 
-NeurIPS 2025 (2025). <a href='https://arxiv.org/abs/2506.02293'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://openreview.net/forum?id=V4YAS7NLXi'> <i class="ai ai-doi"> </i>Published</a>
+NeurIPS 2025 (2025). <a href='https://arxiv.org/abs/2506.02293'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.52202/085713-2063'> <i class="ai ai-doi"> </i>Published</a>
 </summary>
 
 <small>
