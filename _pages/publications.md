@@ -184,6 +184,41 @@ We consider piecewise linear interpolation from the perspective of kernel interp
 </p>
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
+<summary>P. Giesl, S. Hafstein, B. Hamzi, J. Lee, H. Owhadi, G. Santin, U. Vaidya, 
+<i>Kernel Methods for the Construction of Certified Lyapunov Functions via Approximate Koopman Eigenfunctions</i>, 
+Journal of Computational Physics (2026). <a href='https://arxiv.org/abs/2602.21767v1'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1016/j.jcp.2026.115362'> <i class="ai ai-doi"> </i>Published</a>
+</summary>
+
+<small>
+
+<blockquote>
+We present a kernel-based methodology for constructing Lyapunov functions for nonlinear dynamical systems using approximate Koopman eigenfunctions. Our approach decomposes principal Koopman eigenfunctions into linear and nonlinear components, where the linear part is obtained from the system's linearization and the nonlinear part is computed by solving a partial differential equation using symmetric kernel collocation in reproducing kernel Hilbert spaces (RKHS). The resulting Lyapunov function is constructed as a quadratic form in the approximate eigenfunctions. We establish error bounds relating the approximation quality to the fill distance of collocation points and provide a certification procedure using continuous piecewise affine (CPA) methods. Numerical experiments on benchmark systems, including a polynomial system and the Duffing oscillator, demonstrate the effectiveness of our approach.	
+</blockquote>
+
+<pre>
+  <code class="bibtex">
+@Article{Giesl2026,
+  author    = {P. Giesl and S. Hafstein and B. Hamzi and J. Lee and H. Owhadi and G. Santin and U. Vaidya},
+  title     = {Kernel Methods for the Construction of Certified Lyapunov Functions via Approximate Koopman Eigenfunctions},
+  journal   = {Journal of Computational Physics},
+  year      = {2026},
+  pages     = {115362},
+  issn      = {0021-9991},
+  doi       = {https://doi.org/10.1016/j.jcp.2026.115362},
+  url       = {https://www.sciencedirect.com/science/article/pii/S0021999126007114},
+}
+  </code>
+</pre>
+</small>
+
+</details>
+
+</p>
+
+
+
+<p style="margin-top:-20px;"><details style="margin-left:5%;">
+
 <summary>B. Haasdonk, G. Santin, T. Wenzel, 
 <i>Kernel-based Greedy Approximation of Parametric Elliptic Boundary Value Problems</i>, 
 Advances in Computational Mathematics (2026). <a href='https://arxiv.org/abs/2507.06731'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1007/s10444-026-10323-6'> <i class="ai ai-doi"> </i>Published</a>
@@ -284,41 +319,6 @@ Greedy methods have recently been successfully applied to generalized kernel int
       issn = {0893-9659},
       doi = {https://doi.org/10.1016/j.aml.2026.110005},
       url = {https://www.sciencedirect.com/science/article/pii/S0893965926001369},
-}
-  </code>
-</pre>
-</small>
-
-</details>
-
-</p>
-
-
-
-<p style="margin-top:-20px;"><details style="margin-left:5%;">
-
-<summary>P. Giesl, S. Hafstein, B. Hamzi, J. Lee, H. Owhadi, G. Santin, U. Vaidya, 
-<i>Kernel Methods for the Construction of Certified Lyapunov Functions via Approximate Koopman Eigenfunctions</i>, 
-Journal of Computational Physics (2026). <a href='https://arxiv.org/abs/2602.21767v1'> <i class="fa fa-file-pdf"></i> Preprint </a> <a href='https://doi.org/10.1016/j.jcp.2026.115362'> <i class="ai ai-doi"> </i>Published</a>
-</summary>
-
-<small>
-
-<blockquote>
-We present a kernel-based methodology for constructing Lyapunov functions for nonlinear dynamical systems using approximate Koopman eigenfunctions. Our approach decomposes principal Koopman eigenfunctions into linear and nonlinear components, where the linear part is obtained from the system's linearization and the nonlinear part is computed by solving a partial differential equation using symmetric kernel collocation in reproducing kernel Hilbert spaces (RKHS). The resulting Lyapunov function is constructed as a quadratic form in the approximate eigenfunctions. We establish error bounds relating the approximation quality to the fill distance of collocation points and provide a certification procedure using continuous piecewise affine (CPA) methods. Numerical experiments on benchmark systems, including a polynomial system and the Duffing oscillator, demonstrate the effectiveness of our approach.	
-</blockquote>
-
-<pre>
-  <code class="bibtex">
-@Article{Giesl2026,
-  author    = {P. Giesl and S. Hafstein and B. Hamzi and J. Lee and H. Owhadi and G. Santin and U. Vaidya},
-  title     = {Kernel Methods for the Construction of Certified Lyapunov Functions via Approximate Koopman Eigenfunctions},
-  journal   = {Journal of Computational Physics},
-  year      = {2026},
-  pages     = {115362},
-  issn      = {0021-9991},
-  doi       = {https://doi.org/10.1016/j.jcp.2026.115362},
-  url       = {https://www.sciencedirect.com/science/article/pii/S0021999126007114},
 }
   </code>
 </pre>
