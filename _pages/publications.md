@@ -57,14 +57,15 @@ We present a kernel-based methodology for constructing Lyapunov functions for no
 
 <pre>
   <code class="bibtex">
-@misc{Giesl2026,
-      title={Kernel Methods for the Construction of Certified Lyapunov Functions via Approximate Koopman Eigenfunctions}, 
-      author={P. Giesl and S. Hafstein and B. Hamzi and J. Lee and H. Owhadi and G. Santin and U. Vaidya},
-      year={2026},
-      eprint={2602.21767},
-      archivePrefix={arXiv},
-      primaryClass={math.NA},
-      url={https://arxiv.org/abs/2602.21767}, 
+@Article{Giesl2026,
+  author    = {P. Giesl and S. Hafstein and B. Hamzi and J. Lee and H. Owhadi and G. Santin and U. Vaidya},
+  title     = {Kernel Methods for the Construction of Certified Lyapunov Functions via Approximate Koopman Eigenfunctions},
+  journal   = {Journal of Computational Physics},
+  year      = {2026},
+  pages     = {115362},
+  issn      = {0021-9991},
+  doi       = {https://doi.org/10.1016/j.jcp.2026.115362},
+  url       = {https://www.sciencedirect.com/science/article/pii/S0021999126007114},
 }
   </code>
 </pre>
