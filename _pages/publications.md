@@ -109,10 +109,12 @@ Convergence rates in spectral regularization methods quantify the approximation 
 
 
 
+## Accepted
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>T. Karvonen, G. Santin, T. Wenzel, 
-<i>General superconvergence for kernel-based approximation</i> (2025). <a href='https://arxiv.org/abs/2505.11435'> <i class="fa fa-file-pdf"></i> Preprint </a>
+<i>General superconvergence for kernel-based approximation</i>, 
+Accepted for publication in IMA Journal of Numerical Analysis (2026). <a href='https://arxiv.org/abs/2505.11435'> <i class="fa fa-file-pdf"></i> Preprint </a>
 </summary>
 
 <small>
@@ -142,7 +144,6 @@ Kernel interpolation is a fundamental technique for approximating functions from
 
 
 
-## Accepted
 <p style="margin-top:-20px;"><details style="margin-left:5%;">
 
 <summary>T. Karvonen, G. Santin, T. Wenzel, 
